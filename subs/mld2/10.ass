@@ -1,0 +1,162 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:01:58.08,00:02:00.28,Default,,0,0,0,,Sister Meiyangyang Come and play with me
+Dialogue: 0,00:02:02.48,00:02:05.00,Default,,0,0,0,,Wow, Sister Meiyangyang is so terrible
+Dialogue: 0,00:02:14.04,00:02:15.44,Default,,0,0,0,,Oh, it's a mosquito
+Dialogue: 0,00:02:23.00,00:02:25.28,Default,,0,0,0,,mosquito? I want to play with you!
+Dialogue: 0,00:02:26.32,00:02:28.68,Default,,0,0,0,,Bingbing Sheep can't play with mosquitoes!
+Dialogue: 0,00:02:28.76,00:02:30.40,Default,,0,0,0,,Mosquitoes are harmful to the
+Dialogue: 0,00:02:34.36,00:02:36.56,Default,,0,0,0,,No, Mosquito wants to play with me!
+Dialogue: 0,00:02:43.60,00:02:46.96,Default,,0,0,0,,Still too small, I don't know how to be afraid
+Dialogue: 0,00:02:47.56,00:02:48.60,Default,,0,0,0,,As far as I can see
+Dialogue: 0,00:02:48.88,00:02:51.04,Default,,0,0,0,,Mosquitoes may be more scared
+Dialogue: 0,00:02:53.91,00:02:56.44,Default,,0,0,0,,Is your name Xiao Wuwu?
+Dialogue: 0,00:03:01.16,00:03:04.72,Default,,0,0,0,,I need you if you have a unique mosquito inventories
+Dialogue: 0,00:03:05.12,00:03:08.96,Default,,0,0,0,,You will participate in the mosquito inventories competition in three days
+Dialogue: 0,00:03:09.32,00:03:11.60,Default,,0,0,0,,If I participate in the competition...
+Dialogue: 0,00:03:22.96,00:03:25.48,Default,,0,0,0,,But my face was stinged
+Dialogue: 0,00:03:27.60,00:03:29.80,Default,,0,0,0,,That was traumatized by you...
+Dialogue: 0,00:03:37.76,00:03:41.72,Default,,0,0,0,,Yes, I can make an inventorial mosquito
+Dialogue: 0,00:03:44.92,00:03:46.84,Default,,0,0,0,,This creature called mosquito
+Dialogue: 0,00:03:47.88,00:03:52.00,Default,,0,0,0,,It seems to make them feel very irritated
+It seems that he can be used
+Dialogue: 0,00:03:56.72,00:03:58.48,Default,,0,0,0,,Huh? Why does it hurt a little?
+Dialogue: 0,00:04:01.88,00:04:04.64,Default,,0,0,0,,You dare to bite me, the germ king!
+Dialogue: 0,00:04:06.68,00:04:07.96,Default,,0,0,0,,Do you want to frick?
+Dialogue: 0,00:04:09.32,00:04:12.32,Default,,0,0,0,,Don't be afraid I just want to cooperate with you
+Dialogue: 0,00:04:14.36,00:04:16.00,Default,,0,0,0,,Do you understand what I say?
+Dialogue: 0,00:04:17.44,00:04:20.44,Default,,0,0,0,,Of course I am the germ king!
+Dialogue: 0,00:04:21.24,00:04:23.56,Default,,0,0,0,,You are not enough...
+Dialogue: 0,00:04:34.32,00:04:37.12,Default,,0,0,0,,Little buzz, are you hungry?
+Dialogue: 0,00:04:37.92,00:04:39.68,Default,,0,0,0,,I'll find you something to eat
+Dialogue: 0,00:05:27.32,00:05:29.60,Default,,0,0,0,,Little Buzz Do you not eat ice cream?
+Dialogue: 0,00:05:30.52,00:05:31.96,Default,,0,0,0,,Then I'll eat it
+Dialogue: 0,00:05:32.44,00:05:35.52,Default,,0,0,0,,How long does Bingbing Sheep need to keep this mosquito?
+Dialogue: 0,00:05:35.76,00:05:37.56,Default,,0,0,0,,We can't stand it anymore
+Dialogue: 0,00:05:38.32,00:05:40.64,Default,,0,0,0,,It seems like I want to try to eliminate him
+Dialogue: 0,00:05:41.92,00:05:45.48,Default,,0,0,0,,But Bingbing Sheep is so baby mosquito, there is no chance to
+Dialogue: 0,00:05:46.24,00:05:48.96,Default,,0,0,0,,How to open the ice-bing sheep
+Dialogue: 0,00:05:49.83,00:05:51.20,Default,,0,0,0,,My hands are dirty
+Dialogue: 0,00:05:53.88,00:05:55.44,Default,,0,0,0,,I'm going to the bathroom
+Dialogue: 0,00:05:55.72,00:05:57.76,Default,,0,0,0,,I'll take you to wash your hands
+Dialogue: 0,00:06:07.24,00:06:08.52,Default,,0,0,0,,Are you fricking?
+Dialogue: 0,00:06:14.27,00:06:16.68,Default,,0,0,0,,Why did you scare the little buzzer?
+Dialogue: 0,00:06:17.72,00:06:19.96,Default,,0,0,0,,Bingbing Sheep We just...
+Dialogue: 0,00:06:26.20,00:06:28.40,Default,,0,0,0,,The residents of the grassland are too much
+Dialogue: 0,00:06:28.48,00:06:31.08,Default,,0,0,0,,Always deal with us in various ways!
+Dialogue: 0,00:06:31.72,00:06:34.44,Default,,0,0,0,,My brother fell under their mosquito coils
+Dialogue: 0,00:06:34.72,00:06:38.20,Default,,0,0,0,,And my nephew was slapped by them.
+Dialogue: 0,00:06:38.68,00:06:41.56,Default,,0,0,0,,My second uncle was also beaten to death by them with slippers
+Dialogue: 0,00:06:43.08,00:06:43.60,Default,,0,0,0,,Well
+Dialogue: 0,00:06:47.40,00:06:49.24,Default,,0,0,0,,It seems to be in the wrong venue
+Dialogue: 0,00:06:51.96,00:06:52.72,Default,,0,0,0,,so
+Dialogue: 0,00:06:52.72,00:06:55.88,Default,,0,0,0,,We're going to organize
+Let them know our harm!
+Dialogue: 0,00:06:57.32,00:06:59.60,Default,,0,0,0,,I have strong body, I want to be a team leader
+Dialogue: 0,00:07:01.52,00:07:03.56,Default,,0,0,0,,I'm flying fast I'm going to be a team leader
+Dialogue: 0,00:07:04.68,00:07:08.52,Default,,0,0,0,,I am the leader! I am I am!
+Dialogue: 0,00:07:13.52,00:07:15.32,Default,,0,0,0,,What a fat mosquito
+Dialogue: 0,00:07:15.84,00:07:18.48,Default,,0,0,0,,Look at how round his belly and how hard his wings are
+Dialogue: 0,00:07:18.96,00:07:21.72,Default,,0,0,0,,It looks like a wealthy family!
+Dialogue: 0,00:07:29.16,00:07:31.80,Default,,0,0,0,,I'm the captain. What's the problem?
+Dialogue: 0,00:07:31.92,00:07:32.88,Default,,0,0,0,,no!
+Dialogue: 0,00:07:33.52,00:07:34.84,Default,,0,0,0,,Then come out!
+Dialogue: 0,00:07:34.84,00:07:37.60,Default,,0,0,0,,The first one to be arrested was the group of sheep
+Dialogue: 0,00:07:38.76,00:07:39.68,Default,,0,0,0,,Wait a moment!
+Dialogue: 0,00:07:42.24,00:07:45.28,Default,,0,0,0,,Big Big Wolf seems to be doing something about mosquitoes
+Dialogue: 0,00:07:46.20,00:07:50.16,Default,,0,0,0,,Big Big Wolf made a destructive invention
+How can we deal with so many mosquitoes
+Dialogue: 0,00:07:51.24,00:07:52.96,Default,,0,0,0,,Depart!
+Dialogue: 0,00:07:55.84,00:07:58.48,Default,,0,0,0,,Brother Pleasant Goat, I'll tell you!
+Dialogue: 0,00:07:58.72,00:08:00.44,Default,,0,0,0,,We are for your own good!
+Dialogue: 0,00:08:00.96,00:08:02.72,Default,,0,0,0,,And I'm a little buzzing!
+Dialogue: 0,00:08:02.96,00:08:05.28,Default,,0,0,0,,But the little buzzer has already run away
+Dialogue: 0,00:08:11.36,00:08:13.84,Default,,0,0,0,,Look, the little buzz is flying back
+Dialogue: 0,00:08:15.60,00:08:16.56,Default,,0,0,0,,Little buzz!
+Dialogue: 0,00:08:21.92,00:08:23.68,Default,,0,0,0,,Why are there so many mosquitoes
+Dialogue: 0,00:08:26.96,00:08:28.80,Default,,0,0,0,,Pleasant Goat Brother Let it open!
+Dialogue: 0,00:08:29.08,00:08:31.12,Default,,0,0,0,,Be careful, there is something wrong
+Dialogue: 0,00:08:31.88,00:08:34.16,Default,,0,0,0,,Mosquito Team Two, I'm so excited!
+Dialogue: 0,00:08:36.88,00:08:37.80,Default,,0,0,0,,Leave it to me
+Dialogue: 0,00:08:40.00,00:08:40.67,Default,,0,0,0,,ah
+Dialogue: 0,00:08:48.20,00:08:50.08,Default,,0,0,0,,I'll talk about mosquitoes!
+Dialogue: 0,00:08:54.36,00:08:57.55,Default,,0,0,0,,One team gave me the leader!
+Dialogue: 0,00:08:57.64,00:08:58.76,Default,,0,0,0,,Little buzz!
+Dialogue: 0,00:08:59.52,00:09:01.12,Default,,0,0,0,,I want to play with Xiaobubu!
+Dialogue: 0,00:09:01.16,00:09:03.12,Default,,0,0,0,,Such many mosquitoes will hurt you
+Dialogue: 0,00:09:04.00,00:09:06.76,Default,,0,0,0,,But Xiao Wuwu is my friend!
+Dialogue: 0,00:09:08.24,00:09:09.32,Default,,0,0,0,,What's going on?
+Dialogue: 0,00:09:09.64,00:09:10.88,Default,,0,0,0,,I'm back at the bathroom
+Dialogue: 0,00:09:10.88,00:09:12.67,Default,,0,0,0,,Why are there so many mosquitoes
+Dialogue: 0,00:09:12.76,00:09:13.44,Default,,0,0,0,,Help!
+Dialogue: 0,00:09:16.72,00:09:17.60,Default,,0,0,0,,Don't be afraid
+Dialogue: 0,00:09:31.64,00:09:33.64,Default,,0,0,0,,This is my invention
+Dialogue: 0,00:09:34.16,00:09:36.76,Default,,0,0,0,,We don't have that? The long tongue...
+Dialogue: 0,00:09:36.80,00:09:37.72,Default,,0,0,0,,Next
+Dialogue: 0,00:09:38.72,00:09:42.16,Default,,0,0,0,,My method is to use singing to move mosquitoes
+Dialogue: 0,00:09:42.36,00:09:45.24,Default,,0,0,0,,It's
+Dialogue: 0,00:09:45.32,00:09:46.48,Default,,0,0,0,,ah
+Dialogue: 0,00:09:46.80,00:09:48.24,Default,,0,0,0,,It hurts so much!
+Dialogue: 0,00:09:48.67,00:09:52.00,Default,,0,0,0,,Isn't there any invention like this?
+Dialogue: 0,00:09:53.24,00:09:54.16,Default,,0,0,0,,I have!
+Dialogue: 0,00:09:59.20,00:10:01.60,Default,,0,0,0,,The moment of witnessing the strange moment has come
+Dialogue: 0,00:10:04.76,00:10:08.16,Default,,0,0,0,,What's the difference between this and our own hands?
+Dialogue: 0,00:10:08.32,00:10:11.80,Default,,0,0,0,,Your hands are too small and you can only take one at a time
+Dialogue: 0,00:10:11.96,00:10:13.92,Default,,0,0,0,,But my invention is different
+Dialogue: 0,00:10:18.12,00:10:19.08,Default,,0,0,0,,Everyone……
+Dialogue: 0,00:10:19.20,00:10:20.48,Default,,0,0,0,,Don't interfere with competitions
+Dialogue: 0,00:10:23.00,00:10:25.88,Default,,0,0,0,,How many can my robot take pictures!
+Dialogue: 0,00:10:28.04,00:10:28.92,Default,,0,0,0,,This……
+Dialogue: 0,00:10:30.16,00:10:31.36,Default,,0,0,0,,There!
+Dialogue: 0,00:10:44.40,00:10:47.24,Default,,0,0,0,,Very awesome, very awesome!
+Dialogue: 0,00:10:48.12,00:10:49.80,Default,,0,0,0,,This is what you forced me!
+Dialogue: 0,00:10:49.84,00:10:52.44,Default,,0,0,0,,Let me stimulate the potential of this mosquito!
+Dialogue: 0,00:11:01.80,00:11:03.96,Default,,0,0,0,,The small buzz has become bigger
+Dialogue: 0,00:11:04.48,00:11:07.67,Default,,0,0,0,,It turns out that it's caused by bacteria. Run away
+Dialogue: 0,00:11:15.12,00:11:17.64,Default,,0,0,0,,Brother Pleasant Goat, you're fine!
+Dialogue: 0,00:11:18.04,00:11:19.04,Default,,0,0,0,,It's OK
+Dialogue: 0,00:11:24.40,00:11:26.60,Default,,0,0,0,,Mosquitoes are harmful to sucking blood
+Dialogue: 0,00:11:26.60,00:11:29.40,Default,,0,0,0,,It will be very dirty after being bitten
+Dialogue: 0,00:11:30.32,00:11:33.64,Default,,0,0,0,,Brothers and sisters just don't want to let mosquitoes
+Injured Bingbing Sheep
+Dialogue: 0,00:11:36.24,00:11:38.52,Default,,0,0,0,,Still have time to worry about others?
+Dialogue: 0,00:11:42.60,00:11:46.44,Default,,0,0,0,,Little buzz! Why do you hurt Brother Pleasant Goat
+Dialogue: 0,00:11:49.00,00:11:51.64,Default,,0,0,0,,Hahaha I just like it!
+Dialogue: 0,00:11:56.92,00:12:00.55,Default,,0,0,0,,Humph My invention is to shoot mosquitoes
+Dialogue: 0,00:12:04.88,00:12:07.44,Default,,0,0,0,,Your invention is still useless
+Dialogue: 0,00:12:08.76,00:12:10.52,Default,,0,0,0,,I have many more tricks!
+Dialogue: 0,00:12:11.04,00:12:12.55,Default,,0,0,0,,Mosquito coils ejaculate!
+Dialogue: 0,00:12:18.84,00:12:20.55,Default,,0,0,0,,Mosquito water launch!
+Dialogue: 0,00:12:23.32,00:12:26.55,Default,,0,0,0,,He flew too fast and couldn't spray him
+Dialogue: 0,00:12:27.32,00:12:29.44,Default,,0,0,0,,Big Big Wolf help me throw it behind him
+Dialogue: 0,00:12:31.12,00:12:32.52,Default,,0,0,0,,no problem!
+Dialogue: 0,00:12:36.92,00:12:38.92,Default,,0,0,0,,Where are you throwing it?
+Dialogue: 0,00:12:43.52,00:12:44.80,Default,,0,0,0,,Look at mine
+Dialogue: 0,00:12:47.12,00:12:48.20,Default,,0,0,0,,Don't you know
+Dialogue: 0,00:12:48.20,00:12:51.48,Default,,0,0,0,,Mosquitoes are very agile hahaha
+Dialogue: 0,00:12:59.84,00:13:02.36,Default,,0,0,0,,You are not my opponent at all!
+Dialogue: 0,00:13:04.67,00:13:05.76,Default,,0,0,0,,What are you laughing at
+Dialogue: 0,00:13:06.08,00:13:08.88,Default,,0,0,0,,And me! Super mosquito drive water!
+Dialogue: 0,00:13:16.24,00:13:17.67,Default,,0,0,0,,Big Wolf Thank you
+Dialogue: 0,00:13:17.88,00:13:18.88,Default,,0,0,0,,Don't be civil!
+Dialogue: 0,00:13:25.24,00:13:26.32,Default,,0,0,0,,Very cruel!
+Dialogue: 0,00:13:27.04,00:13:29.12,Default,,0,0,0,,I'll give you a paste when I go back
+Dialogue: 0,00:13:29.36,00:13:31.16,Default,,0,0,0,,Will you still have mosquitoes in the future?
+Dialogue: 0,00:13:31.92,00:13:34.72,Default,,0,0,0,,Sorry, I won't play with mosquitoes again
+Dialogue: 0,00:13:34.88,00:13:36.20,Default,,0,0,0,,They are bad people
+Dialogue: 0,00:13:44.32,00:13:47.28,Default,,0,0,0,,What's your name? I want to play with you!
+Dialogue: 0,00:13:52.44,00:13:53.64,Default,,0,0,0,,No way

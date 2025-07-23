@@ -1,0 +1,223 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:13.96,00:00:15.52,Default,,0,0,0,,Doll friend
+Dialogue: 0,00:00:21.75,00:00:22.84,Default,,0,0,0,,Very burning...
+Dialogue: 0,00:00:25.84,00:00:26.68,Default,,0,0,0,,Who?
+Dialogue: 0,00:00:32.64,00:00:33.92,Default,,0,0,0,,Who is it!
+Dialogue: 0,00:00:35.72,00:00:37.00,Default,,0,0,0,,Is it difficult to say it is bacteria?
+Dialogue: 0,00:00:42.40,00:00:44.96,Default,,0,0,0,,My brother Pleasant Goat and I are playing hide-and-seek
+Dialogue: 0,00:00:46.36,00:00:49.88,Default,,0,0,0,,Don't tell him I'm here
+Dialogue: 0,00:00:51.36,00:00:53.32,Default,,0,0,0,,Is the Bingbing Sheep here?
+Dialogue: 0,00:00:53.40,00:00:55.08,Default,,0,0,0,,Bingbing Sheep is not here!
+Dialogue: 0,00:00:56.76,00:00:58.52,Default,,0,0,0,,Really not here?
+Dialogue: 0,00:00:58.52,00:01:00.04,Default,,0,0,0,,Not here! Not here!
+Dialogue: 0,00:01:02.71,00:01:04.20,Default,,0,0,0,,Found you! Bingbing Sheep
+Dialogue: 0,00:01:04.24,00:01:05.64,Default,,0,0,0,,So you are here
+Dialogue: 0,00:01:05.76,00:01:07.48,Default,,0,0,0,,I thought you didn't see it anymore!
+Dialogue: 0,00:01:07.71,00:01:08.48,Default,,0,0,0,,Duoduo
+Dialogue: 0,00:01:09.88,00:01:10.71,Default,,0,0,0,,Duoduo
+Dialogue: 0,00:01:11.60,00:01:14.36,Default,,0,0,0,,This is the bear baby I hold every night when I sleep
+Dialogue: 0,00:01:15.00,00:01:17.64,Default,,0,0,0,,Great, finally found you
+Dialogue: 0,00:01:24.56,00:01:27.68,Default,,0,0,0,,For a little story, my life was almost gone
+Dialogue: 0,00:01:29.16,00:01:32.32,Default,,0,0,0,,Mom, hurry up, I want my first game
+Dialogue: 0,00:01:36.64,00:01:40.68,Default,,0,0,0,,Big Big Wolf is not at home. I'm the decision of this home!
+Dialogue: 0,00:01:40.84,00:01:41.84,Default,,0,0,0,,The king...
+Dialogue: 0,00:01:42.00,00:01:42.76,Default,,0,0,0,,who?
+Dialogue: 0,00:01:44.48,00:01:46.00,Default,,0,0,0,,I thought it was Big Big Wolf
+Dialogue: 0,00:01:46.08,00:01:48.40,Default,,0,0,0,,Yesterday you went to monitor Bingbing Sheep
+Dialogue: 0,00:01:48.40,00:01:49.52,Default,,0,0,0,,Let's talk about the situation
+Dialogue: 0,00:01:50.12,00:01:53.28,Default,,0,0,0,,Yesterday... was the most painful day in my life...
+Dialogue: 0,00:02:08.88,00:02:10.16,Default,,0,0,0,,Very burning!
+Dialogue: 0,00:02:10.56,00:02:12.48,Default,,0,0,0,,The lamb is always on the Bingbing sheep
+Dialogue: 0,00:02:12.48,00:02:14.24,Default,,0,0,0,,No chance to get close to her
+Dialogue: 0,00:02:14.52,00:02:16.44,Default,,0,0,0,,Red always forgets to take something
+Dialogue: 0,00:02:17.76,00:02:18.60,Default,,0,0,0,,who?
+Dialogue: 0,00:02:20.68,00:02:21.72,Default,,0,0,0,,It's the wind blowing
+Dialogue: 0,00:02:23.52,00:02:25.28,Default,,0,0,0,,They must be secretly stating something
+Dialogue: 0,00:02:25.28,00:02:26.48,Default,,0,0,0,,Listen to it
+Dialogue: 0,00:02:26.56,00:02:27.20,Default,,0,0,0,,Right
+Dialogue: 0,00:02:27.28,00:02:29.24,Default,,0,0,0,,Yesterday Bingbing Sheep found a doll
+Dialogue: 0,00:02:30.16,00:02:31.96,Default,,0,0,0,,Is she loves her?
+Dialogue: 0,00:02:33.72,00:02:34.60,Default,,0,0,0,,…There is!
+Dialogue: 0,00:02:34.88,00:02:36.56,Default,,0,0,0,,I can hide in the doll
+Dialogue: 0,00:02:36.56,00:02:39.84,Default,,0,0,0,,Find opportunities to get Bingbing Sheep's fingers to unblock
+Dialogue: 0,00:02:43.52,00:02:45.56,Default,,0,0,0,,I have to tell the lambs and they
+Dialogue: 0,00:02:49.08,00:02:50.88,Default,,0,0,0,,It turns out it was you!
+Dialogue: 0,00:03:03.20,00:03:04.72,Default,,0,0,0,,This is a flower
+Dialogue: 0,00:03:04.96,00:03:06.76,Default,,0,0,0,,So beautiful
+Dialogue: 0,00:03:06.88,00:03:09.07,Default,,0,0,0,,Some creatures especially like to eat flower
+Dialogue: 0,00:03:11.36,00:03:15.20,Default,,0,0,0,,There was a bear now...he was careless
+Dialogue: 0,00:03:16.80,00:03:18.72,Default,,0,0,0,,Duoduo, wait for me
+Dialogue: 0,00:03:22.63,00:03:26.16,Default,,0,0,0,,Hiding in the doll Find a chance to unseal
+Dialogue: 0,00:03:27.12,00:03:28.32,Default,,0,0,0,,Pleasant Goat Brother
+Dialogue: 0,00:03:28.52,00:03:30.32,Default,,0,0,0,,Let's play every home together
+Dialogue: 0,00:03:31.36,00:03:33.63,Default,,0,0,0,,I'm busy, let's play with Duoduo first
+Dialogue: 0,00:03:34.56,00:03:35.36,Default,,0,0,0,,All right
+Dialogue: 0,00:03:36.16,00:03:38.16,Default,,0,0,0,,It would be great if Duoduo moved
+Dialogue: 0,00:03:42.60,00:03:43.20,Default,,0,0,0,,Duoduo
+Dialogue: 0,00:03:45.63,00:03:47.07,Default,,0,0,0,,Oops
+Dialogue: 0,00:03:47.12,00:03:49.28,Default,,0,0,0,,Pleasant Goat Brother, I’m moving too much!
+Dialogue: 0,00:03:49.68,00:03:51.28,Default,,0,0,0,,Look! Look!
+Dialogue: 0,00:03:52.36,00:03:53.00,Default,,0,0,0,,Duoduo
+Dialogue: 0,00:03:54.24,00:03:54.76,Default,,0,0,0,,Duoduo
+Dialogue: 0,00:03:56.07,00:03:57.44,Default,,0,0,0,,Why don't you move anymore?
+Dialogue: 0,00:03:58.96,00:04:00.76,Default,,0,0,0,,Maybe it's dazzled
+Dialogue: 0,00:04:10.16,00:04:10.60,Default,,0,0,0,,happiness…
+Dialogue: 0,00:04:10.84,00:04:11.28,Default,,0,0,0,,No! !
+Dialogue: 0,00:04:13.60,00:04:16.76,Default,,0,0,0,,I'm sent by the moon to play with you
+Dialogue: 0,00:04:16.88,00:04:19.96,Default,,0,0,0,,Don't tell anyone else the secret of my movement
+Dialogue: 0,00:04:21.04,00:04:23.44,Default,,0,0,0,,Otherwise I will sleep forever
+Dialogue: 0,00:04:24.20,00:04:26.04,Default,,0,0,0,,I don't want you to sleep
+Dialogue: 0,00:04:39.44,00:04:42.24,Default,,0,0,0,,No doubt, the boss wants me to keep an eye on you!
+Dialogue: 0,00:04:46.12,00:04:47.44,Default,,0,0,0,,My boss...
+Dialogue: 0,00:04:49.07,00:04:50.48,Default,,0,0,0,,It's useless for you to cry
+Dialogue: 0,00:04:52.28,00:04:54.32,Default,,0,0,0,,I cried because of you
+Dialogue: 0,00:04:54.36,00:04:55.00,Default,,0,0,0,,I? !
+Dialogue: 0,00:04:55.52,00:04:58.07,Default,,0,0,0,,You are obviously worse than that bacteria king
+Dialogue: 0,00:04:58.07,00:05:01.44,Default,,0,0,0,,But why do you have to be second?
+Dialogue: 0,00:05:01.44,00:05:05.04,Default,,0,0,0,,I can't tell you've come from the bottom of your heart
+Have you accepted this second place?
+Dialogue: 0,00:05:05.32,00:05:06.84,Default,,0,0,0,,Of course... not
+Dialogue: 0,00:05:07.07,00:05:07.96,Default,,0,0,0,,King!
+Dialogue: 0,00:05:11.28,00:05:13.32,Default,,0,0,0,,What are you calling me?
+Dialogue: 0,00:05:13.36,00:05:16.04,Default,,0,0,0,,King! Let's go out together to catch the Bingbing Sheep
+Dialogue: 0,00:05:16.07,00:05:18.32,Default,,0,0,0,,Prove that you are the real king!
+Dialogue: 0,00:05:21.12,00:05:22.72,Default,,0,0,0,,I've been waiting for a long time today!
+Dialogue: 0,00:05:24.00,00:05:25.00,Default,,0,0,0,,We're out! !
+Dialogue: 0,00:05:25.48,00:05:26.16,Default,,0,0,0,,etc.
+Dialogue: 0,00:05:27.88,00:05:29.80,Default,,0,0,0,,Are you and the lamb friends?
+Dialogue: 0,00:05:33.04,00:05:34.88,Default,,0,0,0,,Let me out! ! !
+Dialogue: 0,00:05:34.92,00:05:36.60,Default,,0,0,0,,Dare to defeat this king!
+Dialogue: 0,00:05:36.72,00:05:37.92,Default,,0,0,0,,I won't play with you anymore
+Dialogue: 0,00:05:37.92,00:05:39.56,Default,,0,0,0,,I have to inform the lamb to go
+Dialogue: 0,00:05:39.88,00:05:42.16,Default,,0,0,0,,Don't leave! Let me out
+Dialogue: 0,00:05:42.24,00:05:44.04,Default,,0,0,0,,Let me out! Let me out...
+Dialogue: 0,00:05:45.56,00:05:47.36,Default,,0,0,0,,Big Big Wolf, you dare to bully me! ! !
+Dialogue: 0,00:05:50.08,00:05:53.08,Default,,0,0,0,,You not only cheated me, but also humiliated me!
+Dialogue: 0,00:05:53.12,00:05:55.88,Default,,0,0,0,,I won't teach you well! Where can I put this face?
+Dialogue: 0,00:05:59.28,00:06:00.64,Default,,0,0,0,,Don't move
+Dialogue: 0,00:06:01.48,00:06:04.40,Default,,0,0,0,,You have to find a way to get the handprint
+Dialogue: 0,00:06:08.16,00:06:09.28,Default,,0,0,0,,Completed!
+Dialogue: 0,00:06:10.56,00:06:12.20,Default,,0,0,0,,I only painted my face
+Dialogue: 0,00:06:12.24,00:06:13.80,Default,,0,0,0,,I want to play again!
+Dialogue: 0,00:06:15.76,00:06:16.88,Default,,0,0,0,,marvelous!
+Dialogue: 0,00:06:17.20,00:06:20.52,Default,,0,0,0,,Yes, can you also draw something on my belly?
+Dialogue: 0,00:06:20.56,00:06:21.00,Default,,0,0,0,,OK
+Dialogue: 0,00:06:24.68,00:06:25.72,Default,,0,0,0,,My power! ! !
+Dialogue: 0,00:06:25.76,00:06:26.20,Default,,0,0,0,,Bingbing sheep!
+Dialogue: 0,00:06:26.64,00:06:28.32,Default,,0,0,0,,Why are there materials on the ground?
+Dialogue: 0,00:06:30.56,00:06:32.08,Default,,0,0,0,,Just a little bit short! ! !
+Dialogue: 0,00:06:32.60,00:06:35.68,Default,,0,0,0,,The dolls are dirty, I'll help you clean them
+Dialogue: 0,00:06:36.16,00:06:36.84,Default,,0,0,0,,But…
+Dialogue: 0,00:06:41.80,00:06:44.52,Default,,0,0,0,,Help! ! !
+Dialogue: 0,00:06:48.40,00:06:50.00,Default,,0,0,0,,Duoduo, you're here
+Dialogue: 0,00:06:50.56,00:06:52.12,Default,,0,0,0,,Pleasant Goat Brother is not here
+Dialogue: 0,00:06:52.56,00:06:53.84,Default,,0,0,0,,We can
+Dialogue: 0,00:06:54.08,00:06:56.40,Default,,0,0,0,,Let's go out together
+Dialogue: 0,00:06:57.52,00:07:01.88,Default,,0,0,0,,Pleasant Goat is finally gone I can't bear it anymore!
+Dialogue: 0,00:07:05.16,00:07:07.08,Default,,0,0,0,,Take the snail and run!
+Dialogue: 0,00:07:07.80,00:07:09.12,Default,,0,0,0,,Where to go? !
+Dialogue: 0,00:07:09.88,00:07:11.56,Default,,0,0,0,,snort! I won't play with you
+Dialogue: 0,00:07:11.64,00:07:13.28,Default,,0,0,0,,Stay
+Dialogue: 0,00:07:15.84,00:07:17.88,Default,,0,0,0,,Help
+Dialogue: 0,00:07:20.47,00:07:22.64,Default,,0,0,0,,Duoduo, why are you going to heaven
+Dialogue: 0,00:07:23.47,00:07:25.52,Default,,0,0,0,,I'll save you Duoduo
+Dialogue: 0,00:07:26.60,00:07:28.96,Default,,0,0,0,,You can collect the line quickly
+Dialogue: 0,00:07:36.76,00:07:39.12,Default,,0,0,0,,what
+Dialogue: 0,00:07:39.16,00:07:40.52,Default,,0,0,0,,Duoduo
+Dialogue: 0,00:07:41.32,00:07:43.12,Default,,0,0,0,,Wait for me!
+Dialogue: 0,00:07:47.32,00:07:48.47,Default,,0,0,0,,Wait for me!
+Dialogue: 0,00:07:50.68,00:07:52.47,Default,,0,0,0,,Finally stopped
+Dialogue: 0,00:07:56.56,00:07:58.72,Default,,0,0,0,,I'm here to save you!
+Dialogue: 0,00:08:01.16,00:08:02.72,Default,,0,0,0,,what? what?
+Dialogue: 0,00:08:04.08,00:08:06.32,Default,,0,0,0,,Duoduo, grab my hand!
+Dialogue: 0,00:08:11.32,00:08:14.44,Default,,0,0,0,,not good! If Bingbing Sheep fell
+I'll cry
+Dialogue: 0,00:08:14.47,00:08:18.08,Default,,0,0,0,,What the lambs hear will be troublesome!
+Dialogue: 0,00:08:20.04,00:08:20.96,Default,,0,0,0,,I!
+Dialogue: 0,00:08:21.52,00:08:22.44,Default,,0,0,0,,Only!
+Dialogue: 0,00:08:23.40,00:08:25.92,Default,,0,0,0,,Leave me alone! !
+Dialogue: 0,00:08:33.16,00:08:34.96,Default,,0,0,0,,Duoduo, you saved me! ! !
+Dialogue: 0,00:08:35.47,00:08:37.00,Default,,0,0,0,,You're fine, right?
+Dialogue: 0,00:08:37.28,00:08:39.16,Default,,0,0,0,,I...
+Dialogue: 0,00:08:43.24,00:08:46.47,Default,,0,0,0,,I used up all my energy when I just saved you
+Dialogue: 0,00:08:46.76,00:08:48.44,Default,,0,0,0,,Then what can I help you?
+Dialogue: 0,00:08:49.80,00:08:52.04,Default,,0,0,0,,You put your hands on my belly
+Dialogue: 0,00:08:52.04,00:08:53.88,Default,,0,0,0,,It will help me replenish energy
+Dialogue: 0,00:08:53.92,00:08:54.88,Default,,0,0,0,,Is that true?
+Dialogue: 0,00:08:57.32,00:08:58.40,Default,,0,0,0,,Is it good?
+Dialogue: 0,00:08:59.00,00:09:01.44,Default,,0,0,0,,It's much better. Please give it a little more
+Dialogue: 0,00:09:02.56,00:09:03.64,Default,,0,0,0,,Pleasant Goat!
+Dialogue: 0,00:09:03.88,00:09:07.76,Default,,0,0,0,,Big Big Wolf! He actually dared to laugh at me as second place!
+Dialogue: 0,00:09:08.56,00:09:09.88,Default,,0,0,0,,Run so fast? !
+Dialogue: 0,00:09:10.60,00:09:13.44,Default,,0,0,0,,You give me a stand! Don't run!
+Dialogue: 0,00:09:14.68,00:09:15.40,Default,,0,0,0,,Don't run!
+Dialogue: 0,00:09:17.44,00:09:19.12,Default,,0,0,0,,Look at my trauma
+Dialogue: 0,00:09:19.72,00:09:20.68,Default,,0,0,0,,Blow up!
+Dialogue: 0,00:09:21.56,00:09:22.84,Default,,0,0,0,,Start countdown
+Dialogue: 0,00:09:23.52,00:09:23.92,Default,,0,0,0,,ten
+Dialogue: 0,00:09:25.92,00:09:26.44,Default,,0,0,0,,Nine
+Dialogue: 0,00:09:28.00,00:09:28.47,Default,,0,0,0,,eight
+Dialogue: 0,00:09:29.60,00:09:31.40,Default,,0,0,0,,Don't be afraid, there are seven seconds
+Dialogue: 0,00:09:31.40,00:09:31.80,Default,,0,0,0,,seven
+Dialogue: 0,00:09:32.60,00:09:33.16,Default,,0,0,0,,two
+Dialogue: 0,00:09:34.32,00:09:35.80,Default,,0,0,0,,Why did it suddenly speed up!
+Dialogue: 0,00:09:36.35,00:09:37.08,Default,,0,0,0,,one
+Dialogue: 0,00:09:37.12,00:09:38.20,Default,,0,0,0,,Help!
+Dialogue: 0,00:09:46.24,00:09:49.80,Default,,0,0,0,,I'm not second!
+Dialogue: 0,00:09:52.32,00:09:53.40,Default,,0,0,0,,You're fine
+Dialogue: 0,00:09:53.44,00:09:56.16,Default,,0,0,0,,I'm fine, but Bingbing Sheep is in danger
+Dialogue: 0,00:09:56.16,00:09:59.32,Default,,0,0,0,,The bacteria are hiding in Bingbing Sheep's baby and planning to catch her
+Dialogue: 0,00:10:00.96,00:10:03.04,Default,,0,0,0,,It's hard for Bingbing Sheep to say that the doll will move
+Dialogue: 0,00:10:03.84,00:10:05.60,Default,,0,0,0,,Let's go find Bingbing Sheep!
+Dialogue: 0,00:10:07.68,00:10:09.16,Default,,0,0,0,,Is the energy full?
+Dialogue: 0,00:10:09.44,00:10:10.96,Default,,0,0,0,,It's a little bit different
+Dialogue: 0,00:10:11.44,00:10:15.00,Default,,0,0,0,,-I will be able to get my strength back soon
+-Bingbing Sheep!
+Dialogue: 0,00:10:18.28,00:10:21.72,Default,,0,0,0,,A sheep? Don't be afraid, one to one can still be a calculation
+Dialogue: 0,00:10:22.40,00:10:26.00,Default,,0,0,0,,what? The lambs came all at this time! ?
+Dialogue: 0,00:10:26.04,00:10:29.20,Default,,0,0,0,,Even Big Big Wolf is there? Where did the morphine go?
+Dialogue: 0,00:10:37.68,00:10:39.44,Default,,0,0,0,,Can't be caught!
+Dialogue: 0,00:10:40.24,00:10:41.56,Default,,0,0,0,,Don't try to escape!
+Dialogue: 0,00:10:44.08,00:10:45.00,Default,,0,0,0,,Miss it!
+Dialogue: 0,00:10:45.16,00:10:46.24,Default,,0,0,0,,Many!
+Dialogue: 0,00:10:46.96,00:10:48.80,Default,,0,0,0,,Duoduo Why did you run away
+Dialogue: 0,00:10:49.04,00:10:49.92,Default,,0,0,0,,Where have you gone?
+Dialogue: 0,00:10:52.68,00:10:54.47,Default,,0,0,0,,He's right in front, let's chase
+Dialogue: 0,00:10:54.72,00:10:57.16,Default,,0,0,0,,Fortunately, I escaped from the doll
+Dialogue: 0,00:10:57.28,00:10:58.12,Default,,0,0,0,,stop!
+Dialogue: 0,00:11:22.64,00:11:24.16,Default,,0,0,0,,Very tired
+Dialogue: 0,00:11:24.68,00:11:25.72,Default,,0,0,0,,Bacteria King
+Dialogue: 0,00:11:25.96,00:11:27.16,Default,,0,0,0,,You can't escape
+Dialogue: 0,00:11:27.60,00:11:29.16,Default,,0,0,0,,What to do
+Dialogue: 0,00:11:29.35,00:11:31.84,Default,,0,0,0,,King, I'll help
+Dialogue: 0,00:11:34.92,00:11:36.96,Default,,0,0,0,,Let me show you our harm!
+Dialogue: 0,00:11:37.56,00:11:38.72,Default,,0,0,0,,Be careful, everyone!
+Dialogue: 0,00:11:43.12,00:11:45.20,Default,,0,0,0,,After the morphotrophs are cured
+Dialogue: 0,00:11:45.20,00:11:47.40,Default,,0,0,0,,You know it's a disaster!
+Dialogue: 0,00:11:51.96,00:11:54.20,Default,,0,0,0,,Duoduo, why don't you talk anymore
+Dialogue: 0,00:11:54.40,00:11:57.76,Default,,0,0,0,,Duoduo, is the energy still not enough? You wake up quickly!
+Dialogue: 0,00:11:57.84,00:11:58.76,Default,,0,0,0,,Duoduo
+Dialogue: 0,00:12:03.60,00:12:06.40,Default,,0,0,0,,Duoduo... must have gone back
+Dialogue: 0,00:12:06.92,00:12:09.24,Default,,0,0,0,,My sister also knows Duoduo’s secrets?
+Dialogue: 0,00:12:10.52,00:12:13.08,Default,,0,0,0,,Duoduo's mission is to play with Bingbing Sheep
+Dialogue: 0,00:12:13.08,00:12:15.47,Default,,0,0,0,,He went back after the mission was completed
+Dialogue: 0,00:12:15.64,00:12:17.60,Default,,0,0,0,,As long as you keep loving him
+Dialogue: 0,00:12:17.60,00:12:19.76,Default,,0,0,0,,He will definitely come and play with you in the future
+Dialogue: 0,00:12:24.32,00:12:26.88,Default,,0,0,0,,Duoduo, you need to come back soon
+Dialogue: 0,00:12:29.20,00:12:31.88,Default,,0,0,0,,Bingbing Sheep Let's go to every house together
+Dialogue: 0,00:12:32.00,00:12:33.12,Default,,0,0,0,,OK OK OK!

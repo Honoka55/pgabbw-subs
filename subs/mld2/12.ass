@@ -1,0 +1,163 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:01:46.36,00:01:50.48,Default,,0,0,0,,The next procedure is very important. Don't be distracted.
+Dialogue: 0,00:02:01.20,00:02:02.64,Default,,0,0,0,,Hahaha!
+Dialogue: 0,00:02:04.32,00:02:05.84,Default,,0,0,0,,Too much
+Dialogue: 0,00:02:06.88,00:02:09.44,Default,,0,0,0,,How can I watch TV so closely
+Dialogue: 0,00:02:12.76,00:02:15.84,Default,,0,0,0,,No, why are you here!
+Dialogue: 0,00:02:16.91,00:02:19.16,Default,,0,0,0,,Don't play with everyone?
+Dialogue: 0,00:02:20.91,00:02:23.00,Default,,0,0,0,,I don't know how they play!
+Dialogue: 0,00:02:23.24,00:02:26.60,Default,,0,0,0,,Yes, you're from an alien
+Dialogue: 0,00:02:26.60,00:02:28.68,Default,,0,0,0,,I shouldn't understand our grassland
+Dialogue: 0,00:02:29.40,00:02:30.91,Default,,0,0,0,,There is a way
+Dialogue: 0,00:02:32.91,00:02:38.00,Default,,0,0,0,,Your mission today is
+Let Bingbing Sheep cultivate a kind of interest on the grassland
+Dialogue: 0,00:02:38.76,00:02:41.63,Default,,0,0,0,,Cultivate interest? Of course it's good to play football
+Dialogue: 0,00:02:42.00,00:02:44.04,Default,,0,0,0,,Not so, the flowers are the best
+Dialogue: 0,00:02:44.72,00:02:46.56,Default,,0,0,0,,I think fitness is the most fun...
+Dialogue: 0,00:02:56.20,00:02:59.88,Default,,0,0,0,,Finally I can do my best and continue my research
+Dialogue: 0,00:03:07.63,00:03:10.60,Default,,0,0,0,,What method should I use to catch the Bingbing Sheep this time?
+Dialogue: 0,00:03:10.60,00:03:11.63,Default,,0,0,0,,Success!
+Dialogue: 0,00:03:16.36,00:03:18.08,Default,,0,0,0,,With this phenotype drug, what do I touch
+Dialogue: 0,00:03:18.12,00:03:20.52,Default,,0,0,0,,What can it become!
+Dialogue: 0,00:03:21.12,00:03:23.80,Default,,0,0,0,,You can change back at any time when you want it!
+Dialogue: 0,00:03:24.00,00:03:25.80,Default,,0,0,0,,You can also use it to...
+Dialogue: 0,00:03:28.40,00:03:30.96,Default,,0,0,0,,Son, is it okay for Dad to play with you?
+Dialogue: 0,00:03:31.20,00:03:32.08,Default,,0,0,0,,good!
+Dialogue: 0,00:03:38.44,00:03:39.60,Default,,0,0,0,,The car is on
+Dialogue: 0,00:03:39.76,00:03:40.80,Default,,0,0,0,,How about it!
+Dialogue: 0,00:03:43.08,00:03:44.60,Default,,0,0,0,,Dad is so bad
+Dialogue: 0,00:03:48.36,00:03:50.60,Default,,0,0,0,,Dad, I still want to play with the wind!
+Dialogue: 0,00:03:51.60,00:03:52.16,Default,,0,0,0,,good!
+Dialogue: 0,00:03:58.16,00:04:00.52,Default,,0,0,0,,Dad, I want to play with bear dolls
+Dialogue: 0,00:04:01.04,00:04:01.80,Default,,0,0,0,,good!
+Dialogue: 0,00:04:05.32,00:04:07.00,Default,,0,0,0,,Dad, play together...
+Dialogue: 0,00:04:11.76,00:04:15.12,Default,,0,0,0,,I didn't expect that Big Big Wolf would have a similar invention
+Dialogue: 0,00:04:25.52,00:04:28.60,Default,,0,0,0,,You will be in trouble when I drink this medicine!
+Dialogue: 0,00:04:32.80,00:04:36.12,Default,,0,0,0,,What a big treacherous! How dare you!
+Dialogue: 0,00:04:44.80,00:04:46.44,Default,,0,0,0,,Where did the ball go?
+Dialogue: 0,00:04:59.32,00:05:01.72,Default,,0,0,0,,Is this football fun?
+Dialogue: 0,00:05:03.04,00:05:03.76,Default,,0,0,0,,Fun!
+Dialogue: 0,00:05:07.04,00:05:08.27,Default,,0,0,0,,Very upset
+Dialogue: 0,00:05:11.24,00:05:12.48,Default,,0,0,0,,Good opportunity
+Dialogue: 0,00:05:22.72,00:05:24.00,Default,,0,0,0,,Reverse golden trellis
+Dialogue: 0,00:05:41.92,00:05:44.20,Default,,0,0,0,,Weird how to fly here
+Dialogue: 0,00:05:47.04,00:05:50.88,Default,,0,0,0,,Pleasant Goat, please let Bingbing Goat touch the ball
+Dialogue: 0,00:05:51.12,00:05:53.56,Default,,0,0,0,,Sorry, I just got so proud
+Dialogue: 0,00:05:54.20,00:05:55.72,Default,,0,0,0,,Come and Bingbing Sheep!
+Dialogue: 0,00:05:59.52,00:06:01.00,Default,,0,0,0,,I've been kicked for so long...
+Dialogue: 0,00:06:01.04,00:06:03.20,Default,,0,0,0,,Why are you holding the ball now
+Dialogue: 0,00:06:04.44,00:06:07.16,Default,,0,0,0,,I don't want to play football, the ball hurts
+Dialogue: 0,00:06:08.00,00:06:11.20,Default,,0,0,0,,It seems that Bingbing Sheep doesn't like playing football
+Let's change one
+Dialogue: 0,00:06:11.52,00:06:12.00,Default,,0,0,0,,good!
+Dialogue: 0,00:06:20.04,00:06:21.92,Default,,0,0,0,,It's so big. It depends on how you kick me!
+Dialogue: 0,00:06:26.00,00:06:28.48,Default,,0,0,0,,This is how Bingbing Sheep Sandbag is used!
+Dialogue: 0,00:06:29.16,00:06:30.27,Default,,0,0,0,,Look at mine
+Dialogue: 0,00:06:35.40,00:06:36.80,Default,,0,0,0,,No, too violent
+Dialogue: 0,00:06:36.92,00:06:38.48,Default,,0,0,0,,Isn't there any normal point?
+Dialogue: 0,00:06:39.80,00:06:40.56,Default,,0,0,0,,I have
+Dialogue: 0,00:06:40.56,00:06:43.56,Default,,0,0,0,,What I often do guarantee that Bingbing Sheep likes it!
+Dialogue: 0,00:06:43.83,00:06:45.12,Default,,0,0,0,,What is it?
+Dialogue: 0,00:06:59.20,00:07:01.60,Default,,0,0,0,,Sleep without hurting your body or exerting
+Dialogue: 0,00:07:01.64,00:07:03.04,Default,,0,0,0,,It's best for me and Bingbing Sheep
+Dialogue: 0,00:07:03.04,00:07:05.32,Default,,0,0,0,,This kind of sheep who doesn't love sports
+Dialogue: 0,00:07:05.72,00:07:08.08,Default,,0,0,0,,This is not a movement at all, right?
+Dialogue: 0,00:07:08.68,00:07:10.20,Default,,0,0,0,,Then let you see
+Dialogue: 0,00:07:10.20,00:07:11.64,Default,,0,0,0,,My strongest trick!
+Dialogue: 0,00:07:28.12,00:07:31.04,Default,,0,0,0,,It seems that your sports Bingbing Sheep don't like it
+Dialogue: 0,00:07:31.68,00:07:33.24,Default,,0,0,0,,It's still ours
+Dialogue: 0,00:07:40.96,00:07:44.28,Default,,0,0,0,,I believe that if you work harder, you will definitely succeed...
+Dialogue: 0,00:07:53.64,00:07:55.56,Default,,0,0,0,,These lambs are too dangerous
+Dialogue: 0,00:07:55.60,00:07:57.88,Default,,0,0,0,,I'll hide and wait for the time
+Dialogue: 0,00:08:02.04,00:08:04.64,Default,,0,0,0,,Meiyangyang Your home is so exquisite
+Dialogue: 0,00:08:05.36,00:08:07.76,Default,,0,0,0,,I didn't expect this opportunity to come soon!
+Dialogue: 0,00:08:08.80,00:08:12.16,Default,,0,0,0,,Bingbing Sheep, is it good for sister to teach you the skills of flower picking?
+Dialogue: 0,00:08:13.72,00:08:17.04,Default,,0,0,0,,It’s just a flower, how can you find any skills?
+Dialogue: 0,00:08:20.64,00:08:22.68,Default,,0,0,0,,The school beauty is very thoughtful
+Dialogue: 0,00:08:22.80,00:08:25.40,Default,,0,0,0,,There can't be too much water or too little
+Dialogue: 0,00:08:25.48,00:08:27.32,Default,,0,0,0,,The action should not be too rough
+Dialogue: 0,00:08:28.16,00:08:30.12,Default,,0,0,0,,Wow, so beautiful!
+Dialogue: 0,00:08:36.88,00:08:38.52,Default,,0,0,0,,Stop it quickly...
+Dialogue: 0,00:08:39.55,00:08:40.88,Default,,0,0,0,,Huahua is dying
+Dialogue: 0,00:08:40.96,00:08:42.92,Default,,0,0,0,,Sister Meiyangyang stop!
+Dialogue: 0,00:08:45.96,00:08:48.40,Default,,0,0,0,,I really haven't seen this phenomenon...
+Dialogue: 0,00:08:49.92,00:08:51.67,Default,,0,0,0,,I almost died...
+Dialogue: 0,00:08:51.84,00:08:54.16,Default,,0,0,0,,Still a little bit worse
+Dialogue: 0,00:08:54.67,00:08:56.72,Default,,0,0,0,,But it's already great!
+Dialogue: 0,00:08:58.64,00:09:00.55,Default,,0,0,0,,Then I'll be there next
+Dialogue: 0,00:09:16.24,00:09:18.60,Default,,0,0,0,,If this continues, something will happen to me...
+Dialogue: 0,00:09:25.36,00:09:26.92,Default,,0,0,0,,So small, I won't be...
+Dialogue: 0,00:09:31.28,00:09:33.08,Default,,0,0,0,,If the line is too short
+Dialogue: 0,00:09:33.08,00:09:36.00,Default,,0,0,0,,We can connect several lines together
+Dialogue: 0,00:09:39.00,00:09:40.96,Default,,0,0,0,,Wow, it’s so terrible!
+Dialogue: 0,00:09:41.00,00:09:42.88,Default,,0,0,0,,Can I try to wear it?
+Dialogue: 0,00:09:43.08,00:09:45.55,Default,,0,0,0,,But I haven't washed my feet for a few days
+Dialogue: 0,00:09:45.60,00:09:46.55,Default,,0,0,0,,Don't mind
+Dialogue: 0,00:10:02.00,00:10:04.76,Default,,0,0,0,,Hahaha
+Dialogue: 0,00:10:07.88,00:10:09.92,Default,,0,0,0,,This stinger is still not breathable
+Dialogue: 0,00:10:12.67,00:10:14.80,Default,,0,0,0,,Bingbing Sheep Which one do you like?
+Dialogue: 0,00:10:17.64,00:10:20.52,Default,,0,0,0,,The sage can walk, it's great!
+Dialogue: 0,00:10:23.72,00:10:25.20,Default,,0,0,0,,All the pricks stood up
+Dialogue: 0,00:10:25.24,00:10:27.24,Default,,0,0,0,,How long has it been since you washed your feet?
+Dialogue: 0,00:10:27.64,00:10:29.16,Default,,0,0,0,,Hahaha
+Dialogue: 0,00:10:33.44,00:10:34.84,Default,,0,0,0,,We're darn
+Dialogue: 0,00:10:36.16,00:10:37.32,Default,,0,0,0,,We're darn
+Dialogue: 0,00:10:37.84,00:10:39.32,Default,,0,0,0,,We're darn
+Dialogue: 0,00:10:39.40,00:10:41.00,Default,,0,0,0,,It's us!
+Dialogue: 0,00:10:41.28,00:10:43.24,Default,,0,0,0,,Bingbingyang wants to join us!
+Dialogue: 0,00:10:43.67,00:10:48.80,Default,,0,0,0,,Join us! Join us…
+Dialogue: 0,00:10:52.32,00:10:56.88,Default,,0,0,0,,Join us! Join us…
+Dialogue: 0,00:10:58.55,00:11:00.36,Default,,0,0,0,,Then we will ask Bingbing Sheep!
+Dialogue: 0,00:11:00.64,00:11:02.44,Default,,0,0,0,,Bingbing Sheep, who did you choose?
+Dialogue: 0,00:11:15.72,00:11:17.12,Default,,0,0,0,,How to play this?
+Dialogue: 0,00:11:18.72,00:11:20.67,Default,,0,0,0,,Finally, I have a chance!
+Dialogue: 0,00:11:23.72,00:11:26.88,Default,,0,0,0,,Bingbing Sheep
+Dialogue: 0,00:11:27.00,00:11:27.64,Default,,0,0,0,,Look quickly
+Dialogue: 0,00:11:27.76,00:11:29.20,Default,,0,0,0,,Bingbing sheep on the bridge
+Dialogue: 0,00:11:29.24,00:11:29.92,Default,,0,0,0,,Hahaha
+Dialogue: 0,00:11:31.64,00:11:33.44,Default,,0,0,0,,The skateboard is fun!
+Dialogue: 0,00:11:37.08,00:11:38.28,Default,,0,0,0,,I'm so exhausted
+Dialogue: 0,00:11:39.96,00:11:42.08,Default,,0,0,0,,Will you still talk while walking on a skateboard?
+Dialogue: 0,00:11:42.88,00:11:44.64,Default,,0,0,0,,No, that's the sound of bacteria
+Dialogue: 0,00:11:49.36,00:11:50.67,Default,,0,0,0,,Don't come over
+Dialogue: 0,00:11:50.67,00:11:52.60,Default,,0,0,0,,I'm going to fall down when I come again!
+Dialogue: 0,00:11:56.08,00:11:58.48,Default,,0,0,0,,mean! Ice-bing sheep is almost released
+Dialogue: 0,00:11:59.00,00:12:02.36,Default,,0,0,0,,Have you seen any king let go when he was called?
+Dialogue: 0,00:12:02.44,00:12:04.28,Default,,0,0,0,,No one can hold me today!
+Dialogue: 0,00:12:08.64,00:12:09.40,Default,,0,0,0,,hehe
+Dialogue: 0,00:12:09.72,00:12:11.52,Default,,0,0,0,,You have the ability to know yourself!
+Dialogue: 0,00:12:11.80,00:12:13.44,Default,,0,0,0,,Wait for me to recover
+Dialogue: 0,00:12:13.44,00:12:16.12,Default,,0,0,0,,It will definitely be able to consolidate the entire universe!
+Dialogue: 0,00:12:16.28,00:12:17.32,Default,,0,0,0,,You do it
+Dialogue: 0,00:12:19.20,00:12:21.52,Default,,0,0,0,,Remember the strongest sleeping position I taught you
+Dialogue: 0,00:12:22.00,00:12:23.32,Default,,0,0,0,,Go, Boiling Sheep!
+Dialogue: 0,00:12:29.24,00:12:30.64,Default,,0,0,0,,Heavy punch!
+Dialogue: 0,00:12:31.55,00:12:33.40,Default,,0,0,0,,Hot boxing!
+Dialogue: 0,00:12:34.24,00:12:35.40,Default,,0,0,0,,Very burning!
+Dialogue: 0,00:12:37.04,00:12:40.72,Default,,0,0,0,,Big Big Wolf’s discovery is indeed not good! ! ! !
+Dialogue: 0,00:12:44.04,00:12:46.88,Default,,0,0,0,,People with tidy clothes are very good at rimming!
+Dialogue: 0,00:12:47.92,00:12:48.84,Default,,0,0,0,,Fun
+Dialogue: 0,00:12:53.76,00:12:57.60,Default,,0,0,0,,Flowers must not be revealed. Be precise and elegant
+Dialogue: 0,00:13:02.72,00:13:04.28,Default,,0,0,0,,Swallow the golden mat!
+Dialogue: 0,00:13:20.28,00:13:23.72,Default,,0,0,0,,So you fought for this day?
+Dialogue: 0,00:13:25.80,00:13:28.60,Default,,0,0,0,,Finally, Bingbingyang, what do you think?
+Dialogue: 0,00:13:32.44,00:13:34.52,Default,,0,0,0,,I like to play with everyone!
+Dialogue: 0,00:13:35.04,00:13:38.32,Default,,0,0,0,,What Bingbing Sheep wants is to play with everyone
+Dialogue: 0,00:13:40.60,00:13:43.44,Default,,0,0,0,,Actually, I think everyone's interest is very bad
+Dialogue: 0,00:13:44.20,00:13:46.00,Default,,0,0,0,,Yes, I think so
+Dialogue: 0,00:13:47.88,00:13:49.32,Default,,0,0,0,,Yes Yes

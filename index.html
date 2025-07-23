@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Subtitle demo</title>
+
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/video.js/5.5.3/video-js.min.css" rel="stylesheet">
+    <link href="https://cdn.rawgit.com/Arnavion/libjass/36f6600d6cc78daf29fe747f2cc0cb0a4f83ad41/demo/libjass.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/gh/SunnyLi/videojs-ass@master/src/videojs.ass.css" rel="stylesheet">
+
+    <style>
+        body {
+            font-family: sans-serif;
+            max-width: 900px;
+            margin: auto;
+        }
+        label,
+        select {
+            margin-right: 10px;
+            padding: 4px 8px;
+        }
+        #controls {
+            margin-bottom: 10px;
+        }
+        #wiki-link {
+            display: inline-block;
+            margin-left: 10px;
+            font-weight: 700;
+        }
+        #player-container {
+            margin-top: 20px;
+        }
+        #credit {
+            margin-top: 15px;
+            font-size: 0.9em;
+            color: #555;
+            border-top: 1px solid #ccc;
+            padding-top: 10px;
+        }
+        a.wiki-ep {
+            color: #0066cc;
+            text-decoration: none;
+        }
+        a.wiki-ep:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+
+<body>
+    <h2>Watch the show with English subtitles</h2>
+
+    <div id="controls">
+        <label for="season">Season:</label>
+        <select id="season"></select>
+
+        <label for="episode">Episode:</label>
+        <select id="episode"></select>
+
+        <span id="wiki-link"></span>
+    </div>
+
+    <div id="player-container">
+        <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" controls></video>
+    </div>
+
+    <div id="credit">
+        Your views contribute to the official YouTube channel. This site only provides translated subtitles.
+        Subtitle technology powered by <a href="https://github.com/SunnyLi/videojs-ass" target="_blank">videojs-ass</a>.
+        Translations provided by <a href="https://xyy.fandom.com/wiki/User:Big_Humphrey" target="_blank">Venn</a>, using <a href="https://tools.newzone.top/en/subtitle-translator">Subtitle Translation Tool</a>.
+        The translation is machine-assisted and may contain inaccuracies.
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/video.js/5.5.3/video.min.js"></script>
+    <script src="https://cdn.rawgit.com/Arnavion/libjass/36f6600d6cc78daf29fe747f2cc0cb0a4f83ad41/demo/libjass.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/videojs-youtube/2.0.7/Youtube.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/SunnyLi/videojs-ass@master/src/videojs.ass.js"></script>
+
+    <script>
+        let data = null;
+        let wikiData = null;
+        let player = null;
+
+        fetch('episodes.json')
+            .then(res => res.json())
+            .then(json => {
+                data = json;
+                populateSeasons();
+            });
+
+        function populateSeasons() {
+            const seasonSelect = document.getElementById('season');
+            seasonSelect.innerHTML = '';
+            data.seasons.forEach((season, i) => {
+                const opt = document.createElement('option');
+                opt.value = i;
+                opt.textContent = season.title;
+                seasonSelect.appendChild(opt);
+            });
+            seasonSelect.addEventListener('change', populateEpisodes);
+            populateEpisodes();
+        }
+
+        function populateEpisodes() {
+            const seasonIndex = document.getElementById('season').value;
+            const episodeSelect = document.getElementById('episode');
+            episodeSelect.innerHTML = '';
+            const episodeList = data.seasons[seasonIndex].episodes;
+            episodeList.forEach((_, i) => {
+                const opt = document.createElement('option');
+                opt.value = i;
+                opt.textContent = `Episode ${i + 1}`;
+                episodeSelect.appendChild(opt);
+            });
+            episodeSelect.addEventListener('change', loadVideo);
+            loadVideo();
+        }
+
+        function pad(num) {
+            return num.toString().padStart(2, '0');
+        }
+
+        function escapeTitle(title) {
+            return title.replace(/ /g, '_').replace(/[()]/g, match => ({
+                '(': '%28',
+                ')': '%29'
+            }[match]));
+        }
+
+        function loadVideo() {
+            const seasonIndex = document.getElementById('season').value;
+            const episodeIndex = document.getElementById('episode').value;
+            const season = data.seasons[seasonIndex];
+            const videoUrl = season.episodes[episodeIndex];
+            const subtitlePath = `${season.folder}/${pad(parseInt(episodeIndex) + 1)}.ass`;
+
+            if (player) {
+                player.dispose();
+                document.getElementById('player-container').innerHTML = `<video id="player" class="video-js vjs-default-skin vjs-big-play-centered" controls></video>`;
+            }
+
+            player = videojs('player', {
+                techOrder: ["youtube"],
+                width: 640,
+                height: 360,
+                fluid: true,
+                sources: [{ type: "video/youtube", src: videoUrl }]
+            });
+
+            player.ready(() => {
+                setTimeout(() => {
+                    player.ass({ src: subtitlePath, delay: 0 });
+                }, 0);
+            });
+
+            const wikiUrl = `https://xyy.fandom.com/api.php?action=parse&page=Template:Episode/${season.title.replace(/ /g, '_')}.json&prop=wikitext&formatversion=2&format=json&origin=*`;
+            fetch(wikiUrl)
+                .then(res => res.json())
+                .then(data => {
+                    const wikiData = JSON.parse(data.parse.wikitext);
+                    const epInfo = wikiData.episodes[episodeIndex];
+                    let title = epInfo.english;
+                    if (!title) {
+                        document.getElementById('wiki-link').innerHTML = '';
+                        return;
+                    }
+                    if (epInfo.suffix) {
+                        title += ` (${epInfo.suffix})`;
+                    }
+                    const pageUrl = `https://xyy.fandom.com/wiki/${escapeTitle(title)}`;
+                    document.getElementById('wiki-link').innerHTML = `<a class="wiki-ep" href="${pageUrl}" target="_blank">${epInfo.english}</a>`;
+                })
+                .catch(() => {
+                    document.getElementById('wiki-link').innerHTML = '';
+                });
+        }
+    </script>
+</body>
+
+</html>

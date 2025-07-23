@@ -1,0 +1,195 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:01:41.28,00:01:43.48,Default,,0,0,0,,The weather is so hot
+Dialogue: 0,00:01:46.31,00:01:48.68,Default,,0,0,0,,So thirsty! I really want to drink water!
+Dialogue: 0,00:01:50.24,00:01:52.28,Default,,0,0,0,,Village Chief, I'll help you
+Dialogue: 0,00:01:53.96,00:01:54.56,Default,,0,0,0,,Village Chief
+Dialogue: 0,00:01:55.36,00:01:56.32,Default,,0,0,0,,The water you want
+Dialogue: 0,00:01:59.44,00:02:01.24,Default,,0,0,0,,Village Chief, take a break
+Dialogue: 0,00:02:02.88,00:02:04.88,Default,,0,0,0,,Thank you for your Pleasant Goat
+Dialogue: 0,00:02:05.56,00:02:07.20,Default,,0,0,0,,The battle to get started
+Dialogue: 0,00:02:08.52,00:02:10.28,Default,,0,0,0,,It's so terrible
+Dialogue: 0,00:02:13.24,00:02:15.28,Default,,0,0,0,,Don't cry Don't cry I'll come to help you
+Dialogue: 0,00:02:18.32,00:02:19.36,Default,,0,0,0,,Your wind
+Dialogue: 0,00:02:28.36,00:02:30.60,Default,,0,0,0,,Who is here to help me
+Dialogue: 0,00:02:31.80,00:02:33.08,Default,,0,0,0,,Such a big wooden barrel
+Dialogue: 0,00:02:33.12,00:02:33.76,Default,,0,0,0,,Wrapped in my body...
+Dialogue: 0,00:02:41.91,00:02:43.44,Default,,0,0,0,,Thank you Pleasant Goat
+Dialogue: 0,00:02:46.56,00:02:47.32,Default,,0,0,0,,Come
+Dialogue: 0,00:02:50.88,00:02:54.48,Default,,0,0,0,,What a great thing. Pleasant Goat can help so many people
+Dialogue: 0,00:02:54.96,00:02:57.56,Default,,0,0,0,,If only I had the equipment as well
+Dialogue: 0,00:02:57.80,00:02:59.08,Default,,0,0,0,,Installation
+Dialogue: 0,00:03:04.20,00:03:05.96,Default,,0,0,0,,Finally packed
+Dialogue: 0,00:03:07.88,00:03:09.40,Default,,0,0,0,,Big Big Wolf must have never thought of it
+Dialogue: 0,00:03:09.40,00:03:12.40,Default,,0,0,0,,I actually live on the ceiling of their house
+Dialogue: 0,00:03:12.56,00:03:14.40,Default,,0,0,0,,In this clean environment
+Dialogue: 0,00:03:14.48,00:03:17.20,Default,,0,0,0,,I'll definitely come up with a way to catch the Bingbing Sheep
+Dialogue: 0,00:03:24.88,00:03:27.60,Default,,0,0,0,,It still makes people think about things! !
+Dialogue: 0,00:03:27.76,00:03:30.32,Default,,0,0,0,,Let me see what Big Big Wolf is trying to frick
+Dialogue: 0,00:03:30.36,00:03:34.92,Default,,0,0,0,,Why is this refrigerator so complicated
+Dialogue: 0,00:03:34.96,00:03:37.88,Default,,0,0,0,,Even I can’t handle it even if I’m an inventor!
+Dialogue: 0,00:03:38.00,00:03:42.36,Default,,0,0,0,,Even if you don't have any repairs in the refrigerator, you're so embarrassed to call yourself an inventor
+Dialogue: 0,00:03:42.92,00:03:45.12,Default,,0,0,0,,Try this
+Dialogue: 0,00:03:47.68,00:03:50.80,Default,,0,0,0,,The clumsy man still wants this king to take action
+Dialogue: 0,00:04:04.64,00:04:07.44,Default,,0,0,0,,Is it troublesome to repair a refrigerator?
+Dialogue: 0,00:04:07.68,00:04:10.24,Default,,0,0,0,,Just use this one
+Dialogue: 0,00:04:12.72,00:04:13.60,Default,,0,0,0,,Fixed
+Dialogue: 0,00:04:14.08,00:04:17.16,Default,,0,0,0,,But the refrigerator has a poor refrigeration capability
+Dialogue: 0,00:04:17.20,00:04:19.44,Default,,0,0,0,,I didn't have any ice cream I put last time
+Dialogue: 0,00:04:19.64,00:04:20.16,Default,,0,0,0,,change!
+Dialogue: 0,00:04:22.60,00:04:23.36,Default,,0,0,0,,Finish!
+Dialogue: 0,00:04:23.83,00:04:26.88,Default,,0,0,0,,But the chocolate I put last time was only eaten for two days
+Dialogue: 0,00:04:26.88,00:04:28.16,Default,,0,0,0,,Increase the capacity too!
+Dialogue: 0,00:04:30.36,00:04:32.16,Default,,0,0,0,,Now it's all done
+Dialogue: 0,00:04:33.36,00:04:35.32,Default,,0,0,0,,I'll check the results!
+Dialogue: 0,00:04:36.80,00:04:38.27,Default,,0,0,0,,It's changed a little bit
+Dialogue: 0,00:04:38.64,00:04:42.20,Default,,0,0,0,,etc! Or maybe you can use it to catch the Bingbing Sheep!
+Dialogue: 0,00:04:53.00,00:04:54.04,Default,,0,0,0,,No one is here...
+Dialogue: 0,00:04:54.08,00:04:55.88,Default,,0,0,0,,As long as I get the energy cube
+Dialogue: 0,00:04:55.88,00:04:59.40,Default,,0,0,0,,Maybe it can be as darn like Pleasant Goat!
+Dialogue: 0,00:05:01.32,00:05:03.24,Default,,0,0,0,,What are you fricking here?
+Dialogue: 0,00:05:03.68,00:05:04.32,Default,,0,0,0,,Alas... Village chief...
+Dialogue: 0,00:05:04.52,00:05:06.00,Default,,0,0,0,,Oops, was it discovered?!
+Dialogue: 0,00:05:10.52,00:05:14.16,Default,,0,0,0,,I...I'm afraid that the energy cube will be stolen by a bad person
+Come and take a look
+Dialogue: 0,00:05:16.52,00:05:19.27,Default,,0,0,0,,I have the super anti-blocking system I invented
+Dialogue: 0,00:05:19.32,00:05:22.56,Default,,0,0,0,,Who can't take the Rubik's Cube under my nose!
+Dialogue: 0,00:05:25.32,00:05:27.08,Default,,0,0,0,,Almost contacted the alarm...
+Dialogue: 0,00:05:27.56,00:05:30.40,Default,,0,0,0,,OK I'm going out to retrieve materials
+Dialogue: 0,00:05:42.60,00:05:44.48,Default,,0,0,0,,Has been taken away! !
+Dialogue: 0,00:05:44.48,00:05:47.44,Default,,0,0,0,,Village Chief Find the Rubik's Cube
+Dialogue: 0,00:05:47.44,00:05:50.64,Default,,0,0,0,,OK OK OK Don't worry about the Rubik's Cube
+Dialogue: 0,00:05:50.64,00:05:52.92,Default,,0,0,0,,You can leave quickly, Feiyangyang
+Dialogue: 0,00:05:57.24,00:06:00.72,Default,,0,0,0,,Bingbing Sheep This energy cube is very important and cannot be played casually
+Dialogue: 0,00:06:02.40,00:06:05.40,Default,,0,0,0,,If you take the energy cube to the village chief
+Dialogue: 0,00:06:05.44,00:06:08.32,Default,,0,0,0,,It would be great if you accidentally have the equipment!
+Dialogue: 0,00:06:09.04,00:06:12.04,Default,,0,0,0,,Bingbing Sheep, give the energy cube to your brother
+Dialogue: 0,00:06:12.08,00:06:13.92,Default,,0,0,0,,I'll help you and give the village chief
+Dialogue: 0,00:06:16.20,00:06:19.04,Default,,0,0,0,,If you play with me, I will give you
+Dialogue: 0,00:06:19.64,00:06:20.40,Default,,0,0,0,,good
+Dialogue: 0,00:06:20.56,00:06:22.08,Default,,0,0,0,,I'll play with you
+Dialogue: 0,00:06:30.96,00:06:32.48,Default,,0,0,0,,I can't do it anymore...
+Dialogue: 0,00:06:36.48,00:06:39.12,Default,,0,0,0,,Help me see, I'll catch butterflies
+Dialogue: 0,00:06:39.12,00:06:42.08,Default,,0,0,0,,Kung fu is not a must!
+Dialogue: 0,00:06:48.20,00:06:51.16,Default,,0,0,0,,But...how can I get the equipment?
+Dialogue: 0,00:06:52.52,00:06:56.20,Default,,0,0,0,,I remember when Pleasant Goat gained abilities
+The posture is very special
+Dialogue: 0,00:06:56.52,00:06:57.60,Default,,0,0,0,,Difficult to do it?
+Dialogue: 0,00:07:00.48,00:07:03.68,Default,,0,0,0,,Come out my equipment!
+Dialogue: 0,00:07:05.92,00:07:08.52,Default,,0,0,0,,Is it difficult... Is it difficult to be my posture right?
+Dialogue: 0,00:07:08.60,00:07:10.92,Default,,0,0,0,,Let's try it in a few more positions
+Dialogue: 0,00:07:11.40,00:07:14.32,Default,,0,0,0,,Come out! I! of! Install! Preparation
+Dialogue: 0,00:07:16.12,00:07:18.40,Default,,0,0,0,,Come out... Come out...
+Dialogue: 0,00:07:18.44,00:07:20.40,Default,,0,0,0,,No reaction at all
+Dialogue: 0,00:07:22.40,00:07:25.08,Default,,0,0,0,,The village chief said that if you encounter problems, you must read more books.
+Dialogue: 0,00:07:25.08,00:07:27.32,Default,,0,0,0,,The answer must be in the book
+Dialogue: 0,00:07:29.80,00:07:31.56,Default,,0,0,0,,I can't understand at all!
+Dialogue: 0,00:07:32.64,00:07:34.04,Default,,0,0,0,,Ahhhhhhhh!
+Dialogue: 0,00:07:34.04,00:07:35.64,Default,,0,0,0,,It's the sound of the silly goat!
+Dialogue: 0,00:07:41.28,00:07:42.44,Default,,0,0,0,,Sheep and sheep
+Dialogue: 0,00:07:42.96,00:07:44.36,Default,,0,0,0,,Don't be afraid that I'm coming!
+Dialogue: 0,00:07:46.72,00:07:47.56,Default,,0,0,0,,Really
+Dialogue: 0,00:07:49.08,00:07:51.36,Default,,0,0,0,,Don't have to be so loud when you fall, right?
+Dialogue: 0,00:07:51.88,00:07:54.12,Default,,0,0,0,,Yes, there's also Pleasant Goat
+Dialogue: 0,00:07:54.56,00:07:56.44,Default,,0,0,0,,It seems that I can't help anything
+Dialogue: 0,00:07:56.56,00:07:58.16,Default,,0,0,0,,I'm picking fruits and eating
+Dialogue: 0,00:07:58.92,00:08:00.92,Default,,0,0,0,,Suddenly a layer of ice was found here
+Dialogue: 0,00:08:01.64,00:08:03.00,Default,,0,0,0,,That's how I slipped
+Dialogue: 0,00:08:03.28,00:08:03.96,Default,,0,0,0,,Ice?
+Dialogue: 0,00:08:04.32,00:08:06.52,Default,,0,0,0,,Why did a layer of ice be collected here?
+Dialogue: 0,00:08:07.36,00:08:09.28,Default,,0,0,0,,I did it!
+Dialogue: 0,00:08:10.76,00:08:11.48,Default,,0,0,0,,danger!
+Dialogue: 0,00:08:14.84,00:08:15.92,Default,,0,0,0,,This… is this?
+Dialogue: 0,00:08:16.88,00:08:18.64,Default,,0,0,0,,Is Big Big Wolf controlled by bacteria again?!
+Dialogue: 0,00:08:20.68,00:08:22.96,Default,,0,0,0,,Hand over the Bingbing Sheep!
+Dialogue: 0,00:08:25.56,00:08:26.60,Default,,0,0,0,,Run quickly! …
+Dialogue: 0,00:08:27.96,00:08:30.08,Default,,0,0,0,,Wow! What a big refrigerator
+Dialogue: 0,00:08:33.08,00:08:35.60,Default,,0,0,0,,Haha I found you!
+Dialogue: 0,00:08:39.04,00:08:39.72,Default,,0,0,0,,Bingbing sheep!
+Dialogue: 0,00:08:44.44,00:08:46.48,Default,,0,0,0,,You will run away with the Bingbing Sheep!
+Dialogue: 0,00:08:46.48,00:08:47.55,Default,,0,0,0,,I'll hold him back!
+Dialogue: 0,00:08:49.60,00:08:51.16,Default,,0,0,0,,Don't expect to succeed!
+Dialogue: 0,00:08:53.64,00:08:55.24,Default,,0,0,0,,Not finished yet!
+Dialogue: 0,00:08:55.28,00:08:59.16,Default,,0,0,0,,Hahahahahaha
+Dialogue: 0,00:08:59.88,00:09:01.08,Default,,0,0,0,,What should I do here?
+Dialogue: 0,00:09:01.55,00:09:03.64,Default,,0,0,0,,Be obediently and surrender!
+Dialogue: 0,00:09:04.48,00:09:06.12,Default,,0,0,0,,Hand over the Bingbing Sheep!
+Dialogue: 0,00:09:08.52,00:09:09.55,Default,,0,0,0,,Your opponent is me
+Dialogue: 0,00:09:10.60,00:09:11.84,Default,,0,0,0,,Let it go!
+Dialogue: 0,00:09:18.16,00:09:19.28,Default,,0,0,0,,Disappeared?!
+Dialogue: 0,00:09:21.12,00:09:22.32,Default,,0,0,0,,A great opportunity!
+Dialogue: 0,00:09:24.16,00:09:26.00,Default,,0,0,0,,Humph I've expected it long ago!
+Dialogue: 0,00:09:31.76,00:09:35.20,Default,,0,0,0,,You know my s**t is hurt! Ha ha
+Dialogue: 0,00:09:36.40,00:09:38.20,Default,,0,0,0,,I...is nothing...
+Dialogue: 0,00:09:39.20,00:09:43.28,Default,,0,0,0,,It's so cold...No, I'm going to catch a cold...
+Dialogue: 0,00:09:43.32,00:09:44.04,Default,,0,0,0,,There is a broken bit!
+Dialogue: 0,00:09:49.48,00:09:51.44,Default,,0,0,0,,I'm the germ king
+Dialogue: 0,00:09:51.44,00:09:53.16,Default,,0,0,0,,You're taking action again!
+Dialogue: 0,00:09:57.52,00:09:59.00,Default,,0,0,0,,Pleasant Goat...
+Dialogue: 0,00:09:59.48,00:10:00.96,Default,,0,0,0,,So what if you are fast
+Dialogue: 0,00:10:01.44,00:10:03.16,Default,,0,0,0,,It’s not that there’s no way to deal with me!
+Dialogue: 0,00:10:03.24,00:10:05.00,Default,,0,0,0,,Everyone, hide!
+Dialogue: 0,00:10:09.16,00:10:09.96,Default,,0,0,0,,Sheep and goat...
+Dialogue: 0,00:10:12.36,00:10:14.28,Default,,0,0,0,,Bingbing is so fast
+Dialogue: 0,00:10:16.48,00:10:18.80,Default,,0,0,0,,You still have time to worry about others
+Dialogue: 0,00:10:25.55,00:10:27.84,Default,,0,0,0,,Let's see how you escape!
+Dialogue: 0,00:10:32.72,00:10:34.80,Default,,0,0,0,,Boiling sheep...! !
+Dialogue: 0,00:10:42.88,00:10:44.40,Default,,0,0,0,,Brother Feiyangyangyang...
+Dialogue: 0,00:10:46.28,00:10:48.64,Default,,0,0,0,,No one stopped me now!
+Dialogue: 0,00:10:49.24,00:10:50.84,Default,,0,0,0,,Come with me obediently!
+Dialogue: 0,00:10:55.67,00:10:57.92,Default,,0,0,0,,Brother Feiyangyangyang...
+Dialogue: 0,00:10:59.32,00:11:00.00,Default,,0,0,0,,Why…
+Dialogue: 0,00:11:01.32,00:11:04.16,Default,,0,0,0,,My friend was hurt, but I could only look at him with silence...
+Dialogue: 0,00:11:05.44,00:11:09.55,Default,,0,0,0,,If I were strong enough...
+Dialogue: 0,00:11:11.64,00:11:14.52,Default,,0,0,0,,I want to protect my friends too
+Dialogue: 0,00:11:21.12,00:11:23.16,Default,,0,0,0,,What's going on!
+Dialogue: 0,00:11:34.60,00:11:35.52,Default,,0,0,0,,What is this?
+Dialogue: 0,00:11:35.92,00:11:38.24,Default,,0,0,0,,Stop me
+Dialogue: 0,00:11:45.08,00:11:46.44,Default,,0,0,0,,Not finished yet
+Dialogue: 0,00:11:54.04,00:11:58.44,Default,,0,0,0,,Is this my equipment? Feeling hot all over the body, it's hard to tell...
+Dialogue: 0,00:12:05.28,00:12:06.96,Default,,0,0,0,,How could this happen!
+Dialogue: 0,00:12:07.60,00:12:10.64,Default,,0,0,0,,It seems that my equipment can generate high temperature energy
+Dialogue: 0,00:12:11.00,00:12:13.32,Default,,0,0,0,,Boiling Yangyang, let’s defeat him together!
+Dialogue: 0,00:12:17.92,00:12:19.72,Default,,0,0,0,,Don't be too proud
+Dialogue: 0,00:12:27.28,00:12:29.92,Default,,0,0,0,,There are so many people who come here!
+Dialogue: 0,00:12:30.92,00:12:32.28,Default,,0,0,0,,Don't forget that I'm still there!
+Dialogue: 0,00:12:38.44,00:12:40.24,Default,,0,0,0,,Very hot, very hot
+Dialogue: 0,00:12:40.24,00:12:41.60,Default,,0,0,0,,The most irritating thing is...!
+Dialogue: 0,00:12:47.60,00:12:49.67,Default,,0,0,0,,I will definitely come back!
+Dialogue: 0,00:12:52.20,00:12:54.04,Default,,0,0,0,,The boiling sheep is so terrible!
+Dialogue: 0,00:12:54.60,00:12:56.00,Default,,0,0,0,,Where is this?
+Dialogue: 0,00:12:56.84,00:12:59.32,Default,,0,0,0,,Wake up and feel sore
+Dialogue: 0,00:12:59.40,00:13:02.40,Default,,0,0,0,,Big Big Wolf, you're controlled by bacteria again
+Dialogue: 0,00:13:02.67,00:13:03.76,Default,,0,0,0,,what!
+Dialogue: 0,00:13:05.04,00:13:07.24,Default,,0,0,0,,You want to be as clean as me
+Dialogue: 0,00:13:07.60,00:13:09.16,Default,,0,0,0,,I won't be controlled!
+Dialogue: 0,00:13:14.04,00:13:17.00,Default,,0,0,0,,It seems that the safety system needs to be upgraded...
+Dialogue: 0,00:13:17.28,00:13:18.20,Default,,0,0,0,,Boiling sheep!
+Dialogue: 0,00:13:18.76,00:13:19.32,Default,,0,0,0,,exist!
+Dialogue: 0,00:13:20.16,00:13:22.64,Default,,0,0,0,,Even though you have the equipment now
+Dialogue: 0,00:13:22.92,00:13:25.60,Default,,0,0,0,,But the greater the ability, the greater the responsibility
+Dialogue: 0,00:13:25.67,00:13:27.52,Default,,0,0,0,,What do you think about this?
+Dialogue: 0,00:13:29.80,00:13:32.04,Default,,0,0,0,,Even though I have the equipment now
+Dialogue: 0,00:13:32.96,00:13:34.67,Default,,0,0,0,,But what's more important is
+Dialogue: 0,00:13:35.76,00:13:37.48,Default,,0,0,0,,Regardless of the size of the ability
+Dialogue: 0,00:13:37.48,00:13:40.84,Default,,0,0,0,,Everyone needs to have a heart to help others!
+Dialogue: 0,00:13:42.16,00:13:42.92,Default,,0,0,0,,nice!
+Dialogue: 0,00:13:43.20,00:13:45.52,Default,,0,0,0,,Boiling Sheep Come and help!
+Dialogue: 0,00:13:47.84,00:13:48.92,Default,,0,0,0,,Come!
+Dialogue: 0,00:13:49.48,00:13:50.40,Default,,0,0,0,,Help me with hot water!
+Dialogue: 0,00:13:50.64,00:13:51.84,Default,,0,0,0,,Help me with hot towels!
+Dialogue: 0,00:13:53.36,00:13:54.60,Default,,0,0,0,,Help me have fun!

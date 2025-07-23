@@ -1,0 +1,215 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:18.32,00:00:19.08,Default,,0,0,0,,Translation
+Dialogue: 0,00:00:19.60,00:00:21.92,Default,,0,0,0,,Brave Adventurer with Hidden Baby Picture
+Dialogue: 0,00:00:22.44,00:00:24.20,Default,,0,0,0,,Arrived at the mysterious cave
+Dialogue: 0,00:00:25.76,00:00:27.80,Default,,0,0,0,,The collapsed stone pillar
+Dialogue: 0,00:00:29.08,00:00:33.44,Default,,0,0,0,,Terrible traps such as man-cannibal flowers and huge rocks
+Dialogue: 0,00:00:34.20,00:00:37.28,Default,,0,0,0,,After some twists and turns, I finally found the precious treasure
+Dialogue: 0,00:00:37.68,00:00:40.40,Default,,0,0,0,,Wow, Baozang! I want it too!
+Dialogue: 0,00:00:40.60,00:00:44.16,Default,,0,0,0,,That's just the story of the story. It's not true.
+Dialogue: 0,00:00:44.68,00:00:48.00,Default,,0,0,0,,There is no treasure, but I have treasure pictures!
+Dialogue: 0,00:00:49.28,00:00:52.00,Default,,0,0,0,,No matter how you look, it doesn't look like a hidden treasure
+Dialogue: 0,00:00:52.36,00:00:54.04,Default,,0,0,0,,Where did you find it?
+Dialogue: 0,00:00:54.68,00:00:57.76,Default,,0,0,0,,It was found under Brother Pleasant Goat's bed...
+Dialogue: 0,00:00:58.16,00:00:59.52,Default,,0,0,0,,Under my bed?
+Dialogue: 0,00:00:59.76,00:01:00.76,Default,,0,0,0,,Watch it quickly!
+Dialogue: 0,00:01:01.80,00:01:03.96,Default,,0,0,0,,Baozang's next stop is here!
+Dialogue: 0,00:01:05.64,00:01:06.92,Default,,0,0,0,,This is my shoulder
+Dialogue: 0,00:01:07.64,00:01:08.71,Default,,0,0,0,,etc!
+Dialogue: 0,00:01:10.56,00:01:12.60,Default,,0,0,0,,Why does my house have a treasure?
+Dialogue: 0,00:01:13.40,00:01:14.43,Default,,0,0,0,,Found it!
+Dialogue: 0,00:01:17.96,00:01:19.12,Default,,0,0,0,,what?
+Dialogue: 0,00:01:19.43,00:01:21.28,Default,,0,0,0,,I never thought you were so naive
+Dialogue: 0,00:01:21.80,00:01:25.64,Default,,0,0,0,,Newly found map display line
+At Brother Qingyangyang
+Dialogue: 0,00:01:26.28,00:01:27.40,Default,,0,0,0,,I have, too?
+Dialogue: 0,00:01:29.76,00:01:30.60,Default,,0,0,0,,Found it!
+Dialogue: 0,00:01:31.80,00:01:33.60,Default,,0,0,0,,Sister Meiyangyang also has it!
+Dialogue: 0,00:01:33.88,00:01:35.60,Default,,0,0,0,,Why does this happen at home?
+Dialogue: 0,00:01:37.48,00:01:38.84,Default,,0,0,0,,Finished!
+Dialogue: 0,00:01:39.20,00:01:41.20,Default,,0,0,0,,It can really be put together!
+Dialogue: 0,00:01:41.76,00:01:43.56,Default,,0,0,0,,Is it hard to know if there is really a treasure?
+Dialogue: 0,00:01:43.76,00:01:44.56,Default,,0,0,0,,But
+Dialogue: 0,00:01:44.84,00:01:47.40,Default,,0,0,0,,Why doesn’t Sister Nuan Yangyangyang have any?
+Dialogue: 0,00:01:47.68,00:01:49.71,Default,,0,0,0,,I don't know either...
+Dialogue: 0,00:01:50.12,00:01:51.24,Default,,0,0,0,,Since that's the case
+Dialogue: 0,00:01:52.00,00:01:53.68,Default,,0,0,0,,Then let's go and look for it
+Dialogue: 0,00:01:53.68,00:01:56.43,Default,,0,0,0,,Very good! Going to treasure!
+Dialogue: 0,00:01:59.43,00:02:02.68,Default,,0,0,0,,Lalala! Go to the treasure!
+Dialogue: 0,00:02:02.68,00:02:04.16,Default,,0,0,0,,Be careful not to walk too fast!
+Dialogue: 0,00:02:04.16,00:02:05.80,Default,,0,0,0,,The cave must be right in front
+Dialogue: 0,00:02:07.08,00:02:08.00,Default,,0,0,0,,Wait
+Dialogue: 0,00:02:13.00,00:02:15.32,Default,,0,0,0,,It turns out they are going to the cave
+Dialogue: 0,00:02:15.80,00:02:20.00,Default,,0,0,0,,I think we had it in that year
+What a happy time
+Dialogue: 0,00:02:20.00,00:02:20.84,Default,,0,0,0,,Happy? !
+Dialogue: 0,00:02:24.24,00:02:26.52,Default,,0,0,0,,Xiao Huang is in danger ahead,
+Dialogue: 0,00:02:27.32,00:02:29.92,Default,,0,0,0,,But don't worry! I will protect you!
+Dialogue: 0,00:02:30.08,00:02:31.32,Default,,0,0,0,,King ~!
+Dialogue: 0,00:02:41.64,00:02:42.60,Default,,0,0,0,,careful!
+Dialogue: 0,00:02:46.12,00:02:47.48,Default,,0,0,0,,Xiao Huang is fine
+Dialogue: 0,00:02:48.36,00:02:50.84,Default,,0,0,0,,Yes, thank you for saving me
+Dialogue: 0,00:02:51.68,00:02:54.92,Default,,0,0,0,,Hahaha It's always OK to follow me!
+Dialogue: 0,00:02:57.20,00:02:58.80,Default,,0,0,0,,Xiao Huang! Xiao Huang!
+Dialogue: 0,00:03:04.63,00:03:06.92,Default,,0,0,0,,Xiao Huang, don't be afraid, I'll deal with it!
+Dialogue: 0,00:03:21.36,00:03:23.24,Default,,0,0,0,,King, what should I do
+Dialogue: 0,00:03:23.84,00:03:24.76,Default,,0,0,0,,Fungi: Go here!
+Dialogue: 0,00:03:31.84,00:03:34.32,Default,,0,0,0,,That exploration was so happy
+Dialogue: 0,00:03:34.36,00:03:36.96,Default,,0,0,0,,You will be happy! It’s me who are injured!
+Dialogue: 0,00:03:37.24,00:03:38.00,Default,,0,0,0,,Yes
+Dialogue: 0,00:03:38.24,00:03:40.92,Default,,0,0,0,,Just set a trap on their way
+Dialogue: 0,00:03:40.92,00:03:43.56,Default,,0,0,0,,It can catch them easily!
+Dialogue: 0,00:03:44.68,00:03:47.12,Default,,0,0,0,,Good job! Action now!
+Dialogue: 0,00:03:51.56,00:03:53.76,Default,,0,0,0,,You'll encounter monsters right away
+Dialogue: 0,00:03:53.80,00:03:55.56,Default,,0,0,0,,Bingbing sheep are here to protect you!
+Dialogue: 0,00:03:56.28,00:04:00.00,Default,,0,0,0,,We've all come here. What's the matter? Monsters...
+Dialogue: 0,00:04:01.60,00:04:04.24,Default,,0,0,0,,Don't destroy the beautiful imagination of the little girl
+Dialogue: 0,00:04:04.32,00:04:05.60,Default,,0,0,0,,Brother and sister
+Dialogue: 0,00:04:05.92,00:04:07.80,Default,,0,0,0,,You will encounter monsters immediately!
+Dialogue: 0,00:04:07.84,00:04:09.48,Default,,0,0,0,,Bingbing sheep are here to protect you!
+Dialogue: 0,00:04:10.24,00:04:11.04,Default,,0,0,0,,This sound...
+Dialogue: 0,00:04:11.52,00:04:12.32,Default,,0,0,0,,It's hard to tell! ! !
+Dialogue: 0,00:04:15.36,00:04:16.92,Default,,0,0,0,,really…
+Dialogue: 0,00:04:17.92,00:04:21.52,Default,,0,0,0,,Brother Qingyangyang stops sleeping. It's very dangerous here
+Dialogue: 0,00:04:23.04,00:04:25.32,Default,,0,0,0,,Bingbing Sheep There is nothing here
+Dialogue: 0,00:04:25.32,00:04:27.52,Default,,0,0,0,,Why don't we go home and sleep
+Dialogue: 0,00:04:27.56,00:04:29.44,Default,,0,0,0,,Look! It's a cave!
+Dialogue: 0,00:04:31.28,00:04:35.36,Default,,0,0,0,,The story book says it is deep in the cave
+You can find the treasure
+Dialogue: 0,00:04:35.36,00:04:37.00,Default,,0,0,0,,There is really a cave
+Dialogue: 0,00:04:41.28,00:04:43.24,Default,,0,0,0,,Brothers and sisters, come quickly!
+Dialogue: 0,00:04:43.68,00:04:45.20,Default,,0,0,0,,Bingbing Sheep Slowly
+Dialogue: 0,00:04:53.56,00:04:54.68,Default,,0,0,0,,Bingbing sheep!
+Dialogue: 0,00:04:57.88,00:04:59.60,Default,,0,0,0,,You're fine
+Dialogue: 0,00:04:59.72,00:05:02.32,Default,,0,0,0,,It's okay, everyone be careful
+Dialogue: 0,00:05:13.80,00:05:15.20,Default,,0,0,0,,What's going on here...
+Dialogue: 0,00:05:15.60,00:05:16.80,Default,,0,0,0,,Maybe it's aging
+Dialogue: 0,00:05:20.20,00:05:21.68,Default,,0,0,0,,I have a second trick
+Dialogue: 0,00:05:22.44,00:05:24.68,Default,,0,0,0,,I'm secretly on their way
+Dialogue: 0,00:05:24.68,00:05:26.48,Default,,0,0,0,,Alien cannibal flowers
+Dialogue: 0,00:05:32.84,00:05:33.88,Default,,0,0,0,,Bingbing sheep!
+Dialogue: 0,00:05:39.60,00:05:40.63,Default,,0,0,0,,Look at mine
+Dialogue: 0,00:05:46.00,00:05:49.12,Default,,0,0,0,,It's a man-cannibal flower, exactly like the story
+Dialogue: 0,00:05:49.24,00:05:51.72,Default,,0,0,0,,This is not a time to be happy...
+Dialogue: 0,00:05:52.12,00:05:54.80,Default,,0,0,0,,This adventure seems to be getting more and more interesting
+Dialogue: 0,00:05:55.60,00:05:56.44,Default,,0,0,0,,Quick
+Dialogue: 0,00:05:56.60,00:05:58.00,Default,,0,0,0,,I'm about to find Baozang
+Dialogue: 0,00:06:00.84,00:06:02.72,Default,,0,0,0,,They ran away again!
+Dialogue: 0,00:06:09.56,00:06:12.64,Default,,0,0,0,,Be careful there will be big rocks in front of you!
+Dialogue: 0,00:06:12.88,00:06:14.44,Default,,0,0,0,,How do you know?
+Dialogue: 0,00:06:15.20,00:06:17.60,Default,,0,0,0,,That's what the storybook says!
+Dialogue: 0,00:06:18.44,00:06:20.80,Default,,0,0,0,,We won't be so easy to recognize
+Dialogue: 0,00:06:22.88,00:06:24.64,Default,,0,0,0,,What's going on?
+Dialogue: 0,00:06:25.80,00:06:27.40,Default,,0,0,0,,Look at the stone coming
+Dialogue: 0,00:06:29.36,00:06:30.28,Default,,0,0,0,,Let's run!
+Dialogue: 0,00:06:31.32,00:06:32.40,Default,,0,0,0,,I'll hold on
+Dialogue: 0,00:06:37.68,00:06:39.20,Default,,0,0,0,,There's really a rock
+Dialogue: 0,00:06:43.32,00:06:45.48,Default,,0,0,0,,That's it!
+Dialogue: 0,00:06:45.80,00:06:47.20,Default,,0,0,0,,The impact is too great!
+Dialogue: 0,00:06:49.68,00:06:52.76,Default,,0,0,0,,Who can tell me how to escape
+Dialogue: 0,00:06:54.28,00:06:55.20,Default,,0,0,0,,Here is here!
+Dialogue: 0,00:06:56.20,00:06:57.48,Default,,0,0,0,,Come with me!
+Dialogue: 0,00:07:03.64,00:07:05.08,Default,,0,0,0,,Thank you~!
+Dialogue: 0,00:07:07.32,00:07:09.92,Default,,0,0,0,,They escaped again
+Dialogue: 0,00:07:10.40,00:07:12.68,Default,,0,0,0,,But it's good that we didn't get hurt this time
+Dialogue: 0,00:07:20.40,00:07:22.80,Default,,0,0,0,,How can I catch Bingbing Sheep?
+Dialogue: 0,00:07:24.72,00:07:26.47,Default,,0,0,0,,If they were treasures
+Dialogue: 0,00:07:27.47,00:07:29.32,Default,,0,0,0,,The purpose is to find the treasure box!
+Dialogue: 0,00:07:29.92,00:07:33.44,Default,,0,0,0,,I packed it into a treasure box and waited for the iced sheep to come and then...
+Dialogue: 0,00:07:35.60,00:07:37.08,Default,,0,0,0,,Good job!
+Dialogue: 0,00:07:41.44,00:07:43.12,Default,,0,0,0,,If only there was a treasure
+Dialogue: 0,00:07:43.16,00:07:45.64,Default,,0,0,0,,Baozang is something that only children like
+Dialogue: 0,00:07:45.68,00:07:47.88,Default,,0,0,0,,I don't care at all
+Dialogue: 0,00:07:53.24,00:07:54.12,Default,,0,0,0,,Look!
+Dialogue: 0,00:07:54.24,00:07:55.88,Default,,0,0,0,,There is really a treasure!
+Dialogue: 0,00:07:57.47,00:07:59.47,Default,,0,0,0,,There is really a treasure!
+Dialogue: 0,00:08:01.40,00:08:03.47,Default,,0,0,0,,I'm a kid too
+Dialogue: 0,00:08:06.16,00:08:07.28,Default,,0,0,0,,Go over quickly!
+Dialogue: 0,00:08:07.64,00:08:09.44,Default,,0,0,0,,You'll catch you right away!
+Dialogue: 0,00:08:10.32,00:08:11.44,Default,,0,0,0,,There will be nothing wrong, right?
+Dialogue: 0,00:08:12.44,00:08:13.56,Default,,0,0,0,,Go and have a look
+Dialogue: 0,00:08:14.88,00:08:16.00,Default,,0,0,0,,Not this
+Dialogue: 0,00:08:16.80,00:08:18.24,Default,,0,0,0,,How do you know?
+Dialogue: 0,00:08:18.92,00:08:20.04,Default,,0,0,0,,You see
+Dialogue: 0,00:08:20.35,00:08:23.20,Default,,0,0,0,,The picture of the hidden treasure is under a tree
+Dialogue: 0,00:08:25.04,00:08:27.60,Default,,0,0,0,,Maybe it was because of the Tibetan painting!
+Dialogue: 0,00:08:34.47,00:08:35.40,Default,,0,0,0,,trap…?
+Dialogue: 0,00:08:36.60,00:08:38.68,Default,,0,0,0,,What should brothers and sisters do? !
+Dialogue: 0,00:08:45.84,00:08:46.92,Default,,0,0,0,,It's you!
+Dialogue: 0,00:08:48.52,00:08:51.24,Default,,0,0,0,,Could it be that you designed the machine in front?
+Dialogue: 0,00:08:51.92,00:08:54.40,Default,,0,0,0,,Now I know it's too late
+Dialogue: 0,00:08:55.12,00:08:56.88,Default,,0,0,0,,Bingbing Sheep, run!
+Dialogue: 0,00:08:57.76,00:08:59.40,Default,,0,0,0,,Don't let him catch it
+Dialogue: 0,00:09:02.00,00:09:03.32,Default,,0,0,0,,Want to run?
+Dialogue: 0,00:09:06.12,00:09:07.32,Default,,0,0,0,,Bingbing sheep!
+Dialogue: 0,00:09:08.16,00:09:10.20,Default,,0,0,0,,It's you, Uncle Banana
+Dialogue: 0,00:09:10.28,00:09:11.80,Default,,0,0,0,,Well done Xiao Huang!
+Dialogue: 0,00:09:13.08,00:09:16.16,Default,,0,0,0,,Watch them! I'll be able to unblock it right away!
+Dialogue: 0,00:09:18.00,00:09:19.80,Default,,0,0,0,,My hidden treasure pictures!
+Dialogue: 0,00:09:20.08,00:09:21.47,Default,,0,0,0,,yes! King!
+Dialogue: 0,00:09:21.80,00:09:22.68,Default,,0,0,0,,Bingbing sheep...
+Dialogue: 0,00:09:23.56,00:09:24.60,Default,,0,0,0,,Hidden treasure pictures?
+Dialogue: 0,00:09:24.64,00:09:26.04,Default,,0,0,0,,They calculated it again!
+Dialogue: 0,00:09:26.12,00:09:27.76,Default,,0,0,0,,I'm so angry!
+Dialogue: 0,00:09:36.28,00:09:38.44,Default,,0,0,0,,Why don’t you find out the treasure first?
+Dialogue: 0,00:09:55.80,00:09:57.08,Default,,0,0,0,,Why can't you move anymore?
+Dialogue: 0,00:09:57.76,00:09:58.92,Default,,0,0,0,,Where is the lamb?
+Dialogue: 0,00:09:59.28,00:10:00.40,Default,,0,0,0,,Here
+Dialogue: 0,00:10:01.08,00:10:02.72,Default,,0,0,0,,You're doing it yourself
+Dialogue: 0,00:10:03.68,00:10:04.68,Default,,0,0,0,,etc.
+Dialogue: 0,00:10:08.04,00:10:09.47,Default,,0,0,0,,Help...
+Dialogue: 0,00:10:12.16,00:10:13.35,Default,,0,0,0,,Stay calm
+Dialogue: 0,00:10:13.40,00:10:14.84,Default,,0,0,0,,It will be fine soon!
+Dialogue: 0,00:10:15.00,00:10:16.44,Default,,0,0,0,,Let the ice-bing sheep goat open!
+Dialogue: 0,00:10:20.92,00:10:23.47,Default,,0,0,0,,Why are you here? What about Xiao Huang?
+Dialogue: 0,00:10:24.56,00:10:25.40,Default,,0,0,0,,The King
+Dialogue: 0,00:10:26.00,00:10:27.60,Default,,0,0,0,,I failed
+Dialogue: 0,00:10:28.35,00:10:30.32,Default,,0,0,0,,How can you be so stupid
+Dialogue: 0,00:10:30.84,00:10:33.44,Default,,0,0,0,,Wouldn't you become a small item and escape?
+Dialogue: 0,00:10:34.20,00:10:34.56,Default,,0,0,0,,Yes!
+Dialogue: 0,00:10:35.64,00:10:36.64,Default,,0,0,0,,Look at me!
+Dialogue: 0,00:10:39.12,00:10:40.88,Default,,0,0,0,,This makes you even more unable to get out
+Dialogue: 0,00:10:41.44,00:10:42.60,Default,,0,0,0,,Very tired...
+Dialogue: 0,00:10:43.08,00:10:44.47,Default,,0,0,0,,Or I'll come back next time!
+Dialogue: 0,00:10:49.60,00:10:51.44,Default,,0,0,0,,You wait for me!
+Dialogue: 0,00:10:57.44,00:10:59.92,Default,,0,0,0,,I know that bacteria are the stolen
+Dialogue: 0,00:11:00.08,00:11:02.47,Default,,0,0,0,,Why do we still have to dig for treasures?
+Dialogue: 0,00:11:02.80,00:11:03.68,Default,,0,0,0,,Hum!
+Dialogue: 0,00:11:04.47,00:11:06.72,Default,,0,0,0,,Just satisfy Bingbing Sheep's imagination
+Dialogue: 0,00:11:13.68,00:11:15.24,Default,,0,0,0,,I dug up the treasure!
+Dialogue: 0,00:11:20.20,00:11:21.16,Default,,0,0,0,,This is...
+Dialogue: 0,00:11:25.32,00:11:28.60,Default,,0,0,0,,You paint me so cute!
+Dialogue: 0,00:11:29.80,00:11:32.28,Default,,0,0,0,,Humph, you can't do much better than me!
+Dialogue: 0,00:11:33.16,00:11:34.92,Default,,0,0,0,,Repaint to me
+Dialogue: 0,00:11:35.04,00:11:36.08,Default,,0,0,0,,I don't want it!
+Dialogue: 0,00:11:36.64,00:11:37.52,Default,,0,0,0,,stop!
+Dialogue: 0,00:11:38.20,00:11:39.56,Default,,0,0,0,,Stop me!
+Dialogue: 0,00:11:39.80,00:11:42.24,Default,,0,0,0,,Why don't we hide this picture
+Dialogue: 0,00:11:42.60,00:11:44.44,Default,,0,0,0,,Wait until you grow up and take it out
+Dialogue: 0,00:11:51.16,00:11:52.92,Default,,0,0,0,,This is our treasure picture
+Dialogue: 0,00:11:53.40,00:11:55.52,Default,,0,0,0,,Everyone should save it well!
+Dialogue: 0,00:11:55.80,00:11:56.56,Default,,0,0,0,,good
+Dialogue: 0,00:12:03.24,00:12:04.84,Default,,0,0,0,,It turns out that the hidden treasure picture is real
+Dialogue: 0,00:12:05.60,00:12:07.44,Default,,0,0,0,,This is our treasure
+Dialogue: 0,00:12:08.60,00:12:12.20,Default,,0,0,0,,Brother Pleasant Goat Why isn't Sister Nuan Goat?
+Dialogue: 0,00:12:12.60,00:12:16.04,Default,,0,0,0,,Because I hadn't come here to study then
+Dialogue: 0,00:12:17.44,00:12:21.24,Default,,0,0,0,,Then create another recollection of ours
+Dialogue: 0,00:12:21.28,00:12:22.28,Default,,0,0,0,,I want to paint!
+Dialogue: 0,00:12:22.84,00:12:24.20,Default,,0,0,0,,Let's take a picture together!
+Dialogue: 0,00:12:27.20,00:12:28.60,Default,,0,0,0,,Painted
+Dialogue: 0,00:12:29.76,00:12:32.96,Default,,0,0,0,,This is our best treasure

@@ -1,0 +1,144 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:17.60,00:00:19.32,Default,,0,0,0,,Be careful!
+Dialogue: 0,00:00:19.60,00:00:21.20,Default,,0,0,0,,Don't leave!
+Dialogue: 0,00:00:34.20,00:00:36.80,Default,,0,0,0,,Bingbing Sheep, can't you be at ease?
+Dialogue: 0,00:00:44.56,00:00:46.52,Default,,0,0,0,,Can't eat anything wrong
+Dialogue: 0,00:00:48.12,00:00:49.92,Default,,0,0,0,,Don't lie on the ground, either
+Dialogue: 0,00:00:50.92,00:00:52.24,Default,,0,0,0,,So tired...
+Dialogue: 0,00:00:58.16,00:00:59.52,Default,,0,0,0,,Bingbing sheep...
+Dialogue: 0,00:01:00.56,00:01:03.56,Default,,0,0,0,,Just let me go and let me sleep for a while!
+Dialogue: 0,00:01:05.64,00:01:06.24,Default,,0,0,0,,All right......
+Dialogue: 0,00:01:06.96,00:01:08.56,Default,,0,0,0,,Then I'll go out to play!
+Dialogue: 0,00:01:08.80,00:01:10.68,Default,,0,0,0,,Bingbing Sheep Come back soon
+Dialogue: 0,00:01:10.71,00:01:12.40,Default,,0,0,0,,It's very dangerous outside...
+Dialogue: 0,00:01:13.43,00:01:15.04,Default,,0,0,0,,You're too tight
+Dialogue: 0,00:01:15.08,00:01:17.68,Default,,0,0,0,,It's normal for a child to stumbling
+Dialogue: 0,00:01:20.64,00:01:21.52,Default,,0,0,0,,Oops!
+Dialogue: 0,00:01:28.28,00:01:31.04,Default,,0,0,0,,Haven't been hurt! Injury infection will cause irritation!
+Dialogue: 0,00:01:31.88,00:01:34.80,Default,,0,0,0,,The tightest one is obviously you, the village chief…
+Dialogue: 0,00:01:35.92,00:01:36.68,Default,,0,0,0,,Village Chief!
+Dialogue: 0,00:01:38.52,00:01:39.71,Default,,0,0,0,,What is this?
+Dialogue: 0,00:01:40.92,00:01:42.80,Default,,0,0,0,,I've been to Bingbing Sheep
+Dialogue: 0,00:01:42.80,00:01:45.48,Default,,0,0,0,,Made a robot that protects her
+Dialogue: 0,00:01:46.40,00:01:48.16,Default,,0,0,0,,"Safety Baby"
+Dialogue: 0,00:01:48.43,00:01:50.08,Default,,0,0,0,,Safe bag?
+Dialogue: 0,00:01:52.76,00:01:54.24,Default,,0,0,0,,Give me down!
+Dialogue: 0,00:02:05.28,00:02:07.76,Default,,0,0,0,,Smell germs! Hiding in my house all day!
+Dialogue: 0,00:02:07.80,00:02:09.20,Default,,0,0,0,,You come out to me
+Dialogue: 0,00:02:10.28,00:02:13.00,Default,,0,0,0,,Do you think I can't find you if you hide it?
+Dialogue: 0,00:02:13.80,00:02:14.56,Default,,0,0,0,,yes
+Dialogue: 0,00:02:14.96,00:02:16.96,Default,,0,0,0,,I can't find mine
+Dialogue: 0,00:02:18.12,00:02:18.52,Default,,0,0,0,,Um?
+Dialogue: 0,00:02:27.84,00:02:30.16,Default,,0,0,0,,Bacterial tracking cannon! !
+Dialogue: 0,00:02:31.68,00:02:32.72,Default,,0,0,0,,Target locked!
+Dialogue: 0,00:02:34.00,00:02:35.28,Default,,0,0,0,,Launch!
+Dialogue: 0,00:02:42.28,00:02:44.28,Default,,0,0,0,,It depends on where you run! Hahahahahaha!
+Dialogue: 0,00:03:01.20,00:03:02.40,Default,,0,0,0,,Cough cough cough
+Dialogue: 0,00:03:03.68,00:03:06.76,Default,,0,0,0,,I didn't expect this to be quite terrible
+Dialogue: 0,00:03:11.44,00:03:13.40,Default,,0,0,0,,Since you've fallen
+Dialogue: 0,00:03:13.52,00:03:16.48,Default,,0,0,0,,Then I'm not polite...
+Dialogue: 0,00:03:18.44,00:03:20.88,Default,,0,0,0,,Hahaha Come and chase me!
+Dialogue: 0,00:03:22.00,00:03:24.12,Default,,0,0,0,,Is this really useful?
+Dialogue: 0,00:03:25.40,00:03:26.68,Default,,0,0,0,,Don't worry
+Dialogue: 0,00:03:26.84,00:03:29.48,Default,,0,0,0,,He has infused all my energy
+Dialogue: 0,00:03:30.32,00:03:32.63,Default,,0,0,0,,It also has automatic upgrade function
+Dialogue: 0,00:03:32.68,00:03:35.20,Default,,0,0,0,,Make safety protection more and more perfect!
+Dialogue: 0,00:03:37.07,00:03:38.80,Default,,0,0,0,,Is this thing a simplified...
+Dialogue: 0,00:03:40.60,00:03:42.00,Default,,0,0,0,,Chase me!
+Dialogue: 0,00:03:43.00,00:03:44.52,Default,,0,0,0,,Chase me quickly!
+Dialogue: 0,00:03:46.88,00:03:48.56,Default,,0,0,0,,careful!
+Dialogue: 0,00:04:02.84,00:04:04.40,Default,,0,0,0,,Removal of danger
+Dialogue: 0,00:04:04.48,00:04:06.40,Default,,0,0,0,,So terrible!
+Dialogue: 0,00:04:07.12,00:04:09.12,Default,,0,0,0,,What a bad thing! …
+Dialogue: 0,00:04:14.28,00:04:14.96,Default,,0,0,0,,danger!
+Dialogue: 0,00:04:17.16,00:04:20.44,Default,,0,0,0,,Confirm safety and remove danger
+Dialogue: 0,00:04:21.24,00:04:23.44,Default,,0,0,0,,You know what I invented is a big deal!
+Dialogue: 0,00:04:23.52,00:04:25.63,Default,,0,0,0,,yes! yes! Very terrible! …
+Dialogue: 0,00:04:29.76,00:04:32.36,Default,,0,0,0,,Updated list of dangerous items
+Dialogue: 0,00:04:33.32,00:04:36.07,Default,,0,0,0,,Fruit peel is dangerous...
+Dialogue: 0,00:04:37.68,00:04:40.32,Default,,0,0,0,,Safe Baby let's go out and play!
+Dialogue: 0,00:04:51.20,00:04:53.56,Default,,0,0,0,,The lamb must be very difficult
+Dialogue: 0,00:04:55.16,00:04:56.92,Default,,0,0,0,,Be extra careful...
+Dialogue: 0,00:04:57.00,00:04:59.07,Default,,0,0,0,,Come and catch me. Catch me!
+Dialogue: 0,00:04:59.63,00:05:00.68,Default,,0,0,0,,Bingbing sheep?
+Dialogue: 0,00:05:02.56,00:05:05.04,Default,,0,0,0,,Been caught! Been caught!
+Dialogue: 0,00:05:05.07,00:05:07.20,Default,,0,0,0,,I didn't expect to catch it so simply!
+Dialogue: 0,00:05:07.60,00:05:09.16,Default,,0,0,0,,Let go of the ice sheep!
+Dialogue: 0,00:05:12.12,00:05:12.92,Default,,0,0,0,,warn!
+Dialogue: 0,00:05:13.07,00:05:16.28,Default,,0,0,0,,If you don’t let the Bingbing Sheep goat open, you will launch an attack!
+Dialogue: 0,00:05:16.40,00:05:18.52,Default,,0,0,0,,Attack my germ king?
+Dialogue: 0,00:05:18.56,00:05:20.80,Default,,0,0,0,,Just hate you as a broken robot?
+Dialogue: 0,00:05:33.36,00:05:34.68,Default,,0,0,0,,Wolf Danger!
+Dialogue: 0,00:05:36.63,00:05:38.44,Default,,0,0,0,,I won't give up!
+Dialogue: 0,00:05:51.52,00:05:53.12,Default,,0,0,0,,Sheep Dangerous!
+Dialogue: 0,00:06:07.80,00:06:10.08,Default,,0,0,0,,Lollipops Small pit danger!
+Dialogue: 0,00:06:21.84,00:06:23.64,Default,,0,0,0,,danger! danger!
+Dialogue: 0,00:06:24.16,00:06:24.92,Default,,0,0,0,,danger!
+Dialogue: 0,00:06:40.00,00:06:42.96,Default,,0,0,0,,It was that robot that damaged me again...
+Dialogue: 0,00:06:43.48,00:06:45.84,Default,,0,0,0,,Glow... Glow is so angry!
+Dialogue: 0,00:06:53.00,00:06:55.36,Default,,0,0,0,,What's the matter again!
+Dialogue: 0,00:06:57.76,00:06:58.88,Default,,0,0,0,,Yes
+Dialogue: 0,00:07:05.36,00:07:06.64,Default,,0,0,0,,Success
+Dialogue: 0,00:07:06.88,00:07:09.08,Default,,0,0,0,,You can't escape the robot!
+Dialogue: 0,00:07:09.96,00:07:14.08,Default,,0,0,0,,Look at me using the super coach transformed by alien technology to blow you up!
+Dialogue: 0,00:07:15.35,00:07:16.88,Default,,0,0,0,,Have a meal
+Dialogue: 0,00:07:17.68,00:07:19.12,Default,,0,0,0,,Wow
+Dialogue: 0,00:07:19.40,00:07:20.35,Default,,0,0,0,,I'm here!
+Dialogue: 0,00:07:20.88,00:07:24.24,Default,,0,0,0,,Bingbing sheep! Come and have a grass ball!
+Dialogue: 0,00:07:24.60,00:07:26.24,Default,,0,0,0,,danger! danger!
+Dialogue: 0,00:07:40.16,00:07:41.84,Default,,0,0,0,,What's going on? ! !
+Dialogue: 0,00:07:42.24,00:07:44.04,Default,,0,0,0,,Successfully eliminate dangerous objects
+Dialogue: 0,00:07:45.35,00:07:46.76,Default,,0,0,0,,Bingbing sheep is in danger!
+Dialogue: 0,00:07:47.64,00:07:50.88,Default,,0,0,0,,Turn off the cancellation mode Enable rescue mode
+Dialogue: 0,00:07:51.68,00:07:52.84,Default,,0,0,0,,Fruit sauce cartridge!
+Dialogue: 0,00:08:17.04,00:08:18.60,Default,,0,0,0,,Can't let him destroy the sheep village!
+Dialogue: 0,00:08:31.24,00:08:32.24,Default,,0,0,0,,Bingbing sheep handed me over!
+Dialogue: 0,00:08:32.28,00:08:34.08,Default,,0,0,0,,He was caught by Brother Pleasant Goat!
+Dialogue: 0,00:08:34.35,00:08:35.12,Default,,0,0,0,,danger!
+Dialogue: 0,00:09:08.35,00:09:09.60,Default,,0,0,0,,A piece of cake ~
+Dialogue: 0,00:09:13.12,00:09:14.56,Default,,0,0,0,,And we!
+Dialogue: 0,00:09:20.92,00:09:23.00,Default,,0,0,0,,Now playing wooden game with you
+Dialogue: 0,00:09:23.35,00:09:25.12,Default,,0,0,0,,It's gone when it moves
+Dialogue: 0,00:09:26.16,00:09:27.00,Default,,0,0,0,,knew
+Dialogue: 0,00:09:51.00,00:09:53.04,Default,,0,0,0,,Don't forget me
+Dialogue: 0,00:09:58.40,00:10:00.96,Default,,0,0,0,,No! Another
+Dialogue: 0,00:10:04.40,00:10:06.08,Default,,0,0,0,,It depends on where you run away!
+Dialogue: 0,00:10:12.92,00:10:15.12,Default,,0,0,0,,Robot I'm here to take revenge!
+Dialogue: 0,00:10:28.60,00:10:29.60,Default,,0,0,0,,What's going on?
+Dialogue: 0,00:10:46.24,00:10:47.16,Default,,0,0,0,,Bingbing sheep!
+Dialogue: 0,00:10:47.16,00:10:49.68,Default,,0,0,0,,No! The gun is out of control!
+Dialogue: 0,00:10:49.68,00:10:51.35,Default,,0,0,0,,Run quickly!
+Dialogue: 0,00:10:51.40,00:10:53.52,Default,,0,0,0,,I don't move! It's gone when it moves!
+Dialogue: 0,00:11:12.92,00:11:15.04,Default,,0,0,0,,Danger...relieve...
+Dialogue: 0,00:11:20.80,00:11:22.72,Default,,0,0,0,,You know my s**t is hurt!
+Dialogue: 0,00:11:38.08,00:11:41.44,Default,,0,0,0,,It's soaring... Bingbing Sheep will give you...
+Dialogue: 0,00:11:41.64,00:11:43.08,Default,,0,0,0,,I'll leave first
+Dialogue: 0,00:11:43.52,00:11:45.96,Default,,0,0,0,,I'll catch the Bingbing Sheep
+Dialogue: 0,00:11:47.44,00:11:48.28,Default,,0,0,0,,actually……
+Dialogue: 0,00:11:48.76,00:11:50.76,Default,,0,0,0,,Safety bags work very well
+Dialogue: 0,00:11:50.80,00:11:54.60,Default,,0,0,0,,It's all up to his protection. Bingbing sheep was not injured.
+Dialogue: 0,00:12:02.12,00:12:03.44,Default,,0,0,0,,Bingbing sheep!
+Dialogue: 0,00:12:06.76,00:12:07.52,Default,,0,0,0,,Does it hurt?
+Dialogue: 0,00:12:07.64,00:12:08.16,Default,,0,0,0,,pain……
+Dialogue: 0,00:12:08.92,00:12:11.44,Default,,0,0,0,,Then remember that I can't get upset, do you know?
+Dialogue: 0,00:12:11.47,00:12:12.04,Default,,0,0,0,,knew
+Dialogue: 0,00:12:13.56,00:12:15.88,Default,,0,0,0,,You can't pick up anything on the ground and eat it
+Dialogue: 0,00:12:16.84,00:12:19.64,Default,,0,0,0,,My stomach hurts after eating
+Dialogue: 0,00:12:23.32,00:12:26.40,Default,,0,0,0,,Look, I just said you're too tight...
+Dialogue: 0,00:12:27.72,00:12:30.40,Default,,0,0,0,,Children cannot grow up beyond nursing
+Dialogue: 0,00:12:30.84,00:12:33.76,Default,,0,0,0,,It seems that I'm the most tight

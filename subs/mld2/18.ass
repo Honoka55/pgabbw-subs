@@ -1,0 +1,187 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:22.11,00:00:25.76,Default,,0,0,0,,I'll tell you not to
+So many fruits!
+Dialogue: 0,00:00:25.80,00:00:27.80,Default,,0,0,0,,Keep up and don't go away!
+Dialogue: 0,00:00:29.12,00:00:30.08,Default,,0,0,0,,Rest assured
+Dialogue: 0,00:00:30.08,00:00:31.32,Default,,0,0,0,,I'll leave
+Dialogue: 0,00:00:31.32,00:00:34.04,Default,,0,0,0,,I will also go to the tree on the mountain to meet everyone!
+Dialogue: 0,00:00:35.20,00:00:37.32,Default,,0,0,0,,What are we going to frick there?
+Dialogue: 0,00:00:37.32,00:00:41.12,Default,,0,0,0,,There will be a meteor shower tonight. Let's go there to watch the meteor shower!
+Dialogue: 0,00:00:41.72,00:00:45.60,Default,,0,0,0,,A meteor is a stone! I've seen it many times
+Dialogue: 0,00:00:47.40,00:00:49.68,Default,,0,0,0,,But there is no meteor shower
+Dialogue: 0,00:00:50.00,00:00:52.24,Default,,0,0,0,,There is also a new friend waiting for you!
+Dialogue: 0,00:00:53.32,00:00:54.43,Default,,0,0,0,,New friend!
+Dialogue: 0,00:00:54.48,00:00:55.92,Default,,0,0,0,,Then let's go quickly!
+Dialogue: 0,00:01:01.36,00:01:03.16,Default,,0,0,0,,ah! My fruit...
+Dialogue: 0,00:01:05.12,00:01:06.12,Default,,0,0,0,,You're really
+Dialogue: 0,00:01:06.16,00:01:07.68,Default,,0,0,0,,You're really
+Dialogue: 0,00:01:19.08,00:01:20.24,Default,,0,0,0,,You don't want to leave!
+Dialogue: 0,00:01:31.71,00:01:32.84,Default,,0,0,0,,Miss it?
+Dialogue: 0,00:01:38.36,00:01:40.43,Default,,0,0,0,,Where are the Pleasant Goat Brothers?
+Dialogue: 0,00:01:40.52,00:01:41.84,Default,,0,0,0,,Dad, mom!
+Dialogue: 0,00:01:46.08,00:01:47.40,Default,,0,0,0,,Where are you?
+Dialogue: 0,00:01:51.24,00:01:53.32,Default,,0,0,0,,If you don't bring so much, you just don't listen!
+Dialogue: 0,00:01:53.56,00:01:54.68,Default,,0,0,0,,Where is the Bingbing Sheep?
+Dialogue: 0,00:01:57.88,00:01:58.80,Default,,0,0,0,,Small gray
+Dialogue: 0,00:01:59.32,00:02:00.28,Default,,0,0,0,,Bingbing sheep?
+Dialogue: 0,00:02:01.00,00:02:02.48,Default,,0,0,0,,Small gray
+Dialogue: 0,00:02:03.28,00:02:05.24,Default,,0,0,0,,- Have you seen Bingbing Sheep?
+- Have you seen Xiao Huihui?
+Dialogue: 0,00:02:06.24,00:02:08.04,Default,,0,0,0,,Xiao Huihui didn't see it anymore?
+Dialogue: 0,00:02:09.84,00:02:11.56,Default,,0,0,0,,This is how things are...
+Dialogue: 0,00:02:13.48,00:02:16.32,Default,,0,0,0,,Red We're out to watch the meteor shower
+Dialogue: 0,00:02:16.36,00:02:19.28,Default,,0,0,0,,Why bring...so much stuff?
+Dialogue: 0,00:02:19.92,00:02:21.28,Default,,0,0,0,,There is nothing on the mountain
+Dialogue: 0,00:02:21.52,00:02:23.00,Default,,0,0,0,,All can be used!
+Dialogue: 0,00:02:24.44,00:02:25.92,Default,,0,0,0,,Fast, mom!
+Dialogue: 0,00:02:25.96,00:02:28.40,Default,,0,0,0,,I think... I saw new friends sooner!
+Dialogue: 0,00:02:29.92,00:02:32.32,Default,,0,0,0,,I haven't seen a son so excited for a long time
+Dialogue: 0,00:02:32.36,00:02:33.36,Default,,0,0,0,,you do not say
+Dialogue: 0,00:02:45.64,00:02:47.64,Default,,0,0,0,,Xiao Huihui Slowly!
+Dialogue: 0,00:02:50.60,00:02:51.84,Default,,0,0,0,,Where is Xiao Huihui?
+Dialogue: 0,00:02:53.00,00:02:55.04,Default,,0,0,0,,We went back to find it right away
+Dialogue: 0,00:02:55.04,00:02:56.68,Default,,0,0,0,,But I didn't find it...
+Dialogue: 0,00:02:57.52,00:02:58.96,Default,,0,0,0,,Bingbing Sheep doesn't see it anymore
+Dialogue: 0,00:02:58.96,00:03:00.48,Default,,0,0,0,,Then let’s go find it together!
+Dialogue: 0,00:03:01.56,00:03:04.36,Default,,0,0,0,,Dad, mom! Where are you?
+Dialogue: 0,00:03:07.56,00:03:10.60,Default,,0,0,0,,Who are you? Why cry here?
+Dialogue: 0,00:03:10.92,00:03:12.07,Default,,0,0,0,,My name is Xiao Huihui
+Dialogue: 0,00:03:12.92,00:03:14.44,Default,,0,0,0,,My name is Bingbingyang!
+Dialogue: 0,00:03:14.84,00:03:18.44,Default,,0,0,0,,Originally, my dad and mom and I were going to go to the mountain to watch the meteor shower
+Dialogue: 0,00:03:18.48,00:03:20.28,Default,,0,0,0,,But I've gone...
+Dialogue: 0,00:03:21.20,00:03:24.68,Default,,0,0,0,,Me too! My brothers and sisters have also left
+Dialogue: 0,00:03:25.44,00:03:27.16,Default,,0,0,0,,You should have gone
+Dialogue: 0,00:03:30.07,00:03:31.60,Default,,0,0,0,,But what should we do?
+Dialogue: 0,00:03:34.40,00:03:35.63,Default,,0,0,0,,Don't worry
+Dialogue: 0,00:03:35.63,00:03:37.16,Default,,0,0,0,,I'll leave
+Dialogue: 0,00:03:37.16,00:03:40.68,Default,,0,0,0,,I will also go to the tree on the mountain to meet everyone!
+Dialogue: 0,00:03:41.60,00:03:43.36,Default,,0,0,0,,Let's go find them together
+Dialogue: 0,00:03:46.63,00:03:47.40,Default,,0,0,0,,no!
+Dialogue: 0,00:03:47.56,00:03:50.40,Default,,0,0,0,,Dad said that the child had to wait in place when he left...
+Dialogue: 0,00:03:50.56,00:03:51.52,Default,,0,0,0,,Leave!
+Dialogue: 0,00:03:53.00,00:03:54.80,Default,,0,0,0,,It's very dangerous to run!
+Dialogue: 0,00:03:55.40,00:03:57.56,Default,,0,0,0,,Bingbing Sheep, let's not run away...
+Dialogue: 0,00:03:57.60,00:04:00.40,Default,,0,0,0,,Maybe there are monsters here too...
+Dialogue: 0,00:04:01.76,00:04:02.63,Default,,0,0,0,,Look!
+Dialogue: 0,00:04:07.48,00:04:08.72,Default,,0,0,0,,What is this?
+Dialogue: 0,00:04:09.56,00:04:10.84,Default,,0,0,0,,This is a dandelion
+Dialogue: 0,00:04:12.80,00:04:14.52,Default,,0,0,0,,Just blow it lightly
+Dialogue: 0,00:04:14.52,00:04:16.16,Default,,0,0,0,,They'll fly
+Dialogue: 0,00:04:21.76,00:04:22.88,Default,,0,0,0,,Flying away!
+Dialogue: 0,00:04:26.07,00:04:27.48,Default,,0,0,0,,So beautiful!
+Dialogue: 0,00:04:28.80,00:04:29.84,Default,,0,0,0,,There are birds
+Dialogue: 0,00:04:32.12,00:04:33.88,Default,,0,0,0,,Wait for me Bingbing Sheep!
+Dialogue: 0,00:04:38.07,00:04:40.72,Default,,0,0,0,,Fortunately, I secretly heard about Big Big Wolf and Pleasant Goat
+Dialogue: 0,00:04:40.72,00:04:42.76,Default,,0,0,0,,They're going to see the meteor shower
+Dialogue: 0,00:04:43.28,00:04:46.36,Default,,0,0,0,,What's so good about a bunch of stones in the universe?
+Dialogue: 0,00:04:46.60,00:04:50.20,Default,,0,0,0,,If it weren't for catching the ice sheep, I wouldn't have come
+Dialogue: 0,00:04:52.63,00:04:55.32,Default,,0,0,0,,But it's so big here, how can I find it...
+Dialogue: 0,00:04:59.32,00:05:01.96,Default,,0,0,0,,It's Bingbing Sheep! How could he be here! ?
+Dialogue: 0,00:05:02.76,00:05:04.04,Default,,0,0,0,,It's indeed Bingbing Sheep
+Dialogue: 0,00:05:04.04,00:05:06.04,Default,,0,0,0,,And they are not here!
+Dialogue: 0,00:05:06.80,00:05:09.04,Default,,0,0,0,,I think they are probably lost
+Dialogue: 0,00:05:09.63,00:05:12.20,Default,,0,0,0,,You can change a cannon quickly! I'll catch her!
+Dialogue: 0,00:05:13.72,00:05:15.36,Default,,0,0,0,,Just two small things
+Dialogue: 0,00:05:15.40,00:05:18.16,Default,,0,0,0,,There is no need to use such powerful weapons
+Dialogue: 0,00:05:18.60,00:05:22.72,Default,,0,0,0,,It's too big
+It would be terrible to recruit others
+Dialogue: 0,00:05:22.96,00:05:24.48,Default,,0,0,0,,There is some truth...
+Dialogue: 0,00:05:31.04,00:05:34.04,Default,,0,0,0,,Brother Xiao Huihui, what are you doing?
+Dialogue: 0,00:05:34.36,00:05:36.56,Default,,0,0,0,,I'm leaving a record for my dad and mom
+Dialogue: 0,00:05:36.76,00:05:39.60,Default,,0,0,0,,They can find us with the logs
+Dialogue: 0,00:05:41.07,00:05:41.96,Default,,0,0,0,,I want it too!
+Dialogue: 0,00:05:46.40,00:05:47.16,Default,,0,0,0,,Painted!
+Dialogue: 0,00:05:49.32,00:05:51.64,Default,,0,0,0,,Look! This is me! This is you!
+Dialogue: 0,00:05:57.36,00:05:59.28,Default,,0,0,0,,If I catch the sheep first
+Dialogue: 0,00:05:59.28,00:06:02.32,Default,,0,0,0,,You can threaten the king and make me the king!
+Dialogue: 0,00:06:06.80,00:06:07.80,Default,,0,0,0,,What are you laughing at?
+Dialogue: 0,00:06:08.44,00:06:09.56,Default,,0,0,0,,The king sees me!
+Dialogue: 0,00:06:17.48,00:06:21.28,Default,,0,0,0,,Xiao Huang is indeed loyal and has enough ability!
+Dialogue: 0,00:06:21.36,00:06:23.16,Default,,0,0,0,,I still have to take it myself!
+Dialogue: 0,00:06:29.32,00:06:31.92,Default,,0,0,0,,Get up quickly! They are going far away!
+Dialogue: 0,00:06:38.76,00:06:40.20,Default,,0,0,0,,I'll pick it for you!
+Dialogue: 0,00:06:43.64,00:06:46.32,Default,,0,0,0,,My little fisherman comes on the hook
+Dialogue: 0,00:06:51.52,00:06:53.16,Default,,0,0,0,,It seems that something was hit?
+Dialogue: 0,00:06:53.20,00:06:54.76,Default,,0,0,0,,Fun! I want to play, too!
+Dialogue: 0,00:06:58.04,00:07:00.28,Default,,0,0,0,,not good! The bee hit! Run!
+Dialogue: 0,00:07:02.12,00:07:04.72,Default,,0,0,0,,What's going on? Where is the lamb?
+Dialogue: 0,00:07:20.72,00:07:23.56,Default,,0,0,0,,I can't stand it anymore I'm going to catch you now.
+Dialogue: 0,00:07:25.72,00:07:27.28,Default,,0,0,0,,Mud Monster Ball!
+Dialogue: 0,00:07:33.40,00:07:35.20,Default,,0,0,0,,It is a record number made by Xiao Huihui!
+Dialogue: 0,00:07:36.16,00:07:38.00,Default,,0,0,0,,This must be painted by Bingbing Sheep!
+Dialogue: 0,00:07:41.72,00:07:44.00,Default,,0,0,0,,Could they have encountered any danger?
+Dialogue: 0,00:07:51.24,00:07:53.24,Default,,0,0,0,,If only dad was there!
+Dialogue: 0,00:07:57.12,00:07:58.04,Default,,0,0,0,,It's a shooting star!
+Dialogue: 0,00:07:58.60,00:08:00.44,Default,,0,0,0,,Dad said it's okay!
+Dialogue: 0,00:08:00.60,00:08:03.47,Default,,0,0,0,,I want to let my dad fly over to protect us!
+Dialogue: 0,00:08:04.00,00:08:05.64,Default,,0,0,0,,That's the stone!
+Dialogue: 0,00:08:05.76,00:08:07.35,Default,,0,0,0,,You're still young, you don't understand
+Dialogue: 0,00:08:07.56,00:08:09.28,Default,,0,0,0,,My dad is very bad
+Dialogue: 0,00:08:09.72,00:08:12.08,Default,,0,0,0,,Will definitely fly over to protect us!
+Dialogue: 0,00:08:17.56,00:08:20.56,Default,,0,0,0,,My dad is also very bad and he will fly too!
+Dialogue: 0,00:08:20.60,00:08:22.00,Default,,0,0,0,,My dad will invent it!
+Dialogue: 0,00:08:22.92,00:08:24.72,Default,,0,0,0,,My dad will catch bad eggs!
+Dialogue: 0,00:08:24.96,00:08:26.76,Default,,0,0,0,,My dad will do a trap!
+Dialogue: 0,00:08:27.04,00:08:29.35,Default,,0,0,0,,My dad will do it if your dad is
+Dialogue: 0,00:08:29.80,00:08:30.80,Default,,0,0,0,,I thought of it!
+Dialogue: 0,00:08:31.96,00:08:33.68,Default,,0,0,0,,I can use the traps my dad taught me to do
+Dialogue: 0,00:08:33.68,00:08:35.00,Default,,0,0,0,,Come and deal with monsters!
+Dialogue: 0,00:08:35.24,00:08:36.76,Default,,0,0,0,,What is a trap?
+Dialogue: 0,00:08:37.08,00:08:38.76,Default,,0,0,0,,Come! I'll teach you
+Dialogue: 0,00:08:38.92,00:08:39.56,Default,,0,0,0,,OK!
+Dialogue: 0,00:08:52.35,00:08:53.60,Default,,0,0,0,,Found you!
+Dialogue: 0,00:09:31.32,00:09:33.40,Default,,0,0,0,,You must catch this time!
+Dialogue: 0,00:09:44.20,00:09:45.56,Default,,0,0,0,,There is a sound there
+Dialogue: 0,00:09:50.24,00:09:52.80,Default,,0,0,0,,It’s a trap made by Xiao Huihui!
+Dialogue: 0,00:09:56.68,00:09:57.47,Default,,0,0,0,,Then
+Dialogue: 0,00:10:06.72,00:10:07.96,Default,,0,0,0,,On the other side!
+Dialogue: 0,00:10:12.72,00:10:14.08,Default,,0,0,0,,How did we get through?
+Dialogue: 0,00:10:19.47,00:10:20.96,Default,,0,0,0,,There is a way
+Dialogue: 0,00:10:21.12,00:10:22.60,Default,,0,0,0,,Big Big Wolf Beware
+Dialogue: 0,00:10:33.88,00:10:35.00,Default,,0,0,0,,It's my dad!
+Dialogue: 0,00:10:35.16,00:10:36.04,Default,,0,0,0,,Bingbing sheep!
+Dialogue: 0,00:10:36.32,00:10:37.60,Default,,0,0,0,,My wish has come true!
+Dialogue: 0,00:10:37.80,00:10:40.16,Default,,0,0,0,,My dad really flew over to save us!
+Dialogue: 0,00:10:42.44,00:10:43.44,Default,,0,0,0,,And we are!
+Dialogue: 0,00:10:50.12,00:10:51.12,Default,,0,0,0,,Change quickly!
+Dialogue: 0,00:11:02.12,00:11:02.84,Default,,0,0,0,,Scented and burned…
+Dialogue: 0,00:11:04.44,00:11:05.56,Default,,0,0,0,,Find someone to control it
+Dialogue: 0,00:11:07.56,00:11:08.72,Default,,0,0,0,,Big Big Wolf
+Dialogue: 0,00:11:22.44,00:11:24.56,Default,,0,0,0,,These bees again! It's the bee again!
+Dialogue: 0,00:11:27.35,00:11:29.16,Default,,0,0,0,,Bingbing sheep! You're fine, right?
+Dialogue: 0,00:11:29.28,00:11:31.04,Default,,0,0,0,,You can't run away in the future
+Dialogue: 0,00:11:31.20,00:11:33.28,Default,,0,0,0,,OK I'll be in trouble in the future
+Dialogue: 0,00:11:34.20,00:11:36.04,Default,,0,0,0,,Xiao Huihui, too
+Dialogue: 0,00:11:36.08,00:11:37.56,Default,,0,0,0,,I won't be allowed to run away in the future
+Dialogue: 0,00:11:38.52,00:11:39.44,Default,,0,0,0,,good
+Dialogue: 0,00:11:39.68,00:11:40.52,Default,,0,0,0,,Small gray
+Dialogue: 0,00:11:40.68,00:11:43.92,Default,,0,0,0,,She is the new friend that dad told you before!
+Dialogue: 0,00:11:44.00,00:11:46.96,Default,,0,0,0,,It turns out that Bingbing Sheep is the little sheep who is looking for her brother!
+Dialogue: 0,00:11:47.92,00:11:49.92,Default,,0,0,0,,He is your new friend!
+Dialogue: 0,00:11:50.88,00:11:54.28,Default,,0,0,0,,It turns out that Brother Xiao Huihui is my new friend
+Dialogue: 0,00:11:54.32,00:11:57.04,Default,,0,0,0,,Great I have new friends!
+Dialogue: 0,00:12:02.84,00:12:05.76,Default,,0,0,0,,Wow! So beautiful!
+Dialogue: 0,00:12:06.16,00:12:07.00,Default,,0,0,0,,Bingbing sheep!
+Dialogue: 0,00:12:07.16,00:12:08.20,Default,,0,0,0,,Happy wish!
+Dialogue: 0,00:12:08.52,00:12:09.80,Default,,0,0,0,,It will really happen!
+Dialogue: 0,00:12:12.32,00:12:14.92,Default,,0,0,0,,I hope I will find my brother soon!
+Dialogue: 0,00:12:14.96,00:12:17.20,Default,,0,0,0,,I hope Bingbing Sheep will find her brother soon!
+Dialogue: 0,00:12:17.92,00:12:20.24,Default,,0,0,0,,My wish will come true soon!
+Dialogue: 0,00:12:21.16,00:12:23.84,Default,,0,0,0,,My wishes are definitely ahead of yours!
+Dialogue: 0,00:12:24.12,00:12:25.32,Default,,0,0,0,,I'll do it first!
+Dialogue: 0,00:12:25.56,00:12:26.88,Default,,0,0,0,,Mine first!

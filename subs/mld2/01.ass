@@ -1,0 +1,218 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:01:55.28,00:01:56.16,Default,,0,0,0,,We're now
+Dialogue: 0,00:01:56.24,00:01:57.32,Default,,0,0,0,,Come and play a game
+Dialogue: 0,00:01:59.32,00:02:00.16,Default,,0,0,0,,OK
+Dialogue: 0,00:02:03.28,00:02:04.68,Default,,0,0,0,,You're going to the green grassland
+Dialogue: 0,00:02:04.88,00:02:06.04,Default,,0,0,0,,Find your brother
+Dialogue: 0,00:02:07.00,00:02:07.56,Default,,0,0,0,,then
+Dialogue: 0,00:02:07.92,00:02:08.80,Default,,0,0,0,,Put this Rubik's Cube
+Dialogue: 0,00:02:08.88,00:02:10.00,Default,,0,0,0,,Leave it to him
+Dialogue: 0,00:02:13.12,00:02:14.80,Default,,0,0,0,,Missions we cannot complete
+Dialogue: 0,00:02:15.44,00:02:16.52,Default,,0,0,0,,I'll give it to you
+Dialogue: 0,00:02:33.16,00:02:34.20,Default,,0,0,0,,Are you ready?
+Dialogue: 0,00:02:41.52,00:02:43.00,Default,,0,0,0,,Although it is ready
+Dialogue: 0,00:02:43.04,00:02:44.80,Default,,0,0,0,,But I didn't expect it to be so unreasonable
+Dialogue: 0,00:02:45.76,00:02:46.80,Default,,0,0,0,,Not really
+Dialogue: 0,00:02:46.84,00:02:47.72,Default,,0,0,0,,Better than my house
+Dialogue: 0,00:02:47.72,00:02:49.96,Default,,0,0,0,,No one who can compare with you is an ordinary sheep
+Dialogue: 0,00:02:52.60,00:02:54.52,Default,,0,0,0,,I did the trick too late last night
+Dialogue: 0,00:02:54.88,00:02:56.84,Default,,0,0,0,,I don't know how to fall asleep
+Dialogue: 0,00:02:57.63,00:02:59.84,Default,,0,0,0,,Today is the day when my dad and mom come back again
+Dialogue: 0,00:03:00.00,00:03:02.44,Default,,0,0,0,,I just want to ask everyone to help me with it
+Dialogue: 0,00:03:02.63,00:03:03.44,Default,,0,0,0,,You are welcome
+Dialogue: 0,00:03:03.56,00:03:05.96,Default,,0,0,0,,We must be clean and clean!
+Dialogue: 0,00:03:06.96,00:03:07.96,Default,,0,0,0,,Let’s start!
+Dialogue: 0,00:03:08.24,00:03:09.24,Default,,0,0,0,,good
+Dialogue: 0,00:03:18.52,00:03:20.08,Default,,0,0,0,,Completed!
+Dialogue: 0,00:03:22.40,00:03:23.40,Default,,0,0,0,,Dad Mom
+Dialogue: 0,00:03:23.40,00:03:25.16,Default,,0,0,0,,We'll be able to meet soon
+Dialogue: 0,00:03:27.36,00:03:28.96,Default,,0,0,0,,Wait for me to put the book back to the cabinet
+Dialogue: 0,00:03:29.04,00:03:30.04,Default,,0,0,0,,Just pick them up
+Dialogue: 0,00:03:43.68,00:03:45.28,Default,,0,0,0,,Can't you land properly?
+Dialogue: 0,00:03:45.40,00:03:47.24,Default,,0,0,0,,It's all in vain
+Dialogue: 0,00:03:49.76,00:03:51.60,Default,,0,0,0,,Let's pick them up quickly!
+Dialogue: 0,00:03:56.72,00:03:57.36,Default,,0,0,0,,dad
+Dialogue: 0,00:03:57.40,00:03:58.16,Default,,0,0,0,,mother
+Dialogue: 0,00:04:05.08,00:04:05.56,Default,,0,0,0,,dad
+Dialogue: 0,00:04:12.92,00:04:13.56,Default,,0,0,0,,you…
+Dialogue: 0,00:04:13.56,00:04:14.36,Default,,0,0,0,,Who are you?
+Dialogue: 0,00:04:16.16,00:04:17.48,Default,,0,0,0,,Catch you!
+Dialogue: 0,00:04:18.92,00:04:20.08,Default,,0,0,0,,Pleasant goat
+Dialogue: 0,00:04:20.52,00:04:21.24,Default,,0,0,0,,elder brother!
+Dialogue: 0,00:04:21.40,00:04:22.44,Default,,0,0,0,,elder brother?
+Dialogue: 0,00:04:28.68,00:04:30.80,Default,,0,0,0,,I'll eat frogs tonight
+Dialogue: 0,00:04:35.92,00:04:36.80,Default,,0,0,0,,Where is the frog?
+Dialogue: 0,00:04:39.08,00:04:39.72,Default,,0,0,0,,There!
+Dialogue: 0,00:04:40.83,00:04:41.72,Default,,0,0,0,,Don't run!
+Dialogue: 0,00:04:59.80,00:05:01.68,Default,,0,0,0,,Haven't eaten meat for a long time
+Dialogue: 0,00:05:02.08,00:05:03.72,Default,,0,0,0,,Go home to add food
+Dialogue: 0,00:05:34.27,00:05:35.64,Default,,0,0,0,,Brother Brother Brother
+Dialogue: 0,00:05:35.96,00:05:36.88,Default,,0,0,0,,Little sister
+Dialogue: 0,00:05:36.92,00:05:38.12,Default,,0,0,0,,I'm not your brother
+Dialogue: 0,00:05:41.80,00:05:42.83,Default,,0,0,0,,Brother Brother!
+Dialogue: 0,00:05:43.08,00:05:44.68,Default,,0,0,0,,I am my sister!
+Dialogue: 0,00:05:47.76,00:05:49.32,Default,,0,0,0,,What a cute lamb!
+Dialogue: 0,00:05:49.64,00:05:51.20,Default,,0,0,0,,What's your name?
+Dialogue: 0,00:05:52.76,00:05:54.48,Default,,0,0,0,,My name is Bingbingyang!
+Dialogue: 0,00:05:55.04,00:05:56.56,Default,,0,0,0,,Then what is your brother’s name?
+Dialogue: 0,00:05:58.04,00:05:59.83,Default,,0,0,0,,Brother is called brother!
+Dialogue: 0,00:06:04.68,00:06:06.40,Default,,0,0,0,,What is dad and mom's name
+Dialogue: 0,00:06:07.40,00:06:08.68,Default,,0,0,0,,Dad called Dad
+Dialogue: 0,00:06:08.72,00:06:10.36,Default,,0,0,0,,Mom calls mom
+Dialogue: 0,00:06:12.92,00:06:14.20,Default,,0,0,0,,Since they are of the same race
+Dialogue: 0,00:06:14.40,00:06:15.56,Default,,0,0,0,,We took back to Sheep Village
+Dialogue: 0,00:06:15.60,00:06:17.12,Default,,0,0,0,,Ask whose child it is
+Dialogue: 0,00:06:18.00,00:06:19.80,Default,,0,0,0,,Let's go and ask the village chief!
+Dialogue: 0,00:06:23.20,00:06:24.16,Default,,0,0,0,,Where is the Bingbing Sheep?
+Dialogue: 0,00:06:26.27,00:06:27.00,Default,,0,0,0,,There!
+Dialogue: 0,00:06:28.00,00:06:29.76,Default,,0,0,0,,Find your brother! Find your brother!
+Dialogue: 0,00:06:29.83,00:06:30.80,Default,,0,0,0,,Don't run away!
+Dialogue: 0,00:06:31.96,00:06:32.60,Default,,0,0,0,,Bingbing Sheep
+Dialogue: 0,00:06:32.64,00:06:33.83,Default,,0,0,0,,You wait for us...
+Dialogue: 0,00:06:47.40,00:06:49.00,Default,,0,0,0,,God really helps me!
+Dialogue: 0,00:06:50.76,00:06:51.60,Default,,0,0,0,,strangeness
+Dialogue: 0,00:06:52.76,00:06:53.44,Default,,0,0,0,,Just now
+Dialogue: 0,00:06:53.56,00:06:55.80,Default,,0,0,0,,I could hear the sound of Bingbing Sheep
+Dialogue: 0,00:06:55.83,00:06:57.32,Default,,0,0,0,,Look there!
+Dialogue: 0,00:07:03.48,00:07:04.80,Default,,0,0,0,,Don't want to be injured
+Dialogue: 0,00:07:04.83,00:07:06.80,Default,,0,0,0,,Just help me unseal it...
+Dialogue: 0,00:07:07.36,00:07:08.52,Default,,0,0,0,,Otherwise
+Dialogue: 0,00:07:08.64,00:07:10.64,Default,,0,0,0,,Don't blame me for being rude...
+Dialogue: 0,00:07:10.68,00:07:11.16,Default,,0,0,0,,stop
+Dialogue: 0,00:07:13.24,00:07:13.88,Default,,0,0,0,,Big Big Wolf
+Dialogue: 0,00:07:13.96,00:07:14.60,Default,,0,0,0,,Do you want to frick
+Dialogue: 0,00:07:15.08,00:07:17.16,Default,,0,0,0,,Even the little girls want to bully
+Dialogue: 0,00:07:18.12,00:07:19.80,Default,,0,0,0,,It's okay, Bingbing Sheep
+Dialogue: 0,00:07:20.12,00:07:21.00,Default,,0,0,0,,It's OK…
+Dialogue: 0,00:07:21.96,00:07:24.08,Default,,0,0,0,,It's very dangerous for a little girl to run around
+Dialogue: 0,00:07:24.72,00:07:25.08,Default,,0,0,0,,Come on, let's go home first
+Dialogue: 0,00:07:25.20,00:07:26.40,Default,,0,0,0,,Let's go home first!
+Dialogue: 0,00:07:28.92,00:07:29.76,Default,,0,0,0,,No way to leave
+Dialogue: 0,00:07:31.08,00:07:31.84,Default,,0,0,0,,Big Big Wolf
+Dialogue: 0,00:07:32.72,00:07:33.72,Default,,0,0,0,,You can go
+Dialogue: 0,00:07:34.40,00:07:36.48,Default,,0,0,0,,But this little thing is not allowed to leave
+Dialogue: 0,00:07:37.24,00:07:38.88,Default,,0,0,0,,Big Big Wolf, what's wrong with you?
+Dialogue: 0,00:07:39.40,00:07:40.04,Default,,0,0,0,,Stop being rude!
+Dialogue: 0,00:07:40.12,00:07:40.96,Default,,0,0,0,,Let go quickly!
+Dialogue: 0,00:07:46.16,00:07:47.24,Default,,0,0,0,,Pleasant Goat...
+Dialogue: 0,00:07:48.12,00:07:49.56,Default,,0,0,0,,Is it okay? Pleasant goat?
+Dialogue: 0,00:07:50.08,00:07:51.60,Default,,0,0,0,,What are you fricking, Big Big Wolf?
+Dialogue: 0,00:07:52.68,00:07:54.12,Default,,0,0,0,,Come down with me quickly!
+Dialogue: 0,00:07:55.52,00:07:57.16,Default,,0,0,0,,What happened to Big Big Wolf?
+Dialogue: 0,00:07:57.36,00:07:58.20,Default,,0,0,0,,Next!
+Dialogue: 0,00:08:03.12,00:08:04.20,Default,,0,0,0,,Bingbing Sheep
+Dialogue: 0,00:08:07.64,00:08:08.84,Default,,0,0,0,,It's okay, Bingbing Sheep
+Dialogue: 0,00:08:09.24,00:08:11.16,Default,,0,0,0,,Fun, fun
+Dialogue: 0,00:08:11.36,00:08:12.04,Default,,0,0,0,,Big Big Wolf
+Dialogue: 0,00:08:12.08,00:08:13.64,Default,,0,0,0,,How do you treat children like this!
+Dialogue: 0,00:08:14.28,00:08:15.96,Default,,0,0,0,,You are a father!
+Dialogue: 0,00:08:16.12,00:08:17.60,Default,,0,0,0,,What happened to you today
+Dialogue: 0,00:08:17.96,00:08:19.92,Default,,0,0,0,,You're so upset
+Dialogue: 0,00:08:21.52,00:08:23.32,Default,,0,0,0,,Strengthened modification
+Dialogue: 0,00:08:31.08,00:08:32.64,Default,,0,0,0,,All will disappear to me
+Dialogue: 0,00:08:38.32,00:08:39.16,Default,,0,0,0,,Pleasant Goat!
+Dialogue: 0,00:08:39.52,00:08:40.52,Default,,0,0,0,,Big Big Wolf, you...
+Dialogue: 0,00:08:45.44,00:08:46.88,Default,,0,0,0,,This weapon is so powerful!
+Dialogue: 0,00:08:47.24,00:08:48.72,Default,,0,0,0,,Everyone, hurry away from Big Big Wolf!
+Dialogue: 0,00:08:48.96,00:08:50.08,Default,,0,0,0,,He seems to be a little strange
+Dialogue: 0,00:09:14.44,00:09:15.88,Default,,0,0,0,,Bingbing Sheep, you're fine
+Dialogue: 0,00:09:20.92,00:09:22.28,Default,,0,0,0,,Gray...too...wolf
+Dialogue: 0,00:09:22.60,00:09:24.24,Default,,0,0,0,,I'm Pleasant Goat
+Dialogue: 0,00:09:25.40,00:09:26.00,Default,,0,0,0,,I…
+Dialogue: 0,00:09:26.20,00:09:27.92,Default,,0,0,0,,We are good friends
+Dialogue: 0,00:09:32.32,00:09:33.08,Default,,0,0,0,,This...this is
+Dialogue: 0,00:09:34.60,00:09:35.72,Default,,0,0,0,,Affordable
+Dialogue: 0,00:09:35.88,00:09:37.48,Default,,0,0,0,,It should be eliminated
+Dialogue: 0,00:10:07.28,00:10:08.08,Default,,0,0,0,,Pleasant goat
+Dialogue: 0,00:10:08.48,00:10:10.20,Default,,0,0,0,,There is no more slag left
+Dialogue: 0,00:10:11.24,00:10:12.24,Default,,0,0,0,,It's a cheater
+Dialogue: 0,00:10:13.48,00:10:14.55,Default,,0,0,0,,He's there
+Dialogue: 0,00:10:20.36,00:10:21.96,Default,,0,0,0,,How did he hide from that gun
+Dialogue: 0,00:10:22.00,00:10:23.12,Default,,0,0,0,,Go there
+Dialogue: 0,00:10:23.72,00:10:24.64,Default,,0,0,0,,What's going on
+Dialogue: 0,00:10:25.20,00:10:26.20,Default,,0,0,0,,Feeling unable to control
+Dialogue: 0,00:10:26.24,00:10:27.67,Default,,0,0,0,,Your body's speed is
+Dialogue: 0,00:10:32.88,00:10:33.64,Default,,0,0,0,,My shoes
+Dialogue: 0,00:10:33.80,00:10:34.48,Default,,0,0,0,,Changed?
+Dialogue: 0,00:10:36.00,00:10:36.76,Default,,0,0,0,,It's hard to tell...
+Dialogue: 0,00:10:38.44,00:10:39.28,Default,,0,0,0,,Difficult to tell
+Dialogue: 0,00:10:39.32,00:10:41.40,Default,,0,0,0,,He used the energy of the super cube
+Dialogue: 0,00:10:42.48,00:10:45.28,Default,,0,0,0,,Then you disappear with the Rubik's Cube
+Dialogue: 0,00:10:50.20,00:10:50.96,Default,,0,0,0,,My speed
+Dialogue: 0,00:10:51.12,00:10:52.08,Default,,0,0,0,,Sure enough, it's getting faster
+Dialogue: 0,00:11:08.44,00:11:09.48,Default,,0,0,0,,Oops Oops
+Dialogue: 0,00:11:09.92,00:11:11.84,Default,,0,0,0,,What should I do if something has a ghost?
+Dialogue: 0,00:11:12.64,00:11:13.64,Default,,0,0,0,,Me too…
+Dialogue: 0,00:11:14.55,00:11:15.24,Default,,0,0,0,,Your attack
+Dialogue: 0,00:11:15.28,00:11:16.55,Default,,0,0,0,,It's invalid for me
+Dialogue: 0,00:11:17.24,00:11:18.64,Default,,0,0,0,,Decide to the beef, Big Grey
+Dialogue: 0,00:11:19.20,00:11:19.76,Default,,0,0,0,,Here
+Dialogue: 0,00:11:20.60,00:11:21.67,Default,,0,0,0,,Firepower is fully opened!
+Dialogue: 0,00:11:38.24,00:11:39.76,Default,,0,0,0,,Are you okay?
+Dialogue: 0,00:11:43.44,00:11:45.12,Default,,0,0,0,,Why are you here?
+Dialogue: 0,00:11:45.52,00:11:45.96,Default,,0,0,0,,you…
+Dialogue: 0,00:11:46.40,00:11:48.76,Default,,0,0,0,,Did I miss your brain?
+Dialogue: 0,00:11:49.64,00:11:52.00,Default,,0,0,0,,You're just holding a super powerful weapon
+Dialogue: 0,00:11:52.00,00:11:53.16,Default,,0,0,0,,Chasing us and fighting
+Dialogue: 0,00:11:53.16,00:11:54.16,Default,,0,0,0,,You won't do anything
+Dialogue: 0,00:11:54.20,00:11:55.24,Default,,0,0,0,,It's not happening
+Dialogue: 0,00:11:56.20,00:11:57.20,Default,,0,0,0,,What nonsense
+Dialogue: 0,00:11:57.24,00:11:58.76,Default,,0,0,0,,Why would I chase you and fight
+Dialogue: 0,00:11:59.24,00:12:01.52,Default,,0,0,0,,I just want to catch a frog
+Dialogue: 0,00:12:04.36,00:12:05.52,Default,,0,0,0,,I'm almost hungry
+Dialogue: 0,00:12:05.52,00:12:06.48,Default,,0,0,0,,Not coming back yet
+Dialogue: 0,00:12:07.00,00:12:07.84,Default,,0,0,0,,I'll come back soon
+Dialogue: 0,00:12:07.88,00:12:08.84,Default,,0,0,0,,Come back soon
+Dialogue: 0,00:12:09.32,00:12:10.72,Default,,0,0,0,,I'm going home to cook
+Dialogue: 0,00:12:10.88,00:12:12.04,Default,,0,0,0,,Let's talk about it next time
+Dialogue: 0,00:12:14.96,00:12:15.72,Default,,0,0,0,,Bingbing sheep!
+Dialogue: 0,00:12:17.88,00:12:19.32,Default,,0,0,0,,Take her back to Yang Village for treatment!
+Dialogue: 0,00:12:25.67,00:12:26.76,Default,,0,0,0,,Bingbingyang
+Dialogue: 0,00:12:27.40,00:12:30.08,Default,,0,0,0,,There is no record of her in the clan
+Dialogue: 0,00:12:30.88,00:12:31.48,Default,,0,0,0,,Then ~
+Dialogue: 0,00:12:31.48,00:12:33.92,Default,,0,0,0,,Is it hard to be a child from other villages
+Dialogue: 0,00:12:34.48,00:12:35.44,Default,,0,0,0,,It's possible
+Dialogue: 0,00:12:36.60,00:12:37.84,Default,,0,0,0,,Now we can only
+Dialogue: 0,00:12:37.88,00:12:40.04,Default,,0,0,0,,Take Bingbing Sheep in first
+Dialogue: 0,00:12:41.04,00:12:43.52,Default,,0,0,0,,Until her parents are found
+Dialogue: 0,00:12:43.96,00:12:44.84,Default,,0,0,0,,and…
+Dialogue: 0,00:12:45.40,00:12:46.84,Default,,0,0,0,,This mysterious box...
+Dialogue: 0,00:12:48.84,00:12:50.40,Default,,0,0,0,,I remember hitting it at that time
+Dialogue: 0,00:12:52.16,00:12:54.64,Default,,0,0,0,,A sudden energy swelled into the body
+Dialogue: 0,00:12:57.00,00:12:58.72,Default,,0,0,0,,But after the ability disappears
+Dialogue: 0,00:12:59.12,00:13:00.36,Default,,0,0,0,,How to touch it
+Dialogue: 0,00:13:00.52,00:13:01.72,Default,,0,0,0,,No response...
+Dialogue: 0,00:13:02.44,00:13:03.72,Default,,0,0,0,,Dad told me
+Dialogue: 0,00:13:03.84,00:13:05.52,Default,,0,0,0,,This is called the Super Power Cube!
+Dialogue: 0,00:13:06.20,00:13:08.84,Default,,0,0,0,,It turned out to be Bingbing Sheep's father's thing
+Dialogue: 0,00:13:09.28,00:13:11.20,Default,,0,0,0,,Leave it to me for research first
+Dialogue: 0,00:13:11.36,00:13:13.72,Default,,0,0,0,,See if you can find any traces
+Dialogue: 0,00:13:14.20,00:13:15.84,Default,,0,0,0,,Looking for Bingbing Sheep's parents
+Dialogue: 0,00:13:15.88,00:13:17.20,Default,,0,0,0,,I'll give it to you
+Dialogue: 0,00:13:17.20,00:13:18.04,Default,,0,0,0,,good!
+Dialogue: 0,00:13:19.55,00:13:20.08,Default,,0,0,0,,Right
+Dialogue: 0,00:13:20.20,00:13:21.60,Default,,0,0,0,,Pleasant Goat Your Dad Mother
+Dialogue: 0,00:13:21.64,00:13:22.84,Default,,0,0,0,,Haven't come back yet
+Dialogue: 0,00:13:25.08,00:13:25.72,Default,,0,0,0,,them
+Dialogue: 0,00:13:25.76,00:13:26.92,Default,,0,0,0,,Should be busy
+Dialogue: 0,00:13:27.52,00:13:29.28,Default,,0,0,0,,I haven't been back yet
+Dialogue: 0,00:13:31.60,00:13:33.40,Default,,0,0,0,,Don't know Bingbing Sheep's father and mother
+Dialogue: 0,00:13:33.60,00:13:35.04,Default,,0,0,0,,What are you doing now
+Dialogue: 0,00:13:44.80,00:13:46.00,Default,,0,0,0,,Don't know the Pleasant Goat
+Dialogue: 0,00:13:46.20,00:13:47.92,Default,,0,0,0,,Do you want to accept this sister or not
+Dialogue: 0,00:13:50.67,00:13:52.16,Default,,0,0,0,,Hope he can accept it

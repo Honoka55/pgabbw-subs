@@ -1,0 +1,219 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:01:41.88,00:01:44.16,Default,,0,0,0,,Red Red takes his son back to his parents' home
+Dialogue: 0,00:01:44.16,00:01:46.04,Default,,0,0,0,,I can do my experiments with it
+Dialogue: 0,00:01:47.68,00:01:49.40,Default,,0,0,0,,hey-hey! The female devil is gone
+Dialogue: 0,00:01:49.44,00:01:52.04,Default,,0,0,0,,Hand over your body obediently. Big Grey Wolf
+Dialogue: 0,00:02:00.72,00:02:02.52,Default,,0,0,0,,Big Big Wolf I'm here!
+Dialogue: 0,00:02:12.12,00:02:13.96,Default,,0,0,0,,You want to control me again!
+Dialogue: 0,00:02:14.56,00:02:16.08,Default,,0,0,0,,This is your blessing
+Dialogue: 0,00:02:20.60,00:02:23.72,Default,,0,0,0,,I... I'm defiled! !
+Dialogue: 0,00:02:24.48,00:02:27.36,Default,,0,0,0,,Big Big Wolf No one is more dirty than you
+Dialogue: 0,00:02:27.40,00:02:29.80,Default,,0,0,0,,Now go wash my hands immediately!
+Dialogue: 0,00:02:29.80,00:02:31.52,Default,,0,0,0,,No one is more troublesome than you
+Dialogue: 0,00:02:31.52,00:02:34.04,Default,,0,0,0,,Disappear for me immediately!
+Dialogue: 0,00:02:36.63,00:02:37.68,Default,,0,0,0,,Who is it! ?
+Dialogue: 0,00:02:41.76,00:02:43.84,Default,,0,0,0,,Big Wolf We're here
+Dialogue: 0,00:02:44.80,00:02:46.52,Default,,0,0,0,,Why did so many wolves suddenly come
+Dialogue: 0,00:02:46.68,00:02:48.32,Default,,0,0,0,,Can't be discovered...
+Dialogue: 0,00:02:50.48,00:02:52.12,Default,,0,0,0,,What did you come...
+Dialogue: 0,00:02:52.44,00:02:54.63,Default,,0,0,0,,It was Red Wolf who called us
+Dialogue: 0,00:02:54.68,00:02:56.91,Default,,0,0,0,,She said you've been talking to the wall lately
+Dialogue: 0,00:02:56.91,00:02:58.40,Default,,0,0,0,,Unexplained vitality
+Dialogue: 0,00:02:58.40,00:03:01.36,Default,,0,0,0,,I'm afraid you're in a bad mood, so I'll ask us to accompany you
+Dialogue: 0,00:03:05.32,00:03:08.12,Default,,0,0,0,,It must have been seen by Honghong during the quarrel
+Dialogue: 0,00:03:09.88,00:03:13.08,Default,,0,0,0,,No need to welcome us, we can do it ourselves
+Dialogue: 0,00:03:13.08,00:03:15.76,Default,,0,0,0,,How can you take this as your home?
+Dialogue: 0,00:03:19.32,00:03:21.12,Default,,0,0,0,,Big Big Wolf Where is the phone?
+Dialogue: 0,00:03:21.16,00:03:22.96,Default,,0,0,0,,Big Big Wolf Where are you? ?
+Dialogue: 0,00:03:23.96,00:03:26.76,Default,,0,0,0,,Don't quarrel with me, you can watch it yourself
+Dialogue: 0,00:03:26.84,00:03:27.96,Default,,0,0,0,,It's so terrible
+Dialogue: 0,00:03:27.96,00:03:30.28,Default,,0,0,0,,Can't I take a serene experiment?
+Dialogue: 0,00:03:36.16,00:03:39.48,Default,,0,0,0,,Tolerance is beyond your reach! You made me have a real experience!
+Dialogue: 0,00:03:44.64,00:03:46.84,Default,,0,0,0,,Can you be at ease? ?
+Dialogue: 0,00:03:46.96,00:03:48.72,Default,,0,0,0,,Do you want to tear my house down? !
+Dialogue: 0,00:03:48.96,00:03:50.24,Default,,0,0,0,,You're too much!
+Dialogue: 0,00:03:59.24,00:04:01.04,Default,,0,0,0,,Why! Unable to communicate...
+Dialogue: 0,00:04:01.28,00:04:03.36,Default,,0,0,0,,Go back and have a practical experience...
+Dialogue: 0,00:04:09.60,00:04:11.68,Default,,0,0,0,,What are you going to frick you?
+Dialogue: 0,00:04:12.32,00:04:13.80,Default,,0,0,0,,Do you want to buy a facial mask?
+Dialogue: 0,00:04:14.56,00:04:15.88,Default,,0,0,0,,I... don't
+Dialogue: 0,00:04:16.60,00:04:18.88,Default,,0,0,0,,There is a smile mask
+Dialogue: 0,00:04:18.92,00:04:20.12,Default,,0,0,0,,Very suitable for you
+Dialogue: 0,00:04:20.16,00:04:20.96,Default,,0,0,0,,No
+Dialogue: 0,00:04:22.36,00:04:25.64,Default,,0,0,0,,Do you want to look at other things like this
+Dialogue: 0,00:04:25.88,00:04:29.96,Default,,0,0,0,,There is a pearl mask, rainbow door mask and clown mask
+Dialogue: 0,00:04:30.27,00:04:31.92,Default,,0,0,0,,There must be something suitable for you
+Dialogue: 0,00:04:31.92,00:04:33.24,Default,,0,0,0,,Buy two and get one free
+Dialogue: 0,00:04:35.12,00:04:36.48,Default,,0,0,0,,Where is Big Big Wolf?
+Dialogue: 0,00:04:37.12,00:04:38.40,Default,,0,0,0,,Can't stand it anymore
+Dialogue: 0,00:04:38.44,00:04:41.56,Default,,0,0,0,,I'm going to call Honghong and let them go back
+Dialogue: 0,00:04:41.76,00:04:45.16,Default,,0,0,0,,Hello! Forrest Gump, have you finished watching the cross-time and space rescue?
+Dialogue: 0,00:04:45.20,00:04:46.52,Default,,0,0,0,,There are sixty episodes in total
+Dialogue: 0,00:04:46.52,00:04:48.68,Default,,0,0,0,,Last time we talked about episode 5
+Dialogue: 0,00:04:49.27,00:04:50.52,Default,,0,0,0,,Nothing is OK
+Dialogue: 0,00:04:50.52,00:04:52.00,Default,,0,0,0,,It doesn't matter how long it takes to chat
+Dialogue: 0,00:04:52.04,00:04:53.52,Default,,0,0,0,,Oops No more
+Dialogue: 0,00:04:53.76,00:04:56.72,Default,,0,0,0,,Have you seen it? Isn't it very bad?
+Dialogue: 0,00:04:56.83,00:04:58.32,Default,,0,0,0,,It's super wonderful there!
+Dialogue: 0,00:04:58.80,00:05:00.92,Default,,0,0,0,,OK, look at it slowly, see again!
+Dialogue: 0,00:05:01.72,00:05:03.76,Default,,0,0,0,,Finally finished
+Dialogue: 0,00:05:06.00,00:05:07.56,Default,,0,0,0,,Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+Dialogue: 0,00:05:08.08,00:05:11.16,Default,,0,0,0,,In comparison, the bacteria are much more tranquil
+Dialogue: 0,00:05:13.04,00:05:15.27,Default,,0,0,0,,Big Big Wolf, you have today too!
+Dialogue: 0,00:05:16.40,00:05:17.27,Default,,0,0,0,,Very hungry
+Dialogue: 0,00:05:17.60,00:05:21.16,Default,,0,0,0,,First go to the kitchen to get some food and come back and then look forward to the food
+Dialogue: 0,00:05:22.12,00:05:23.27,Default,,0,0,0,,So many wolves
+Dialogue: 0,00:05:23.36,00:05:25.64,Default,,0,0,0,,Which one to catch the iced sheep?
+Dialogue: 0,00:05:26.80,00:05:27.40,Default,,0,0,0,,Who is it!
+Dialogue: 0,00:05:27.52,00:05:28.00,Default,,0,0,0,,Who is it!
+Dialogue: 0,00:05:28.00,00:05:28.96,Default,,0,0,0,,Who dares to be so arrogant!
+Dialogue: 0,00:05:34.32,00:05:35.80,Default,,0,0,0,,What's going on...
+Dialogue: 0,00:05:38.83,00:05:41.27,Default,,0,0,0,,Why did this guy hide here to paint
+Dialogue: 0,00:05:41.32,00:05:43.08,Default,,0,0,0,,It's so dirty
+Dialogue: 0,00:05:43.16,00:05:44.88,Default,,0,0,0,,The refrigerator is still so far away...
+Dialogue: 0,00:05:45.24,00:05:47.72,Default,,0,0,0,,It seems that I can only take risks!
+Dialogue: 0,00:05:53.80,00:05:56.24,Default,,0,0,0,,If you want to hit the king like this, do you want to hit the big king?
+Dialogue: 0,00:06:01.48,00:06:03.24,Default,,0,0,0,,Haha...hahaha...hahahaha!
+Dialogue: 0,00:06:03.27,00:06:04.72,Default,,0,0,0,,Easy to go
+Dialogue: 0,00:06:06.48,00:06:08.16,Default,,0,0,0,,What's going on this time! !
+Dialogue: 0,00:06:08.96,00:06:12.04,Default,,0,0,0,,It's so noisy outside, I'm still here to make clay guys
+Dialogue: 0,00:06:12.12,00:06:15.24,Default,,0,0,0,,Yes...and it's also very spiritual
+Dialogue: 0,00:06:16.48,00:06:18.52,Default,,0,0,0,,Really worthy of being an artist...
+Dialogue: 0,00:06:21.32,00:06:24.12,Default,,0,0,0,,This is not a kitchen, a battleground!
+Dialogue: 0,00:06:28.88,00:06:32.00,Default,,0,0,0,,The end is right in front! I'm already scared!
+Dialogue: 0,00:06:37.72,00:06:40.80,Default,,0,0,0,,Just practice here
+Dialogue: 0,00:06:51.04,00:06:52.32,Default,,0,0,0,,In comparison...
+Dialogue: 0,00:06:52.88,00:06:55.76,Default,,0,0,0,,Big Big Wolf is much cleaner
+Dialogue: 0,00:06:56.92,00:06:59.27,Default,,0,0,0,,These wolves are dirty
+Dialogue: 0,00:06:59.44,00:07:02.20,Default,,0,0,0,,I will control them and go home
+Dialogue: 0,00:07:02.76,00:07:04.48,Default,,0,0,0,,Start with the most unhealthy beginning!
+Dialogue: 0,00:07:07.72,00:07:09.16,Default,,0,0,0,,He actually hid!
+Dialogue: 0,00:07:11.76,00:07:12.44,Default,,0,0,0,,ah
+Dialogue: 0,00:07:15.48,00:07:17.52,Default,,0,0,0,,Forget it and go control him!
+Dialogue: 0,00:07:19.20,00:07:19.68,Default,,0,0,0,,ah!
+Dialogue: 0,00:07:22.64,00:07:24.00,Default,,0,0,0,,There is actually a snail!
+Dialogue: 0,00:07:25.72,00:07:27.64,Default,,0,0,0,,So dirty!
+Dialogue: 0,00:07:27.72,00:07:29.84,Default,,0,0,0,,This time you must succeed!
+Dialogue: 0,00:07:30.20,00:07:32.80,Default,,0,0,0,,Ahhhhhhhhhhhhhhhhhhhhhhh!
+Dialogue: 0,00:07:32.92,00:07:34.84,Default,,0,0,0,,Help!
+Dialogue: 0,00:07:40.16,00:07:40.96,Default,,0,0,0,,What is this...
+Dialogue: 0,00:07:41.68,00:07:44.72,Default,,0,0,0,,This washing machine is good. Make a mark and I will take it away
+Dialogue: 0,00:07:44.92,00:07:45.48,Default,,0,0,0,,ha?
+Dialogue: 0,00:07:46.08,00:07:48.64,Default,,0,0,0,,The quality of this phone is good, I took it away!
+Dialogue: 0,00:07:49.56,00:07:51.24,Default,,0,0,0,,Both are like this...
+Dialogue: 0,00:07:51.28,00:07:53.44,Default,,0,0,0,,You will give me a message! !
+Dialogue: 0,00:07:54.84,00:07:56.56,Default,,0,0,0,,By the way, Big Big Wolf...
+Dialogue: 0,00:07:57.32,00:07:59.64,Default,,0,0,0,,Say it well...
+Dialogue: 0,00:08:00.92,00:08:02.64,Default,,0,0,0,,It's so fun to have fun here
+Dialogue: 0,00:08:02.64,00:08:04.40,Default,,0,0,0,,I almost forgot to send it to you
+Dialogue: 0,00:08:04.76,00:08:06.44,Default,,0,0,0,,They are all specialties from their hometown
+Dialogue: 0,00:08:07.64,00:08:11.12,Default,,0,0,0,,Isn't this mud statue very realistic?
+Dialogue: 0,00:08:11.16,00:08:13.48,Default,,0,0,0,,I've been doing it for three days and three nights
+Dialogue: 0,00:08:14.36,00:08:16.56,Default,,0,0,0,,I've painted a portrait for you
+Dialogue: 0,00:08:17.28,00:08:18.56,Default,,0,0,0,,Everyone…
+Dialogue: 0,00:08:19.32,00:08:22.12,Default,,0,0,0,,Yes, what are you just saying
+Dialogue: 0,00:08:23.04,00:08:24.12,Default,,0,0,0,,Uh... nothing
+Dialogue: 0,00:08:27.68,00:08:29.56,Default,,0,0,0,,You can't finish eating this much
+Dialogue: 0,00:08:29.64,00:08:31.08,Default,,0,0,0,,Let's help you eat
+Dialogue: 0,00:08:36.76,00:08:39.04,Default,,0,0,0,,It's too difficult for them to rush away
+Dialogue: 0,00:08:39.32,00:08:42.12,Default,,0,0,0,,Unless you want to let them go by themselves
+Dialogue: 0,00:08:43.12,00:08:44.36,Default,,0,0,0,,Go by yourself?
+Dialogue: 0,00:08:44.96,00:08:47.96,Default,,0,0,0,,There is a way, but two people need to cooperate
+Dialogue: 0,00:08:51.88,00:08:53.20,Default,,0,0,0,,Happy cooperation...
+Dialogue: 0,00:08:58.80,00:09:00.44,Default,,0,0,0,,ah! !
+Dialogue: 0,00:09:01.72,00:09:03.08,Default,,0,0,0,,Who is calling out
+Dialogue: 0,00:09:03.32,00:09:05.84,Default,,0,0,0,,I'm going to sleep and I'm going to deal with him!
+Dialogue: 0,00:09:07.08,00:09:09.84,Default,,0,0,0,,A monster has entered the Wolf Castle! ! Come quickly
+Dialogue: 0,00:09:14.48,00:09:16.16,Default,,0,0,0,,You're sleeping poorly! !
+Dialogue: 0,00:09:16.96,00:09:18.16,Default,,0,0,0,,No...it's true!
+Dialogue: 0,00:09:22.08,00:09:24.88,Default,,0,0,0,,Look, why are you foggy?
+Dialogue: 0,00:09:31.92,00:09:34.24,Default,,0,0,0,,I still think I'm in danger
+Dialogue: 0,00:09:35.20,00:09:36.72,Default,,0,0,0,,I'll read the storybook to upload
+Dialogue: 0,00:09:36.72,00:09:39.20,Default,,0,0,0,,Usually, the monster will appear in this way
+Dialogue: 0,00:09:42.16,00:09:44.00,Default,,0,0,0,,Ahhh! !
+Dialogue: 0,00:09:44.48,00:09:46.32,Default,,0,0,0,,What is it called! I was scared!
+Dialogue: 0,00:09:46.40,00:09:47.96,Default,,0,0,0,,Will this darkness open the light? !
+Dialogue: 0,00:09:48.72,00:09:50.67,Default,,0,0,0,,You are really the faces of the Wolf tribe
+Dialogue: 0,00:09:50.72,00:09:52.52,Default,,0,0,0,,Look how calm I am!
+Dialogue: 0,00:09:56.36,00:09:57.92,Default,,0,0,0,,What sound is this?
+Dialogue: 0,00:10:00.16,00:10:01.96,Default,,0,0,0,,What a deep scratch
+Dialogue: 0,00:10:08.00,00:10:09.16,Default,,0,0,0,,There are also big footprints
+Dialogue: 0,00:10:09.67,00:10:11.72,Default,,0,0,0,,What kind of monster is it
+Dialogue: 0,00:10:12.48,00:10:17.60,Default,,0,0,0,,What's scary, too
+Dialogue: 0,00:10:19.76,00:10:21.24,Default,,0,0,0,,Ahhhhhh
+Dialogue: 0,00:10:23.24,00:10:25.08,Default,,0,0,0,,It's Big Wolf's voice
+Dialogue: 0,00:10:25.12,00:10:26.28,Default,,0,0,0,,We'll save him
+Dialogue: 0,00:10:28.80,00:10:31.04,Default,,0,0,0,,Big Big Wolf!
+Dialogue: 0,00:10:35.20,00:10:36.44,Default,,0,0,0,,ah! ! !
+Dialogue: 0,00:10:38.92,00:10:41.16,Default,,0,0,0,,Hello! Didn’t you come to save me? !
+Dialogue: 0,00:10:42.44,00:10:44.76,Default,,0,0,0,,They should have been scared to run away now
+Dialogue: 0,00:10:46.36,00:10:49.04,Default,,0,0,0,,We're back!
+Dialogue: 0,00:10:49.96,00:10:51.08,Default,,0,0,0,,Wait a moment!
+Dialogue: 0,00:10:54.04,00:10:55.48,Default,,0,0,0,,What a frick! ?
+Dialogue: 0,00:10:55.52,00:10:57.24,Default,,0,0,0,,I... it's late
+Dialogue: 0,00:10:57.28,00:10:59.76,Default,,0,0,0,,I'll go to the bottom of the monster first
+Dialogue: 0,00:11:00.24,00:11:03.80,Default,,0,0,0,,Big Big Wolf... How can you be a cannon fodder?
+Dialogue: 0,00:11:08.96,00:11:09.88,Default,,0,0,0,,Be careful
+Dialogue: 0,00:11:10.00,00:11:11.96,Default,,0,0,0,,Monster, I've fought with you
+Dialogue: 0,00:11:13.64,00:11:14.92,Default,,0,0,0,,ah
+Dialogue: 0,00:11:24.52,00:11:26.96,Default,,0,0,0,,Big Big Wolf I'll come to help you!
+Dialogue: 0,00:11:27.12,00:11:29.60,Default,,0,0,0,,No... Don't rush, calm!
+Dialogue: 0,00:11:40.55,00:11:42.60,Default,,0,0,0,,Too scary
+Dialogue: 0,00:11:43.96,00:11:45.12,Default,,0,0,0,,Run
+Dialogue: 0,00:11:45.67,00:11:47.48,Default,,0,0,0,,Finally left
+Dialogue: 0,00:11:47.72,00:11:49.96,Default,,0,0,0,,Ah, I forgot about the wolf! !
+Dialogue: 0,00:11:49.96,00:11:52.36,Default,,0,0,0,,How could we give you up?
+Dialogue: 0,00:11:52.96,00:11:54.00,Default,,0,0,0,,Second uncle
+Dialogue: 0,00:11:54.72,00:11:57.24,Default,,0,0,0,,I didn't expect you to love me
+Dialogue: 0,00:11:59.20,00:12:02.32,Default,,0,0,0,,It's so despicable, my face was scared
+Dialogue: 0,00:12:03.80,00:12:05.76,Default,,0,0,0,,This helper looked at this rough
+Dialogue: 0,00:12:05.76,00:12:07.20,Default,,0,0,0,,Unexpectedly, there was still some emotion
+Dialogue: 0,00:12:07.96,00:12:10.00,Default,,0,0,0,,This time, this king recognizes you
+Dialogue: 0,00:12:10.92,00:12:13.00,Default,,0,0,0,,This cooperation is still quite successful
+Dialogue: 0,00:12:13.64,00:12:16.28,Default,,0,0,0,,The "monster" played by King Tatsumoto is realistic
+Dialogue: 0,00:12:16.32,00:12:17.52,Default,,0,0,0,,What are you talking about?
+Dialogue: 0,00:12:17.92,00:12:21.52,Default,,0,0,0,,It was obviously a great show I played in front of them!
+Dialogue: 0,00:12:27.16,00:12:27.67,Default,,0,0,0,,Hello
+Dialogue: 0,00:12:28.20,00:12:30.40,Default,,0,0,0,,Big Wolf, you're fine
+Dialogue: 0,00:12:30.44,00:12:33.12,Default,,0,0,0,,When we got home, we found out that we had carried a statue and left!
+Dialogue: 0,00:12:33.16,00:12:35.08,Default,,0,0,0,,You... don't you blame us, do you? …
+Dialogue: 0,00:12:35.08,00:12:37.88,Default,,0,0,0,,It's okay, just be able to go back safely
+Dialogue: 0,00:12:39.32,00:12:40.80,Default,,0,0,0,,Then see again
+Dialogue: 0,00:12:43.28,00:12:45.32,Default,,0,0,0,,Who is plotting against this king!
+Dialogue: 0,00:12:45.84,00:12:47.72,Default,,0,0,0,,It's really hard to stand it
+Dialogue: 0,00:12:47.76,00:12:49.36,Default,,0,0,0,,Please give me clean
+Dialogue: 0,00:12:50.48,00:12:52.76,Default,,0,0,0,,I can't kill a wolf
+Dialogue: 0,00:12:53.04,00:12:55.08,Default,,0,0,0,,No, too dirty
+Dialogue: 0,00:12:55.72,00:12:56.60,Default,,0,0,0,,unless…
+Dialogue: 0,00:12:58.44,00:13:00.67,Default,,0,0,0,,Someone can help me
+Dialogue: 0,00:13:05.16,00:13:07.24,Default,,0,0,0,,It actually made this king help me to sweep
+Dialogue: 0,00:13:08.04,00:13:09.88,Default,,0,0,0,,I won't let you go!
+Dialogue: 0,00:13:10.84,00:13:13.36,Default,,0,0,0,,I almost forgot to wash the red skirt
+Dialogue: 0,00:13:13.48,00:13:15.80,Default,,0,0,0,,I've solved it for you
+Dialogue: 0,00:13:17.76,00:13:19.88,Default,,0,0,0,,Are you saying you've washed?
+Dialogue: 0,00:13:20.16,00:13:22.20,Default,,0,0,0,,It's already thrown away, too dirty
+Dialogue: 0,00:13:23.20,00:13:23.96,Default,,0,0,0,,Throwed it?
+Dialogue: 0,00:13:24.16,00:13:26.88,Default,,0,0,0,,How did you throw away the red skirt?
+Dialogue: 0,00:13:27.55,00:13:29.36,Default,,0,0,0,,Yes, it's too dirty
+Dialogue: 0,00:13:29.60,00:13:31.88,Default,,0,0,0,,That's her favorite skirt
+Dialogue: 0,00:13:31.88,00:13:34.52,Default,,0,0,0,,Where did you throw her skirt? Say it quickly!
+Dialogue: 0,00:13:35.00,00:13:37.04,Default,,0,0,0,,Don't know the trash can
+Dialogue: 0,00:13:40.04,00:13:42.55,Default,,0,0,0,,Retrieve me back
+Dialogue: 0,00:13:45.76,00:13:48.32,Default,,0,0,0,,You actually dare to dirty this king!
+Dialogue: 0,00:13:48.76,00:13:51.00,Default,,0,0,0,,I'm not going to be with you! !
+Dialogue: 0,00:13:52.16,00:13:54.96,Default,,0,0,0,,Go out of my castle! Make a dream! Look at the trick!
