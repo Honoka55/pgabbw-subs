@@ -68,7 +68,7 @@
     <div id="credit">
         Your views contribute to the official YouTube channel. This site only provides translated subtitles.
         Subtitle technology powered by <a href="https://github.com/SunnyLi/videojs-ass" target="_blank">videojs-ass</a>.
-        Translations provided by <a href="https://xyy.fandom.com/wiki/User:Big_Humphrey" target="_blank">Venn</a>, using <a href="https://tools.newzone.top/en/subtitle-translator">Subtitle Translation Tool</a>.
+        Translations provided by <a href="https://xyy.miraheze.org/wiki/User:Big_Humphrey" target="_blank">Venn</a>, using <a href="https://tools.newzone.top/en/subtitle-translator">Subtitle Translation Tool</a>.
         The translation is machine-assisted and may contain inaccuracies.
     </div>
 
@@ -154,7 +154,7 @@
                 }, 0);
             });
 
-            const wikiUrl = `https://xyy.fandom.com/api.php?action=parse&page=Template:Episode/${season.title.replace(/ /g, '_')}.json&prop=wikitext&formatversion=2&format=json&origin=*`;
+            const wikiUrl = `https://xyy.miraheze.org/w/api.php?action=parse&page=Template:Episode/${season.title.replace(/ /g, '_')}.json&prop=wikitext&formatversion=2&format=json&origin=*`;
             fetch(wikiUrl)
                 .then(res => res.json())
                 .then(data => {
@@ -168,7 +168,7 @@
                     if (epInfo.suffix) {
                         title += ` (${epInfo.suffix})`;
                     }
-                    const pageUrl = `https://xyy.fandom.com/wiki/${escapeTitle(title)}`;
+                    const pageUrl = `https://xyy.miraheze.org/wiki/${escapeTitle(title)}`;
                     document.getElementById('wiki-link').innerHTML = `<a class="wiki-ep" href="${pageUrl}" target="_blank">${epInfo.english}</a>`;
                 })
                 .catch(() => {
