@@ -16,7 +16,7 @@ Style: Default,Arial,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,00:00:22.21,00:00:23.13,Default,,0,0,0,,- oops
 - oops
-Dialogue: 0,00:00:24.21,00:00:25.01,Default,,0,0,0,,Beautiful sheep
+Dialogue: 0,00:00:24.21,00:00:25.01,Default,,0,0,0,,Tibbie
 Dialogue: 0,00:00:25.25,00:00:26.41,Default,,0,0,0,,- You're fine
 - I'm fine
 Dialogue: 0,00:00:27.81,00:00:28.63,Default,,0,0,0,,Excuse me
@@ -30,7 +30,7 @@ Dialogue: 0,00:00:56.85,00:00:57.61,Default,,0,0,0,,- alright
 - alright
 Dialogue: 0,00:00:58.25,00:01:01.29,Default,,0,0,0,,- Thank you brother and sister
 - Thank you brother and sister
-Dialogue: 0,00:01:01.53,00:01:03.21,Default,,0,0,0,,Pleasant Goat, look
+Dialogue: 0,00:01:01.53,00:01:03.21,Default,,0,0,0,,Weslie, look
 Dialogue: 0,00:01:03.37,00:01:05.37,Default,,0,0,0,,There are frogs in the bird's trunk
 Dialogue: 0,00:01:05.89,00:01:08.59,Default,,0,0,0,,The people in the Science and Technology City are really interesting
 Dialogue: 0,00:01:08.61,00:01:11.05,Default,,0,0,0,,Have been walking, don't miss it
@@ -49,7 +49,7 @@ Dialogue: 0,00:02:51.37,00:02:52.01,Default,,0,0,0,,ah…
 Dialogue: 0,00:02:56.53,00:02:58.25,Default,,0,0,0,,It turns out to be a
 Dialogue: 0,00:03:09.93,00:03:10.73,Default,,0,0,0,,-oops
 -oops
-Dialogue: 0,00:03:11.13,00:03:11.83,Default,,0,0,0,,Beautiful sheep
+Dialogue: 0,00:03:11.13,00:03:11.83,Default,,0,0,0,,Tibbie
 Dialogue: 0,00:03:11.85,00:03:12.91,Default,,0,0,0,,You're fine
 Dialogue: 0,00:03:12.93,00:03:13.85,Default,,0,0,0,,It's OK
 Dialogue: 0,00:03:19.21,00:03:22.37,Default,,0,0,0,,Let's go find the Elephant Star Stone Fragments together
@@ -64,7 +64,7 @@ Dialogue: 0,00:03:54.49,00:03:57.75,Default,,0,0,0,,That's our company's latest 
 Dialogue: 0,00:03:57.77,00:04:00.77,Default,,0,0,0,,Very thin and can blow up
 Dialogue: 0,00:04:03.37,00:04:04.75,Default,,0,0,0,,Really flying away
 Dialogue: 0,00:04:04.77,00:04:06.41,Default,,0,0,0,,Ah my phone...
-Dialogue: 0,00:04:07.21,00:04:08.21,Default,,0,0,0,,Pleasant goat
+Dialogue: 0,00:04:07.21,00:04:08.21,Default,,0,0,0,,Weslie
 Dialogue: 0,00:04:08.41,00:04:11.05,Default,,0,0,0,,Do you have a very familiar feeling?
 Dialogue: 0,00:04:11.81,00:04:13.41,Default,,0,0,0,,You feel this way, too
 Dialogue: 0,00:04:32.97,00:04:34.81,Default,,0,0,0,,No, it's going to run away
@@ -88,7 +88,7 @@ Dialogue: 0,00:06:07.05,00:06:07.81,Default,,0,0,0,,Defeat it
 Dialogue: 0,00:06:09.41,00:06:10.09,Default,,0,0,0,,cooperate
 Dialogue: 0,00:06:16.65,00:06:19.01,Default,,0,0,0,,Where is the monster hidden?
 Dialogue: 0,00:06:21.01,00:06:22.57,Default,,0,0,0,,I want to kick off the ball
-Dialogue: 0,00:06:27.05,00:06:28.53,Default,,0,0,0,,What's the Pleasant Goat
+Dialogue: 0,00:06:27.05,00:06:28.53,Default,,0,0,0,,What's Weslie
 Dialogue: 0,00:06:28.85,00:06:30.21,Default,,0,0,0,,Do you feel
 Dialogue: 0,00:06:30.33,00:06:33.21,Default,,0,0,0,,The little boy there was a bit strange sound
 Dialogue: 0,00:06:37.61,00:06:38.89,Default,,0,0,0,,Any questions?
@@ -126,14 +126,14 @@ Dialogue: 0,00:10:42.97,00:10:45.21,Default,,0,0,0,,Don't waste your time and ti
 Dialogue: 0,00:10:46.97,00:10:48.33,Default,,0,0,0,,What's going on
 Dialogue: 0,00:10:50.41,00:10:54.05,Default,,0,0,0,,Sorry, I can't walk with you anymore
 Dialogue: 0,00:10:57.05,00:10:59.05,Default,,0,0,0,,Time recovery…
-Dialogue: 0,00:11:06.97,00:11:07.97,Default,,0,0,0,,Beautiful sheep
+Dialogue: 0,00:11:06.97,00:11:07.97,Default,,0,0,0,,Tibbie
 Dialogue: 0,00:11:10.21,00:11:11.33,Default,,0,0,0,,Here is...
 Dialogue: 0,00:11:12.21,00:11:14.61,Default,,0,0,0,,This is the first time I've met a monster
 Dialogue: 0,00:11:15.05,00:11:16.85,Default,,0,0,0,,It seems that time has recovered
 Dialogue: 0,00:11:17.33,00:11:19.09,Default,,0,0,0,,Oops Card...
 Dialogue: 0,00:11:19.61,00:11:20.69,Default,,0,0,0,,The shadow is not there either
 Dialogue: 0,00:11:21.33,00:11:23.85,Default,,0,0,0,,It seems that the card has been taken away by her
-Dialogue: 0,00:11:25.89,00:11:28.05,Default,,0,0,0,,Pleasant Goat What do you want to frick
+Dialogue: 0,00:11:25.89,00:11:28.05,Default,,0,0,0,,Weslie What do you want to do
 Dialogue: 0,00:11:39.01,00:11:42.09,Default,,0,0,0,,Finally caught up. Thank you
 Dialogue: 0,00:11:44.05,00:11:45.89,Default,,0,0,0,,It seems that time has recovered
 Dialogue: 0,00:11:52.49,00:11:53.37,Default,,0,0,0,,Uncle is there

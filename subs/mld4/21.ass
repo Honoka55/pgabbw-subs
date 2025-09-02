@@ -14,7 +14,7 @@ Style: Default,Arial,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,00:00:21.02,00:00:21.70,Default,,0,0,0,,Boiling sheep
+Dialogue: 0,00:00:21.02,00:00:21.70,Default,,0,0,0,,Sparky
 Dialogue: 0,00:00:22.94,00:00:24.74,Default,,0,0,0,,We didn't find the monster here
 Dialogue: 0,00:00:25.06,00:00:26.70,Default,,0,0,0,,Then find it and contact us
 Dialogue: 0,00:00:27.26,00:00:27.70,Default,,0,0,0,,Um
@@ -27,7 +27,7 @@ Dialogue: 0,00:00:43.10,00:00:44.62,Default,,0,0,0,,Need to be tight when lookin
 Dialogue: 0,00:00:46.18,00:00:47.38,Default,,0,0,0,,The monster is here
 Dialogue: 0,00:00:50.02,00:00:51.58,Default,,0,0,0,,We're here right now
 Dialogue: 0,00:00:54.94,00:01:01.46,Default,,0,0,0,,It's...
-Dialogue: 0,00:01:02.82,00:01:04.74,Default,,0,0,0,,You're OK with Nuanyangyang
+Dialogue: 0,00:01:02.82,00:01:04.74,Default,,0,0,0,,You're OK with Jonie
 Dialogue: 0,00:01:08.06,00:01:08.98,Default,,0,0,0,,I'm fine
 Dialogue: 0,00:01:09.86,00:01:11.06,Default,,0,0,0,,Then let's go quickly
 Dialogue: 0,00:01:20.14,00:01:22.38,Default,,0,0,0,,I also collected a card for the doctor
@@ -40,10 +40,10 @@ Dialogue: 0,00:01:40.66,00:01:41.78,Default,,0,0,0,,elder brother
 Dialogue: 0,00:01:47.30,00:01:49.82,Default,,0,0,0,,I won't win the same move for the second time
 Dialogue: 0,00:01:57.22,00:01:58.10,Default,,0,0,0,,See you again
 Dialogue: 0,00:01:58.38,00:02:01.46,Default,,0,0,0,,Oh…
-Dialogue: 0,00:02:01.70,00:02:02.46,Default,,0,0,0,,Big Big Wolf
+Dialogue: 0,00:02:01.70,00:02:02.46,Default,,0,0,0,,Wolffy
 Dialogue: 0,00:02:03.46,00:02:04.38,Default,,0,0,0,,Shield monster
 Dialogue: 0,00:02:09.50,00:02:10.86,Default,,0,0,0,,Very hard to fight
-Dialogue: 0,00:02:13.22,00:02:14.28,Default,,0,0,0,,Pleasant Goat Brother
+Dialogue: 0,00:02:13.22,00:02:14.28,Default,,0,0,0,,Weslie Brother
 Dialogue: 0,00:02:14.30,00:02:15.82,Default,,0,0,0,,Why are you here
 Dialogue: 0,00:02:17.26,00:02:19.66,Default,,0,0,0,,We were beaten by the monsters there
 Dialogue: 0,00:02:20.78,00:02:22.02,Default,,0,0,0,,Hahaha
@@ -53,7 +53,7 @@ Dialogue: 0,00:02:29.58,00:02:31.18,Default,,0,0,0,,It's the same as many
 Dialogue: 0,00:02:43.26,00:02:46.62,Default,,0,0,0,,Are you looking for me if you have something to do?
 Dialogue: 0,00:02:59.58,00:03:00.40,Default,,0,0,0,,elder brother
 Dialogue: 0,00:03:00.42,00:03:01.18,Default,,0,0,0,,not good
-Dialogue: 0,00:03:01.66,00:03:03.78,Default,,0,0,0,,Xiao Huihui takes good care of Xiao Yu
+Dialogue: 0,00:03:01.66,00:03:03.78,Default,,0,0,0,,Wilie takes good care of Xiao Yu
 Dialogue: 0,00:03:04.10,00:03:04.38,Default,,0,0,0,,Um
 Dialogue: 0,00:03:15.58,00:03:16.46,Default,,0,0,0,,It's okay
 Dialogue: 0,00:03:17.26,00:03:18.26,Default,,0,0,0,,More carefree things

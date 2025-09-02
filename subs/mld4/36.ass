@@ -15,13 +15,13 @@ Style: Default,Arial,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,00:00:26.73,00:00:27.77,Default,,0,0,0,,Red
-Dialogue: 0,00:00:28.37,00:00:29.49,Default,,0,0,0,,What to frick
+Dialogue: 0,00:00:28.37,00:00:29.49,Default,,0,0,0,,What to do
 Dialogue: 0,00:00:30.09,00:00:32.17,Default,,0,0,0,,Sorry, I'm wrong
 Dialogue: 0,00:00:38.25,00:00:39.77,Default,,0,0,0,,I've recognized it
 Dialogue: 0,00:00:41.49,00:00:44.45,Default,,0,0,0,,It's okay, look for it again, don't give up
 Dialogue: 0,00:00:45.81,00:00:46.89,Default,,0,0,0,,Don't give up
 Dialogue: 0,00:00:48.73,00:00:51.01,Default,,0,0,0,,Mom Mom
-Dialogue: 0,00:00:55.41,00:00:56.21,Default,,0,0,0,,Beautiful sheep
+Dialogue: 0,00:00:55.41,00:00:56.21,Default,,0,0,0,,Tibbie
 Dialogue: 0,00:00:56.33,00:00:58.37,Default,,0,0,0,,What's wrong with you in such a hurry to come to us
 Dialogue: 0,00:00:59.01,00:01:00.01,Default,,0,0,0,,未分
 Dialogue: 0,00:01:03.05,00:01:05.81,Default,,0,0,0,,You might as well want to ask us to visit the museum
@@ -54,7 +54,7 @@ Dialogue: 0,00:02:18.25,00:02:20.81,Default,,0,0,0,,Maybe you will find more inf
 Dialogue: 0,00:02:21.73,00:02:23.49,Default,,0,0,0,,What is the plan of a mysterious person
 Dialogue: 0,00:02:23.69,00:02:24.85,Default,,0,0,0,,We haven't known
 Dialogue: 0,00:02:25.57,00:02:27.21,Default,,0,0,0,,Only the mysterious person is found
-Dialogue: 0,00:02:27.33,00:02:29.89,Default,,0,0,0,,There is a chance to restore the normalcy of Big Big Wolf
+Dialogue: 0,00:02:27.33,00:02:29.89,Default,,0,0,0,,There is a chance to restore the normalcy of Wolffy
 Dialogue: 0,00:02:31.01,00:02:33.41,Default,,0,0,0,,If you say it right, we will follow her
 Dialogue: 0,00:02:38.29,00:02:39.17,Default,,0,0,0,,She went in
 Dialogue: 0,00:02:40.37,00:02:40.77,Default,,0,0,0,,Walk
@@ -108,7 +108,7 @@ Dialogue: 0,00:06:29.37,00:06:31.95,Default,,0,0,0,,Stop you to sleep, let's go
 Dialogue: 0,00:06:31.97,00:06:34.81,Default,,0,0,0,,You continue... and continue to sleep and look back
 Dialogue: 0,00:06:35.13,00:06:37.37,Default,,0,0,0,,I want to eat you
 Dialogue: 0,00:06:37.65,00:06:40.85,Default,,0,0,0,,Didn't it mean that the museum should be kept peaceful?
-Dialogue: 0,00:06:41.49,00:06:43.65,Default,,0,0,0,,Are you fricking here because you're so quarrel
+Dialogue: 0,00:06:41.49,00:06:43.65,Default,,0,0,0,,Are you doing here because you're so quarrel
 Dialogue: 0,00:06:48.57,00:06:50.77,Default,,0,0,0,,The dinosaur... is alive...
 Dialogue: 0,00:06:51.05,00:06:54.05,Default,,0,0,0,,ah…
 Dialogue: 0,00:06:57.61,00:06:59.69,Default,,0,0,0,,Where do you want to go
@@ -125,7 +125,7 @@ Dialogue: 0,00:07:48.77,00:07:50.41,Default,,0,0,0,,You just stay and play slowl
 Dialogue: 0,00:07:53.77,00:07:54.53,Default,,0,0,0,,Don't run
 Dialogue: 0,00:07:56.21,00:07:57.95,Default,,0,0,0,,The Dragon Tail
 Dialogue: 0,00:07:57.97,00:08:00.49,Default,,0,0,0,,ah…
-Dialogue: 0,00:08:01.45,00:08:02.73,Default,,0,0,0,,Beautiful sheep
+Dialogue: 0,00:08:01.45,00:08:02.73,Default,,0,0,0,,Tibbie
 Dialogue: 0,00:08:05.73,00:08:07.77,Default,,0,0,0,,Bone spur attack
 Dialogue: 0,00:08:23.33,00:08:24.25,Default,,0,0,0,,Very darn
 Dialogue: 0,00:08:24.77,00:08:25.93,Default,,0,0,0,,What about the double butterfly drama
@@ -151,19 +151,19 @@ Dialogue: 0,00:10:33.69,00:10:35.91,Default,,0,0,0,,Let me relax
 Dialogue: 0,00:10:35.93,00:10:39.25,Default,,0,0,0,,Everyone is now fighting against it
 Dialogue: 0,00:10:51.05,00:10:52.57,Default,,0,0,0,,Everyone, come up with a move
 Dialogue: 0,00:10:53.25,00:10:56.97,Default,,0,0,0,,Stinky Dragon Your sleep time is here
-Dialogue: 0,00:10:59.77,00:11:02.65,Default,,0,0,0,,Pleasant Goat Send Me to the highest point
+Dialogue: 0,00:10:59.77,00:11:02.65,Default,,0,0,0,,Weslie Send Me to the highest point
 Dialogue: 0,00:11:04.29,00:11:05.09,Default,,0,0,0,,receive
 Dialogue: 0,00:11:23.05,00:11:24.37,Default,,0,0,0,,What happened
 Dialogue: 0,00:11:28.41,00:11:29.77,Default,,0,0,0,,The dinosaur dispersed...
 Dialogue: 0,00:11:34.45,00:11:37.10,Default,,0,0,0,,What a perfect link
-Dialogue: 0,00:11:37.13,00:11:39.63,Default,,0,0,0,,I just found the weapon of Meiyangyang on the ground
+Dialogue: 0,00:11:37.13,00:11:39.63,Default,,0,0,0,,I just found the weapon of Tibbie on the ground
 Dialogue: 0,00:11:39.65,00:11:42.25,Default,,0,0,0,,But her people don't see it
 Dialogue: 0,00:11:42.73,00:11:43.61,Default,,0,0,0,,what
 Dialogue: 0,00:11:44.37,00:11:46.77,Default,,0,0,0,,It must be chasing the mysterious subordinates
 Dialogue: 0,00:11:47.33,00:11:49.69,Default,,0,0,0,,That mysterious man's subordinate is so strong
-Dialogue: 0,00:11:50.17,00:11:52.41,Default,,0,0,0,,Mei Yangyang has no weapons yet
+Dialogue: 0,00:11:50.17,00:11:52.41,Default,,0,0,0,,Tibbie has no weapons yet
 Dialogue: 0,00:11:53.17,00:11:54.65,Default,,0,0,0,,I'm afraid she's in danger
 Dialogue: 0,00:11:55.97,00:11:57.61,Default,,0,0,0,,Then let's go find her
-Dialogue: 0,00:11:58.77,00:12:01.85,Default,,0,0,0,,Beautiful Sheep We're here
+Dialogue: 0,00:11:58.77,00:12:01.85,Default,,0,0,0,,Tibbie We're here
 Dialogue: 0,00:12:03.01,00:12:05.25,Default,,0,0,0,,Ahhhhh…
 Dialogue: 0,00:12:23.73,00:12:25.77,Default,,0,0,0,,You must find this

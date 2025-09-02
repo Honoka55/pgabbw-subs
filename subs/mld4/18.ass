@@ -16,7 +16,7 @@ Style: Default,Arial,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,00:00:17.30,00:00:28.14,Default,,0,0,0,,Wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow w
 Dialogue: 0,00:00:28.70,00:00:30.52,Default,,0,0,0,,Xiaoyu, stop now
-Dialogue: 0,00:00:30.54,00:00:31.42,Default,,0,0,0,,Pleasant goat
+Dialogue: 0,00:00:30.54,00:00:31.42,Default,,0,0,0,,Weslie
 Dialogue: 0,00:00:32.74,00:00:34.06,Default,,0,0,0,,We're here to help you
 Dialogue: 0,00:00:34.46,00:00:35.50,Default,,0,0,0,,Come just right
 Dialogue: 0,00:00:38.74,00:00:39.78,Default,,0,0,0,,stop
@@ -47,14 +47,14 @@ Dialogue: 0,00:02:29.42,00:02:30.18,Default,,0,0,0,,I see
 Dialogue: 0,00:02:30.38,00:02:32.12,Default,,0,0,0,,We took the dolls over and fixed them
 Dialogue: 0,00:02:32.14,00:02:33.22,Default,,0,0,0,,That's all
 Dialogue: 0,00:02:33.78,00:02:34.42,Default,,0,0,0,,That's right
-Dialogue: 0,00:02:34.78,00:02:36.04,Default,,0,0,0,,The chief of the class, beautiful sheep
+Dialogue: 0,00:02:34.78,00:02:36.04,Default,,0,0,0,,The chief of the class, Tibbie
 Dialogue: 0,00:02:36.06,00:02:37.56,Default,,0,0,0,,I'll give it to you
 Dialogue: 0,00:02:37.58,00:02:39.80,Default,,0,0,0,,We were responsible for attracting her attention for three of us
 Dialogue: 0,00:02:39.82,00:02:41.22,Default,,0,0,0,,Take the opportunity to take the doll over
 Dialogue: 0,00:02:41.98,00:02:42.66,Default,,0,0,0,,- good
 - good
 Dialogue: 0,00:02:48.18,00:02:54.98,Default,,0,0,0,,Wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow w
-Dialogue: 0,00:03:01.22,00:03:02.02,Default,,0,0,0,,Big Big Wolf...
+Dialogue: 0,00:03:01.22,00:03:02.02,Default,,0,0,0,,Wolffy...
 Dialogue: 0,00:03:03.74,00:03:06.78,Default,,0,0,0,,Ah, don't touch my bear
 Dialogue: 0,00:03:11.10,00:03:13.64,Default,,0,0,0,,ah…
 Dialogue: 0,00:03:13.66,00:03:14.74,Default,,0,0,0,,Good opportunity
@@ -66,7 +66,7 @@ Dialogue: 0,00:03:30.90,00:03:32.22,Default,,0,0,0,,OK Don't worry
 Dialogue: 0,00:03:33.46,00:03:37.90,Default,,0,0,0,,Um? Um? Where is my bear?
 Dialogue: 0,00:03:39.66,00:03:41.88,Default,,0,0,0,,Wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow w
 Dialogue: 0,00:03:41.90,00:03:43.46,Default,,0,0,0,,Light rain
-Dialogue: 0,00:03:47.70,00:03:48.86,Default,,0,0,0,,Boiling sheep
+Dialogue: 0,00:03:47.70,00:03:48.86,Default,,0,0,0,,Sparky
 Dialogue: 0,00:03:49.90,00:03:51.34,Default,,0,0,0,,Ahem...
 Dialogue: 0,00:03:51.66,00:03:53.66,Default,,0,0,0,,Quick...protect...light rain
 Dialogue: 0,00:04:05.86,00:04:09.84,Default,,0,0,0,,Wow...
@@ -88,7 +88,7 @@ Dialogue: 0,00:06:04.66,00:06:06.62,Default,,0,0,0,,Xiaoyu, don't cry
 Dialogue: 0,00:06:06.78,00:06:08.86,Default,,0,0,0,,Look, the doll has been replenished
 Dialogue: 0,00:06:27.14,00:06:28.46,Default,,0,0,0,,no
 Dialogue: 0,00:06:28.66,00:06:29.50,Default,,0,0,0,,ah
-Dialogue: 0,00:06:31.94,00:06:33.58,Default,,0,0,0,,Beautiful Sheep Warm Sheep
+Dialogue: 0,00:06:31.94,00:06:33.58,Default,,0,0,0,,Tibbie Jonie
 Dialogue: 0,00:06:35.26,00:06:38.10,Default,,0,0,0,,You...you are cheating
 Dialogue: 0,00:06:39.62,00:06:42.10,Default,,0,0,0,,Xiaoyu This is your little bear
 Dialogue: 0,00:06:42.54,00:06:43.18,Default,,0,0,0,,ah
@@ -121,7 +121,7 @@ Dialogue: 0,00:08:53.14,00:08:55.54,Default,,0,0,0,,Stop shouting I'm not...
 Dialogue: 0,00:08:55.98,00:08:57.90,Default,,0,0,0,,I...I...
 Dialogue: 0,00:08:58.82,00:09:01.42,Default,,0,0,0,,Uh...that...what is that
 Dialogue: 0,00:09:17.42,00:09:18.16,Default,,0,0,0,,I…
-Dialogue: 0,00:09:18.18,00:09:19.66,Default,,0,0,0,,I...what am I fricking
+Dialogue: 0,00:09:18.18,00:09:19.66,Default,,0,0,0,,I...what am I doing
 Dialogue: 0,00:09:23.18,00:09:24.50,Default,,0,0,0,,Why do I quit
 Dialogue: 0,00:09:26.18,00:09:28.46,Default,,0,0,0,,Why...this thing...
 Dialogue: 0,00:09:28.78,00:09:29.38,Default,,0,0,0,,like…
@@ -136,7 +136,7 @@ Dialogue: 0,00:09:53.90,00:09:55.98,Default,,0,0,0,,The situation is urgent, thi
 Dialogue: 0,00:09:56.78,00:09:57.70,Default,,0,0,0,,Everyone is at ease
 Dialogue: 0,00:09:58.18,00:09:59.42,Default,,0,0,0,,Stable
 Dialogue: 0,00:10:00.14,00:10:05.58,Default,,0,0,0,,ah..…..
-Dialogue: 0,00:10:10.26,00:10:11.30,Default,,0,0,0,,Boiling Sheep...
+Dialogue: 0,00:10:10.26,00:10:11.30,Default,,0,0,0,,Sparky ...
 Dialogue: 0,00:10:12.06,00:10:13.18,Default,,0,0,0,,Then what do you do
 Dialogue: 0,00:10:17.18,00:10:18.94,Default,,0,0,0,,Why am I still continuing...
 Dialogue: 0,00:10:24.06,00:10:25.30,Default,,0,0,0,,Hey, you see
@@ -144,14 +144,14 @@ Dialogue: 0,00:10:29.02,00:10:30.06,Default,,0,0,0,,Your doll
 Dialogue: 0,00:10:36.94,00:10:38.66,Default,,0,0,0,,Look at Xiaoyu What is this
 Dialogue: 0,00:10:42.26,00:10:44.46,Default,,0,0,0,,My...doll
 Dialogue: 0,00:10:44.98,00:10:48.50,Default,,0,0,0,,Brother, you're finally back
-Dialogue: 0,00:10:56.94,00:10:58.98,Default,,0,0,0,,Boiling Sheep, please hold on
-Dialogue: 0,00:11:04.18,00:11:05.78,Default,,0,0,0,,Boiling Sheep...
+Dialogue: 0,00:10:56.94,00:10:58.98,Default,,0,0,0,,Sparky , please hold on
+Dialogue: 0,00:11:04.18,00:11:05.78,Default,,0,0,0,,Sparky ...
 Dialogue: 0,00:11:13.26,00:11:15.02,Default,,0,0,0,,I...I'm fine?
 Dialogue: 0,00:11:21.54,00:11:23.18,Default,,0,0,0,,Is it hard to tell... it's Xiaoyu?
 Dialogue: 0,00:11:38.90,00:11:40.98,Default,,0,0,0,,Brother...Brother...
 Dialogue: 0,00:11:44.86,00:11:45.86,Default,,0,0,0,,elder brother
 Dialogue: 0,00:11:47.98,00:11:49.06,Default,,0,0,0,,elder brother
-Dialogue: 0,00:12:03.90,00:12:04.74,Default,,0,0,0,,Pleasant goat
+Dialogue: 0,00:12:03.90,00:12:04.74,Default,,0,0,0,,Weslie
 Dialogue: 0,00:12:04.78,00:12:06.06,Default,,0,0,0,,What happened to Xiaoyu
 Dialogue: 0,00:12:07.50,00:12:08.90,Default,,0,0,0,,Nothing big anymore
 Dialogue: 0,00:12:09.06,00:12:10.70,Default,,0,0,0,,But I haven't woken up yet

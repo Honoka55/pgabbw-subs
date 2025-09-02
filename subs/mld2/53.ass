@@ -16,7 +16,7 @@ Style: Default,Arial,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,00:00:27.29,00:00:29.29,Default,,0,0,0,,This is completely different from the previous one
 Dialogue: 0,00:00:29.69,00:00:32.21,Default,,0,0,0,,Simple and straight like the forest outside
-Dialogue: 0,00:00:34.69,00:00:36.61,Default,,0,0,0,,This time I'm going to get the sheep
+Dialogue: 0,00:00:34.69,00:00:36.61,Default,,0,0,0,,This time I'm going to get the goat
 Dialogue: 0,00:00:36.61,00:00:37.21,Default,,0,0,0,,otherwise…
 Dialogue: 0,00:00:38.45,00:00:39.65,Default,,0,0,0,,Can't complete the mission
 Dialogue: 0,00:00:39.65,00:00:41.17,Default,,0,0,0,,Don't come back to see me
@@ -40,7 +40,7 @@ Dialogue: 0,00:01:36.85,00:01:37.77,Default,,0,0,0,,Poisonous
 Dialogue: 0,00:01:38.13,00:01:39.17,Default,,0,0,0,,It's hard to tell
 Dialogue: 0,00:01:41.93,00:01:42.61,Default,,0,0,0,,Mushroom fungus
 Dialogue: 0,00:01:44.41,00:01:45.61,Default,,0,0,0,,What's wrong with you
-Dialogue: 0,00:01:46.65,00:01:47.73,Default,,0,0,0,,Beautiful sheep
+Dialogue: 0,00:01:46.65,00:01:47.73,Default,,0,0,0,,Tibbie
 Dialogue: 0,00:01:48.37,00:01:49.65,Default,,0,0,0,,I'm very painful
 Dialogue: 0,00:01:51.01,00:01:52.13,Default,,0,0,0,,You've been injured
 Dialogue: 0,00:01:52.25,00:01:52.97,Default,,0,0,0,,I want to help you...
@@ -53,16 +53,16 @@ Dialogue: 0,00:02:04.45,00:02:05.89,Default,,0,0,0,,I'll catch up later
 Dialogue: 0,00:02:07.53,00:02:08.53,Default,,0,0,0,,Oh well
 Dialogue: 0,00:02:10.49,00:02:12.37,Default,,0,0,0,,You must keep up quickly
 Dialogue: 0,00:02:14.69,00:02:15.73,Default,,0,0,0,,All left
-Dialogue: 0,00:02:15.93,00:02:18.25,Default,,0,0,0,,Then you can only pour out the beautiful sheep first
+Dialogue: 0,00:02:15.93,00:02:18.25,Default,,0,0,0,,Then you can only pour out Tibbie first
 Dialogue: 0,00:02:22.81,00:02:24.01,Default,,0,0,0,,This flying squirrel is controlled
 Dialogue: 0,00:02:24.05,00:02:25.25,Default,,0,0,0,,It's pretty good
-Dialogue: 0,00:02:26.13,00:02:27.37,Default,,0,0,0,,Talking about Big Big Wolf and the others
+Dialogue: 0,00:02:26.13,00:02:27.37,Default,,0,0,0,,Talking about Wolffy and the others
 Dialogue: 0,00:02:27.37,00:02:28.49,Default,,0,0,0,,Where did you go?
 Dialogue: 0,00:02:31.77,00:02:33.21,Default,,0,0,0,,So here it's
 Dialogue: 0,00:02:40.73,00:02:41.37,Default,,0,0,0,,Where is the person
 Dialogue: 0,00:02:44.81,00:02:46.81,Default,,0,0,0,,Fortunately, it's just a little skin
 Dialogue: 0,00:02:47.65,00:02:49.45,Default,,0,0,0,,Just apply some medicine
-Dialogue: 0,00:02:51.69,00:02:53.21,Default,,0,0,0,,Beautiful Sheep is good to me
+Dialogue: 0,00:02:51.69,00:02:53.21,Default,,0,0,0,,Tibbie is good to me
 Dialogue: 0,00:02:54.69,00:02:55.01,Default,,0,0,0,,No
 Dialogue: 0,00:02:55.37,00:02:57.65,Default,,0,0,0,,I want to complete the task assigned by the king
 Dialogue: 0,00:02:58.41,00:03:00.37,Default,,0,0,0,,But the medicine will feel tingling
@@ -73,7 +73,7 @@ Dialogue: 0,00:03:08.53,00:03:09.57,Default,,0,0,0,,Sorry Sorry
 Dialogue: 0,00:03:09.61,00:03:10.77,Default,,0,0,0,,I didn't mean it!
 Dialogue: 0,00:03:16.53,00:03:17.37,Default,,0,0,0,,alright
 Dialogue: 0,00:03:17.77,00:03:19.41,Default,,0,0,0,,Just about to take it
-Dialogue: 0,00:03:20.41,00:03:21.25,Default,,0,0,0,,Beautiful sheep
+Dialogue: 0,00:03:20.41,00:03:21.25,Default,,0,0,0,,Tibbie
 Dialogue: 0,00:03:21.69,00:03:22.77,Default,,0,0,0,,sorry
 Dialogue: 0,00:03:23.09,00:03:24.85,Default,,0,0,0,,I can't betray the king
 Dialogue: 0,00:03:38.77,00:03:39.77,Default,,0,0,0,,it hurts
@@ -109,7 +109,7 @@ Dialogue: 0,00:05:08.33,00:05:09.29,Default,,0,0,0,,Be careful
 Dialogue: 0,00:05:09.33,00:05:10.81,Default,,0,0,0,,Don't be hurt again
 Dialogue: 0,00:05:14.33,00:05:15.41,Default,,0,0,0,,It's because I'm tired
 Dialogue: 0,00:05:16.09,00:05:16.61,Default,,0,0,0,,Just fine
-Dialogue: 0,00:05:16.65,00:05:18.37,Default,,0,0,0,,I have a cake given to me by the sheep
+Dialogue: 0,00:05:16.65,00:05:18.37,Default,,0,0,0,,I have a cake given to me by the goat
 Dialogue: 0,00:05:21.61,00:05:23.09,Default,,0,0,0,,Don't be polite to me
 Dialogue: 0,00:05:24.49,00:05:25.29,Default,,0,0,0,,I'm not tired yet
 Dialogue: 0,00:05:25.53,00:05:26.21,Default,,0,0,0,,You eat
@@ -207,7 +207,7 @@ Dialogue: 0,00:10:15.85,00:10:17.37,Default,,0,0,0,,Me and the digital virus
 Dialogue: 0,00:10:17.41,00:10:19.05,Default,,0,0,0,,It's also your friend!
 Dialogue: 0,00:10:20.85,00:10:23.05,Default,,0,0,0,,I believe you don't think so
 Dialogue: 0,00:10:23.05,00:10:24.81,Default,,0,0,0,,Wake up quickly!
-Dialogue: 0,00:10:28.77,00:10:30.05,Default,,0,0,0,,Meiyangyang said it was OK
+Dialogue: 0,00:10:28.77,00:10:30.05,Default,,0,0,0,,Tibbie said it was OK
 Dialogue: 0,00:10:30.41,00:10:31.69,Default,,0,0,0,,You are all my friends!
 Dialogue: 0,00:10:34.21,00:10:35.05,Default,,0,0,0,,But
 Dialogue: 0,00:10:35.93,00:10:37.17,Default,,0,0,0,,Very scared
@@ -230,7 +230,7 @@ Dialogue: 0,00:11:08.25,00:11:09.73,Default,,0,0,0,,Mushroom fungus
 Dialogue: 0,00:11:24.09,00:11:25.21,Default,,0,0,0,,You're awake
 Dialogue: 0,00:11:26.01,00:11:26.49,Default,,0,0,0,,Really
 Dialogue: 0,00:11:26.73,00:11:27.81,Default,,0,0,0,,Very good
-Dialogue: 0,00:11:31.73,00:11:32.93,Default,,0,0,0,,Beautiful sheep
+Dialogue: 0,00:11:31.73,00:11:32.93,Default,,0,0,0,,Tibbie
 Dialogue: 0,00:11:34.13,00:11:35.21,Default,,0,0,0,,sorry
 Dialogue: 0,00:11:35.41,00:11:36.81,Default,,0,0,0,,Cause you to be hurt
 Dialogue: 0,00:12:04.29,00:12:06.77,Default,,0,0,0,,Don't think this will trap me

@@ -17,7 +17,7 @@ Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,00:00:38.68,00:00:41.20,Default,,0,0,0,,Your mission is to make it come out with seven colors
 Dialogue: 0,00:00:42.72,00:00:45.20,Default,,0,0,0,,It seems impossible to escape from here
 Dialogue: 0,00:00:45.88,00:00:46.47,Default,,0,0,0,,Right
-Dialogue: 0,00:00:46.84,00:00:49.68,Default,,0,0,0,,If Mei Yangyang can remind you of the past...
+Dialogue: 0,00:00:46.84,00:00:49.68,Default,,0,0,0,,If Tibbie can remind you of the past...
 Dialogue: 0,00:00:50.40,00:00:53.24,Default,,0,0,0,,I remember everything
 Dialogue: 0,00:00:56.64,00:00:57.72,Default,,0,0,0,,Very good
 Dialogue: 0,00:01:02.20,00:01:04.32,Default,,0,0,0,,What a silly smile, you won't be happy
@@ -35,12 +35,12 @@ Dialogue: 0,00:01:46.52,00:01:48.31,Default,,0,0,0,,It's not for you to drink
 Dialogue: 0,00:01:49.52,00:01:51.44,Default,,0,0,0,,Go to the flowers quickly, don't steal it
 Dialogue: 0,00:01:58.72,00:02:01.36,Default,,0,0,0,,Singing must be sung to the seven-color flowers
 Dialogue: 0,00:02:02.32,00:02:03.00,Default,,0,0,0,,All right
-Dialogue: 0,00:02:03.60,00:02:08.25,Default,,0,0,0,,Well, don't look at me just a sheep...
+Dialogue: 0,00:02:03.60,00:02:08.25,Default,,0,0,0,,Well, don't look at me just a goat...
 Dialogue: 0,00:02:08.28,00:02:10.64,Default,,0,0,0,,Stop and stop How can you sing so hard
 Dialogue: 0,00:02:13.32,00:02:14.32,Default,,0,0,0,,Come again
 Dialogue: 0,00:02:15.48,00:02:17.32,Default,,0,0,0,,You weren't like this before
 Dialogue: 0,00:02:17.52,00:02:19.96,Default,,0,0,0,,You used to say that I sing well
-Dialogue: 0,00:02:20.76,00:02:24.08,Default,,0,0,0,,Don't look at me just a sheep...
+Dialogue: 0,00:02:20.76,00:02:24.08,Default,,0,0,0,,Don't look at me just a goat...
 Dialogue: 0,00:02:25.20,00:02:27.24,Default,,0,0,0,,It's too hard to sing, I can't stand it
 Dialogue: 0,00:02:29.84,00:02:33.49,Default,,0,0,0,,Then what should I do tomorrow's music test
 Dialogue: 0,00:02:33.52,00:02:36.40,Default,,0,0,0,,It's okay, I think you sing well
@@ -54,8 +54,8 @@ Dialogue: 0,00:02:47.76,00:02:48.96,Default,,0,0,0,,…More blue
 Dialogue: 0,00:02:50.60,00:02:52.28,Default,,0,0,0,,Forget it, don't sing
 Dialogue: 0,00:02:52.36,00:02:53.96,Default,,0,0,0,,I don't care what method you use
 Dialogue: 0,00:02:54.16,00:02:55.76,Default,,0,0,0,,Must bring out the seven-color flowers
-Dialogue: 0,00:03:00.44,00:03:01.40,Default,,0,0,0,,Beautiful sheep
-Dialogue: 0,00:03:08.20,00:03:10.17,Default,,0,0,0,,This is the residence of Mei Yangyang
+Dialogue: 0,00:03:00.44,00:03:01.40,Default,,0,0,0,,Tibbie
+Dialogue: 0,00:03:08.20,00:03:10.17,Default,,0,0,0,,This is the residence of Tibbie
 Dialogue: 0,00:03:10.20,00:03:11.84,Default,,0,0,0,,There are not many soldiers
 Dialogue: 0,00:03:11.96,00:03:13.72,Default,,0,0,0,,It should be easy to get in
 Dialogue: 0,00:03:16.80,00:03:17.80,Default,,0,0,0,,Prepare to hand over the shift
@@ -81,16 +81,16 @@ Dialogue: 0,00:04:38.04,00:04:38.52,Default,,0,0,0,,Take it away
 Dialogue: 0,00:04:41.24,00:04:44.04,Default,,0,0,0,,We are carefully selected high-level soldiers
 Dialogue: 0,00:04:45.44,00:04:46.12,Default,,0,0,0,,Hurt
 Dialogue: 0,00:04:50.12,00:04:50.96,Default,,0,0,0,,Catch him
-Dialogue: 0,00:04:56.40,00:04:58.64,Default,,0,0,0,,Beautiful Sheep can't remember anything
+Dialogue: 0,00:04:56.40,00:04:58.64,Default,,0,0,0,,Tibbie can't remember anything
 Dialogue: 0,00:05:01.32,00:05:03.17,Default,,0,0,0,,It seems that only seven-color flowers are produced
-Dialogue: 0,00:05:03.20,00:05:04.76,Default,,0,0,0,,Only then can you wake up the beautiful sheep
+Dialogue: 0,00:05:03.20,00:05:04.76,Default,,0,0,0,,Only then can you wake up Tibbie
 Dialogue: 0,00:05:06.36,00:05:12.49,Default,,0,0,0,,Lalalala...
 Dialogue: 0,00:05:12.52,00:05:14.16,Default,,0,0,0,,What happened? This is a big noise
 Dialogue: 0,00:05:14.32,00:05:15.92,Default,,0,0,0,,What should I do if I get the seven-color flower in a scary way
 Dialogue: 0,00:05:16.32,00:05:17.64,Default,,0,0,0,,You're even louder
 Dialogue: 0,00:05:22.68,00:05:25.32,Default,,0,0,0,,It's too hot today, why don't you give them some rest
 Dialogue: 0,00:05:25.44,00:05:26.60,Default,,0,0,0,,They're too tired
-Dialogue: 0,00:05:27.20,00:05:29.29,Default,,0,0,0,,No, Master Meiyangyang said
+Dialogue: 0,00:05:27.20,00:05:29.29,Default,,0,0,0,,No, Master Tibbie said
 Dialogue: 0,00:05:29.32,00:05:30.52,Default,,0,0,0,,Can't stop for a moment
 Dialogue: 0,00:05:31.12,00:05:33.88,Default,,0,0,0,,But you can't even have seven-color flowers like this
 Dialogue: 0,00:05:35.88,00:05:37.76,Default,,0,0,0,,So how can I get it out?
@@ -165,7 +165,7 @@ Dialogue: 0,00:09:20.32,00:09:21.28,Default,,0,0,0,,Meaning
 Dialogue: 0,00:09:21.64,00:09:22.52,Default,,0,0,0,,Go home quickly
 Dialogue: 0,00:09:22.55,00:09:24.52,Default,,0,0,0,,Your family must be worried about you
 Dialogue: 0,00:09:25.00,00:09:27.16,Default,,0,0,0,,Yes, you go quickly, too
-Dialogue: 0,00:09:27.32,00:09:29.52,Default,,0,0,0,,Otherwise, it would be bad if the Queen of Tomorrow discovered it
+Dialogue: 0,00:09:27.32,00:09:29.52,Default,,0,0,0,,Otherwise, it would be bad if Queen Levana discovered it
 Dialogue: 0,00:09:33.60,00:09:35.55,Default,,0,0,0,,Please save Qihua Town
 Dialogue: 0,00:09:35.88,00:09:37.20,Default,,0,0,0,,What's wrong with you?
 Dialogue: 0,00:09:37.64,00:09:39.53,Default,,0,0,0,,Seeing you go to ask someone without hesitation
@@ -177,7 +177,7 @@ Dialogue: 0,00:09:50.88,00:09:53.36,Default,,0,0,0,,Hope you can save this stran
 Dialogue: 0,00:09:55.44,00:09:57.52,Default,,0,0,0,,No problem, give it to me
 Dialogue: 0,00:09:57.64,00:09:59.32,Default,,0,0,0,,Thank you so much
 Dialogue: 0,00:09:59.84,00:10:03.16,Default,,0,0,0,,But before that you have to save me...
-Dialogue: 0,00:10:21.76,00:10:22.96,Default,,0,0,0,,What are you fricking!
+Dialogue: 0,00:10:21.76,00:10:22.96,Default,,0,0,0,,What are you doing!
 Dialogue: 0,00:10:26.76,00:10:28.04,Default,,0,0,0,,Seven-colored flowers...
 Dialogue: 0,00:10:28.44,00:10:29.36,Default,,0,0,0,,Send it to rescue
 Dialogue: 0,00:10:35.08,00:10:37.12,Default,,0,0,0,,Didn't I let you have a seven-color flower?
@@ -185,7 +185,7 @@ Dialogue: 0,00:10:37.36,00:10:39.28,Default,,0,0,0,,I...I'm consuming flowers
 Dialogue: 0,00:10:45.96,00:10:48.80,Default,,0,0,0,,A flower? Do you call this a flower?
 Dialogue: 0,00:10:49.44,00:10:51.64,Default,,0,0,0,,It turns out that you won't have seven-color flowers at all
 Dialogue: 0,00:10:51.96,00:10:53.48,Default,,0,0,0,,Come close him
-Dialogue: 0,00:10:54.96,00:10:56.36,Default,,0,0,0,,Beauty Sheep Don't
+Dialogue: 0,00:10:54.96,00:10:56.36,Default,,0,0,0,,Tibbie Don't
 Dialogue: 0,00:10:58.55,00:11:00.44,Default,,0,0,0,,Do you want to go to prison, too?
 Dialogue: 0,00:11:12.24,00:11:13.12,Default,,0,0,0,,Wait a moment
 Dialogue: 0,00:11:14.55,00:11:15.65,Default,,0,0,0,,You've lost something
@@ -199,7 +199,7 @@ Dialogue: 0,00:11:38.88,00:11:39.72,Default,,0,0,0,,- Yes
 Dialogue: 0,00:11:46.44,00:11:47.20,Default,,0,0,0,,Go in
 Dialogue: 0,00:11:49.44,00:11:50.92,Default,,0,0,0,,Wait for surprise inspection
 Dialogue: 0,00:11:54.36,00:11:55.55,Default,,0,0,0,,Because there is a major criminal who is in charge
-Dialogue: 0,00:11:55.96,00:11:57.28,Default,,0,0,0,,Lord Meiyangyang gave instructions
+Dialogue: 0,00:11:55.96,00:11:57.28,Default,,0,0,0,,Lord Tibbie gave instructions
 Dialogue: 0,00:11:57.64,00:12:00.52,Default,,0,0,0,,Things coming in must be very cautious
 Dialogue: 0,00:12:03.84,00:12:05.36,Default,,0,0,0,,What's in there?
 Dialogue: 0,00:12:06.16,00:12:07.64,Default,,0,0,0,,- Just a bunch of straw

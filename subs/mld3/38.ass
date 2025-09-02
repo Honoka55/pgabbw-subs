@@ -15,13 +15,13 @@ Style: Default,Arial,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,00:00:22.89,00:00:24.43,Default,,0,0,0,,How do we know this
-Dialogue: 0,00:00:24.45,00:00:26.29,Default,,0,0,0,,Is the Red Wolf here or not
+Dialogue: 0,00:00:24.45,00:00:26.29,Default,,0,0,0,,Is Wolnie here or not
 Dialogue: 0,00:00:26.89,00:00:27.53,Default,,0,0,0,,I'm here
-Dialogue: 0,00:00:29.09,00:00:33.07,Default,,0,0,0,,Red Wolf...Little Huihui...
+Dialogue: 0,00:00:29.09,00:00:33.07,Default,,0,0,0,,Wolnie...Little Huihui...
 Dialogue: 0,00:00:33.09,00:00:35.69,Default,,0,0,0,,Are you here or not...
 Dialogue: 0,00:00:36.77,00:00:39.09,Default,,0,0,0,,What arguing? No more arguing
 Dialogue: 0,00:00:41.21,00:00:43.21,Default,,0,0,0,,We have to find a way to get out here
-Dialogue: 0,00:00:43.45,00:00:46.05,Default,,0,0,0,,Help Big Big Wolf look for Big Big Wolf in the prison guard
+Dialogue: 0,00:00:43.45,00:00:46.05,Default,,0,0,0,,Help Wolffy look for Wolffy in the prison guard
 Dialogue: 0,00:00:46.57,00:00:47.61,Default,,0,0,0,,I'll try
 Dialogue: 0,00:00:50.85,00:00:53.69,Default,,0,0,0,,Brother Soldier I want to find you if you have something to do
 Dialogue: 0,00:00:57.05,00:00:57.69,Default,,0,0,0,,Just now...
@@ -38,23 +38,23 @@ Dialogue: 0,00:01:31.93,00:01:33.45,Default,,0,0,0,,- Blade Blade
 Dialogue: 0,00:01:35.17,00:01:37.89,Default,,0,0,0,,ah…
 Dialogue: 0,00:01:46.77,00:01:50.77,Default,,0,0,0,,Ah...I don't know if they found the red one
 Dialogue: 0,00:01:51.45,00:01:54.29,Default,,0,0,0,,They don't have to worry about it...
-Dialogue: 0,00:01:57.57,00:02:00.27,Default,,0,0,0,,Captured Princess Haoyue and the Sheep
+Dialogue: 0,00:01:57.57,00:02:00.27,Default,,0,0,0,,Captured Princess Haoyue and the Goat
 Dialogue: 0,00:02:00.29,00:02:02.73,Default,,0,0,0,,Her Majesty the Queen will definitely show me
 Dialogue: 0,00:02:03.25,00:02:04.57,Default,,0,0,0,,Go to the palace quickly
-Dialogue: 0,00:02:06.85,00:02:09.89,Default,,0,0,0,,Wait, Big Big Wolf hasn't caught it yet
-Dialogue: 0,00:02:10.09,00:02:13.73,Default,,0,0,0,,Big Big Wolf? He has no use, no need to worry about him
+Dialogue: 0,00:02:06.85,00:02:09.89,Default,,0,0,0,,Wait, Wolffy hasn't caught it yet
+Dialogue: 0,00:02:10.09,00:02:13.73,Default,,0,0,0,,Wolffy? He has no use, no need to worry about him
 Dialogue: 0,00:02:14.29,00:02:15.49,Default,,0,0,0,,What are you talking about?
-Dialogue: 0,00:02:15.57,00:02:18.37,Default,,0,0,0,,Big Big Wolf is the king of inventories in the green grassland
+Dialogue: 0,00:02:15.57,00:02:18.37,Default,,0,0,0,,Wolffy is the king of inventories in the green grassland
 Dialogue: 0,00:02:18.49,00:02:20.51,Default,,0,0,0,,Young, handsome, smart, capable
 Dialogue: 0,00:02:20.53,00:02:21.97,Default,,0,0,0,,Why is it useless?
 Dialogue: 0,00:02:22.37,00:02:24.97,Default,,0,0,0,,Huh? How do you understand this?
 Dialogue: 0,00:02:26.25,00:02:28.87,Default,,0,0,0,,I...I heard what other soldiers said
 Dialogue: 0,00:02:28.89,00:02:31.09,Default,,0,0,0,,I think we'll go to the jail time
-Dialogue: 0,00:02:31.29,00:02:33.05,Default,,0,0,0,,Please ask the whereabouts of Big Big Wolf
+Dialogue: 0,00:02:31.29,00:02:33.05,Default,,0,0,0,,Please ask the whereabouts of Wolffy
 Dialogue: 0,00:02:34.29,00:02:37.17,Default,,0,0,0,,No, I've asked the soldiers to look for them
 Dialogue: 0,00:02:37.81,00:02:39.85,Default,,0,0,0,,But you are wise and wise, military officer
 Dialogue: 0,00:02:40.17,00:02:42.09,Default,,0,0,0,,The lambs will definitely be afraid of you
-Dialogue: 0,00:02:42.29,00:02:45.41,Default,,0,0,0,,By then they will tell the whereabouts of Big Big Wolf
+Dialogue: 0,00:02:42.29,00:02:45.41,Default,,0,0,0,,By then they will tell the whereabouts of Wolffy
 Dialogue: 0,00:02:45.85,00:02:47.77,Default,,0,0,0,,Wouldn't this be twice the result with half the effort?
 Dialogue: 0,00:02:48.09,00:02:49.09,Default,,0,0,0,,It makes sense too
 Dialogue: 0,00:02:49.41,00:02:52.01,Default,,0,0,0,,The four words you just used are really good
@@ -79,13 +79,13 @@ Dialogue: 0,00:04:05.93,00:04:06.65,Default,,0,0,0,,Who calls me
 Dialogue: 0,00:04:08.13,00:04:11.21,Default,,0,0,0,,Red is so good, I finally found you
 Dialogue: 0,00:04:12.69,00:04:13.33,Default,,0,0,0,,Who are you
 Dialogue: 0,00:04:13.97,00:04:16.89,Default,,0,0,0,,Red is me, Big Gray Wolf
-Dialogue: 0,00:04:18.81,00:04:21.05,Default,,0,0,0,,Big Big Wolf? Are you here to deliver the meal?
+Dialogue: 0,00:04:18.81,00:04:21.05,Default,,0,0,0,,Wolffy? Are you here to deliver the meal?
 Dialogue: 0,00:04:25.85,00:04:26.97,Default,,0,0,0,,Don't bother me
-Dialogue: 0,00:04:27.21,00:04:29.13,Default,,0,0,0,,Why is Big Big Wolf you?
+Dialogue: 0,00:04:27.21,00:04:29.13,Default,,0,0,0,,Why is Wolffy you?
 Dialogue: 0,00:04:34.37,00:04:36.37,Default,,0,0,0,,There is no soldier either
 Dialogue: 0,00:04:37.29,00:04:38.57,Default,,0,0,0,,So what?
 Dialogue: 0,00:04:40.45,00:04:42.49,Default,,0,0,0,,Come on...
-Dialogue: 0,00:04:43.53,00:04:45.05,Default,,0,0,0,,Big Big Wolf, is it you?
+Dialogue: 0,00:04:43.53,00:04:45.05,Default,,0,0,0,,Wolffy, is it you?
 Dialogue: 0,00:04:47.37,00:04:48.97,Default,,0,0,0,,We're here
 Dialogue: 0,00:04:50.85,00:04:53.69,Default,,0,0,0,,You can wait a moment, I will open the door
 Dialogue: 0,00:05:00.89,00:05:01.75,Default,,0,0,0,,Don't run!
@@ -94,14 +94,14 @@ Dialogue: 0,00:05:03.33,00:05:05.29,Default,,0,0,0,,Oops! I'm going to be discov
 Dialogue: 0,00:05:15.65,00:05:17.47,Default,,0,0,0,,When I looked for red before
 Dialogue: 0,00:05:17.49,00:05:19.05,Default,,0,0,0,,I found that it's more broken here
 Dialogue: 0,00:05:19.17,00:05:20.37,Default,,0,0,0,,No one came
-Dialogue: 0,00:05:22.21,00:05:25.37,Default,,0,0,0,,Slow Sheep tell me where the red is
+Dialogue: 0,00:05:22.21,00:05:25.37,Default,,0,0,0,,Slowy tell me where the red is
 Dialogue: 0,00:05:25.49,00:05:26.57,Default,,0,0,0,,What red
-Dialogue: 0,00:05:27.81,00:05:29.37,Default,,0,0,0,,This is the crown of Red Wolf
+Dialogue: 0,00:05:27.81,00:05:29.37,Default,,0,0,0,,This is the crown of Wolnie
 Dialogue: 0,00:05:29.53,00:05:31.53,Default,,0,0,0,,I found it in the Soldiers Village
 Dialogue: 0,00:05:31.85,00:05:32.89,Default,,0,0,0,,Where is she
 Dialogue: 0,00:05:33.57,00:05:35.09,Default,,0,0,0,,I don't tell you if I know
 Dialogue: 0,00:05:35.85,00:05:38.17,Default,,0,0,0,,If you don’t tell me again, I will eat you!
-Dialogue: 0,00:05:44.17,00:05:44.93,Default,,0,0,0,,Big Big Wolf...
+Dialogue: 0,00:05:44.17,00:05:44.93,Default,,0,0,0,,Wolffy...
 Dialogue: 0,00:05:49.81,00:05:52.29,Default,,0,0,0,,Sorry, my job is sick
 Dialogue: 0,00:05:52.65,00:05:54.09,Default,,0,0,0,,I'm too anxious
 Dialogue: 0,00:05:54.65,00:05:56.13,Default,,0,0,0,,Let me ask
@@ -109,7 +109,7 @@ Dialogue: 0,00:06:02.49,00:06:04.93,Default,,0,0,0,,I won't be in your illusion 
 Dialogue: 0,00:06:05.01,00:06:06.69,Default,,0,0,0,,Depend on what tricks do you have
 Dialogue: 0,00:06:07.05,00:06:08.83,Default,,0,0,0,,Let me open me and let me open me...
 Dialogue: 0,00:06:08.85,00:06:10.69,Default,,0,0,0,,You're cold and tranquil, too big wolf
-Dialogue: 0,00:06:11.29,00:06:13.29,Default,,0,0,0,,Big Big Wolf, you're a little cold
+Dialogue: 0,00:06:11.29,00:06:13.29,Default,,0,0,0,,Wolffy, you're a little cold
 Dialogue: 0,00:06:13.41,00:06:16.05,Default,,0,0,0,,We know the village chief he won't say
 Dialogue: 0,00:06:16.61,00:06:19.65,Default,,0,0,0,,Then what if I do? There is no room in the cell...
 Dialogue: 0,00:06:22.13,00:06:24.65,Default,,0,0,0,,Don't give up, I'll look for it with you
@@ -139,15 +139,15 @@ Dialogue: 0,00:08:36.21,00:08:37.41,Default,,0,0,0,,Impossible
 Dialogue: 0,00:08:37.65,00:08:39.21,Default,,0,0,0,,I haven't appeared for so long
 Dialogue: 0,00:08:39.29,00:08:41.69,Default,,0,0,0,,Why doesn't the Queen send someone to me?
 Dialogue: 0,00:08:41.85,00:08:43.89,Default,,0,0,0,,Big Wolf, you're back
-Dialogue: 0,00:08:44.97,00:08:48.05,Default,,0,0,0,,How did you find the red wolf?
+Dialogue: 0,00:08:44.97,00:08:48.05,Default,,0,0,0,,How did you find Wolnie?
 Dialogue: 0,00:08:51.45,00:08:52.37,Default,,0,0,0,,no
-Dialogue: 0,00:08:53.05,00:08:55.57,Default,,0,0,0,,I still have to think of a way out of the slow sheep
+Dialogue: 0,00:08:53.05,00:08:55.57,Default,,0,0,0,,I still have to think of a way out of the Slowy
 Dialogue: 0,00:08:56.57,00:08:59.09,Default,,0,0,0,,I'll let you let me go quickly
 Dialogue: 0,00:08:59.33,00:09:01.37,Default,,0,0,0,,Otherwise, when Her Majesty the Queen arrives
 Dialogue: 0,00:09:01.45,00:09:03.45,Default,,0,0,0,,I can't talk about your love
-Dialogue: 0,00:09:04.29,00:09:04.97,Default,,0,0,0,,Big Big Wolf...
-Dialogue: 0,00:09:05.69,00:09:07.45,Default,,0,0,0,,Big Big Wolf, you're a little cold
-Dialogue: 0,00:09:07.73,00:09:10.05,Default,,0,0,0,,What do you want to frick? Don't come over...
+Dialogue: 0,00:09:04.29,00:09:04.97,Default,,0,0,0,,Wolffy...
+Dialogue: 0,00:09:05.69,00:09:07.45,Default,,0,0,0,,Wolffy, you're a little cold
+Dialogue: 0,00:09:07.73,00:09:10.05,Default,,0,0,0,,What do you want to do? Don't come over...
 Dialogue: 0,00:09:13.05,00:09:14.57,Default,,0,0,0,,Help...
 Dialogue: 0,00:09:16.25,00:09:17.65,Default,,0,0,0,,Oh…
 Dialogue: 0,00:09:20.33,00:09:22.57,Default,,0,0,0,,Master, Is this force suitable?
@@ -169,15 +169,15 @@ Dialogue: 0,00:10:04.17,00:10:07.17,Default,,0,0,0,,He always eats something whi
 Dialogue: 0,00:10:07.45,00:10:09.85,Default,,0,0,0,,Yes, what are you asking about this?
 Dialogue: 0,00:10:12.81,00:10:14.65,Default,,0,0,0,,You...what do you say...
 Dialogue: 0,00:10:16.25,00:10:19.57,Default,,0,0,0,,Red... was eaten by a miracle?
-Dialogue: 0,00:10:20.61,00:10:21.89,Default,,0,0,0,,Big Big Wolf...
+Dialogue: 0,00:10:20.61,00:10:21.89,Default,,0,0,0,,Wolffy...
 Dialogue: 0,00:10:22.41,00:10:24.42,Default,,0,0,0,,Village Chief, isn't this true?
 Dialogue: 0,00:10:24.45,00:10:26.13,Default,,0,0,0,,It must be fake, right?
 Dialogue: 0,00:10:26.97,00:10:29.53,Default,,0,0,0,,This is what you need to know
 Dialogue: 0,00:10:34.21,00:10:38.77,Default,,0,0,0,,No...this is not true. There will be no problem with red
-Dialogue: 0,00:10:39.37,00:10:41.37,Default,,0,0,0,,Big Big Wolf Go and be a family
+Dialogue: 0,00:10:39.37,00:10:41.37,Default,,0,0,0,,Wolffy Go and be a family
 Dialogue: 0,00:10:41.65,00:10:42.73,Default,,0,0,0,,Yes Yes Yes Yes...
 Dialogue: 0,00:10:46.97,00:10:48.75,Default,,0,0,0,,Dad, I'm flying...
-Dialogue: 0,00:10:48.77,00:10:50.65,Default,,0,0,0,,Xiao Huihui is the most harmful
+Dialogue: 0,00:10:48.77,00:10:50.65,Default,,0,0,0,,Wilie is the most harmful
 Dialogue: 0,00:10:56.93,00:10:59.09,Default,,0,0,0,,So dirty, go take a shower
 Dialogue: 0,00:11:06.29,00:11:06.85,Default,,0,0,0,,you…
 Dialogue: 0,00:11:08.45,00:11:10.41,Default,,0,0,0,,What happened to the red
@@ -192,7 +192,7 @@ Dialogue: 0,00:11:53.05,00:11:56.05,Default,,0,0,0,,Next time, you won't go home
 Dialogue: 0,00:11:56.45,00:11:57.61,Default,,0,0,0,,A mother who is fine
 Dialogue: 0,00:11:58.25,00:11:59.29,Default,,0,0,0,,Dad was injured
 Dialogue: 0,00:11:59.57,00:12:01.81,Default,,0,0,0,,I will use little magic to help my father heal
-Dialogue: 0,00:12:07.77,00:12:10.73,Default,,0,0,0,,It really doesn't hurt anymore Xiao Huihui...
+Dialogue: 0,00:12:07.77,00:12:10.73,Default,,0,0,0,,It really doesn't hurt anymore Wilie...
 Dialogue: 0,00:12:11.97,00:12:15.29,Default,,0,0,0,,I won't fall until I'm found the red
 Dialogue: 0,00:12:17.69,00:12:21.37,Default,,0,0,0,,Give them... to me...
 Dialogue: 0,00:12:31.65,00:12:33.85,Default,,0,0,0,,Red...

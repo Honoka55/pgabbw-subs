@@ -15,7 +15,7 @@ Style: Default,Arial,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,00:00:19.36,00:00:20.88,Default,,0,0,0,,Which one is better to wear
-Dialogue: 0,00:00:21.40,00:00:23.75,Default,,0,0,0,,Big Big Wolf has been busy in the laboratory for several days
+Dialogue: 0,00:00:21.40,00:00:23.75,Default,,0,0,0,,Wolffy has been busy in the laboratory for several days
 Dialogue: 0,00:00:24.11,00:00:27.32,Default,,0,0,0,,It must have been prepared for today's wedding anniversary
 Dialogue: 0,00:00:28.04,00:00:29.84,Default,,0,0,0,,Change your clothes and see him
 Dialogue: 0,00:00:32.84,00:00:33.80,Default,,0,0,0,,Eat it, too
@@ -24,7 +24,7 @@ Dialogue: 0,00:00:35.00,00:00:36.64,Default,,0,0,0,,Go back and have a good time
 Dialogue: 0,00:00:37.52,00:00:38.80,Default,,0,0,0,,I want to eat too
 Dialogue: 0,00:00:49.92,00:00:51.04,Default,,0,0,0,,What's wrong with you, Master?
 Dialogue: 0,00:00:51.04,00:00:53.48,Default,,0,0,0,,The wolf just passed by is very scary
-Dialogue: 0,00:01:00.00,00:01:03.24,Default,,0,0,0,,I wonder what gift Big Big Wolf prepared for me
+Dialogue: 0,00:01:00.00,00:01:03.24,Default,,0,0,0,,I wonder what gift Wolffy prepared for me
 Dialogue: 0,00:01:06.88,00:01:08.96,Default,,0,0,0,,It doesn't look scary
 Dialogue: 0,00:01:09.52,00:01:10.84,Default,,0,0,0,,Stop it
 Dialogue: 0,00:01:10.88,00:01:12.60,Default,,0,0,0,,Go back quickly
@@ -46,7 +46,7 @@ Dialogue: 0,00:01:51.40,00:01:53.52,Default,,0,0,0,,I forgot that today is the w
 Dialogue: 0,00:01:53.56,00:01:55.96,Default,,0,0,0,,Even though they have been insomnia for a few days
 Dialogue: 0,00:01:56.12,00:01:57.76,Default,,0,0,0,,But as long as you have the heart
 Dialogue: 0,00:01:58.12,00:02:00.20,Default,,0,0,0,,Gifts aren't important anymore
-Dialogue: 0,00:02:02.64,00:02:03.76,Default,,0,0,0,,Big Big Wolf! ! !
+Dialogue: 0,00:02:02.64,00:02:03.76,Default,,0,0,0,,Wolffy! ! !
 Dialogue: 0,00:02:04.32,00:02:06.60,Default,,0,0,0,,Red This is not a gift
 Dialogue: 0,00:02:07.32,00:02:09.40,Default,,0,0,0,,Actually, I hid the gift
 Dialogue: 0,00:02:09.43,00:02:12.52,Default,,0,0,0,,I want to make you surprised to find me to prepare for it myself!
@@ -82,7 +82,7 @@ Dialogue: 0,00:03:37.84,00:03:39.48,Default,,0,0,0,,If you don’t believe it, y
 Dialogue: 0,00:03:42.04,00:03:42.32,Default,,0,0,0,,This…
 Dialogue: 0,00:03:42.63,00:03:43.68,Default,,0,0,0,,Diamond ring?!
 Dialogue: 0,00:03:44.72,00:03:45.72,Default,,0,0,0,,So amazing
-Dialogue: 0,00:03:45.76,00:03:48.72,Default,,0,0,0,,Could it be that this is the gift that Big Big Wolf gave me?
+Dialogue: 0,00:03:45.76,00:03:48.72,Default,,0,0,0,,Could it be that this is the gift that Wolffy gave me?
 Dialogue: 0,00:03:50.36,00:03:51.20,Default,,0,0,0,,Since that's the case
 Dialogue: 0,00:03:51.20,00:03:53.72,Default,,0,0,0,,Can you become something else, spirit?
 Dialogue: 0,00:03:53.76,00:03:55.04,Default,,0,0,0,,Of course
@@ -104,7 +104,7 @@ Dialogue: 0,00:04:47.60,00:04:49.28,Default,,0,0,0,,Let Xiao Huang have the oppo
 Dialogue: 0,00:04:49.52,00:04:50.68,Default,,0,0,0,,Good idea
 Dialogue: 0,00:04:52.92,00:04:53.88,Default,,0,0,0,,Want to lose weight?
 Dialogue: 0,00:04:53.96,00:04:55.88,Default,,0,0,0,,Come with me to learn how to lose weight
-Dialogue: 0,00:04:56.04,00:04:57.04,Default,,0,0,0,,Fat frick?
+Dialogue: 0,00:04:56.04,00:04:57.04,Default,,0,0,0,,Fat do?
 Dialogue: 0,00:04:58.00,00:04:59.20,Default,,0,0,0,,Almost forgot the time!
 Dialogue: 0,00:04:59.60,00:05:03.00,Default,,0,0,0,,One Two Three Four Two Two Three Four
 Dialogue: 0,00:05:03.04,00:05:04.00,Default,,0,0,0,,Run quickly
@@ -128,8 +128,8 @@ Dialogue: 0,00:06:01.32,00:06:02.32,Default,,0,0,0,,I am…
 Dialogue: 0,00:06:02.60,00:06:05.28,Default,,0,0,0,,A spirit that can realize you want
 Dialogue: 0,00:06:05.72,00:06:07.20,Default,,0,0,0,,Really hope...?
 Dialogue: 0,00:06:07.32,00:06:09.00,Default,,0,0,0,,Yes...yes
-Dialogue: 0,00:06:11.00,00:06:13.80,Default,,0,0,0,,I can't tell this is also the gift from Big Big Wolf to me
-Dialogue: 0,00:06:14.60,00:06:17.96,Default,,0,0,0,,Big Big Wolf is going to be surprised
+Dialogue: 0,00:06:11.00,00:06:13.80,Default,,0,0,0,,I can't tell this is also the gift from Wolffy to me
+Dialogue: 0,00:06:14.60,00:06:17.96,Default,,0,0,0,,Wolffy is going to be surprised
 Dialogue: 0,00:06:19.04,00:06:21.80,Default,,0,0,0,,Then you help me make the house super big!
 Dialogue: 0,00:06:22.04,00:06:23.36,Default,,0,0,0,,no problem!
 Dialogue: 0,00:06:31.12,00:06:32.48,Default,,0,0,0,,Be nervous...
@@ -157,19 +157,19 @@ Dialogue: 0,00:07:39.56,00:07:42.68,Default,,0,0,0,,This is a gun that can shoot
 Dialogue: 0,00:07:42.80,00:07:43.68,Default,,0,0,0,,Cable gun?!
 Dialogue: 0,00:07:43.76,00:07:44.56,Default,,0,0,0,,Can it be used?
 Dialogue: 0,00:07:44.64,00:07:47.08,Default,,0,0,0,,It looks like a toy gun
-Dialogue: 0,00:07:50.40,00:07:51.76,Default,,0,0,0,,What are you fricking?
+Dialogue: 0,00:07:50.40,00:07:51.76,Default,,0,0,0,,What are you doing?
 Dialogue: 0,00:07:52.32,00:07:53.60,Default,,0,0,0,,Dare to steal
 Dialogue: 0,00:08:02.60,00:08:04.47,Default,,0,0,0,,Can really ejaculate the cable
 Dialogue: 0,00:08:06.04,00:08:07.84,Default,,0,0,0,,If you have this gun, you won't be afraid of her
 Dialogue: 0,00:08:07.92,00:08:08.64,Default,,0,0,0,,you…
-Dialogue: 0,00:08:08.72,00:08:09.56,Default,,0,0,0,,Do you want to frick...
+Dialogue: 0,00:08:08.72,00:08:09.56,Default,,0,0,0,,Do you want to do...
 Dialogue: 0,00:08:14.08,00:08:15.40,Default,,0,0,0,,You've been hiding this
 Dialogue: 0,00:08:15.84,00:08:17.12,Default,,0,0,0,,Don't go too far!
 Dialogue: 0,00:08:19.60,00:08:21.20,Default,,0,0,0,,Mom, I'm back!
 Dialogue: 0,00:08:26.92,00:08:28.28,Default,,0,0,0,,Son, leave here!
 Dialogue: 0,00:08:33.80,00:08:34.68,Default,,0,0,0,,mother!
 Dialogue: 0,00:08:37.20,00:08:37.96,Default,,0,0,0,,Son!
-Dialogue: 0,00:08:40.47,00:08:42.35,Default,,0,0,0,,Wait until Big Big Wolf returns
+Dialogue: 0,00:08:40.47,00:08:42.35,Default,,0,0,0,,Wait until Wolffy returns
 Dialogue: 0,00:08:42.56,00:08:44.56,Default,,0,0,0,,Let's see how he deals with you!
 Dialogue: 0,00:08:45.76,00:08:46.92,Default,,0,0,0,,I'm back!
 Dialogue: 0,00:08:51.84,00:08:52.96,Default,,0,0,0,,Red Red Son
@@ -177,7 +177,7 @@ Dialogue: 0,00:08:53.08,00:08:54.60,Default,,0,0,0,,Why are you being knocked up
 Dialogue: 0,00:08:58.80,00:09:00.28,Default,,0,0,0,,It turned out to be you!
 Dialogue: 0,00:09:00.56,00:09:03.35,Default,,0,0,0,,I didn't expect this gun to be quite useful
 Dialogue: 0,00:09:05.16,00:09:07.68,Default,,0,0,0,,How will my rope gun be in your hands!
-Dialogue: 0,00:09:07.96,00:09:09.80,Default,,0,0,0,,What do you want to frick!
+Dialogue: 0,00:09:07.96,00:09:09.80,Default,,0,0,0,,What do you want to do!
 Dialogue: 0,00:09:10.08,00:09:12.00,Default,,0,0,0,,Let me open Red and my son!
 Dialogue: 0,00:09:12.16,00:09:14.28,Default,,0,0,0,,Otherwise, you will feel better
 Dialogue: 0,00:09:15.32,00:09:16.60,Default,,0,0,0,,Very verbose
@@ -205,7 +205,7 @@ Dialogue: 0,00:10:23.92,00:10:26.76,Default,,0,0,0,,I won't... let you go!
 Dialogue: 0,00:10:27.24,00:10:31.32,Default,,0,0,0,,只… 只火!
 Dialogue: 0,00:10:34.64,00:10:35.92,Default,,0,0,0,,You're fine
 Dialogue: 0,00:10:36.84,00:10:38.92,Default,,0,0,0,,Red, you're so terrible...
-Dialogue: 0,00:10:39.40,00:10:40.12,Default,,0,0,0,,Big Big Wolf
+Dialogue: 0,00:10:39.40,00:10:40.12,Default,,0,0,0,,Wolffy
 Dialogue: 0,00:10:40.72,00:10:42.44,Default,,0,0,0,,Who are these three people?
 Dialogue: 0,00:10:43.00,00:10:44.72,Default,,0,0,0,,I was afraid you were in danger before
 Dialogue: 0,00:10:44.88,00:10:46.52,Default,,0,0,0,,So I haven't told you
@@ -226,7 +226,7 @@ Dialogue: 0,00:11:26.00,00:11:27.08,Default,,0,0,0,,And this one
 Dialogue: 0,00:11:27.60,00:11:30.20,Default,,0,0,0,,Didn't you say you haven't had a good sleep for a few days?
 Dialogue: 0,00:11:30.64,00:11:33.28,Default,,0,0,0,,So I took honey that can help me sleep
 Dialogue: 0,00:11:34.35,00:11:36.96,Default,,0,0,0,,Even though they have been insomnia for a few days
-Dialogue: 0,00:11:38.28,00:11:39.08,Default,,0,0,0,,Big Big Wolf
+Dialogue: 0,00:11:38.28,00:11:39.08,Default,,0,0,0,,Wolffy
 Dialogue: 0,00:11:41.24,00:11:42.28,Default,,0,0,0,,Your hand...
 Dialogue: 0,00:11:43.52,00:11:46.04,Default,,0,0,0,,There is nothing stinged by bees
 Dialogue: 0,00:11:48.47,00:11:50.04,Default,,0,0,0,,I'll give you a medicine
@@ -239,5 +239,5 @@ Dialogue: 0,00:12:09.52,00:12:10.52,Default,,0,0,0,,Really
 Dialogue: 0,00:12:13.84,00:12:15.72,Default,,0,0,0,,Give me a good supplement!
 Dialogue: 0,00:12:15.88,00:12:17.24,Default,,0,0,0,,yes!
 Dialogue: 0,00:12:21.40,00:12:22.52,Default,,0,0,0,,Red
-Dialogue: 0,00:12:23.64,00:12:24.72,Default,,0,0,0,,Big Big Wolf
+Dialogue: 0,00:12:23.64,00:12:24.72,Default,,0,0,0,,Wolffy
 Dialogue: 0,00:12:29.47,00:12:32.68,Default,,0,0,0,,When I unblock the seal, I will make you look good!

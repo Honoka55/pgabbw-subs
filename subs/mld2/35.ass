@@ -16,27 +16,27 @@ Style: Default,Arial,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,00:00:17.69,00:00:19.81,Default,,0,0,0,,The forest seems to have appeared recently
 Dialogue: 0,00:00:19.85,00:00:21.25,Default,,0,0,0,,The search for tourists from outside
-Dialogue: 0,00:00:21.69,00:00:23.57,Default,,0,0,0,,I'm suspected to be Bingbing Sheep's brother
+Dialogue: 0,00:00:21.69,00:00:23.57,Default,,0,0,0,,I'm suspected to be Bingbing Yang's brother
 Dialogue: 0,00:00:23.89,00:00:25.57,Default,,0,0,0,,You go search
-Dialogue: 0,00:00:29.13,00:00:31.45,Default,,0,0,0,,Where is the brother of Bingbing Sheep
+Dialogue: 0,00:00:29.13,00:00:31.45,Default,,0,0,0,,Where is the brother of Bingbing Yang
 Dialogue: 0,00:00:35.37,00:00:36.37,Default,,0,0,0,,Everyone should be careful
 Dialogue: 0,00:00:40.33,00:00:42.25,Default,,0,0,0,,So beautiful ~
 Dialogue: 0,00:00:46.57,00:00:47.13,Default,,0,0,0,,careful!
-Dialogue: 0,00:00:53.33,00:00:54.21,Default,,0,0,0,,Pleasant Goat!
+Dialogue: 0,00:00:53.33,00:00:54.21,Default,,0,0,0,,Weslie!
 Dialogue: 0,00:01:01.97,00:01:02.53,Default,,0,0,0,,careful
 Dialogue: 0,00:01:05.37,00:01:06.17,Default,,0,0,0,,Don't go past
 Dialogue: 0,00:01:06.49,00:01:06.97,Default,,0,0,0,,quick!
-Dialogue: 0,00:01:07.01,00:01:07.93,Default,,0,0,0,,Sheep and sheep!
-Dialogue: 0,00:01:19.33,00:01:20.73,Default,,0,0,0,,Pleasant Goat: You're fine, right?
+Dialogue: 0,00:01:07.01,00:01:07.93,Default,,0,0,0,,Paddi!
+Dialogue: 0,00:01:19.33,00:01:20.73,Default,,0,0,0,,Weslie: You're fine, right?
 Dialogue: 0,00:01:24.81,00:01:25.65,Default,,0,0,0,,not good
 Dialogue: 0,00:01:34.85,00:01:35.77,Default,,0,0,0,,It's okay
-Dialogue: 0,00:01:44.33,00:01:45.89,Default,,0,0,0,,Wake up, warm sheep
+Dialogue: 0,00:01:44.33,00:01:45.89,Default,,0,0,0,,Wake up, Jonie
 Dialogue: 0,00:01:47.09,00:01:48.53,Default,,0,0,0,,You wake up quickly
 Dialogue: 0,00:01:51.53,00:01:52.37,Default,,0,0,0,,It's all my fault
 Dialogue: 0,00:01:52.37,00:01:53.73,Default,,0,0,0,,Everyone is tired
 Dialogue: 0,00:01:56.69,00:01:57.81,Default,,0,0,0,,It's okay
 Dialogue: 0,00:01:58.61,00:02:01.09,Default,,0,0,0,,There should be herbs nearby...
-Dialogue: 0,00:02:08.89,00:02:11.77,Default,,0,0,0,,Do you know why we can't catch the Bingbing Sheep?
+Dialogue: 0,00:02:08.89,00:02:11.77,Default,,0,0,0,,Do you know why we can't catch Bingbing Yang?
 Dialogue: 0,00:02:14.25,00:02:15.57,Default,,0,0,0,,That's because you
 Dialogue: 0,00:02:15.61,00:02:16.93,Default,,0,0,0,,Not brave!
 Dialogue: 0,00:02:18.61,00:02:20.93,Default,,0,0,0,,What should we do to be brave?
@@ -60,7 +60,7 @@ Dialogue: 0,00:03:13.41,00:03:14.61,Default,,0,0,0,,So terrible!
 Dialogue: 0,00:03:14.61,00:03:15.45,Default,,0,0,0,,Don't be stunned!
 Dialogue: 0,00:03:15.45,00:03:17.17,Default,,0,0,0,,Escape quickly!
 Dialogue: 0,00:03:17.49,00:03:18.73,Default,,0,0,0,,yes!
-Dialogue: 0,00:03:19.53,00:03:21.33,Default,,0,0,0,,The grass trotters said by Nuanyang Sheep
+Dialogue: 0,00:03:19.53,00:03:21.33,Default,,0,0,0,,The grass trotters said by Nuanyang Goat
 Dialogue: 0,00:03:21.45,00:03:22.81,Default,,0,0,0,,Where is it?
 Dialogue: 0,00:03:44.37,00:03:45.41,Default,,0,0,0,,thank you
 Dialogue: 0,00:03:46.65,00:03:47.45,Default,,0,0,0,,You are welcome
@@ -75,8 +75,8 @@ Dialogue: 0,00:03:57.29,00:03:58.29,Default,,0,0,0,,alien?
 Dialogue: 0,00:03:59.09,00:04:00.81,Default,,0,0,0,,Are there such good aliens?
 Dialogue: 0,00:04:01.33,00:04:03.17,Default,,0,0,0,,Why I've seen aliens
 Dialogue: 0,00:04:03.37,00:04:05.37,Default,,0,0,0,,All of them are of this type
-Dialogue: 0,00:04:06.17,00:04:07.69,Default,,0,0,0,,My name is Meiyangyang
-Dialogue: 0,00:04:08.89,00:04:11.25,Default,,0,0,0,,What are you just fricking on the cliff?
+Dialogue: 0,00:04:06.17,00:04:07.69,Default,,0,0,0,,My name is Tibbie
+Dialogue: 0,00:04:08.89,00:04:11.25,Default,,0,0,0,,What are you just doing on the cliff?
 Dialogue: 0,00:04:11.61,00:04:14.25,Default,,0,0,0,,My friend sucked poison from the forest
 Dialogue: 0,00:04:14.49,00:04:15.49,Default,,0,0,0,,I'm about to help them
 Dialogue: 0,00:04:15.61,00:04:17.09,Default,,0,0,0,,Pick detoxification herbs
@@ -141,14 +141,14 @@ Dialogue: 0,00:06:58.49,00:06:59.77,Default,,0,0,0,,Learn about the king I worsh
 Dialogue: 0,00:06:59.81,00:07:00.85,Default,,0,0,0,,Being defeated
 Dialogue: 0,00:07:01.49,00:07:03.41,Default,,0,0,0,,She will give up chasing you
 Dialogue: 0,00:07:04.13,00:07:05.17,Default,,0,0,0,,Good job!
-Dialogue: 0,00:07:11.29,00:07:12.97,Default,,0,0,0,,Beautiful Sheep...
-Dialogue: 0,00:07:15.21,00:07:16.21,Default,,0,0,0,,Beautiful Sheep...
+Dialogue: 0,00:07:11.29,00:07:12.97,Default,,0,0,0,,Tibbie...
+Dialogue: 0,00:07:15.21,00:07:16.21,Default,,0,0,0,,Tibbie...
 Dialogue: 0,00:07:17.21,00:07:17.93,Default,,0,0,0,,you…
 Dialogue: 0,00:07:18.41,00:07:19.69,Default,,0,0,0,,It's finally nothing!
 Dialogue: 0,00:07:20.69,00:07:22.29,Default,,0,0,0,,I've hurt you
 Dialogue: 0,00:07:22.61,00:07:23.49,Default,,0,0,0,,sorry
 Dialogue: 0,00:07:24.57,00:07:26.13,Default,,0,0,0,,It's all bad for me
-Dialogue: 0,00:07:27.17,00:07:27.85,Default,,0,0,0,,Beautiful sheep
+Dialogue: 0,00:07:27.17,00:07:27.85,Default,,0,0,0,,Tibbie
 Dialogue: 0,00:07:27.85,00:07:28.49,Default,,0,0,0,,It's OK
 Dialogue: 0,00:07:28.53,00:07:30.01,Default,,0,0,0,,We didn't blame you
 Dialogue: 0,00:07:31.53,00:07:33.33,Default,,0,0,0,,And we made mistakes before
@@ -160,7 +160,7 @@ Dialogue: 0,00:07:40.97,00:07:41.69,Default,,0,0,0,,Excuse me
 Dialogue: 0,00:07:41.69,00:07:42.73,Default,,0,0,0,,Eat your food
 Dialogue: 0,00:07:43.01,00:07:43.81,Default,,0,0,0,,It doesn’t matter
 Dialogue: 0,00:07:44.09,00:07:45.29,Default,,0,0,0,,This is for you too
-Dialogue: 0,00:07:46.65,00:07:47.41,Default,,0,0,0,,Beautiful sheep
+Dialogue: 0,00:07:46.65,00:07:47.41,Default,,0,0,0,,Tibbie
 Dialogue: 0,00:07:48.41,00:07:50.49,Default,,0,0,0,,Friends should not be tolerant of each other
 Dialogue: 0,00:07:50.53,00:07:51.81,Default,,0,0,0,,Do you understand each other?
 Dialogue: 0,00:07:53.49,00:07:54.81,Default,,0,0,0,,Thank you
@@ -202,15 +202,15 @@ Dialogue: 0,00:09:37.09,00:09:38.05,Default,,0,0,0,,The King
 Dialogue: 0,00:09:38.41,00:09:40.61,Default,,0,0,0,,It's impossible to be defeated!
 Dialogue: 0,00:09:45.61,00:09:47.33,Default,,0,0,0,,The king of mushroom fungus
 Dialogue: 0,00:09:48.05,00:09:49.37,Default,,0,0,0,,Is it the germ king?
-Dialogue: 0,00:09:50.25,00:09:50.85,Default,,0,0,0,,Beautiful sheep
+Dialogue: 0,00:09:50.25,00:09:50.85,Default,,0,0,0,,Tibbie
 Dialogue: 0,00:09:51.21,00:09:52.33,Default,,0,0,0,,Don't get too close to her!
 Dialogue: 0,00:09:52.85,00:09:54.17,Default,,0,0,0,,King!
 Dialogue: 0,00:09:54.25,00:09:55.37,Default,,0,0,0,,Be careful, everyone!
-Dialogue: 0,00:09:57.17,00:09:57.89,Default,,0,0,0,,Beautiful sheep
+Dialogue: 0,00:09:57.17,00:09:57.89,Default,,0,0,0,,Tibbie
 Dialogue: 0,00:09:57.93,00:09:59.25,Default,,0,0,0,,Return soon!
 Dialogue: 0,00:10:00.65,00:10:02.45,Default,,0,0,0,,This time I'm here to protect everyone
 Dialogue: 0,00:10:21.65,00:10:23.93,Default,,0,0,0,,Please let you dig out these poisons
-Dialogue: 0,00:10:44.53,00:10:45.37,Default,,0,0,0,,Beautiful sheep!
+Dialogue: 0,00:10:44.53,00:10:45.37,Default,,0,0,0,,Tibbie!
 Dialogue: 0,00:10:49.21,00:10:49.97,Default,,0,0,0,,Mushroom fungus
 Dialogue: 0,00:10:51.13,00:10:51.89,Default,,0,0,0,,Cold and quiet
 Dialogue: 0,00:10:51.97,00:10:53.41,Default,,0,0,0,,Tell me what happened

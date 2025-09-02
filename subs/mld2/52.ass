@@ -17,7 +17,7 @@ Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,00:00:22.60,00:00:23.96,Default,,0,0,0,,You're not here
 Dialogue: 0,00:00:28.00,00:00:29.08,Default,,0,0,0,,Don't be afraid
 Dialogue: 0,00:00:29.24,00:00:31.48,Default,,0,0,0,,The lambs will come to save us soon!
-Dialogue: 0,00:00:32.44,00:00:34.16,Default,,0,0,0,,Will Brother Pleasant Goat come too?
+Dialogue: 0,00:00:32.44,00:00:34.16,Default,,0,0,0,,Will Brother Weslie come too?
 Dialogue: 0,00:00:35.68,00:00:37.48,Default,,0,0,0,,I don't want him to come and save him!
 Dialogue: 0,00:00:41.56,00:00:43.00,Default,,0,0,0,,Don't think differently about the sky
 Dialogue: 0,00:00:43.24,00:00:45.84,Default,,0,0,0,,I've renovated your home
@@ -32,10 +32,10 @@ Dialogue: 0,00:00:56.64,00:00:58.56,Default,,0,0,0,,The complexity of this terra
 Dialogue: 0,00:00:58.60,00:01:01.12,Default,,0,0,0,,Not what you can imagine
 Dialogue: 0,00:01:10.96,00:01:13.00,Default,,0,0,0,,Come on, lambs
 Dialogue: 0,00:01:17.84,00:01:19.08,Default,,0,0,0,,Where is this
-Dialogue: 0,00:01:21.48,00:01:23.04,Default,,0,0,0,,When is the Big Big Wolf's house
+Dialogue: 0,00:01:21.48,00:01:23.04,Default,,0,0,0,,When is Wolffy's house
 Dialogue: 0,00:01:23.04,00:01:24.88,Default,,0,0,0,,Is there this basement here?
 Dialogue: 0,00:01:26.00,00:01:26.52,Default,,0,0,0,,Here
-Dialogue: 0,00:01:26.68,00:01:28.16,Default,,0,0,0,,It should be to catch the Bingbing Sheep
+Dialogue: 0,00:01:26.68,00:01:28.16,Default,,0,0,0,,It should be to catch Bingbing Yang
 Dialogue: 0,00:01:28.20,00:01:29.43,Default,,0,0,0,,Newly created places
 Dialogue: 0,00:01:30.28,00:01:31.24,Default,,0,0,0,,Let's go down quickly
 Dialogue: 0,00:01:42.80,00:01:43.56,Default,,0,0,0,,Here…
@@ -44,29 +44,29 @@ Dialogue: 0,00:01:50.28,00:01:51.88,Default,,0,0,0,,There are also many snacks
 Dialogue: 0,00:01:52.36,00:01:53.16,Default,,0,0,0,,Be careful
 Dialogue: 0,00:01:53.88,00:01:54.43,Default,,0,0,0,,Here
 Dialogue: 0,00:01:54.48,00:01:56.56,Default,,0,0,0,,It may be a digital virus ground!
-Dialogue: 0,00:01:57.76,00:01:59.00,Default,,0,0,0,,Don't eat the sheep in a row
+Dialogue: 0,00:01:57.76,00:01:59.00,Default,,0,0,0,,Don't eat the goat in a row
 Dialogue: 0,00:01:59.04,00:02:00.04,Default,,0,0,0,,Something here
 Dialogue: 0,00:02:03.56,00:02:05.64,Default,,0,0,0,,There may be many machine followers in it
 Dialogue: 0,00:02:06.80,00:02:07.64,Default,,0,0,0,,The lights are lit
-Dialogue: 0,00:02:12.20,00:02:13.24,Default,,0,0,0,,Sheep and sheep
+Dialogue: 0,00:02:12.20,00:02:13.24,Default,,0,0,0,,Paddi
 Dialogue: 0,00:02:14.80,00:02:16.40,Default,,0,0,0,,You're fine
-Dialogue: 0,00:02:16.88,00:02:17.72,Default,,0,0,0,,Sheep and sheep!
-Dialogue: 0,00:02:18.00,00:02:18.84,Default,,0,0,0,,Sheep and sheep!
+Dialogue: 0,00:02:16.88,00:02:17.72,Default,,0,0,0,,Paddi!
+Dialogue: 0,00:02:18.00,00:02:18.84,Default,,0,0,0,,Paddi!
 Dialogue: 0,00:02:20.96,00:02:22.08,Default,,0,0,0,,Wake up Wake up!
 Dialogue: 0,00:02:22.96,00:02:23.72,Default,,0,0,0,,You're fine!
-Dialogue: 0,00:02:23.72,00:02:24.60,Default,,0,0,0,,Sheep and sheep
+Dialogue: 0,00:02:23.72,00:02:24.60,Default,,0,0,0,,Paddi
 Dialogue: 0,00:02:27.00,00:02:27.44,Default,,0,0,0,,I…
 Dialogue: 0,00:02:30.88,00:02:31.84,Default,,0,0,0,,Success!
 Dialogue: 0,00:02:31.88,00:02:33.16,Default,,0,0,0,,Success!
-Dialogue: 0,00:02:33.28,00:02:34.20,Default,,0,0,0,,Sheep and sheep
+Dialogue: 0,00:02:33.28,00:02:34.20,Default,,0,0,0,,Paddi
 Dialogue: 0,00:02:34.48,00:02:35.72,Default,,0,0,0,,You're fine, right?
 Dialogue: 0,00:02:36.80,00:02:38.84,Default,,0,0,0,,Why did you suddenly fall?
 Dialogue: 0,00:02:38.84,00:02:40.48,Default,,0,0,0,,Do you feel uncomfortable?
 Dialogue: 0,00:02:43.20,00:02:44.36,Default,,0,0,0,,It's nothing!
 Dialogue: 0,00:02:45.28,00:02:46.24,Default,,0,0,0,,Let's go quickly
 Dialogue: 0,00:02:47.60,00:02:48.72,Default,,0,0,0,,We need to keep up with the time
-Dialogue: 0,00:02:48.72,00:02:50.12,Default,,0,0,0,,Found Bingbing Sheep
-Dialogue: 0,00:02:50.16,00:02:51.12,Default,,0,0,0,,Pleasant Goat...
+Dialogue: 0,00:02:48.72,00:02:50.12,Default,,0,0,0,,Found Bingbing Yang
+Dialogue: 0,00:02:50.16,00:02:51.12,Default,,0,0,0,,Weslie...
 Dialogue: 0,00:02:51.24,00:02:52.44,Default,,0,0,0,,Wait for me
 Dialogue: 0,00:02:54.60,00:02:55.52,Default,,0,0,0,,My hands
 Dialogue: 0,00:02:56.76,00:02:58.68,Default,,0,0,0,,I'm obviously still there
@@ -89,19 +89,19 @@ Dialogue: 0,00:04:00.44,00:04:01.44,Default,,0,0,0,,This taste...
 Dialogue: 0,00:04:01.44,00:04:03.56,Default,,0,0,0,,Stimulate every cell in the body
 Dialogue: 0,00:04:04.72,00:04:07.16,Default,,0,0,0,,Then take a look at the smell of the body
 Dialogue: 0,00:04:08.84,00:04:11.60,Default,,0,0,0,,-Too delicious!
-- Why do you feel weird about the sheep?
+- Why do you feel weird about the goat?
 Dialogue: 0,00:04:12.04,00:04:13.76,Default,,0,0,0,,Stop playing, goat!
 Dialogue: 0,00:04:13.80,00:04:15.28,Default,,0,0,0,,We need to keep up with the time!
 Dialogue: 0,00:04:17.72,00:04:18.72,Default,,0,0,0,,Come here
 Dialogue: 0,00:04:19.20,00:04:19.88,Default,,0,0,0,,It's so delicious...
 Dialogue: 0,00:04:22.92,00:04:25.60,Default,,0,0,0,,Let this king unblock it obediently!
-Dialogue: 0,00:04:30.24,00:04:31.04,Default,,0,0,0,,Bingbing Sheep
+Dialogue: 0,00:04:30.24,00:04:31.04,Default,,0,0,0,,Bingbing Yang
 Dialogue: 0,00:04:31.04,00:04:32.07,Default,,0,0,0,,Lower your head!
 Dialogue: 0,00:04:43.04,00:04:44.44,Default,,0,0,0,,Run!
 Dialogue: 0,00:04:48.16,00:04:50.63,Default,,0,0,0,,Don't run!
-Dialogue: 0,00:04:53.04,00:04:55.07,Default,,0,0,0,,Where have they been going to Pleasant Goat?
-Dialogue: 0,00:05:02.88,00:05:04.16,Default,,0,0,0,,Bingbing sheep!
-Dialogue: 0,00:05:04.20,00:05:05.60,Default,,0,0,0,,Bingbing sheep!
+Dialogue: 0,00:04:53.04,00:04:55.07,Default,,0,0,0,,Where have they been going to Weslie?
+Dialogue: 0,00:05:02.88,00:05:04.16,Default,,0,0,0,,Bingbing Yang!
+Dialogue: 0,00:05:04.20,00:05:05.60,Default,,0,0,0,,Bingbing Yang!
 Dialogue: 0,00:05:08.00,00:05:09.44,Default,,0,0,0,,Taste my opportunity to stop!
 Dialogue: 0,00:05:11.12,00:05:12.24,Default,,0,0,0,,It's you
 Dialogue: 0,00:05:14.20,00:05:15.60,Default,,0,0,0,,You mean guy!
@@ -109,28 +109,28 @@ Dialogue: 0,00:05:15.63,00:05:16.84,Default,,0,0,0,,Replace my body
 Dialogue: 0,00:05:17.76,00:05:20.36,Default,,0,0,0,,Who are you talking to, Baiyangyang?
 Dialogue: 0,00:05:21.16,00:05:21.68,Default,,0,0,0,,Everyone!
 Dialogue: 0,00:05:21.68,00:05:22.92,Default,,0,0,0,,I'm really...
-Dialogue: 0,00:05:34.92,00:05:36.52,Default,,0,0,0,,I'm the real sheep
-Dialogue: 0,00:05:36.72,00:05:38.52,Default,,0,0,0,,This is a fake sheep
+Dialogue: 0,00:05:34.92,00:05:36.52,Default,,0,0,0,,I'm the real goat
+Dialogue: 0,00:05:36.72,00:05:38.52,Default,,0,0,0,,This is a fake goat
 Dialogue: 0,00:05:38.52,00:05:40.48,Default,,0,0,0,,I just exchanged his body
 Dialogue: 0,00:05:40.56,00:05:42.76,Default,,0,0,0,,Do you think we will trust you?
-Dialogue: 0,00:05:42.92,00:05:44.36,Default,,0,0,0,,It's okay, sheep
-Dialogue: 0,00:05:50.32,00:05:52.16,Default,,0,0,0,,Let's go find Bingbing Sheep!
+Dialogue: 0,00:05:42.92,00:05:44.36,Default,,0,0,0,,It's okay, goat
+Dialogue: 0,00:05:50.32,00:05:52.16,Default,,0,0,0,,Let's go find Bingbing Yang!
 Dialogue: 0,00:05:55.36,00:05:57.16,Default,,0,0,0,,Don't leave
 Dialogue: 0,00:05:57.48,00:05:58.04,Default,,0,0,0,,I…
 Dialogue: 0,00:06:08.20,00:06:09.56,Default,,0,0,0,,The friendship between you
 Dialogue: 0,00:06:09.56,00:06:10.48,Default,,0,0,0,,Not so
-Dialogue: 0,00:06:14.52,00:06:16.72,Default,,0,0,0,,I'm the real sheep
+Dialogue: 0,00:06:14.52,00:06:16.72,Default,,0,0,0,,I'm the real goat
 Dialogue: 0,00:06:19.04,00:06:20.12,Default,,0,0,0,,It's time to do a serious business...
-Dialogue: 0,00:06:21.44,00:06:23.52,Default,,0,0,0,,I seemed to hear the sound of Bingbing Sheep!
+Dialogue: 0,00:06:21.44,00:06:23.52,Default,,0,0,0,,I seemed to hear the sound of Bingbing Yang!
 Dialogue: 0,00:06:24.36,00:06:25.04,Default,,0,0,0,,There!
 Dialogue: 0,00:06:31.68,00:06:32.52,Default,,0,0,0,,This is…?
 Dialogue: 0,00:06:32.88,00:06:34.72,Default,,0,0,0,,Is the trap map of digital viruses?
 Dialogue: 0,00:06:35.48,00:06:36.88,Default,,0,0,0,,Everyone is in danger
 Dialogue: 0,00:06:46.40,00:06:48.72,Default,,0,0,0,,I'll never let you have any trouble
-Dialogue: 0,00:06:52.08,00:06:52.92,Default,,0,0,0,,Sheep and sheep
+Dialogue: 0,00:06:52.08,00:06:52.92,Default,,0,0,0,,Paddi
 Dialogue: 0,00:06:52.92,00:06:54.88,Default,,0,0,0,,Are you sure you didn't hear anything wrong?
 Dialogue: 0,00:06:55.64,00:06:57.00,Default,,0,0,0,,You no longer have the chance to
-Dialogue: 0,00:06:57.00,00:06:58.28,Default,,0,0,0,,I saw Bingbing Sheep again
+Dialogue: 0,00:06:57.00,00:06:58.28,Default,,0,0,0,,I saw Bingbing Yang again
 Dialogue: 0,00:07:01.24,00:07:02.36,Default,,0,0,0,,Why does it suddenly appear
 Dialogue: 0,00:07:02.36,00:07:03.68,Default,,0,0,0,,Their recollection is here
 Dialogue: 0,00:07:04.08,00:07:06.00,Default,,0,0,0,,I also feel this heartache
@@ -138,13 +138,13 @@ Dialogue: 0,00:07:06.64,00:07:08.40,Default,,0,0,0,,There is also a little bit o
 Dialogue: 0,00:07:08.72,00:07:10.68,Default,,0,0,0,,Is this body a problem?
 Dialogue: 0,00:07:15.47,00:07:17.40,Default,,0,0,0,,Be careful, everyone!
 Dialogue: 0,00:07:20.96,00:07:22.28,Default,,0,0,0,,It's you again
-Dialogue: 0,00:07:25.32,00:07:26.24,Default,,0,0,0,,Sheep and sheep
+Dialogue: 0,00:07:25.32,00:07:26.24,Default,,0,0,0,,Paddi
 Dialogue: 0,00:07:29.80,00:07:31.28,Default,,0,0,0,,Everyone is fine, right?
 Dialogue: 0,00:07:31.52,00:07:33.04,Default,,0,0,0,,You saved us?
-Dialogue: 0,00:07:33.16,00:07:35.00,Default,,0,0,0,,Thank you, Sheep
+Dialogue: 0,00:07:33.16,00:07:35.00,Default,,0,0,0,,Thank you, Goat
 Dialogue: 0,00:07:35.16,00:07:36.04,Default,,0,0,0,,No need No need
 Dialogue: 0,00:07:36.44,00:07:37.52,Default,,0,0,0,,Let's go quickly
-Dialogue: 0,00:07:37.72,00:07:38.96,Default,,0,0,0,,I just saw Bingbing Sheep
+Dialogue: 0,00:07:37.72,00:07:38.96,Default,,0,0,0,,I just saw Bingbing Yang
 Dialogue: 0,00:07:38.96,00:07:40.04,Default,,0,0,0,,Running to that side...
 Dialogue: 0,00:07:42.40,00:07:44.52,Default,,0,0,0,,I won't let you hurt my friend
 Dialogue: 0,00:07:48.64,00:07:50.00,Default,,0,0,0,,The exit is right in front!
@@ -157,14 +157,14 @@ Dialogue: 0,00:08:07.16,00:08:07.80,Default,,0,0,0,,Difficult to tell
 Dialogue: 0,00:08:07.84,00:08:09.28,Default,,0,0,0,,This is because you want to harm your companions
 Dialogue: 0,00:08:09.32,00:08:10.72,Default,,0,0,0,,Feeling heartache
 Dialogue: 0,00:08:11.12,00:08:12.28,Default,,0,0,0,,Keep up quickly
-Dialogue: 0,00:08:12.32,00:08:13.16,Default,,0,0,0,,Sheep and sheep
+Dialogue: 0,00:08:12.32,00:08:13.16,Default,,0,0,0,,Paddi
 Dialogue: 0,00:08:14.16,00:08:14.84,Default,,0,0,0,,but
 Dialogue: 0,00:08:15.24,00:08:16.60,Default,,0,0,0,,The mission assigned by the king
 Dialogue: 0,00:08:16.64,00:08:18.35,Default,,0,0,0,,Don't fail
 Dialogue: 0,00:08:18.84,00:08:20.20,Default,,0,0,0,,Disappear!
 Dialogue: 0,00:08:35.47,00:08:36.88,Default,,0,0,0,,Digital Virus
 Dialogue: 0,00:08:36.92,00:08:37.72,Default,,0,0,0,,No
-Dialogue: 0,00:08:37.96,00:08:39.52,Default,,0,0,0,,You...you are the sheep
+Dialogue: 0,00:08:37.96,00:08:39.52,Default,,0,0,0,,You...you are the goat
 Dialogue: 0,00:08:40.08,00:08:41.16,Default,,0,0,0,,what
 Dialogue: 0,00:08:49.80,00:08:50.80,Default,,0,0,0,,Very hard to bear
 Dialogue: 0,00:08:51.08,00:08:52.96,Default,,0,0,0,,Did I make a mistake?
@@ -173,24 +173,24 @@ Dialogue: 0,00:08:59.88,00:09:00.84,Default,,0,0,0,,Crying
 Dialogue: 0,00:09:02.24,00:09:03.72,Default,,0,0,0,,No wonder we every time
 Dialogue: 0,00:09:03.76,00:09:04.88,Default,,0,0,0,,In danger
 Dialogue: 0,00:09:04.88,00:09:07.16,Default,,0,0,0,,This robot will appear...
-Dialogue: 0,00:09:09.52,00:09:10.96,Default,,0,0,0,,Sorry, sheep
+Dialogue: 0,00:09:09.52,00:09:10.96,Default,,0,0,0,,Sorry, goat
 Dialogue: 0,00:09:11.56,00:09:13.08,Default,,0,0,0,,We didn't believe you before
 Dialogue: 0,00:09:13.80,00:09:15.04,Default,,0,0,0,,That's what you do
 Dialogue: 0,00:09:17.35,00:09:18.20,Default,,0,0,0,,No...No
 Dialogue: 0,00:09:18.20,00:09:20.00,Default,,0,0,0,,That's it...
-Dialogue: 0,00:09:23.60,00:09:24.16,Default,,0,0,0,,Beautiful sheep
+Dialogue: 0,00:09:23.60,00:09:24.16,Default,,0,0,0,,Tibbie
 Dialogue: 0,00:09:24.20,00:09:26.76,Default,,0,0,0,,Can you call your Kunzi partner to help?
 Dialogue: 0,00:09:27.35,00:09:28.12,Default,,0,0,0,,no…
 Dialogue: 0,00:09:29.00,00:09:30.47,Default,,0,0,0,,Here is a newly built place
 Dialogue: 0,00:09:30.47,00:09:32.35,Default,,0,0,0,,And the entrance is closed
 Dialogue: 0,00:09:32.35,00:09:34.40,Default,,0,0,0,,It takes time to come in...
-Dialogue: 0,00:09:41.56,00:09:42.20,Default,,0,0,0,,Sheep and sheep
+Dialogue: 0,00:09:41.56,00:09:42.20,Default,,0,0,0,,Paddi
 Dialogue: 0,00:09:42.76,00:09:43.64,Default,,0,0,0,,let it go
 Dialogue: 0,00:09:44.24,00:09:46.28,Default,,0,0,0,,Otherwise you will fall down
-Dialogue: 0,00:09:46.88,00:09:48.68,Default,,0,0,0,,Bingbing Sheep must be very scared now
+Dialogue: 0,00:09:46.88,00:09:48.68,Default,,0,0,0,,Bingbing Yang must be very scared now
 Dialogue: 0,00:09:48.88,00:09:50.40,Default,,0,0,0,,Waiting for us to save her
 Dialogue: 0,00:09:51.08,00:09:53.08,Default,,0,0,0,,You must carry our hope
-Dialogue: 0,00:09:53.47,00:09:55.16,Default,,0,0,0,,Save the Bingbing Sheep successfully...
+Dialogue: 0,00:09:53.47,00:09:55.16,Default,,0,0,0,,Save Bingbing Yang successfully...
 Dialogue: 0,00:09:55.20,00:09:55.68,Default,,0,0,0,,No!
 Dialogue: 0,00:09:56.84,00:09:57.88,Default,,0,0,0,,I don't want it
 Dialogue: 0,00:09:58.68,00:09:59.35,Default,,0,0,0,,I…
@@ -207,10 +207,10 @@ Dialogue: 0,00:10:38.40,00:10:41.68,Default,,0,0,0,,-I shouldn't be quarreling w
 -I don't want to lose them
 Dialogue: 0,00:10:41.84,00:10:44.16,Default,,0,0,0,,I'll take you back
 Dialogue: 0,00:10:47.68,00:10:49.12,Default,,0,0,0,,You think so too
-Dialogue: 0,00:10:49.16,00:10:50.44,Default,,0,0,0,,Right, sheep
+Dialogue: 0,00:10:49.16,00:10:50.44,Default,,0,0,0,,Right, goat
 Dialogue: 0,00:10:53.24,00:10:54.60,Default,,0,0,0,,Digital Virus
 Dialogue: 0,00:11:01.28,00:11:03.08,Default,,0,0,0,,My body has changed back?
-Dialogue: 0,00:11:05.60,00:11:07.56,Default,,0,0,0,,Thank you, Sheep
+Dialogue: 0,00:11:05.60,00:11:07.56,Default,,0,0,0,,Thank you, Goat
 Dialogue: 0,00:11:15.52,00:11:16.96,Default,,0,0,0,,Thank you
 Dialogue: 0,00:11:18.04,00:11:19.76,Default,,0,0,0,,Digital Virus
 Dialogue: 0,00:11:31.92,00:11:32.68,Default,,0,0,0,,Although you
@@ -221,7 +221,7 @@ Dialogue: 0,00:11:37.56,00:11:38.72,Default,,0,0,0,,When saving us
 Dialogue: 0,00:11:39.32,00:11:40.32,Default,,0,0,0,,I'll know
 Dialogue: 0,00:11:40.35,00:11:42.08,Default,,0,0,0,,Actually, you're not that bad
 Dialogue: 0,00:11:51.52,00:11:52.68,Default,,0,0,0,,You go
-Dialogue: 0,00:11:52.72,00:11:54.12,Default,,0,0,0,,Bingbing Sheep is not here
+Dialogue: 0,00:11:52.72,00:11:54.12,Default,,0,0,0,,Bingbing Yang is not here
 Dialogue: 0,00:11:55.16,00:11:55.47,Default,,0,0,0,,you…
 Dialogue: 0,00:11:55.92,00:11:56.96,Default,,0,0,0,,Why
 Dialogue: 0,00:11:57.28,00:11:58.28,Default,,0,0,0,,No reason

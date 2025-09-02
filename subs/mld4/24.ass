@@ -17,7 +17,7 @@ Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,00:00:22.88,00:00:29.73,Default,,0,0,0,,Look at the stars and the moon Look at my heart
 Dialogue: 0,00:00:29.76,00:00:32.01,Default,,0,0,0,,The singing of the two people is so similar to...
 Dialogue: 0,00:00:32.04,00:00:32.84,Default,,0,0,0,,oops
-Dialogue: 0,00:00:35.36,00:00:36.36,Default,,0,0,0,,Warm sheep
+Dialogue: 0,00:00:35.36,00:00:36.36,Default,,0,0,0,,Jonie
 Dialogue: 0,00:00:37.76,00:00:39.16,Default,,0,0,0,,You're fine
 Dialogue: 0,00:00:39.52,00:00:40.48,Default,,0,0,0,,It's OK…
 Dialogue: 0,00:00:41.12,00:00:45.08,Default,,0,0,0,,Why do you feel so unpretentious all day long
@@ -33,7 +33,7 @@ Dialogue: 0,00:01:13.32,00:01:15.85,Default,,0,0,0,,Wow, so cute
 Dialogue: 0,00:01:15.88,00:01:19.08,Default,,0,0,0,,Hehe Hee As cute as we two
 Dialogue: 0,00:01:19.52,00:01:23.32,Default,,0,0,0,,-Sing together...-The moon represents my heart
 Dialogue: 0,00:01:25.12,00:01:28.64,Default,,0,0,0,,Later I moved to the green grassland
-Dialogue: 0,00:01:30.16,00:01:33.00,Default,,0,0,0,,Xiao Xin also left the Sheep clan later
+Dialogue: 0,00:01:30.16,00:01:33.00,Default,,0,0,0,,Xiao Xin also left the Goat clan later
 Dialogue: 0,00:01:33.96,00:01:36.20,Default,,0,0,0,,We finally broke the contact
 Dialogue: 0,00:01:38.60,00:01:40.71,Default,,0,0,0,,You're because of that song
 Dialogue: 0,00:01:40.96,00:01:43.00,Default,,0,0,0,,I think Bu Lei is Xiao Xin
@@ -46,7 +46,7 @@ Dialogue: 0,00:01:58.64,00:02:00.08,Default,,0,0,0,,Is it a coincidence
 Dialogue: 0,00:02:03.04,00:02:04.48,Default,,0,0,0,,Think about it seriously
 Dialogue: 0,00:02:04.88,00:02:06.71,Default,,0,0,0,,Except for that song
 Dialogue: 0,00:02:06.92,00:02:10.24,Default,,0,0,0,,Are there any other similarities between Bu Lei and Xiao Xin?
-Dialogue: 0,00:02:13.52,00:02:15.21,Default,,0,0,0,,Meiyangyang, you're right
+Dialogue: 0,00:02:13.52,00:02:15.21,Default,,0,0,0,,Tibbie, you're right
 Dialogue: 0,00:02:15.24,00:02:17.24,Default,,0,0,0,,Maybe I'm thinking too much
 Dialogue: 0,00:02:17.96,00:02:19.17,Default,,0,0,0,,If Xiaoxin knew
 Dialogue: 0,00:02:19.20,00:02:22.09,Default,,0,0,0,,You are still thinking about her good friend
@@ -75,7 +75,7 @@ Dialogue: 0,00:04:20.60,00:04:23.16,Default,,0,0,0,,We're fighting the air just 
 Dialogue: 0,00:04:26.04,00:04:28.36,Default,,0,0,0,,It should be a tangible monster
 Dialogue: 0,00:04:29.44,00:04:30.52,Default,,0,0,0,,Will be obscured
 Dialogue: 0,00:04:31.44,00:04:34.28,Default,,0,0,0,,Then we can't see it, how can we get the card?
-Dialogue: 0,00:04:36.44,00:04:37.56,Default,,0,0,0,,Warm sheep
+Dialogue: 0,00:04:36.44,00:04:37.56,Default,,0,0,0,,Jonie
 Dialogue: 0,00:04:45.76,00:04:46.96,Default,,0,0,0,,Xiao Xin…
 Dialogue: 0,00:04:55.92,00:04:57.56,Default,,0,0,0,,Bu Lei, what happened to you
 Dialogue: 0,00:04:58.63,00:05:02.04,Default,,0,0,0,,You were injured before, I came to see you
@@ -99,18 +99,18 @@ Dialogue: 0,00:06:07.76,00:06:09.52,Default,,0,0,0,,I don't remember it very muc
 Dialogue: 0,00:06:10.24,00:06:11.65,Default,,0,0,0,,I just vaguely remember
 Dialogue: 0,00:06:11.68,00:06:14.53,Default,,0,0,0,,I should have a very good friend
 Dialogue: 0,00:06:14.56,00:06:17.16,Default,,0,0,0,,But she seemed to move later
-Dialogue: 0,00:06:19.60,00:06:21.80,Default,,0,0,0,,Warm Sheep, hurry up
+Dialogue: 0,00:06:19.60,00:06:21.80,Default,,0,0,0,,Jonie, hurry up
 Dialogue: 0,00:06:28.44,00:06:30.64,Default,,0,0,0,,Thank you for your hard work so long
 Dialogue: 0,00:06:31.24,00:06:33.20,Default,,0,0,0,,Of course you eat first
 Dialogue: 0,00:06:37.20,00:06:39.56,Default,,0,0,0,,Then... I'm not polite
 Dialogue: 0,00:06:42.48,00:06:45.00,Default,,0,0,0,,Yes, I'm really delicious
 Dialogue: 0,00:06:46.00,00:06:49.04,Default,,0,0,0,,Looks delicious, I'm not polite
-Dialogue: 0,00:07:00.84,00:07:03.32,Default,,0,0,0,,Boiling Sheep, don't you try it?
+Dialogue: 0,00:07:00.84,00:07:03.32,Default,,0,0,0,,Sparky , don't you try it?
 Dialogue: 0,00:07:03.48,00:07:04.84,Default,,0,0,0,,So delicious
 Dialogue: 0,00:07:05.84,00:07:08.08,Default,,0,0,0,,No, I don't have much appetite
 Dialogue: 0,00:07:13.64,00:07:16.20,Default,,0,0,0,,I'm leaving first
 Dialogue: 0,00:07:16.96,00:07:18.20,Default,,0,0,0,,See you next time
-Dialogue: 0,00:07:23.16,00:07:26.28,Default,,0,0,0,,Boiling Sheep Do you don’t like thunder?
+Dialogue: 0,00:07:23.16,00:07:26.28,Default,,0,0,0,,Sparky  Do you don’t like thunder?
 Dialogue: 0,00:07:27.40,00:07:28.72,Default,,0,0,0,,I think she has a problem
 Dialogue: 0,00:07:29.24,00:07:30.32,Default,,0,0,0,,I don't trust her
 Dialogue: 0,00:07:34.40,00:07:36.96,Default,,0,0,0,,Is she... Xiao Xin?
@@ -136,7 +136,7 @@ Dialogue: 0,00:08:44.12,00:08:47.57,Default,,0,0,0,,Look at the stars and the mo
 Dialogue: 0,00:08:47.60,00:08:48.17,Default,,0,0,0,,This song...
 Dialogue: 0,00:08:48.20,00:08:51.40,Default,,0,0,0,,Look at my heart
 Dialogue: 0,00:09:06.24,00:09:08.35,Default,,0,0,0,,Bu Lei Is it you
-Dialogue: 0,00:09:12.88,00:09:14.56,Default,,0,0,0,,Idol, are you fricking
+Dialogue: 0,00:09:12.88,00:09:14.56,Default,,0,0,0,,Idol, are you doing
 Dialogue: 0,00:09:15.64,00:09:18.12,Default,,0,0,0,,You... are my friend Xiao Xin
 Dialogue: 0,00:09:18.80,00:09:21.64,Default,,0,0,0,,What Xiaoxin, I am Bu Lei
 Dialogue: 0,00:09:24.47,00:09:28.24,Default,,0,0,0,,Then I ask you if you were sent by a mysterious person
@@ -145,7 +145,7 @@ Dialogue: 0,00:09:32.04,00:09:34.16,Default,,0,0,0,,Is that mysterious person th
 Dialogue: 0,00:09:34.76,00:09:36.44,Default,,0,0,0,,Turn you into a robot
 Dialogue: 0,00:09:37.80,00:09:39.13,Default,,0,0,0,,What are you talking about
 Dialogue: 0,00:09:39.16,00:09:40.72,Default,,0,0,0,,Who is the mysterious person
-Dialogue: 0,00:09:42.60,00:09:44.68,Default,,0,0,0,,Nuanyang Sheep You think it's wrong
+Dialogue: 0,00:09:42.60,00:09:44.68,Default,,0,0,0,,Nuanyang Goat You think it's wrong
 Dialogue: 0,00:09:48.68,00:09:50.64,Default,,0,0,0,,I'm not the Xiaoxin you said
 Dialogue: 0,00:09:51.96,00:09:55.60,Default,,0,0,0,,But it's fun to be a good friend by your idol.
 Dialogue: 0,00:09:56.52,00:09:58.52,Default,,0,0,0,,Then why do you sing that song
@@ -166,7 +166,7 @@ Dialogue: 0,00:10:39.40,00:10:40.88,Default,,0,0,0,,I'm Bu Lei
 Dialogue: 0,00:10:57.47,00:10:58.96,Default,,0,0,0,,Comet worm
 Dialogue: 0,00:11:14.64,00:11:15.40,Default,,0,0,0,,Xiao Xin
 Dialogue: 0,00:11:16.24,00:11:17.77,Default,,0,0,0,,You don't remember when we were young
-Dialogue: 0,00:11:17.80,00:11:19.56,Default,,0,0,0,,Have you been in the Sheep tribe?
+Dialogue: 0,00:11:17.80,00:11:19.56,Default,,0,0,0,,Have you been in the Goat tribe?
 Dialogue: 0,00:11:27.04,00:11:31.47,Default,,0,0,0,,At that time, we played together and sang together
 Dialogue: 0,00:11:32.04,00:11:33.47,Default,,0,0,0,,Stop talking
 Dialogue: 0,00:11:35.84,00:11:38.24,Default,,0,0,0,,Let's eat what you made together

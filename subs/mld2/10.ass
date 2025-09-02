@@ -14,11 +14,11 @@ Style: Default,Arial,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,00:01:58.08,00:02:00.28,Default,,0,0,0,,Sister Meiyangyang Come and play with me
-Dialogue: 0,00:02:02.48,00:02:05.00,Default,,0,0,0,,Wow, Sister Meiyangyang is so terrible
+Dialogue: 0,00:01:58.08,00:02:00.28,Default,,0,0,0,,Sister Tibbie Come and play with me
+Dialogue: 0,00:02:02.48,00:02:05.00,Default,,0,0,0,,Wow, Sister Tibbie is so terrible
 Dialogue: 0,00:02:14.04,00:02:15.44,Default,,0,0,0,,Oh, it's a mosquito
 Dialogue: 0,00:02:23.00,00:02:25.28,Default,,0,0,0,,mosquito? I want to play with you!
-Dialogue: 0,00:02:26.32,00:02:28.68,Default,,0,0,0,,Bingbing Sheep can't play with mosquitoes!
+Dialogue: 0,00:02:26.32,00:02:28.68,Default,,0,0,0,,Bingbing Yang can't play with mosquitoes!
 Dialogue: 0,00:02:28.76,00:02:30.40,Default,,0,0,0,,Mosquitoes are harmful to the
 Dialogue: 0,00:02:34.36,00:02:36.56,Default,,0,0,0,,No, Mosquito wants to play with me!
 Dialogue: 0,00:02:43.60,00:02:46.96,Default,,0,0,0,,Still too small, I don't know how to be afraid
@@ -36,7 +36,7 @@ Dialogue: 0,00:03:47.88,00:03:52.00,Default,,0,0,0,,It seems to make them feel v
 It seems that he can be used
 Dialogue: 0,00:03:56.72,00:03:58.48,Default,,0,0,0,,Huh? Why does it hurt a little?
 Dialogue: 0,00:04:01.88,00:04:04.64,Default,,0,0,0,,You dare to bite me, the germ king!
-Dialogue: 0,00:04:06.68,00:04:07.96,Default,,0,0,0,,Do you want to frick?
+Dialogue: 0,00:04:06.68,00:04:07.96,Default,,0,0,0,,Do you want to do?
 Dialogue: 0,00:04:09.32,00:04:12.32,Default,,0,0,0,,Don't be afraid I just want to cooperate with you
 Dialogue: 0,00:04:14.36,00:04:16.00,Default,,0,0,0,,Do you understand what I say?
 Dialogue: 0,00:04:17.44,00:04:20.44,Default,,0,0,0,,Of course I am the germ king!
@@ -45,17 +45,17 @@ Dialogue: 0,00:04:34.32,00:04:37.12,Default,,0,0,0,,Little buzz, are you hungry?
 Dialogue: 0,00:04:37.92,00:04:39.68,Default,,0,0,0,,I'll find you something to eat
 Dialogue: 0,00:05:27.32,00:05:29.60,Default,,0,0,0,,Little Buzz Do you not eat ice cream?
 Dialogue: 0,00:05:30.52,00:05:31.96,Default,,0,0,0,,Then I'll eat it
-Dialogue: 0,00:05:32.44,00:05:35.52,Default,,0,0,0,,How long does Bingbing Sheep need to keep this mosquito?
+Dialogue: 0,00:05:32.44,00:05:35.52,Default,,0,0,0,,How long does Bingbing Yang need to keep this mosquito?
 Dialogue: 0,00:05:35.76,00:05:37.56,Default,,0,0,0,,We can't stand it anymore
 Dialogue: 0,00:05:38.32,00:05:40.64,Default,,0,0,0,,It seems like I want to try to eliminate him
-Dialogue: 0,00:05:41.92,00:05:45.48,Default,,0,0,0,,But Bingbing Sheep is so baby mosquito, there is no chance to
-Dialogue: 0,00:05:46.24,00:05:48.96,Default,,0,0,0,,How to open the ice-bing sheep
+Dialogue: 0,00:05:41.92,00:05:45.48,Default,,0,0,0,,But Bingbing Yang is so baby mosquito, there is no chance to
+Dialogue: 0,00:05:46.24,00:05:48.96,Default,,0,0,0,,How to open Bingbing Yang
 Dialogue: 0,00:05:49.83,00:05:51.20,Default,,0,0,0,,My hands are dirty
 Dialogue: 0,00:05:53.88,00:05:55.44,Default,,0,0,0,,I'm going to the bathroom
 Dialogue: 0,00:05:55.72,00:05:57.76,Default,,0,0,0,,I'll take you to wash your hands
-Dialogue: 0,00:06:07.24,00:06:08.52,Default,,0,0,0,,Are you fricking?
+Dialogue: 0,00:06:07.24,00:06:08.52,Default,,0,0,0,,Are you doing?
 Dialogue: 0,00:06:14.27,00:06:16.68,Default,,0,0,0,,Why did you scare the little buzzer?
-Dialogue: 0,00:06:17.72,00:06:19.96,Default,,0,0,0,,Bingbing Sheep We just...
+Dialogue: 0,00:06:17.72,00:06:19.96,Default,,0,0,0,,Bingbing Yang We just...
 Dialogue: 0,00:06:26.20,00:06:28.40,Default,,0,0,0,,The residents of the grassland are too much
 Dialogue: 0,00:06:28.48,00:06:31.08,Default,,0,0,0,,Always deal with us in various ways!
 Dialogue: 0,00:06:31.72,00:06:34.44,Default,,0,0,0,,My brother fell under their mosquito coils
@@ -75,20 +75,20 @@ Dialogue: 0,00:07:18.96,00:07:21.72,Default,,0,0,0,,It looks like a wealthy fami
 Dialogue: 0,00:07:29.16,00:07:31.80,Default,,0,0,0,,I'm the captain. What's the problem?
 Dialogue: 0,00:07:31.92,00:07:32.88,Default,,0,0,0,,no!
 Dialogue: 0,00:07:33.52,00:07:34.84,Default,,0,0,0,,Then come out!
-Dialogue: 0,00:07:34.84,00:07:37.60,Default,,0,0,0,,The first one to be arrested was the group of sheep
+Dialogue: 0,00:07:34.84,00:07:37.60,Default,,0,0,0,,The first one to be arrested was the group of goat
 Dialogue: 0,00:07:38.76,00:07:39.68,Default,,0,0,0,,Wait a moment!
-Dialogue: 0,00:07:42.24,00:07:45.28,Default,,0,0,0,,Big Big Wolf seems to be doing something about mosquitoes
-Dialogue: 0,00:07:46.20,00:07:50.16,Default,,0,0,0,,Big Big Wolf made a destructive invention
+Dialogue: 0,00:07:42.24,00:07:45.28,Default,,0,0,0,,Wolffy seems to be doing something about mosquitoes
+Dialogue: 0,00:07:46.20,00:07:50.16,Default,,0,0,0,,Wolffy made a destructive invention
 How can we deal with so many mosquitoes
 Dialogue: 0,00:07:51.24,00:07:52.96,Default,,0,0,0,,Depart!
-Dialogue: 0,00:07:55.84,00:07:58.48,Default,,0,0,0,,Brother Pleasant Goat, I'll tell you!
+Dialogue: 0,00:07:55.84,00:07:58.48,Default,,0,0,0,,Brother Weslie, I'll tell you!
 Dialogue: 0,00:07:58.72,00:08:00.44,Default,,0,0,0,,We are for your own good!
 Dialogue: 0,00:08:00.96,00:08:02.72,Default,,0,0,0,,And I'm a little buzzing!
 Dialogue: 0,00:08:02.96,00:08:05.28,Default,,0,0,0,,But the little buzzer has already run away
 Dialogue: 0,00:08:11.36,00:08:13.84,Default,,0,0,0,,Look, the little buzz is flying back
 Dialogue: 0,00:08:15.60,00:08:16.56,Default,,0,0,0,,Little buzz!
 Dialogue: 0,00:08:21.92,00:08:23.68,Default,,0,0,0,,Why are there so many mosquitoes
-Dialogue: 0,00:08:26.96,00:08:28.80,Default,,0,0,0,,Pleasant Goat Brother Let it open!
+Dialogue: 0,00:08:26.96,00:08:28.80,Default,,0,0,0,,Weslie Brother Let it open!
 Dialogue: 0,00:08:29.08,00:08:31.12,Default,,0,0,0,,Be careful, there is something wrong
 Dialogue: 0,00:08:31.88,00:08:34.16,Default,,0,0,0,,Mosquito Team Two, I'm so excited!
 Dialogue: 0,00:08:36.88,00:08:37.80,Default,,0,0,0,,Leave it to me
@@ -127,14 +127,14 @@ Dialogue: 0,00:10:48.12,00:10:49.80,Default,,0,0,0,,This is what you forced me!
 Dialogue: 0,00:10:49.84,00:10:52.44,Default,,0,0,0,,Let me stimulate the potential of this mosquito!
 Dialogue: 0,00:11:01.80,00:11:03.96,Default,,0,0,0,,The small buzz has become bigger
 Dialogue: 0,00:11:04.48,00:11:07.67,Default,,0,0,0,,It turns out that it's caused by bacteria. Run away
-Dialogue: 0,00:11:15.12,00:11:17.64,Default,,0,0,0,,Brother Pleasant Goat, you're fine!
+Dialogue: 0,00:11:15.12,00:11:17.64,Default,,0,0,0,,Brother Weslie, you're fine!
 Dialogue: 0,00:11:18.04,00:11:19.04,Default,,0,0,0,,It's OK
 Dialogue: 0,00:11:24.40,00:11:26.60,Default,,0,0,0,,Mosquitoes are harmful to sucking blood
 Dialogue: 0,00:11:26.60,00:11:29.40,Default,,0,0,0,,It will be very dirty after being bitten
 Dialogue: 0,00:11:30.32,00:11:33.64,Default,,0,0,0,,Brothers and sisters just don't want to let mosquitoes
-Injured Bingbing Sheep
+Injured Bingbing Yang
 Dialogue: 0,00:11:36.24,00:11:38.52,Default,,0,0,0,,Still have time to worry about others?
-Dialogue: 0,00:11:42.60,00:11:46.44,Default,,0,0,0,,Little buzz! Why do you hurt Brother Pleasant Goat
+Dialogue: 0,00:11:42.60,00:11:46.44,Default,,0,0,0,,Little buzz! Why do you hurt Brother Weslie
 Dialogue: 0,00:11:49.00,00:11:51.64,Default,,0,0,0,,Hahaha I just like it!
 Dialogue: 0,00:11:56.92,00:12:00.55,Default,,0,0,0,,Humph My invention is to shoot mosquitoes
 Dialogue: 0,00:12:04.88,00:12:07.44,Default,,0,0,0,,Your invention is still useless
@@ -142,7 +142,7 @@ Dialogue: 0,00:12:08.76,00:12:10.52,Default,,0,0,0,,I have many more tricks!
 Dialogue: 0,00:12:11.04,00:12:12.55,Default,,0,0,0,,Mosquito coils ejaculate!
 Dialogue: 0,00:12:18.84,00:12:20.55,Default,,0,0,0,,Mosquito water launch!
 Dialogue: 0,00:12:23.32,00:12:26.55,Default,,0,0,0,,He flew too fast and couldn't spray him
-Dialogue: 0,00:12:27.32,00:12:29.44,Default,,0,0,0,,Big Big Wolf help me throw it behind him
+Dialogue: 0,00:12:27.32,00:12:29.44,Default,,0,0,0,,Wolffy help me throw it behind him
 Dialogue: 0,00:12:31.12,00:12:32.52,Default,,0,0,0,,no problem!
 Dialogue: 0,00:12:36.92,00:12:38.92,Default,,0,0,0,,Where are you throwing it?
 Dialogue: 0,00:12:43.52,00:12:44.80,Default,,0,0,0,,Look at mine

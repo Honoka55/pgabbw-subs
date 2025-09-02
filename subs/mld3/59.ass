@@ -14,7 +14,7 @@ Style: Default,Arial,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,00:00:08.72,00:00:10.56,Default,,0,0,0,,"The Guardian of Sheep Village Three"
+Dialogue: 0,00:00:08.72,00:00:10.56,Default,,0,0,0,,"The Guardian of Goat Village Three"
 Dialogue: 0,00:00:10.92,00:00:12.60,Default,,0,0,0,,"Saving the Great World"
 Dialogue: 0,00:00:14.56,00:00:16.28,Default,,0,0,0,,"The Fall of the Island"
 Dialogue: 0,00:00:20.03,00:00:22.24,Default,,0,0,0,,Wolf will fight you too much
@@ -22,7 +22,7 @@ Dialogue: 0,00:00:22.52,00:00:24.56,Default,,0,0,0,,Let's work together to stop 
 Dialogue: 0,00:00:25.07,00:00:25.52,Default,,0,0,0,,Um
 Dialogue: 0,00:00:26.16,00:00:28.52,Default,,0,0,0,,By the way, do you know him, Wolf,
 Dialogue: 0,00:00:28.72,00:00:29.41,Default,,0,0,0,,He finally...
-Dialogue: 0,00:00:29.44,00:00:32.23,Default,,0,0,0,,I have sent the lamb back to the sheep village just now
+Dialogue: 0,00:00:29.44,00:00:32.23,Default,,0,0,0,,I have sent the lamb back to the goat village just now
 Dialogue: 0,00:00:32.40,00:00:35.16,Default,,0,0,0,,You go and evacuate the villagers here
 Dialogue: 0,00:00:35.52,00:00:36.88,Default,,0,0,0,,He'll give it to me
 Dialogue: 0,00:00:37.12,00:00:38.28,Default,,0,0,0,,Just hate you
@@ -30,7 +30,7 @@ Dialogue: 0,00:00:38.60,00:00:41.12,Default,,0,0,0,,Humph, you're quite polite
 Dialogue: 0,00:00:41.84,00:00:42.61,Default,,0,0,0,,We're here to help...
 Dialogue: 0,00:00:42.64,00:00:43.21,Default,,0,0,0,,Go quickly
 Dialogue: 0,00:00:43.24,00:00:44.36,Default,,0,0,0,,But...but...
-Dialogue: 0,00:00:45.00,00:00:47.47,Default,,0,0,0,,Go...Sheep Village Guardian
+Dialogue: 0,00:00:45.00,00:00:47.47,Default,,0,0,0,,Go...Goat Village Guardian
 Dialogue: 0,00:00:47.84,00:00:50.76,Default,,0,0,0,,Now is the time when villagers need you the most
 Dialogue: 0,00:00:51.72,00:00:53.12,Default,,0,0,0,,OK I understand
 Dialogue: 0,00:00:53.64,00:00:54.52,Default,,0,0,0,,Let's go
@@ -90,7 +90,7 @@ Dialogue: 0,00:06:09.92,00:06:11.27,Default,,0,0,0,,It's coming down...
 Dialogue: 0,00:06:21.80,00:06:22.64,Default,,0,0,0,,Run!
 Dialogue: 0,00:06:31.48,00:06:33.80,Default,,0,0,0,,Protect everyone quickly
 Dialogue: 0,00:06:38.76,00:06:39.92,Default,,0,0,0,,ah…
-Dialogue: 0,00:06:39.96,00:06:41.04,Default,,0,0,0,,Qiyun
+Dialogue: 0,00:06:39.96,00:06:41.04,Default,,0,0,0,,Magic Cloud
 Dialogue: 0,00:06:43.00,00:06:43.65,Default,,0,0,0,,It's okay
 Dialogue: 0,00:06:43.68,00:06:44.16,Default,,0,0,0,,Um
 Dialogue: 0,00:06:46.52,00:06:48.52,Default,,0,0,0,,Ahhhhh…
@@ -116,7 +116,7 @@ Dialogue: 0,00:08:23.28,00:08:24.56,Default,,0,0,0,,But the villagers...
 Dialogue: 0,00:08:25.36,00:08:26.88,Default,,0,0,0,,Leave it to me
 Dialogue: 0,00:08:31.00,00:08:33.96,Default,,0,0,0,,Strange... cloud... change...
 Dialogue: 0,00:08:38.36,00:08:39.16,Default,,0,0,0,,Well…
-Dialogue: 0,00:08:43.48,00:08:44.40,Default,,0,0,0,,Sheep and goat...
+Dialogue: 0,00:08:43.48,00:08:44.40,Default,,0,0,0,,Paddi...
 Dialogue: 0,00:08:45.55,00:08:46.73,Default,,0,0,0,,Everyone is in a hurry
 Dialogue: 0,00:08:46.76,00:08:47.52,Default,,0,0,0,,Um
 Dialogue: 0,00:08:48.92,00:08:52.00,Default,,0,0,0,,Ha, do you think this will stop me?
@@ -125,13 +125,13 @@ Dialogue: 0,00:09:08.72,00:09:11.92,Default,,0,0,0,,ah…
 Dialogue: 0,00:09:20.72,00:09:21.52,Default,,0,0,0,,This is...
 Dialogue: 0,00:09:23.96,00:09:25.24,Default,,0,0,0,,Worked
 Dialogue: 0,00:09:25.32,00:09:26.36,Default,,0,0,0,,Not enough yet
-Dialogue: 0,00:09:26.84,00:09:28.04,Default,,0,0,0,,Sheep and sheep
+Dialogue: 0,00:09:26.84,00:09:28.04,Default,,0,0,0,,Paddi
 Dialogue: 0,00:09:28.76,00:09:30.49,Default,,0,0,0,,You're fine
 Dialogue: 0,00:09:30.52,00:09:33.16,Default,,0,0,0,,Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 Dialogue: 0,00:09:34.40,00:09:35.80,Default,,0,0,0,,Two-man guy
 Dialogue: 0,00:09:36.84,00:09:39.55,Default,,0,0,0,,All will disappear to me
 Dialogue: 0,00:09:58.36,00:10:00.08,Default,,0,0,0,,The Wolf Corps...
-Dialogue: 0,00:10:07.12,00:10:09.12,Default,,0,0,0,,No, no Qili is enough
+Dialogue: 0,00:10:07.12,00:10:09.12,Default,,0,0,0,,No, no Magic power is enough
 Dialogue: 0,00:10:18.96,00:10:20.60,Default,,0,0,0,,For...why...
 Dialogue: 0,00:10:22.20,00:10:28.28,Default,,0,0,0,,Because...I believe you...
 Dialogue: 0,00:10:30.40,00:10:31.40,Default,,0,0,0,,The Wolf Corps...
@@ -148,7 +148,7 @@ Dialogue: 0,00:11:16.55,00:11:19.36,Default,,0,0,0,,We'll only get into trouble 
 Dialogue: 0,00:11:21.16,00:11:23.01,Default,,0,0,0,,But this is what happens again
 Dialogue: 0,00:11:23.04,00:11:24.65,Default,,0,0,0,,Everyone will be destroyed
 Dialogue: 0,00:11:24.67,00:11:25.84,Default,,0,0,0,,Let's go
-Dialogue: 0,00:11:26.72,00:11:28.37,Default,,0,0,0,,Slow Sheep and Sheep said it right
+Dialogue: 0,00:11:26.72,00:11:28.37,Default,,0,0,0,,Slowy said it right
 Dialogue: 0,00:11:28.40,00:11:30.52,Default,,0,0,0,,We can't do nothing here
 Dialogue: 0,00:11:31.55,00:11:32.72,Default,,0,0,0,,but…
 Dialogue: 0,00:11:33.08,00:11:34.44,Default,,0,0,0,,You two...

@@ -44,7 +44,7 @@ Dialogue: 0,00:02:20.65,00:02:23.01,Default,,0,0,0,,Do you have only this abilit
 Dialogue: 0,00:02:24.33,00:02:26.33,Default,,0,0,0,,Can he actually use my power?
 Dialogue: 0,00:02:28.69,00:02:29.41,Default,,0,0,0,,No!
 Dialogue: 0,00:02:29.77,00:02:31.57,Default,,0,0,0,,Disappear
-Dialogue: 0,00:02:36.33,00:02:37.37,Default,,0,0,0,,Qiyun
+Dialogue: 0,00:02:36.33,00:02:37.37,Default,,0,0,0,,Magic Cloud
 Dialogue: 0,00:02:37.97,00:02:39.69,Default,,0,0,0,,ah…
 Dialogue: 0,00:02:42.41,00:02:43.29,Default,,0,0,0,,tomorrow
 Dialogue: 0,00:02:46.69,00:02:48.63,Default,,0,0,0,,tomorrow…
@@ -54,9 +54,9 @@ Dialogue: 0,00:02:54.45,00:02:56.37,Default,,0,0,0,,Don't want to hurt them agai
 Dialogue: 0,00:03:13.17,00:03:16.17,Default,,0,0,0,,Give me aside, you can't stop me
 Dialogue: 0,00:03:17.53,00:03:21.09,Default,,0,0,0,,We... don't give up...
 Dialogue: 0,00:03:21.73,00:03:24.49,Default,,0,0,0,,Then let's play something more interesting
-Dialogue: 0,00:03:27.77,00:03:28.73,Default,,0,0,0,,Sheep and goat...
+Dialogue: 0,00:03:27.77,00:03:28.73,Default,,0,0,0,,Paddi...
 Dialogue: 0,00:03:30.61,00:03:32.37,Default,,0,0,0,,Come and hurt each other
-Dialogue: 0,00:03:32.65,00:03:35.25,Default,,0,0,0,,No, the lone wolf controls the sheep
+Dialogue: 0,00:03:32.65,00:03:35.25,Default,,0,0,0,,No, the lone wolf controls the goat
 Dialogue: 0,00:03:38.77,00:03:39.65,Default,,0,0,0,,Spread quickly
 Dialogue: 0,00:03:41.97,00:03:43.53,Default,,0,0,0,,You're fine
 Dialogue: 0,00:03:44.37,00:03:46.77,Default,,0,0,0,,Let's have fun together
@@ -66,7 +66,7 @@ Dialogue: 0,00:04:04.89,00:04:06.57,Default,,0,0,0,,It won't let you escape
 Dialogue: 0,00:04:08.85,00:04:09.85,Default,,0,0,0,,Careless
 Dialogue: 0,00:04:10.37,00:04:10.89,Default,,0,0,0,,not good
 Dialogue: 0,00:04:12.05,00:04:13.93,Default,,0,0,0,,Must find the body of the lonely wolf
-Dialogue: 0,00:04:13.97,00:04:16.29,Default,,0,0,0,,Only then can the sheep wake up
+Dialogue: 0,00:04:13.97,00:04:16.29,Default,,0,0,0,,Only then can the goat wake up
 Dialogue: 0,00:04:16.57,00:04:19.09,Default,,0,0,0,,But how can we catch up with the miracle
 Dialogue: 0,00:04:21.01,00:04:22.25,Default,,0,0,0,,Use a blanket
 Dialogue: 0,00:04:24.21,00:04:27.29,Default,,0,0,0,,Desert horns will help you find the direction of the strange beasts
@@ -75,7 +75,7 @@ Dialogue: 0,00:04:34.77,00:04:37.41,Default,,0,0,0,,- You must come back safely
 - You must come back safely
 Dialogue: 0,00:04:46.53,00:04:47.33,Default,,0,0,0,,It's there
 Dialogue: 0,00:04:53.29,00:04:55.05,Default,,0,0,0,,Let me open my body
-Dialogue: 0,00:04:55.85,00:04:56.97,Default,,0,0,0,,Qiyun
+Dialogue: 0,00:04:55.85,00:04:56.97,Default,,0,0,0,,Magic Cloud
 Dialogue: 0,00:05:11.05,00:05:12.97,Default,,0,0,0,,Stop it
 Dialogue: 0,00:05:13.17,00:05:14.57,Default,,0,0,0,,This will scare it
 Dialogue: 0,00:05:16.81,00:05:20.93,Default,,0,0,0,,It didn't run away...but it was...
@@ -87,7 +87,7 @@ Dialogue: 0,00:05:57.29,00:06:01.13,Default,,0,0,0,,So...we are more harmful tha
 Dialogue: 0,00:06:02.77,00:06:04.25,Default,,0,0,0,,ah…
 Dialogue: 0,00:06:04.37,00:06:07.87,Default,,0,0,0,,Stop shouting, no one will come to save you
 Dialogue: 0,00:06:07.89,00:06:13.79,Default,,0,0,0,,ah…
-Dialogue: 0,00:06:13.81,00:06:14.97,Default,,0,0,0,,Blade of wind
+Dialogue: 0,00:06:13.81,00:06:14.97,Default,,0,0,0,,Hurricane Blade
 Dialogue: 0,00:06:24.57,00:06:27.37,Default,,0,0,0,,Hello... are you... here to stop me from fighting?
 Dialogue: 0,00:06:28.89,00:06:30.49,Default,,0,0,0,,It's amazing to have too many people
 Dialogue: 0,00:06:30.73,00:06:32.09,Default,,0,0,0,,I'm not afraid of you
@@ -98,7 +98,7 @@ Dialogue: 0,00:06:39.93,00:06:41.21,Default,,0,0,0,,You go home with all your mi
 Dialogue: 0,00:06:43.65,00:06:45.61,Default,,0,0,0,,Now there are all blackened villagers
 Dialogue: 0,00:06:46.29,00:06:48.17,Default,,0,0,0,,I'm nowhere to go
 Dialogue: 0,00:06:48.81,00:06:49.77,Default,,0,0,0,,How about it...
-Dialogue: 0,00:06:50.89,00:06:53.99,Default,,0,0,0,,Don't cry... Don't cry Pleasant Goat...
+Dialogue: 0,00:06:50.89,00:06:53.99,Default,,0,0,0,,Don't cry... Don't cry Weslie...
 Dialogue: 0,00:06:54.01,00:06:57.41,Default,,0,0,0,,Yes, we'll send you to a safe place
 Dialogue: 0,00:06:57.89,00:07:00.09,Default,,0,0,0,,Desert Grim, go find the magical beast first
 Dialogue: 0,00:07:09.21,00:07:11.21,Default,,0,0,0,,This is not easy to be discovered
@@ -119,24 +119,24 @@ Dialogue: 0,00:07:42.97,00:07:43.81,Default,,0,0,0,,emotion?
 Dialogue: 0,00:07:44.69,00:07:47.33,Default,,0,0,0,,Ha ha ha ha…
 Dialogue: 0,00:07:47.93,00:07:50.61,Default,,0,0,0,,Feelings are the most fortunate thing in the world
 Dialogue: 0,00:07:52.09,00:07:53.09,Default,,0,0,0,,The lone wolf...
-Dialogue: 0,00:07:53.81,00:07:56.85,Default,,0,0,0,,You don't have to say this in the way of a sheep
+Dialogue: 0,00:07:53.81,00:07:56.85,Default,,0,0,0,,You don't have to say this in the way of a goat
 Dialogue: 0,00:07:58.09,00:07:59.05,Default,,0,0,0,,Friendship
 Dialogue: 0,00:07:59.93,00:08:02.53,Default,,0,0,0,,Or...I haven't changed back now
-Dialogue: 0,00:08:03.57,00:08:06.85,Default,,0,0,0,,Give up the sheep and save the whole world
+Dialogue: 0,00:08:03.57,00:08:06.85,Default,,0,0,0,,Give up the goat and save the whole world
 Dialogue: 0,00:08:08.29,00:08:09.17,Default,,0,0,0,,what
-Dialogue: 0,00:08:10.09,00:08:15.53,Default,,0,0,0,,Come on... choose... to save the sheep
+Dialogue: 0,00:08:10.09,00:08:15.53,Default,,0,0,0,,Come on... choose... to save the goat
 Dialogue: 0,00:08:15.69,00:08:17.33,Default,,0,0,0,,Or save the world
 Dialogue: 0,00:08:19.89,00:08:21.33,Default,,0,0,0,,Choose quickly
 Dialogue: 0,00:08:21.97,00:08:23.13,Default,,0,0,0,,What a joke
-Dialogue: 0,00:08:23.29,00:08:26.25,Default,,0,0,0,,We will save both the sheep and the world
+Dialogue: 0,00:08:23.29,00:08:26.25,Default,,0,0,0,,We will save both the goat and the world
 Dialogue: 0,00:08:27.17,00:08:30.09,Default,,0,0,0,,That's right, none of us will give up
 Dialogue: 0,00:08:32.57,00:08:34.49,Default,,0,0,0,,A bunch of innocent guys...
 Dialogue: 0,00:08:35.25,00:08:38.23,Default,,0,0,0,,Let's stop talking to him. Go and look for it
 Dialogue: 0,00:08:38.25,00:08:38.65,Default,,0,0,0,,Um
 Dialogue: 0,00:08:53.05,00:08:54.29,Default,,0,0,0,,Mom...
 Dialogue: 0,00:08:55.49,00:08:58.33,Default,,0,0,0,,When will Sister Haoyue wake up?
-Dialogue: 0,00:08:58.97,00:09:02.05,Default,,0,0,0,,Xiao Huihui, this mother doesn't know either
-Dialogue: 0,00:09:10.97,00:09:13.25,Default,,0,0,0,,It should be Pleasant Goat and they are back
+Dialogue: 0,00:08:58.97,00:09:02.05,Default,,0,0,0,,Wilie, this mother doesn't know either
+Dialogue: 0,00:09:10.97,00:09:13.25,Default,,0,0,0,,It should be Weslie and they are back
 Dialogue: 0,00:09:16.17,00:09:17.37,Default,,0,0,0,,You are...
 Dialogue: 0,00:09:19.17,00:09:22.49,Default,,0,0,0,,I want to compare with the king of the country. See who is more harmful
 Dialogue: 0,00:09:22.89,00:09:24.25,Default,,0,0,0,,A stingy gangster
@@ -160,7 +160,7 @@ Dialogue: 0,00:10:11.05,00:10:11.89,Default,,0,0,0,,I've been snatched
 Dialogue: 0,00:10:21.25,00:10:24.37,Default,,0,0,0,,I've been beaten, hahaha...
 Dialogue: 0,00:10:24.89,00:10:26.53,Default,,0,0,0,,Hand over the crown
 Dialogue: 0,00:10:31.41,00:10:33.49,Default,,0,0,0,,Hehehehehe...
-Dialogue: 0,00:10:35.73,00:10:37.33,Default,,0,0,0,,Frick beautifully slow sheep
+Dialogue: 0,00:10:35.73,00:10:37.33,Default,,0,0,0,,Do beautifully Slowy
 Dialogue: 0,00:10:38.17,00:10:39.61,Default,,0,0,0,,The king has won the prize
 Dialogue: 0,00:10:39.93,00:10:41.61,Default,,0,0,0,,Hahahahahahaha...
 Dialogue: 0,00:10:46.45,00:10:48.85,Default,,0,0,0,,Desert Eagle found the miracle
@@ -170,10 +170,10 @@ Dialogue: 0,00:11:05.17,00:11:07.17,Default,,0,0,0,,Must change back to your bod
 Dialogue: 0,00:11:17.69,00:11:18.69,Default,,0,0,0,,Let's go quickly...
 Dialogue: 0,00:11:20.13,00:11:21.65,Default,,0,0,0,,Why don't you see the lonely wolf?
 Dialogue: 0,00:11:24.01,00:11:26.85,Default,,0,0,0,,Not good if the lone wolf is regained
-Dialogue: 0,00:11:27.01,00:11:28.61,Default,,0,0,0,,The sheep will be in danger
+Dialogue: 0,00:11:27.01,00:11:28.61,Default,,0,0,0,,The goat will be in danger
 Dialogue: 0,00:11:29.13,00:11:29.69,Default,,0,0,0,,Chase quickly
 Dialogue: 0,00:11:36.73,00:11:37.89,Default,,0,0,0,,Finally found
-Dialogue: 0,00:11:39.17,00:11:40.17,Default,,0,0,0,,Qiyun
+Dialogue: 0,00:11:39.17,00:11:40.17,Default,,0,0,0,,Magic Cloud
 Dialogue: 0,00:12:06.05,00:12:06.65,Default,,0,0,0,,Oh...
 Dialogue: 0,00:12:12.73,00:12:15.29,Default,,0,0,0,,Strange where did my body go
 Dialogue: 0,00:12:19.85,00:12:20.93,Default,,0,0,0,,It turns out there

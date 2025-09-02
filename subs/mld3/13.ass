@@ -17,7 +17,7 @@ Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,00:00:22.61,00:00:24.13,Default,,0,0,0,,Can this car move?
 Dialogue: 0,00:00:28.49,00:00:29.69,Default,,0,0,0,,danger!
 Dialogue: 0,00:00:30.73,00:00:33.37,Default,,0,0,0,,I'm here to save you... Alas...
-Dialogue: 0,00:00:35.05,00:00:36.29,Default,,0,0,0,,Big Big Wolf!
+Dialogue: 0,00:00:35.05,00:00:36.29,Default,,0,0,0,,Wolffy!
 Dialogue: 0,00:00:38.89,00:00:41.21,Default,,0,0,0,,Let's fix the car
 Dialogue: 0,00:00:43.85,00:00:46.29,Default,,0,0,0,,But now all trains are stopped
 Dialogue: 0,00:00:46.57,00:00:48.89,Default,,0,0,0,,Even if it is repaired, the train will not be able to leave
@@ -32,9 +32,9 @@ Dialogue: 0,00:01:09.05,00:01:11.23,Default,,0,0,0,,It is hidden in the thorn fo
 Dialogue: 0,00:01:11.25,00:01:12.81,Default,,0,0,0,,Not many people have seen it
 Dialogue: 0,00:01:13.21,00:01:14.89,Default,,0,0,0,,Thorn Forest…
 Dialogue: 0,00:01:17.17,00:01:20.89,Default,,0,0,0,,Don't worry, we're not afraid if we look at each other
-Dialogue: 0,00:01:24.37,00:01:26.43,Default,,0,0,0,,Yes, this time the delicate sheep
+Dialogue: 0,00:01:24.37,00:01:26.43,Default,,0,0,0,,Yes, this time the delicate goat
 Dialogue: 0,00:01:26.45,00:01:29.45,Default,,0,0,0,,We will definitely be able to safely enter and exit the Thorn Forest
-Dialogue: 0,00:01:30.65,00:01:33.25,Default,,0,0,0,,Meiyangyang, I will give you more advice in the future
+Dialogue: 0,00:01:30.65,00:01:33.25,Default,,0,0,0,,Tibbie, I will give you more advice in the future
 Dialogue: 0,00:01:34.05,00:01:35.25,Default,,0,0,0,,Let's give advice together
 Dialogue: 0,00:01:35.53,00:01:37.63,Default,,0,0,0,,Ha ha ha ha…
 Dialogue: 0,00:01:37.65,00:01:39.06,Default,,0,0,0,,You go out quickly
@@ -53,10 +53,10 @@ Dialogue: 0,00:02:29.05,00:02:31.09,Default,,0,0,0,,Very good, that's it
 Dialogue: 0,00:02:33.69,00:02:38.19,Default,,0,0,0,,Chi...
 Dialogue: 0,00:02:38.21,00:02:40.29,Default,,0,0,0,,Why do you want this to me
 Dialogue: 0,00:02:42.45,00:02:43.97,Default,,0,0,0,,I've suffered!
-Dialogue: 0,00:02:46.09,00:02:48.45,Default,,0,0,0,,What to frick? Let me down quickly!
+Dialogue: 0,00:02:46.09,00:02:48.45,Default,,0,0,0,,What to do? Let me down quickly!
 Dialogue: 0,00:02:51.21,00:02:52.89,Default,,0,0,0,,Stop quickly...
 Dialogue: 0,00:02:53.65,00:02:54.53,Default,,0,0,0,,ah…
-Dialogue: 0,00:02:55.05,00:02:57.43,Default,,0,0,0,,Slow Sheep Sheep Military Master, the Queen is looking for you
+Dialogue: 0,00:02:55.05,00:02:57.43,Default,,0,0,0,,Slowy Military Master, the Queen is looking for you
 Dialogue: 0,00:02:57.45,00:03:00.01,Default,,0,0,0,,ah!
 Dialogue: 0,00:03:02.93,00:03:04.89,Default,,0,0,0,,OK Wait a moment
 Dialogue: 0,00:03:05.21,00:03:07.09,Default,,0,0,0,,Did you practice hard today
@@ -69,11 +69,11 @@ Dialogue: 0,00:03:26.25,00:03:27.81,Default,,0,0,0,,I'll bring you something del
 Dialogue: 0,00:03:30.17,00:03:31.93,Default,,0,0,0,,Haha...Let's go
 Dialogue: 0,00:03:41.41,00:03:42.89,Default,,0,0,0,,How do you do
 Dialogue: 0,00:03:44.89,00:03:46.49,Default,,0,0,0,,Can't even catch a bright moon
-Dialogue: 0,00:03:46.65,00:03:48.33,Default,,0,0,0,,It also made the beautiful sheep rebellious
-Dialogue: 0,00:03:51.77,00:03:53.17,Default,,0,0,0,,It's the beautiful sheep that is too weak
+Dialogue: 0,00:03:46.65,00:03:48.33,Default,,0,0,0,,It also made Tibbie rebellious
+Dialogue: 0,00:03:51.77,00:03:53.17,Default,,0,0,0,,It's Tibbie that is too weak
 Dialogue: 0,00:03:54.01,00:03:54.93,Default,,0,0,0,,Especially you
 Dialogue: 0,00:03:55.17,00:03:56.07,Default,,0,0,0,,Let you help
-Dialogue: 0,00:03:56.09,00:03:57.73,Default,,0,0,0,,You got married to Mei Yangyang
+Dialogue: 0,00:03:56.09,00:03:57.73,Default,,0,0,0,,You got married to Tibbie
 Dialogue: 0,00:03:58.09,00:03:59.73,Default,,0,0,0,,Uh...that was an accident
 Dialogue: 0,00:03:59.89,00:04:01.05,Default,,0,0,0,,But the queen restsatisfied
 Dialogue: 0,00:04:01.33,00:04:03.29,Default,,0,0,0,,They're going to pass the ice town next
@@ -82,7 +82,7 @@ Dialogue: 0,00:04:05.37,00:04:06.49,Default,,0,0,0,,It's best
 Dialogue: 0,00:04:07.13,00:04:07.45,Default,,0,0,0,,yes
 Dialogue: 0,00:04:08.21,00:04:11.11,Default,,0,0,0,,If I took the magical beast to capture Princess Haoyue
 Dialogue: 0,00:04:11.13,00:04:13.13,Default,,0,0,0,,- The Queen will be very happy
-- Slow Sheep You're doing a good job
+- Slowy You're doing a good job
 Dialogue: 0,00:04:13.81,00:04:14.97,Default,,0,0,0,,whee…
 Dialogue: 0,00:04:21.85,00:04:23.87,Default,,0,0,0,,Humph, wait until I arrive at Qihua Town
 Dialogue: 0,00:04:23.89,00:04:26.67,Default,,0,0,0,,Just grab Princess Haoyue and the others
@@ -90,14 +90,14 @@ Dialogue: 0,00:04:26.69,00:04:28.37,Default,,0,0,0,,Ah... Alas...
 Dialogue: 0,00:04:31.09,00:04:32.27,Default,,0,0,0,,Where are you going?
 Dialogue: 0,00:04:32.29,00:04:34.21,Default,,0,0,0,,Is it good to hear me?
 Dialogue: 0,00:04:36.89,00:04:39.01,Default,,0,0,0,,Let's look for the power stone
-Dialogue: 0,00:04:40.17,00:04:41.77,Default,,0,0,0,,I and the beautiful sheep
+Dialogue: 0,00:04:40.17,00:04:41.77,Default,,0,0,0,,I and Tibbie
 Dialogue: 0,00:04:42.57,00:04:44.69,Default,,0,0,0,,Princess Haoyue and I
 Dialogue: 0,00:04:45.05,00:04:46.05,Default,,0,0,0,,I and...
 Dialogue: 0,00:04:48.05,00:04:50.27,Default,,0,0,0,,Children are children and need someone to accompany them
 Dialogue: 0,00:04:50.29,00:04:52.57,Default,,0,0,0,,Don't come back to find me if you're scared
 Dialogue: 0,00:04:55.29,00:04:57.13,Default,,0,0,0,,Haha I'll come back to find me soon
 Dialogue: 0,00:05:00.49,00:05:02.01,Default,,0,0,0,,Miracle...
-Dialogue: 0,00:05:02.49,00:05:04.57,Default,,0,0,0,,The beautiful sheep helps...
+Dialogue: 0,00:05:02.49,00:05:04.57,Default,,0,0,0,,Tibbie helps...
 Dialogue: 0,00:05:08.29,00:05:09.37,Default,,0,0,0,,Didn't catch up?
 Dialogue: 0,00:05:09.41,00:05:11.29,Default,,0,0,0,,But why are there strange beasts here?
 Dialogue: 0,00:05:11.49,00:05:14.05,Default,,0,0,0,,And this miracle is smaller than the miracle I encountered before
@@ -118,7 +118,7 @@ Dialogue: 0,00:06:02.37,00:06:05.01,Default,,0,0,0,,oops…
 Dialogue: 0,00:06:18.85,00:06:20.19,Default,,0,0,0,,What's going on?
 Dialogue: 0,00:06:20.21,00:06:22.09,Default,,0,0,0,,Why did he suddenly run?
 Dialogue: 0,00:06:24.77,00:06:25.45,Default,,0,0,0,,Come back
-Dialogue: 0,00:06:32.77,00:06:35.13,Default,,0,0,0,,Meiyangyang, have you found the power stone?
+Dialogue: 0,00:06:32.77,00:06:35.13,Default,,0,0,0,,Tibbie, have you found the power stone?
 Dialogue: 0,00:06:37.97,00:06:39.73,Default,,0,0,0,,After searching for so long, I still can't find it. Very tired
 Dialogue: 0,00:06:43.97,00:06:45.45,Default,,0,0,0,,Finally stopped
 Dialogue: 0,00:06:46.69,00:06:48.37,Default,,0,0,0,,- Give me some rest first
@@ -135,9 +135,9 @@ Dialogue: 0,00:07:24.29,00:07:25.37,Default,,0,0,0,,Run quickly
 Dialogue: 0,00:07:27.77,00:07:29.41,Default,,0,0,0,,Big Swords We're on
 Dialogue: 0,00:07:30.89,00:07:33.25,Default,,0,0,0,,What do you want
 Dialogue: 0,00:07:38.17,00:07:40.33,Default,,0,0,0,,You're out for a walk again...
-Dialogue: 0,00:07:43.81,00:07:45.89,Default,,0,0,0,,Why does slow sheep also have a strange beast?
-Dialogue: 0,00:07:48.29,00:07:50.71,Default,,0,0,0,,- Big Big Wolf Help
-- Big Big Wolf Help
+Dialogue: 0,00:07:43.81,00:07:45.89,Default,,0,0,0,,Why does Slowy also have a strange beast?
+Dialogue: 0,00:07:48.29,00:07:50.71,Default,,0,0,0,,- Wolffy Help
+- Wolffy Help
 Dialogue: 0,00:07:50.73,00:07:52.49,Default,,0,0,0,,Don't hurt them
 Dialogue: 0,00:07:54.25,00:07:55.45,Default,,0,0,0,,Thunderbolt
 Dialogue: 0,00:08:04.37,00:08:05.89,Default,,0,0,0,,It's really dangerous
@@ -149,9 +149,9 @@ Dialogue: 0,00:08:23.65,00:08:25.19,Default,,0,0,0,,Oops Oops…
 Dialogue: 0,00:08:25.21,00:08:27.41,Default,,0,0,0,,You've hurt yourself
 Dialogue: 0,00:08:29.65,00:08:31.29,Default,,0,0,0,,ah…
 Dialogue: 0,00:08:37.57,00:08:39.13,Default,,0,0,0,,Help...
-Dialogue: 0,00:08:39.29,00:08:40.49,Default,,0,0,0,,- Big Big Wolf
-- Big Big Wolf
-Dialogue: 0,00:08:41.65,00:08:42.93,Default,,0,0,0,,Qiyun
+Dialogue: 0,00:08:39.29,00:08:40.49,Default,,0,0,0,,- Wolffy
+- Wolffy
+Dialogue: 0,00:08:41.65,00:08:42.93,Default,,0,0,0,,Magic Cloud
 Dialogue: 0,00:08:46.61,00:08:48.11,Default,,0,0,0,,ah…
 Dialogue: 0,00:08:48.13,00:08:50.77,Default,,0,0,0,,- This miracle is too powerful
 - This miracle is too powerful
@@ -184,13 +184,13 @@ Dialogue: 0,00:10:34.25,00:10:36.13,Default,,0,0,0,,The shield will disappear so
 Dialogue: 0,00:10:36.69,00:10:38.33,Default,,0,0,0,,You're about to catch
 Dialogue: 0,00:10:42.73,00:10:44.61,Default,,0,0,0,,ah…
 Dialogue: 0,00:10:45.01,00:10:45.49,Default,,0,0,0,,superior
-Dialogue: 0,00:10:51.73,00:10:53.37,Default,,0,0,0,,Qiyun
+Dialogue: 0,00:10:51.73,00:10:53.37,Default,,0,0,0,,Magic Cloud
 Dialogue: 0,00:10:54.77,00:10:57.17,Default,,0,0,0,,Say the net to catch the strange beast
 Dialogue: 0,00:10:58.05,00:11:00.42,Default,,0,0,0,,oops…
 Dialogue: 0,00:11:00.45,00:11:01.49,Default,,0,0,0,,what
 Dialogue: 0,00:11:14.29,00:11:15.19,Default,,0,0,0,,Success
-Dialogue: 0,00:11:15.21,00:11:16.65,Default,,0,0,0,,Good luck with sheep
-Dialogue: 0,00:11:17.21,00:11:18.77,Default,,0,0,0,,I've missed the sheep
+Dialogue: 0,00:11:15.21,00:11:16.65,Default,,0,0,0,,Good luck with goat
+Dialogue: 0,00:11:17.21,00:11:18.77,Default,,0,0,0,,I've missed the goat
 Dialogue: 0,00:11:20.17,00:11:22.63,Default,,0,0,0,,They were just dragged down for a while
 Dialogue: 0,00:11:22.65,00:11:23.85,Default,,0,0,0,,Let's run quickly
 Dialogue: 0,00:11:27.77,00:11:29.89,Default,,0,0,0,,Stop biting, chase them

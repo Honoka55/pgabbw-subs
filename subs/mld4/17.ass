@@ -15,7 +15,7 @@ Style: Default,Arial,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,00:00:25.69,00:00:27.09,Default,,0,0,0,,Didn't catch up
-Dialogue: 0,00:00:27.49,00:00:29.17,Default,,0,0,0,,Pleasant Goat, you're fine
+Dialogue: 0,00:00:27.49,00:00:29.17,Default,,0,0,0,,Weslie, you're fine
 Dialogue: 0,00:00:30.25,00:00:31.05,Default,,0,0,0,,It's OK
 Dialogue: 0,00:00:32.01,00:00:33.97,Default,,0,0,0,,That's just the black diamond?
 Dialogue: 0,00:00:35.93,00:00:36.37,Default,,0,0,0,,Um
@@ -57,8 +57,8 @@ Dialogue: 0,00:02:59.69,00:03:02.09,Default,,0,0,0,,Brother, I've hidden it
 Dialogue: 0,00:03:12.73,00:03:15.29,Default,,0,0,0,,Why didn't my brother come to me yet
 Dialogue: 0,00:03:22.25,00:03:24.97,Default,,0,0,0,,Brother, don't you want me anymore
 Dialogue: 0,00:03:36.85,00:03:38.69,Default,,0,0,0,,Brother, you found me
-Dialogue: 0,00:03:40.53,00:03:42.05,Default,,0,0,0,,Pleasant Goat Brother
-Dialogue: 0,00:03:43.61,00:03:45.89,Default,,0,0,0,,Xiaoyu What are you fricking here
+Dialogue: 0,00:03:40.53,00:03:42.05,Default,,0,0,0,,Weslie Brother
+Dialogue: 0,00:03:43.61,00:03:45.89,Default,,0,0,0,,Xiaoyu What are you doing here
 Dialogue: 0,00:03:46.69,00:03:48.65,Default,,0,0,0,,I play hide-and-seek with my brother
 Dialogue: 0,00:03:48.97,00:03:52.13,Default,,0,0,0,,But my brother never came to me
 Dialogue: 0,00:03:52.29,00:03:54.45,Default,,0,0,0,,Does he want me anymore
@@ -88,7 +88,7 @@ Dialogue: 0,00:06:00.65,00:06:01.53,Default,,0,0,0,,ah…
 Dialogue: 0,00:06:13.25,00:06:14.73,Default,,0,0,0,,Be careful
 Dialogue: 0,00:06:15.37,00:06:17.05,Default,,0,0,0,,Big Wolf behind you
 Dialogue: 0,00:06:18.01,00:06:20.13,Default,,0,0,0,,what? How fast is it so fast
-Dialogue: 0,00:06:29.05,00:06:31.13,Default,,0,0,0,,Big Big Wolf, leave there quickly
+Dialogue: 0,00:06:29.05,00:06:31.13,Default,,0,0,0,,Wolffy, leave there quickly
 Dialogue: 0,00:06:40.45,00:06:41.65,Default,,0,0,0,,Don't think about it
 Dialogue: 0,00:06:42.61,00:06:43.27,Default,,0,0,0,,It's nothing
 Dialogue: 0,00:06:43.29,00:06:44.65,Default,,0,0,0,,Is that skill?

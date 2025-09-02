@@ -17,13 +17,13 @@ Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,00:00:25.16,00:00:27.52,Default,,0,0,0,,Dry lights won't get sick
 Dialogue: 0,00:00:42.12,00:00:43.92,Default,,0,0,0,,What happened
 Dialogue: 0,00:00:44.04,00:00:45.40,Default,,0,0,0,,Is the end of the world?
-Dialogue: 0,00:00:49.08,00:00:51.56,Default,,0,0,0,,Red and Xiao Huihui went on a trip
+Dialogue: 0,00:00:49.08,00:00:51.56,Default,,0,0,0,,Red and Wilie went on a trip
 Dialogue: 0,00:00:51.88,00:00:53.16,Default,,0,0,0,,I'm sick again
 Dialogue: 0,00:00:53.92,00:00:56.08,Default,,0,0,0,,How many days did it take to be like this?
 Dialogue: 0,00:00:56.24,00:00:58.40,Default,,0,0,0,,Can you help me swipe it?
 Dialogue: 0,00:00:59.32,00:01:03.12,Default,,0,0,0,,Want my expensive germ king to help you with a swipe? No door!
 Dialogue: 0,00:01:04.12,00:01:05.28,Default,,0,0,0,,Little ghost!
-Dialogue: 0,00:01:05.68,00:01:07.20,Default,,0,0,0,,snort! I'm going to catch sheep!
+Dialogue: 0,00:01:05.68,00:01:07.20,Default,,0,0,0,,snort! I'm going to catch goat!
 Dialogue: 0,00:01:16.16,00:01:18.60,Default,,0,0,0,,I can't stand it anymore!
 Dialogue: 0,00:01:18.84,00:01:20.76,Default,,0,0,0,,I have to control him to clean it!
 Dialogue: 0,00:01:34.36,00:01:36.12,Default,,0,0,0,,Just repair your nails
@@ -63,7 +63,7 @@ Dialogue: 0,00:03:52.80,00:03:55.56,Default,,0,0,0,,Your cleanliness is less tha
 Dialogue: 0,00:03:56.60,00:03:59.60,Default,,0,0,0,,I've just been a little busy lately and forgot to take a shower for a few days...
 Dialogue: 0,00:04:01.84,00:04:04.04,Default,,0,0,0,,I'm so sorry, Brother Rabbit
 Dialogue: 0,00:04:04.60,00:04:08.28,Default,,0,0,0,,It seems that there are still loopholes in the detector. I need to change it...
-Dialogue: 0,00:04:14.04,00:04:16.63,Default,,0,0,0,,I said you...what do you want to frick me?
+Dialogue: 0,00:04:14.04,00:04:16.63,Default,,0,0,0,,I said you...what do you want to do me?
 Dialogue: 0,00:04:24.04,00:04:24.88,Default,,0,0,0,,benefactor
 Dialogue: 0,00:04:25.00,00:04:27.48,Default,,0,0,0,,Thank you for your care
 Dialogue: 0,00:04:27.80,00:04:29.12,Default,,0,0,0,,I'll take care of you?
@@ -101,11 +101,11 @@ Dialogue: 0,00:06:42.16,00:06:44.00,Default,,0,0,0,,Is there anything to help?
 Dialogue: 0,00:06:49.88,00:06:53.40,Default,,0,0,0,,But why did the detector not respond?
 Dialogue: 0,00:06:55.48,00:06:57.92,Default,,0,0,0,,I don’t believe it, I can’t repair you well!
 Dialogue: 0,00:06:58.76,00:07:02.28,Default,,0,0,0,,Village Chief is not the time to care about this problem now
-Dialogue: 0,00:07:02.80,00:07:04.60,Default,,0,0,0,,We want to protect the Bingbing Sheep!
-Dialogue: 0,00:07:06.08,00:07:07.64,Default,,0,0,0,,Where has Bingbing Sheep gone? ?
+Dialogue: 0,00:07:02.80,00:07:04.60,Default,,0,0,0,,We want to protect Bingbing Yang!
+Dialogue: 0,00:07:06.08,00:07:07.64,Default,,0,0,0,,Where has Bingbing Yang gone? ?
 Dialogue: 0,00:07:14.76,00:07:15.84,Default,,0,0,0,,I'll help you!
 Dialogue: 0,00:07:19.64,00:07:20.88,Default,,0,0,0,,It's good enough!
-Dialogue: 0,00:07:24.16,00:07:26.76,Default,,0,0,0,,It's you again! Leaving Bingbing Sheep far away!
+Dialogue: 0,00:07:24.16,00:07:26.76,Default,,0,0,0,,It's you again! Leaving Bingbing Yang far away!
 Dialogue: 0,00:07:27.52,00:07:28.12,Default,,0,0,0,,good
 Dialogue: 0,00:07:28.92,00:07:30.40,Default,,0,0,0,,Why did he become white?
 Dialogue: 0,00:07:30.88,00:07:32.52,Default,,0,0,0,,I must be playing some tricks!
@@ -142,13 +142,13 @@ Dialogue: 0,00:09:08.16,00:09:10.08,Default,,0,0,0,,Let us become good friends
 Dialogue: 0,00:09:10.80,00:09:12.80,Default,,0,0,0,,Even though I can't let you go
 Dialogue: 0,00:09:13.60,00:09:16.80,Default,,0,0,0,,But you have dreams and want to realize
 Dialogue: 0,00:09:17.20,00:09:20.76,Default,,0,0,0,,Then I will be far away as a friend and wish you a blessing
-Dialogue: 0,00:09:21.12,00:09:25.24,Default,,0,0,0,,Although this Rocket was my long time ago, sheep-catching inventor
+Dialogue: 0,00:09:21.12,00:09:25.24,Default,,0,0,0,,Although this Rocket was my long time ago, goat-catching inventor
 Dialogue: 0,00:09:25.56,00:09:29.72,Default,,0,0,0,,I hope it can accompany you through every corner of the universe on my behalf
 Dialogue: 0,00:09:30.40,00:09:33.47,Default,,0,0,0,,Also, I found you have a cold
 Dialogue: 0,00:09:33.92,00:09:36.76,Default,,0,0,0,,I specially prepared a bottle of cold tea for you
 Dialogue: 0,00:09:36.88,00:09:38.32,Default,,0,0,0,,Remember to drink it!
-Dialogue: 0,00:09:39.44,00:09:41.76,Default,,0,0,0,,Big Big Wolf is so good to me! Hajiu-
-Dialogue: 0,00:09:48.44,00:09:51.64,Default,,0,0,0,,Finally, there is no need to worry about the danger of our Bingbing Sheep!
+Dialogue: 0,00:09:39.44,00:09:41.76,Default,,0,0,0,,Wolffy is so good to me! Hajiu-
+Dialogue: 0,00:09:48.44,00:09:51.64,Default,,0,0,0,,Finally, there is no need to worry about the danger of our Bingbing Yang!
 Dialogue: 0,00:09:51.84,00:09:53.88,Default,,0,0,0,,Look, the Rockets are back!
 Dialogue: 0,00:09:58.08,00:10:01.84,Default,,0,0,0,,The great guy is back! He must also want to continue to help us
 Dialogue: 0,00:10:05.52,00:10:07.08,Default,,0,0,0,,You guys
@@ -157,12 +157,12 @@ Dialogue: 0,00:10:11.08,00:10:13.40,Default,,0,0,0,,The good guy has changed! Es
 Dialogue: 0,00:10:13.40,00:10:15.08,Default,,0,0,0,,Why did he change again!
 Dialogue: 0,00:10:15.16,00:10:17.76,Default,,0,0,0,,What gift did you give to the bacteria
 Dialogue: 0,00:10:17.80,00:10:20.04,Default,,0,0,0,,It made his temperament become like this!
-Dialogue: 0,00:10:22.12,00:10:25.32,Default,,0,0,0,,Big Big Wolf! Your cold tea is delivered in a timely manner
+Dialogue: 0,00:10:22.12,00:10:25.32,Default,,0,0,0,,Wolffy! Your cold tea is delivered in a timely manner
 Dialogue: 0,00:10:25.32,00:10:27.28,Default,,0,0,0,,It cured my cold!
 Dialogue: 0,00:10:27.28,00:10:30.44,Default,,0,0,0,,Otherwise I'll never be under control
 Dialogue: 0,00:10:30.96,00:10:33.08,Default,,0,0,0,,It turns out that I saved him...
 Dialogue: 0,00:10:34.00,00:10:37.12,Default,,0,0,0,,It turns out that he will become a good person after catching a cold
-Dialogue: 0,00:10:41.28,00:10:43.20,Default,,0,0,0,,Ice-bing sheep are almost released!
+Dialogue: 0,00:10:41.28,00:10:43.20,Default,,0,0,0,,Bingbing Yang are almost released!
 Dialogue: 0,00:10:46.52,00:10:48.04,Default,,0,0,0,,I'll fly
 Dialogue: 0,00:10:48.44,00:10:51.12,Default,,0,0,0,,No matter how fast I am, I can't fly to heaven!
 Dialogue: 0,00:10:58.64,00:10:59.32,Default,,0,0,0,,What's going on! ?
@@ -176,7 +176,7 @@ Dialogue: 0,00:11:39.00,00:11:40.52,Default,,0,0,0,,Wow!
 Dialogue: 0,00:11:43.24,00:11:45.96,Default,,0,0,0,,snort! Such a helper dares to do this to me!
 Dialogue: 0,00:11:48.88,00:11:50.64,Default,,0,0,0,,Let's see how I teach them!
 Dialogue: 0,00:12:01.32,00:12:01.92,Default,,0,0,0,,Ha chi!
-Dialogue: 0,00:12:04.08,00:12:06.40,Default,,0,0,0,,Big Big Wolf! What do you want to frick?
+Dialogue: 0,00:12:04.08,00:12:06.40,Default,,0,0,0,,Wolffy! What do you want to do?
 Dialogue: 0,00:12:10.68,00:12:12.92,Default,,0,0,0,,Why haven't you been infected by me yet?
 Dialogue: 0,00:12:13.47,00:12:15.68,Default,,0,0,0,,For the universe, for the grassland!
 Dialogue: 0,00:12:15.96,00:12:17.72,Default,,0,0,0,,I've had a few cold showers

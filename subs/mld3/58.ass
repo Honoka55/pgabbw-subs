@@ -19,13 +19,13 @@ Dialogue: 0,00:00:27.17,00:00:28.29,Default,,0,0,0,,No matter what you say
 Dialogue: 0,00:00:28.57,00:00:30.09,Default,,0,0,0,,No fight to the end
 Dialogue: 0,00:00:31.13,00:00:33.37,Default,,0,0,0,,We won't give up
 Dialogue: 0,00:00:33.93,00:00:38.29,Default,,0,0,0,,So, let's start to eliminate it from you
-Dialogue: 0,00:00:45.45,00:00:46.49,Default,,0,0,0,,Pleasant goat
-Dialogue: 0,00:00:52.05,00:00:53.61,Default,,0,0,0,,Pleasant Goat Are you OK
+Dialogue: 0,00:00:45.45,00:00:46.49,Default,,0,0,0,,Weslie
+Dialogue: 0,00:00:52.05,00:00:53.61,Default,,0,0,0,,Weslie Are you OK
 Dialogue: 0,00:00:54.05,00:00:55.77,Default,,0,0,0,,Yes, thank you
 Dialogue: 0,00:00:56.41,00:00:57.61,Default,,0,0,0,,Be careful above
 Dialogue: 0,00:01:00.57,00:01:01.21,Default,,0,0,0,,Go quickly
 Dialogue: 0,00:01:11.97,00:01:14.29,Default,,0,0,0,,We will be friends in the future. I'll send it to you
-Dialogue: 0,00:01:20.09,00:01:21.49,Default,,0,0,0,,Pleasant Goat Your hand...
+Dialogue: 0,00:01:20.09,00:01:21.49,Default,,0,0,0,,Weslie Your hand...
 Dialogue: 0,00:01:22.13,00:01:24.37,Default,,0,0,0,,It's nothing, it's just a minor injury
 Dialogue: 0,00:01:26.29,00:01:28.05,Default,,0,0,0,,It's nothing, it's just a minor injury
 Dialogue: 0,00:01:29.37,00:01:31.61,Default,,0,0,0,,Why...you want to save him
@@ -39,7 +39,7 @@ Dialogue: 0,00:01:46.69,00:01:48.49,Default,,0,0,0,,That's you don't understand
 Dialogue: 0,00:01:49.45,00:01:53.05,Default,,0,0,0,,Hum, let me tell you a story...
 Dialogue: 0,00:01:56.45,00:01:58.87,Default,,0,0,0,,How can I spend the winter with so little food
 Dialogue: 0,00:01:58.89,00:02:01.49,Default,,0,0,0,,Alas, tighten your waistband, let's live
-Dialogue: 0,00:02:03.45,00:02:05.13,Default,,0,0,0,,What are we here to frick
+Dialogue: 0,00:02:03.45,00:02:05.13,Default,,0,0,0,,What are we here to do
 Dialogue: 0,00:02:05.89,00:02:08.65,Default,,0,0,0,,Let's have a meal today
 Dialogue: 0,00:02:09.41,00:02:11.33,Default,,0,0,0,,Wait, where is the key
 Dialogue: 0,00:02:11.97,00:02:13.21,Default,,0,0,0,,I took it secretly
@@ -61,7 +61,7 @@ Dialogue: 0,00:03:32.65,00:03:34.65,Default,,0,0,0,,Little... Xiaohao...
 Dialogue: 0,00:03:40.05,00:03:41.57,Default,,0,0,0,,Xiaohao...ah...
 Dialogue: 0,00:03:41.69,00:03:43.13,Default,,0,0,0,,-Oh, too selfish
 Too selfish, it's him
-Dialogue: 0,00:03:43.25,00:03:45.37,Default,,0,0,0,,- It's really him fricking
+Dialogue: 0,00:03:43.25,00:03:45.37,Default,,0,0,0,,- It's really him doing
 - It was him who destroyed the food...
 Dialogue: 0,00:03:45.57,00:03:47.11,Default,,0,0,0,,- So selfish...
 - What should we do in winter...
@@ -113,12 +113,12 @@ Dialogue: 0,00:05:53.29,00:05:55.07,Default,,0,0,0,,Your friends
 Dialogue: 0,00:05:55.09,00:05:57.57,Default,,0,0,0,,Can you rely on it until the last moment
 Dialogue: 0,00:06:00.45,00:06:04.09,Default,,0,0,0,,ah…
 Dialogue: 0,00:06:04.33,00:06:05.61,Default,,0,0,0,,Not finished yet
-Dialogue: 0,00:06:07.89,00:06:08.83,Default,,0,0,0,,Beautiful sheep
+Dialogue: 0,00:06:07.89,00:06:08.83,Default,,0,0,0,,Tibbie
 Dialogue: 0,00:06:08.85,00:06:09.97,Default,,0,0,0,,Where to look
-Dialogue: 0,00:06:11.89,00:06:13.61,Default,,0,0,0,,Be careful, Pleasant Goat
+Dialogue: 0,00:06:11.89,00:06:13.61,Default,,0,0,0,,Be careful, Weslie
 Dialogue: 0,00:06:14.17,00:06:15.13,Default,,0,0,0,,And I'll give you...
 Dialogue: 0,00:06:16.49,00:06:17.77,Default,,0,0,0,,That's right
-Dialogue: 0,00:06:40.69,00:06:41.53,Default,,0,0,0,,Warm sheep...
+Dialogue: 0,00:06:40.69,00:06:41.53,Default,,0,0,0,,Jonie...
 Dialogue: 0,00:06:42.25,00:06:43.97,Default,,0,0,0,,Worry about yourself
 Dialogue: 0,00:06:48.21,00:06:49.37,Default,,0,0,0,,The lone wolf
 Dialogue: 0,00:06:57.89,00:06:59.49,Default,,0,0,0,,All will disappear to me
@@ -127,7 +127,7 @@ Dialogue: 0,00:07:04.65,00:07:07.73,Default,,0,0,0,,Your strength is only at thi
 Dialogue: 0,00:07:09.57,00:07:11.29,Default,,0,0,0,,This strange flow...
 Dialogue: 0,00:07:11.89,00:07:13.45,Default,,0,0,0,,It turns out to be like this...
 Dialogue: 0,00:07:14.61,00:07:16.25,Default,,0,0,0,,Small tricks of carving
-Dialogue: 0,00:07:20.09,00:07:21.05,Default,,0,0,0,,Beautiful sheep
+Dialogue: 0,00:07:20.09,00:07:21.05,Default,,0,0,0,,Tibbie
 Dialogue: 0,00:07:22.21,00:07:25.41,Default,,0,0,0,,Just want to trap me even if I miss this illusion
 Dialogue: 0,00:07:27.05,00:07:28.25,Default,,0,0,0,,This is...
 Dialogue: 0,00:07:28.77,00:07:30.79,Default,,0,0,0,,Not bad, a little bit different...
@@ -137,7 +137,7 @@ Dialogue: 0,00:07:37.29,00:07:39.21,Default,,0,0,0,,Then let's try it
 Dialogue: 0,00:07:39.57,00:07:41.29,Default,,0,0,0,,He's here, everyone be careful
 Dialogue: 0,00:07:41.69,00:07:44.17,Default,,0,0,0,,Delay a little longer, please feel free to everyone
 Dialogue: 0,00:07:45.45,00:07:47.69,Default,,0,0,0,,Leave it to us
-Dialogue: 0,00:07:51.49,00:07:52.77,Default,,0,0,0,,Water Spirit
+Dialogue: 0,00:07:51.49,00:07:52.77,Default,,0,0,0,,Aqua Spirit
 Dialogue: 0,00:07:53.41,00:07:55.37,Default,,0,0,0,,Don't understand yet
 Dialogue: 0,00:07:56.33,00:07:59.19,Default,,0,0,0,,Your friendships are in the absolute power of
 Dialogue: 0,00:07:59.21,00:08:00.65,Default,,0,0,0,,It's nothing at all
@@ -159,7 +159,7 @@ Dialogue: 0,00:08:39.13,00:08:41.09,Default,,0,0,0,,Our friends...
 Dialogue: 0,00:08:41.97,00:08:44.49,Default,,0,0,0,,Our strength...
 Dialogue: 0,00:08:55.21,00:08:58.57,Default,,0,0,0,,ah…
 Dialogue: 0,00:09:08.45,00:09:10.33,Default,,0,0,0,,We...have we succeeded?
-Dialogue: 0,00:09:16.45,00:09:17.93,Default,,0,0,0,,Qiyun
+Dialogue: 0,00:09:16.45,00:09:17.93,Default,,0,0,0,,Magic Cloud
 Dialogue: 0,00:09:24.57,00:09:27.65,Default,,0,0,0,,I...we fell back to the green grassland
 Dialogue: 0,00:09:27.77,00:09:30.65,Default,,0,0,0,,Yes, I'll beat the lonely wolf
 Dialogue: 0,00:09:31.21,00:09:34.13,Default,,0,0,0,,Everyone who turned evil must have recovered
@@ -181,7 +181,7 @@ Dialogue: 0,00:10:09.13,00:10:10.95,Default,,0,0,0,,Since I've had such fun
 Dialogue: 0,00:10:10.97,00:10:12.89,Default,,0,0,0,,Then don't let it stop
 Dialogue: 0,00:10:13.09,00:10:14.37,Default,,0,0,0,,What...what...
 Dialogue: 0,00:10:21.25,00:10:23.57,Default,,0,0,0,,The villagers here heard it to me
-Dialogue: 0,00:10:24.17,00:10:26.01,Default,,0,0,0,,Who catches this sheep first
+Dialogue: 0,00:10:24.17,00:10:26.01,Default,,0,0,0,,Who catches this goat first
 Dialogue: 0,00:10:26.29,00:10:28.45,Default,,0,0,0,,I'll divide the dark energy to him
 Dialogue: 0,00:10:28.85,00:10:31.15,Default,,0,0,0,,Give him no power
 Dialogue: 0,00:10:31.17,00:10:32.01,Default,,0,0,0,,what
@@ -192,7 +192,7 @@ Dialogue: 0,00:10:37.77,00:10:39.73,Default,,0,0,0,,That's the problem...
 Dialogue: 0,00:10:39.89,00:10:40.57,Default,,0,0,0,,ah
 Dialogue: 0,00:10:40.65,00:10:43.89,Default,,0,0,0,,Can you protect him as exhausted?
 Dialogue: 0,00:10:47.25,00:10:48.07,Default,,0,0,0,,How to do it
-Dialogue: 0,00:10:48.09,00:10:50.05,Default,,0,0,0,,Our Qili has not recovered yet
+Dialogue: 0,00:10:48.09,00:10:50.05,Default,,0,0,0,,Our Magic power has not recovered yet
 Dialogue: 0,00:10:51.05,00:10:53.81,Default,,0,0,0,,Don't be afraid, there are brothers and sisters here
 Dialogue: 0,00:10:54.05,00:10:55.49,Default,,0,0,0,,Run into the forest
 Dialogue: 0,00:10:55.57,00:10:57.01,Default,,0,0,0,,Hide, don't come out

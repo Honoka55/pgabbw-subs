@@ -42,7 +42,7 @@ Dialogue: 0,00:01:50.24,00:01:51.44,Default,,0,0,0,,Send me back
 Dialogue: 0,00:01:51.64,00:01:53.56,Default,,0,0,0,,Let's hand it over to me next
 Dialogue: 0,00:01:53.95,00:01:55.56,Default,,0,0,0,,Thank you really
 Dialogue: 0,00:01:58.52,00:01:59.56,Default,,0,0,0,,But the princess...
-Dialogue: 0,00:02:03.32,00:02:06.01,Default,,0,0,0,,Pleasant Goat Are We Really Going Back Now
+Dialogue: 0,00:02:03.32,00:02:06.01,Default,,0,0,0,,Weslie Are We Really Going Back Now
 Dialogue: 0,00:02:06.04,00:02:06.84,Default,,0,0,0,,What do you think
 Dialogue: 0,00:02:07.36,00:02:10.64,Default,,0,0,0,,I, Big Wolf, have never given up
 Dialogue: 0,00:02:11.16,00:02:12.45,Default,,0,0,0,,We followed us secretly
@@ -52,7 +52,7 @@ Dialogue: 0,00:02:23.76,00:02:24.48,Default,,0,0,0,,Quick
 Dialogue: 0,00:02:24.91,00:02:26.36,Default,,0,0,0,,I want to catch up with Princess Haoyue and others
 Dialogue: 0,00:02:28.52,00:02:29.76,Default,,0,0,0,,What happened
 Dialogue: 0,00:02:33.12,00:02:33.91,Default,,0,0,0,,Help
-Dialogue: 0,00:02:35.36,00:02:37.32,Default,,0,0,0,,Be careful, sheep
+Dialogue: 0,00:02:35.36,00:02:37.32,Default,,0,0,0,,Be careful, goat
 Dialogue: 0,00:02:39.96,00:02:40.88,Default,,0,0,0,,What's going on
 Dialogue: 0,00:02:41.60,00:02:43.88,Default,,0,0,0,,No, everyone, run away
 Dialogue: 0,00:02:51.84,00:02:54.12,Default,,0,0,0,,Everyone, hurry up and it will be safe to run up there
@@ -63,7 +63,7 @@ Dialogue: 0,00:03:09.12,00:03:09.93,Default,,0,0,0,,ah
 Dialogue: 0,00:03:09.96,00:03:11.24,Default,,0,0,0,,It's Princess Haoyue
 Dialogue: 0,00:03:12.04,00:03:13.12,Default,,0,0,0,,We'll go up
 Dialogue: 0,00:03:13.96,00:03:16.96,Default,,0,0,0,,The slept with clouds to cover the stone above
-Dialogue: 0,00:03:18.20,00:03:20.16,Default,,0,0,0,,Yes, Qiyun
+Dialogue: 0,00:03:18.20,00:03:20.16,Default,,0,0,0,,Yes, Magic Cloud
 Dialogue: 0,00:03:23.52,00:03:25.21,Default,,0,0,0,,OK, everyone climb up
 Dialogue: 0,00:03:25.24,00:03:26.12,Default,,0,0,0,,good
 Dialogue: 0,00:03:28.91,00:03:30.28,Default,,0,0,0,,Princess Haoyue…
@@ -76,7 +76,7 @@ Dialogue: 0,00:03:43.36,00:03:45.16,Default,,0,0,0,,We're here to help you right
 Dialogue: 0,00:03:45.44,00:03:47.48,Default,,0,0,0,,Don't come over...
 Dialogue: 0,00:03:52.96,00:03:54.68,Default,,0,0,0,,I've fought with you
 Dialogue: 0,00:03:58.00,00:03:59.76,Default,,0,0,0,,Thunder Bird Flash…
-Dialogue: 0,00:04:06.28,00:04:07.16,Default,,0,0,0,,Big Big Wolf
+Dialogue: 0,00:04:06.28,00:04:07.16,Default,,0,0,0,,Wolffy
 Dialogue: 0,00:04:07.32,00:04:09.12,Default,,0,0,0,,You can control your own power
 Dialogue: 0,00:04:09.28,00:04:10.85,Default,,0,0,0,,Since I saved the red red
 Dialogue: 0,00:04:10.88,00:04:13.04,Default,,0,0,0,,I feel like I'm refreshed
@@ -108,8 +108,8 @@ Dialogue: 0,00:06:03.84,00:06:05.05,Default,,0,0,0,,what?
 Dialogue: 0,00:06:05.08,00:06:06.32,Default,,0,0,0,,Blessing...
 Dialogue: 0,00:06:07.20,00:06:08.56,Default,,0,0,0,,The anti-warming switch has been changed?
 Dialogue: 0,00:06:08.72,00:06:12.97,Default,,0,0,0,,Ah...Save me quickly
-Dialogue: 0,00:06:13.00,00:06:14.20,Default,,0,0,0,,- Sheep and Sheep
-- Sheep and Sheep
+Dialogue: 0,00:06:13.00,00:06:14.20,Default,,0,0,0,,- Paddi
+- Paddi
 Dialogue: 0,00:06:16.48,00:06:17.32,Default,,0,0,0,,who?
 Dialogue: 0,00:06:23.40,00:06:25.05,Default,,0,0,0,,Don't be hit by the cannon
 Dialogue: 0,00:06:25.08,00:06:26.12,Default,,0,0,0,,Will be blocked
@@ -124,19 +124,19 @@ Dialogue: 0,00:07:08.36,00:07:09.48,Default,,0,0,0,,careful…
 Dialogue: 0,00:07:09.56,00:07:10.24,Default,,0,0,0,,ah…
 Dialogue: 0,00:07:10.48,00:07:10.96,Default,,0,0,0,,what?
 Dialogue: 0,00:07:11.08,00:07:12.20,Default,,0,0,0,,- ah
-- Boiling Sheep
+- Sparky 
 Dialogue: 0,00:07:18.12,00:07:19.69,Default,,0,0,0,,No…
-Dialogue: 0,00:07:19.72,00:07:21.52,Default,,0,0,0,,Boiling Sheep Big Big Wolf...
-Dialogue: 0,00:07:25.72,00:07:26.68,Default,,0,0,0,,Beautiful Sheep...
-Dialogue: 0,00:07:28.04,00:07:29.20,Default,,0,0,0,,Beautiful sheep
+Dialogue: 0,00:07:19.72,00:07:21.52,Default,,0,0,0,,Sparky  Wolffy...
+Dialogue: 0,00:07:25.72,00:07:26.68,Default,,0,0,0,,Tibbie...
+Dialogue: 0,00:07:28.04,00:07:29.20,Default,,0,0,0,,Tibbie
 Dialogue: 0,00:07:31.56,00:07:33.32,Default,,0,0,0,,This time I'll protect you
-Dialogue: 0,00:07:36.36,00:07:37.44,Default,,0,0,0,,Blade of wind
+Dialogue: 0,00:07:36.36,00:07:37.44,Default,,0,0,0,,Hurricane Blade
 Dialogue: 0,00:07:37.52,00:07:38.60,Default,,0,0,0,,Not good
 Dialogue: 0,00:07:41.56,00:07:42.56,Default,,0,0,0,,No
 Dialogue: 0,00:07:43.32,00:07:44.72,Default,,0,0,0,,I've fought with you
 Dialogue: 0,00:07:52.64,00:07:54.20,Default,,0,0,0,,I'm the only one left...
 Dialogue: 0,00:07:55.24,00:07:56.96,Default,,0,0,0,,What do I do? How about it...
-Dialogue: 0,00:07:57.08,00:07:58.04,Default,,0,0,0,,Blade of wind
+Dialogue: 0,00:07:57.08,00:07:58.04,Default,,0,0,0,,Hurricane Blade
 Dialogue: 0,00:08:01.44,00:08:03.52,Default,,0,0,0,,Great, you're fine
 Dialogue: 0,00:08:03.60,00:08:06.16,Default,,0,0,0,,Put the clouds and I'll tell you to come
 Dialogue: 0,00:08:06.80,00:08:07.36,Default,,0,0,0,,good
@@ -153,42 +153,42 @@ Dialogue: 0,00:08:43.36,00:08:45.16,Default,,0,0,0,,They can offset all the powe
 Dialogue: 0,00:08:45.36,00:08:47.67,Default,,0,0,0,,We must enter at the fastest speed
 Dialogue: 0,00:08:48.92,00:08:50.84,Default,,0,0,0,,I must find my sister
 Dialogue: 0,00:08:51.64,00:08:52.84,Default,,0,0,0,,Run quickly...
-Dialogue: 0,00:09:07.32,00:09:08.64,Default,,0,0,0,,Qili really disappeared
-Dialogue: 0,00:09:09.36,00:09:11.96,Default,,0,0,0,,The Sheep and Sheep, and I...
+Dialogue: 0,00:09:07.32,00:09:08.64,Default,,0,0,0,,Magic power really disappeared
+Dialogue: 0,00:09:09.36,00:09:11.96,Default,,0,0,0,,The Paddi, and I...
 Dialogue: 0,00:09:17.55,00:09:18.64,Default,,0,0,0,,Run quickly...
-Dialogue: 0,00:09:20.08,00:09:22.21,Default,,0,0,0,,Qili is invalid We can't beat
+Dialogue: 0,00:09:20.08,00:09:22.21,Default,,0,0,0,,Magic power is invalid We can't beat
 Dialogue: 0,00:09:22.24,00:09:23.60,Default,,0,0,0,,So what?
 Dialogue: 0,00:09:23.88,00:09:25.72,Default,,0,0,0,,But they are just two cats
 Dialogue: 0,00:09:26.00,00:09:27.72,Default,,0,0,0,,What's there to be afraid of
-Dialogue: 0,00:09:28.52,00:09:30.73,Default,,0,0,0,,Even if Qili is invalid...
+Dialogue: 0,00:09:28.52,00:09:30.73,Default,,0,0,0,,Even if Magic power is invalid...
 Dialogue: 0,00:09:30.76,00:09:32.21,Default,,0,0,0,,But don't forget that we are...
-Dialogue: 0,00:09:32.24,00:09:33.60,Default,,0,0,0,,- Sheep Village Guardian!
-- Sheep Village Guardian!
+Dialogue: 0,00:09:32.24,00:09:33.60,Default,,0,0,0,,- Goat Village Guardian!
+- Goat Village Guardian!
 Dialogue: 0,00:09:34.36,00:09:37.12,Default,,0,0,0,,Haoyue, go first. Leave here to us
 Dialogue: 0,00:09:38.32,00:09:39.32,Default,,0,0,0,,I see
 Dialogue: 0,00:09:39.92,00:09:42.60,Default,,0,0,0,,Everyone is because of me...can't give up
 Dialogue: 0,00:09:43.80,00:09:47.40,Default,,0,0,0,,If you want to catch Haoyue, you have to pass us first
-Dialogue: 0,00:10:05.64,00:10:06.55,Default,,0,0,0,,Pleasant goat
+Dialogue: 0,00:10:05.64,00:10:06.55,Default,,0,0,0,,Weslie
 Dialogue: 0,00:10:12.92,00:10:13.96,Default,,0,0,0,,Hahaha…
 Dialogue: 0,00:10:19.12,00:10:19.55,Default,,0,0,0,,drink!
 Dialogue: 0,00:10:22.16,00:10:23.72,Default,,0,0,0,,ah…
-Dialogue: 0,00:10:24.16,00:10:24.96,Default,,0,0,0,,Sheep and goat...
-Dialogue: 0,00:10:26.48,00:10:27.55,Default,,0,0,0,,Sheep and sheep
+Dialogue: 0,00:10:24.16,00:10:24.96,Default,,0,0,0,,Paddi...
+Dialogue: 0,00:10:26.48,00:10:27.55,Default,,0,0,0,,Paddi
 Dialogue: 0,00:10:36.52,00:10:38.32,Default,,0,0,0,,You're okay, are you?
 Dialogue: 0,00:10:39.16,00:10:41.12,Default,,0,0,0,,No! He was poisoned!
 Dialogue: 0,00:10:44.04,00:10:44.84,Default,,0,0,0,,I'm fine
 Dialogue: 0,00:10:46.76,00:10:47.36,Default,,0,0,0,,I'll carry you
 Dialogue: 0,00:10:48.36,00:10:49.36,Default,,0,0,0,,Haoyue leaves quickly
-Dialogue: 0,00:10:50.12,00:10:52.32,Default,,0,0,0,,But the sheep have been poisoned
+Dialogue: 0,00:10:50.12,00:10:52.32,Default,,0,0,0,,But the goat have been poisoned
 Dialogue: 0,00:10:55.28,00:10:57.04,Default,,0,0,0,,Don't worry about me, please leave
-Dialogue: 0,00:11:07.84,00:11:08.60,Default,,0,0,0,,Sheep and goat...
-Dialogue: 0,00:11:11.16,00:11:12.20,Default,,0,0,0,,Qiyun
+Dialogue: 0,00:11:07.84,00:11:08.60,Default,,0,0,0,,Paddi...
+Dialogue: 0,00:11:11.16,00:11:12.20,Default,,0,0,0,,Magic Cloud
 Dialogue: 0,00:11:31.76,00:11:32.55,Default,,0,0,0,,Success!
 Dialogue: 0,00:11:32.80,00:11:34.76,Default,,0,0,0,,We're going out to find a way to help you detoxify
 Dialogue: 0,00:11:45.84,00:11:47.52,Default,,0,0,0,,No, isn't it finished yet?
 Dialogue: 0,00:11:53.12,00:11:54.52,Default,,0,0,0,,- Haoyue…
 - Haoyue…
-Dialogue: 0,00:12:00.72,00:12:02.72,Default,,0,0,0,,Pleasant Goat Goat Goat Goat...
+Dialogue: 0,00:12:00.72,00:12:02.72,Default,,0,0,0,,Weslie Goat...
 Dialogue: 0,00:12:11.16,00:12:14.12,Default,,0,0,0,,don't want…
 Dialogue: 0,00:12:14.76,00:12:17.40,Default,,0,0,0,,ah…
 Dialogue: 0,00:12:19.12,00:12:19.55,Default,,0,0,0,,Humph

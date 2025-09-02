@@ -14,16 +14,16 @@ Style: Default,Arial,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,00:00:23.33,00:00:24.49,Default,,0,0,0,,Can Big Big Wolf see it?
+Dialogue: 0,00:00:23.33,00:00:24.49,Default,,0,0,0,,Can Wolffy see it?
 Dialogue: 0,00:00:24.77,00:00:26.01,Default,,0,0,0,,Here are a few fingers
 Dialogue: 0,00:00:27.01,00:00:29.21,Default,,0,0,0,,Five...Not Four
 Dialogue: 0,00:00:29.97,00:00:31.81,Default,,0,0,0,,I can see something
 Dialogue: 0,00:00:32.09,00:00:33.29,Default,,0,0,0,,Very good
-Dialogue: 0,00:00:33.49,00:00:35.77,Default,,0,0,0,,Pleasant Goat is still very good to me
+Dialogue: 0,00:00:33.49,00:00:35.77,Default,,0,0,0,,Weslie is still very good to me
 Dialogue: 0,00:00:36.09,00:00:36.73,Default,,0,0,0,,May be sure
 Dialogue: 0,00:00:36.89,00:00:39.29,Default,,0,0,0,,It will be restored soon
-Dialogue: 0,00:00:39.77,00:00:42.97,Default,,0,0,0,,In fact, Pleasant Goat is working hard to connect us
-Dialogue: 0,00:00:44.37,00:00:48.13,Default,,0,0,0,,So, Pleasant Goat is just reuniting my relationship
+Dialogue: 0,00:00:39.77,00:00:42.97,Default,,0,0,0,,In fact, Weslie is working hard to connect us
+Dialogue: 0,00:00:44.37,00:00:48.13,Default,,0,0,0,,So, Weslie is just reuniting my relationship
 Dialogue: 0,00:00:48.77,00:00:52.37,Default,,0,0,0,,Wait a minute where are we now
 Dialogue: 0,00:00:53.81,00:00:55.29,Default,,0,0,0,,We're in the ice sculpture
 Dialogue: 0,00:00:56.09,00:01:00.85,Default,,0,0,0,,Ice sculpture? What about the scattered ice fan?
@@ -37,7 +37,7 @@ Dialogue: 0,00:01:19.25,00:01:20.09,Default,,0,0,0,,alright
 Dialogue: 0,00:01:21.13,00:01:22.93,Default,,0,0,0,,Or we will help you
 Dialogue: 0,00:01:23.93,00:01:25.93,Default,,0,0,0,,We found another piece of fragment
 Dialogue: 0,00:01:26.77,00:01:28.29,Default,,0,0,0,,Are the others okay?
-Dialogue: 0,00:01:28.81,00:01:31.59,Default,,0,0,0,,Pleasant Goat brings the villagers who have helped us before
+Dialogue: 0,00:01:28.81,00:01:31.59,Default,,0,0,0,,Weslie brings the villagers who have helped us before
 Dialogue: 0,00:01:31.61,00:01:32.81,Default,,0,0,0,,All captured
 Dialogue: 0,00:01:33.29,00:01:37.17,Default,,0,0,0,,I don't know how cool they are suffering
 Dialogue: 0,00:01:41.49,00:01:42.61,Default,,0,0,0,,It smells so good
@@ -59,7 +59,7 @@ Dialogue: 0,00:02:07.69,00:02:09.37,Default,,0,0,0,,I don't like to eat husky
 Dialogue: 0,00:02:24.69,00:02:26.33,Default,,0,0,0,,We'll hand it over to you now
 Dialogue: 0,00:02:26.85,00:02:28.89,Default,,0,0,0,,Hahaha... It's so fun
 Dialogue: 0,00:02:32.09,00:02:35.33,Default,,0,0,0,,Ahem...Men...Why are you here
-Dialogue: 0,00:02:36.09,00:02:39.29,Default,,0,0,0,,It was the Queen of Tomorrow who sent me to help you
+Dialogue: 0,00:02:36.09,00:02:39.29,Default,,0,0,0,,It was Queen Levana who sent me to help you
 Dialogue: 0,00:02:40.25,00:02:41.81,Default,,0,0,0,,Since this military officer is here
 Dialogue: 0,00:02:42.65,00:02:44.89,Default,,0,0,0,,You have to hear my advice
 Dialogue: 0,00:02:46.17,00:02:48.89,Default,,0,0,0,,Hello! You have to listen to me!
@@ -150,12 +150,12 @@ Dialogue: 0,00:09:21.49,00:09:23.65,Default,,0,0,0,,The fragment must be in the 
 Dialogue: 0,00:09:24.05,00:09:25.25,Default,,0,0,0,,Let's go out with all your strength
 Dialogue: 0,00:09:25.77,00:09:26.37,Default,,0,0,0,,Um
 Dialogue: 0,00:09:33.37,00:09:36.09,Default,,0,0,0,,Curious Bamboo fell asleep. This is a good opportunity
-Dialogue: 0,00:09:37.37,00:09:38.85,Default,,0,0,0,,Let me try it with Qili first
+Dialogue: 0,00:09:37.37,00:09:38.85,Default,,0,0,0,,Let me try it with Magic power first
 Dialogue: 0,00:09:49.17,00:09:49.97,Default,,0,0,0,,No
 Dialogue: 0,00:09:50.17,00:09:52.69,Default,,0,0,0,,Repairing the fan just consumes too much energy
 Dialogue: 0,00:09:52.89,00:09:55.37,Default,,0,0,0,,Let this king come out of his own
-Dialogue: 0,00:09:56.69,00:09:58.57,Default,,0,0,0,,Big Big Wolf, you have to be careful
-Dialogue: 0,00:09:58.85,00:10:02.29,Default,,0,0,0,,Don't worry, I've been experiencing my years of experience in sneaking into the Sheep Village
+Dialogue: 0,00:09:56.69,00:09:58.57,Default,,0,0,0,,Wolffy, you have to be careful
+Dialogue: 0,00:09:58.85,00:10:02.29,Default,,0,0,0,,Don't worry, I've been experiencing my years of experience in sneaking into the Goat Village
 Dialogue: 0,00:10:02.49,00:10:06.01,Default,,0,0,0,,It's a side dish... a dish...
 Dialogue: 0,00:10:08.13,00:10:09.97,Default,,0,0,0,,ah…
 Dialogue: 0,00:10:15.77,00:10:18.29,Default,,0,0,0,,You are told to be careful, but you fall down
@@ -173,8 +173,8 @@ Dialogue: 0,00:10:59.05,00:11:02.09,Default,,0,0,0,,Oh, why did I just chop it a
 Dialogue: 0,00:11:02.61,00:11:04.75,Default,,0,0,0,,You want to find a way to solve the problem
 Dialogue: 0,00:11:04.77,00:11:06.97,Default,,0,0,0,,It's not that you want to create a problem
 Dialogue: 0,00:11:07.65,00:11:08.77,Default,,0,0,0,,Ah... I've fought
-Dialogue: 0,00:11:16.81,00:11:18.29,Default,,0,0,0,,- Big Big Wolf
-- Big Big Wolf
+Dialogue: 0,00:11:16.81,00:11:18.29,Default,,0,0,0,,- Wolffy
+- Wolffy
 Dialogue: 0,00:11:21.33,00:11:22.21,Default,,0,0,0,,I hug
 Dialogue: 0,00:11:22.53,00:11:23.37,Default,,0,0,0,,- Well…
 - Well…
@@ -182,9 +182,9 @@ Dialogue: 0,00:11:23.85,00:11:26.13,Default,,0,0,0,,Thunder Bird Flash…
 Dialogue: 0,00:11:26.89,00:11:28.75,Default,,0,0,0,,Oops Oops…
 Dialogue: 0,00:11:28.77,00:11:30.05,Default,,0,0,0,,- Is this OK?
 - Is this OK?
-Dialogue: 0,00:11:32.37,00:11:34.69,Default,,0,0,0,,It seems that Big Big Wolf has defeated the Great Miracle
-Dialogue: 0,00:11:35.09,00:11:36.13,Default,,0,0,0,,Big Big Wolf is great
-Dialogue: 0,00:11:39.65,00:11:41.37,Default,,0,0,0,,Meiyangyang, you're fine, right?
+Dialogue: 0,00:11:32.37,00:11:34.69,Default,,0,0,0,,It seems that Wolffy has defeated the Great Miracle
+Dialogue: 0,00:11:35.09,00:11:36.13,Default,,0,0,0,,Wolffy is great
+Dialogue: 0,00:11:39.65,00:11:41.37,Default,,0,0,0,,Tibbie, you're fine, right?
 Dialogue: 0,00:11:41.73,00:11:43.25,Default,,0,0,0,,Ah my feet...
 Dialogue: 0,00:11:46.37,00:11:46.93,Default,,0,0,0,,No!
 Dialogue: 0,00:11:57.89,00:11:58.85,Default,,0,0,0,,And for you
@@ -195,5 +195,5 @@ Dialogue: 0,00:12:13.21,00:12:13.65,Default,,0,0,0,,quick!
 Dialogue: 0,00:12:15.13,00:12:18.45,Default,,0,0,0,,Hi…
 Dialogue: 0,00:12:20.69,00:12:23.17,Default,,0,0,0,,Princess Haoyue, be careful
 Dialogue: 0,00:12:24.09,00:12:26.29,Default,,0,0,0,,ah…
-Dialogue: 0,00:12:26.85,00:12:28.05,Default,,0,0,0,,Qiyun changes!
+Dialogue: 0,00:12:26.85,00:12:28.05,Default,,0,0,0,,Magic Cloud!
 Dialogue: 0,00:12:28.65,00:12:33.33,Default,,0,0,0,,ah…

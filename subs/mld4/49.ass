@@ -14,7 +14,7 @@ Style: Default,Arial,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,00:00:22.41,00:00:23.65,Default,,0,0,0,,Fricked well
+Dialogue: 0,00:00:22.41,00:00:23.65,Default,,0,0,0,,Done well
 Dialogue: 0,00:00:24.41,00:00:28.65,Default,,0,0,0,,I didn't expect that they had collected 29 cards
 Dialogue: 0,00:00:29.25,00:00:31.85,Default,,0,0,0,,Then you continue to perform your mission
 Dialogue: 0,00:00:33.93,00:00:37.21,Default,,0,0,0,,Shadow Is there anything wrong with it?
@@ -30,7 +30,7 @@ Dialogue: 0,00:01:20.77,00:01:21.89,Default,,0,0,0,,A new card
 Dialogue: 0,00:01:24.21,00:01:25.25,Default,,0,0,0,,I'll have one too
 Dialogue: 0,00:01:27.73,00:01:29.37,Default,,0,0,0,,We are three of us in the
 Dialogue: 0,00:01:31.89,00:01:32.77,Default,,0,0,0,,Two
-Dialogue: 0,00:01:34.13,00:01:36.37,Default,,0,0,0,,Yes, it's very fricked
+Dialogue: 0,00:01:34.13,00:01:36.37,Default,,0,0,0,,Yes, it's very done
 Dialogue: 0,00:01:37.05,00:01:39.33,Default,,0,0,0,,Recently, our taxi has increased significantly
 Dialogue: 0,00:01:39.41,00:01:40.93,Default,,0,0,0,,Keep working hard
 Dialogue: 0,00:01:41.57,00:01:42.37,Default,,0,0,0,,come on
@@ -151,7 +151,7 @@ Dialogue: 0,00:10:39.81,00:10:40.45,Default,,0,0,0,,Chase quickly
 Dialogue: 0,00:10:41.29,00:10:42.03,Default,,0,0,0,,Alas...
 Dialogue: 0,00:10:42.05,00:10:43.01,Default,,0,0,0,,Village Chief
 Dialogue: 0,00:10:43.89,00:10:45.85,Default,,0,0,0,,You go chase us here
-Dialogue: 0,00:10:47.65,00:10:48.19,Default,,0,0,0,,Sheep and sheep
+Dialogue: 0,00:10:47.65,00:10:48.19,Default,,0,0,0,,Paddi
 Dialogue: 0,00:10:48.21,00:10:48.85,Default,,0,0,0,,Come
 Dialogue: 0,00:11:01.77,00:11:02.69,Default,,0,0,0,,Really awesome
 Dialogue: 0,00:11:03.25,00:11:04.29,Default,,0,0,0,,One step ahead

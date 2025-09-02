@@ -17,23 +17,23 @@ Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,00:00:24.64,00:00:25.84,Default,,0,0,0,,Going here?
 Dialogue: 0,00:00:27.04,00:00:28.80,Default,,0,0,0,,I'll find yours
 Dialogue: 0,00:00:31.44,00:00:33.89,Default,,0,0,0,,Wow
-Dialogue: 0,00:00:33.92,00:00:36.40,Default,,0,0,0,,Beautiful Sheep Please don't cry
-Dialogue: 0,00:00:36.64,00:00:39.44,Default,,0,0,0,,Whenever Pleasant Goat heard it, it found us
-Dialogue: 0,00:00:41.15,00:00:41.80,Default,,0,0,0,,Pleasant goat?
-Dialogue: 0,00:00:42.68,00:00:45.64,Default,,0,0,0,,I don't want Pleasant Goat to see me like this
+Dialogue: 0,00:00:33.92,00:00:36.40,Default,,0,0,0,,Tibbie Please don't cry
+Dialogue: 0,00:00:36.64,00:00:39.44,Default,,0,0,0,,Whenever Weslie heard it, it found us
+Dialogue: 0,00:00:41.15,00:00:41.80,Default,,0,0,0,,Weslie?
+Dialogue: 0,00:00:42.68,00:00:45.64,Default,,0,0,0,,I don't want Weslie to see me like this
 Dialogue: 0,00:00:45.84,00:00:48.09,Default,,0,0,0,,Snowmen also have the benefits of snowmen
 Dialogue: 0,00:00:48.12,00:00:51.08,Default,,0,0,0,,I won't have to worry about not eating shaved ice in the future
 Dialogue: 0,00:00:52.68,00:00:53.28,Default,,0,0,0,,Shaved ice?
-Dialogue: 0,00:00:56.36,00:00:59.29,Default,,0,0,0,,Beauty Sheep, let me take a bite
+Dialogue: 0,00:00:56.36,00:00:59.29,Default,,0,0,0,,Tibbie, let me take a bite
 Dialogue: 0,00:00:59.32,00:01:03.60,Default,,0,0,0,,Oh, don't eat me
 Dialogue: 0,00:01:03.68,00:01:05.32,Default,,0,0,0,,Just a spoonful
 Dialogue: 0,00:01:07.20,00:01:10.72,Default,,0,0,0,,Wow, I don't want to turn into shaved ice
 Dialogue: 0,00:01:11.08,00:01:12.92,Default,,0,0,0,,We have to fan the ice back
 Dialogue: 0,00:01:13.12,00:01:14.52,Default,,0,0,0,,Let everyone recover
-Dialogue: 0,00:01:15.52,00:01:17.76,Default,,0,0,0,,Then we are going to find Pleasant Goat?
+Dialogue: 0,00:01:15.52,00:01:17.76,Default,,0,0,0,,Then we are going to find Weslie?
 Dialogue: 0,00:01:18.36,00:01:19.97,Default,,0,0,0,,Even if we don't look for him
 Dialogue: 0,00:01:20.00,00:01:21.64,Default,,0,0,0,,He will come back to find us, too
-Dialogue: 0,00:01:22.08,00:01:23.16,Default,,0,0,0,,Pleasant Goat is here
+Dialogue: 0,00:01:22.08,00:01:23.16,Default,,0,0,0,,Weslie is here
 Dialogue: 0,00:01:23.76,00:01:24.76,Default,,0,0,0,,what!
 Dialogue: 0,00:01:25.31,00:01:26.95,Default,,0,0,0,,What should I do if I finish it?
 Dialogue: 0,00:01:33.72,00:01:34.84,Default,,0,0,0,,I'll ask you again
@@ -58,7 +58,7 @@ Dialogue: 0,00:03:46.36,00:03:48.20,Default,,0,0,0,,If you want it, just go and 
 Dialogue: 0,00:03:54.92,00:03:56.80,Default,,0,0,0,,All turned into snowmen?
 Dialogue: 0,00:03:57.56,00:03:58.64,Default,,0,0,0,,Yes Queen
 Dialogue: 0,00:03:58.96,00:04:01.64,Default,,0,0,0,,As long as they leave the ice town, they will melt
-Dialogue: 0,00:04:02.28,00:04:04.32,Default,,0,0,0,,Humph, good fricking
+Dialogue: 0,00:04:02.28,00:04:04.32,Default,,0,0,0,,Humph, good doing
 Dialogue: 0,00:04:05.24,00:04:08.04,Default,,0,0,0,,Yes, the ice fan cannot be taken away by them
 Dialogue: 0,00:04:08.44,00:04:11.88,Default,,0,0,0,,The queen is relieved. I threw the ice fan into the ice lake.
 Dialogue: 0,00:04:12.64,00:04:13.52,Default,,0,0,0,,Throwed it?
@@ -77,7 +77,7 @@ Dialogue: 0,00:05:00.04,00:05:01.68,Default,,0,0,0,,It seems that it won't work
 Dialogue: 0,00:05:03.24,00:05:06.04,Default,,0,0,0,,Is it hard to get the ice fan?
 Dialogue: 0,00:05:07.16,00:05:07.68,Default,,0,0,0,,Ha chi!
 Dialogue: 0,00:05:16.40,00:05:17.52,Default,,0,0,0,,Very cold
-Dialogue: 0,00:05:18.00,00:05:19.16,Default,,0,0,0,,Sheep and sheep!
+Dialogue: 0,00:05:18.00,00:05:19.16,Default,,0,0,0,,Paddi!
 Dialogue: 0,00:05:19.92,00:05:22.16,Default,,0,0,0,,Haven't you been hit?
 Dialogue: 0,00:05:22.96,00:05:24.48,Default,,0,0,0,,ha? ah
 Dialogue: 0,00:05:38.88,00:05:40.20,Default,,0,0,0,,That's how things are
@@ -93,28 +93,28 @@ Dialogue: 0,00:06:08.12,00:06:09.04,Default,,0,0,0,,Everyone
 Dialogue: 0,00:06:11.04,00:06:13.00,Default,,0,0,0,,OK, I'll go and try
 Dialogue: 0,00:06:17.04,00:06:19.44,Default,,0,0,0,,The Queen is so attentive
 Dialogue: 0,00:06:19.76,00:06:22.36,Default,,0,0,0,,In this case, they can't leave here at all
-Dialogue: 0,00:06:23.12,00:06:25.64,Default,,0,0,0,,Pleasant Goat has come. Practical plan
-Dialogue: 0,00:06:29.60,00:06:30.64,Default,,0,0,0,,Pleasant goat
+Dialogue: 0,00:06:23.12,00:06:25.64,Default,,0,0,0,,Weslie has come. Practical plan
+Dialogue: 0,00:06:29.60,00:06:30.64,Default,,0,0,0,,Weslie
 Dialogue: 0,00:06:35.12,00:06:37.44,Default,,0,0,0,,It's just right I'm bored
 Dialogue: 0,00:06:37.83,00:06:39.53,Default,,0,0,0,,Give it to me!
 Dialogue: 0,00:06:39.56,00:06:46.27,Default,,0,0,0,,ah
 Dialogue: 0,00:06:48.80,00:06:51.92,Default,,0,0,0,,Please help us get the ice fan back
 Dialogue: 0,00:06:53.40,00:06:55.88,Default,,0,0,0,,Don't hang on me, I won't help you
 Dialogue: 0,00:07:01.68,00:07:03.72,Default,,0,0,0,,It seems he doesn't eat this one
-Dialogue: 0,00:07:06.44,00:07:07.12,Default,,0,0,0,,Pleasant goat
+Dialogue: 0,00:07:06.44,00:07:07.12,Default,,0,0,0,,Weslie
 Dialogue: 0,00:07:09.08,00:07:10.00,Default,,0,0,0,,It's you again
 Dialogue: 0,00:07:14.76,00:07:16.96,Default,,0,0,0,,- Let us give you a massage
 - Let's give you a massage
-Dialogue: 0,00:07:20.56,00:07:21.49,Default,,0,0,0,,Pleasant goat
+Dialogue: 0,00:07:20.56,00:07:21.49,Default,,0,0,0,,Weslie
 Dialogue: 0,00:07:21.52,00:07:24.12,Default,,0,0,0,,Can you help us fan the ice...
 Dialogue: 0,00:07:24.84,00:07:25.92,Default,,0,0,0,,Don't want to scold me
 Dialogue: 0,00:07:26.32,00:07:28.16,Default,,0,0,0,,I won't give you ice fan
-Dialogue: 0,00:07:36.12,00:07:36.92,Default,,0,0,0,,Pleasant goat
+Dialogue: 0,00:07:36.12,00:07:36.92,Default,,0,0,0,,Weslie
 Dialogue: 0,00:07:40.32,00:07:42.92,Default,,0,0,0,,Are you tired after repeated
 Dialogue: 0,00:07:44.44,00:07:46.12,Default,,0,0,0,,Want to eat something or not
 Dialogue: 0,00:07:47.36,00:07:48.24,Default,,0,0,0,,think
 Dialogue: 0,00:07:48.56,00:07:49.84,Default,,0,0,0,,No, you don't want to
-Dialogue: 0,00:07:56.04,00:07:57.28,Default,,0,0,0,,What about the sheep
+Dialogue: 0,00:07:56.04,00:07:57.28,Default,,0,0,0,,What about the goat
 Dialogue: 0,00:07:57.96,00:07:59.08,Default,,0,0,0,,not good!
 Dialogue: 0,00:08:03.32,00:08:05.44,Default,,0,0,0,,Why are you still sleeping?
 Dialogue: 0,00:08:06.04,00:08:06.80,Default,,0,0,0,,sleep?
@@ -135,7 +135,7 @@ Dialogue: 0,00:09:02.24,00:09:03.32,Default,,0,0,0,,I've come out
 Dialogue: 0,00:09:08.44,00:09:10.80,Default,,0,0,0,,You must come back safely
 Dialogue: 0,00:09:17.44,00:09:19.12,Default,,0,0,0,,Where is the ice fan
 Dialogue: 0,00:09:23.76,00:09:26.04,Default,,0,0,0,,It seems you've prepared a ridiculous plan
-Dialogue: 0,00:09:27.24,00:09:28.52,Default,,0,0,0,,Just take sheep and sheep
+Dialogue: 0,00:09:27.24,00:09:28.52,Default,,0,0,0,,Just take Paddi
 Dialogue: 0,00:09:32.00,00:09:33.20,Default,,0,0,0,,Can he save you?
 Dialogue: 0,00:09:36.24,00:09:39.80,Default,,0,0,0,,We believe him
 Dialogue: 0,00:09:41.88,00:09:43.28,Default,,0,0,0,,Where are you confident
@@ -155,21 +155,21 @@ Dialogue: 0,00:10:26.16,00:10:27.64,Default,,0,0,0,,How to do it
 Dialogue: 0,00:10:36.36,00:10:38.72,Default,,0,0,0,,So you should listen obediently
 Dialogue: 0,00:10:38.96,00:10:41.20,Default,,0,0,0,,Be here obediently
 Dialogue: 0,00:10:42.32,00:10:43.96,Default,,0,0,0,,No one can save you
-Dialogue: 0,00:10:46.12,00:10:47.44,Default,,0,0,0,,Sheep and sheep
+Dialogue: 0,00:10:46.12,00:10:47.44,Default,,0,0,0,,Paddi
 Dialogue: 0,00:10:56.64,00:10:57.44,Default,,0,0,0,,Don't act
 Dialogue: 0,00:11:00.20,00:11:01.28,Default,,0,0,0,,How is it possible?
-Dialogue: 0,00:11:02.16,00:11:03.36,Default,,0,0,0,,Sheep and sheep
+Dialogue: 0,00:11:02.16,00:11:03.36,Default,,0,0,0,,Paddi
 Dialogue: 0,00:11:04.55,00:11:06.08,Default,,0,0,0,,You actually did it?
 Dialogue: 0,00:11:12.44,00:11:14.36,Default,,0,0,0,,I can't leave you alone
-Dialogue: 0,00:11:21.84,00:11:22.84,Default,,0,0,0,,It's a sheep
+Dialogue: 0,00:11:21.84,00:11:22.84,Default,,0,0,0,,It's a goat
 Dialogue: 0,00:11:28.64,00:11:31.24,Default,,0,0,0,,You are so great
 Dialogue: 0,00:11:32.20,00:11:34.24,Default,,0,0,0,,It seems that I really underestimate you
 Dialogue: 0,00:11:41.84,00:11:43.67,Default,,0,0,0,,Give me the ice fan
 Dialogue: 0,00:11:59.64,00:12:00.12,Default,,0,0,0,,ah
 Dialogue: 0,00:12:02.76,00:12:04.76,Default,,0,0,0,,Fan the ice quickly!
-Dialogue: 0,00:12:07.96,00:12:10.52,Default,,0,0,0,,Not good, sheep are in danger
+Dialogue: 0,00:12:07.96,00:12:10.52,Default,,0,0,0,,Not good, goat are in danger
 Dialogue: 0,00:12:11.72,00:12:12.64,Default,,0,0,0,,No matter what!
 Dialogue: 0,00:12:13.24,00:12:14.52,Default,,0,0,0,,Thunderbolt
-Dialogue: 0,00:12:15.44,00:12:17.04,Default,,0,0,0,,I can't stand the Pleasant Goat
+Dialogue: 0,00:12:15.44,00:12:17.04,Default,,0,0,0,,I can't stand Weslie
 Dialogue: 0,00:12:23.80,00:12:24.84,Default,,0,0,0,,ah
-Dialogue: 0,00:12:27.00,00:12:27.76,Default,,0,0,0,,Pleasant goat
+Dialogue: 0,00:12:27.00,00:12:27.76,Default,,0,0,0,,Weslie

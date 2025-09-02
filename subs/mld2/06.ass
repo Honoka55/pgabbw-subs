@@ -14,9 +14,9 @@ Style: Default,Arial,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,00:01:48.68,00:01:50.24,Default,,0,0,0,,Boiling Sheep Boiling Sheep
+Dialogue: 0,00:01:48.68,00:01:50.24,Default,,0,0,0,,Sparky  Sparky 
 Dialogue: 0,00:01:50.48,00:01:51.76,Default,,0,0,0,,Come here
-Dialogue: 0,00:01:52.96,00:01:53.56,Default,,0,0,0,,Boiling sheep
+Dialogue: 0,00:01:52.96,00:01:53.56,Default,,0,0,0,,Sparky
 Dialogue: 0,00:01:55.08,00:01:57.12,Default,,0,0,0,,What's going on? It's so urgent?
 Dialogue: 0,00:02:00.72,00:02:02.00,Default,,0,0,0,,Hide it
 Dialogue: 0,00:02:03.00,00:02:03.88,Default,,0,0,0,,What is this?
@@ -25,11 +25,11 @@ Dialogue: 0,00:02:08.16,00:02:09.68,Default,,0,0,0,,Why hide it
 Dialogue: 0,00:02:11.08,00:02:12.24,Default,,0,0,0,,Say it
 Dialogue: 0,00:02:20.76,00:02:21.96,Default,,0,0,0,,It's still one piece away
 Dialogue: 0,00:02:25.60,00:02:27.91,Default,,0,0,0,,My Pinning
-Dialogue: 0,00:02:31.44,00:02:35.24,Default,,0,0,0,,Pleasant Goat Brother Sorry
+Dialogue: 0,00:02:31.44,00:02:35.24,Default,,0,0,0,,Weslie Brother Sorry
 I didn't mean it
 Dialogue: 0,00:02:37.88,00:02:40.08,Default,,0,0,0,,She's still young, I want to tolerate her
 Dialogue: 0,00:02:40.80,00:02:42.88,Default,,0,0,0,,It doesn’t matter! You keep playing!
-Dialogue: 0,00:02:46.76,00:02:49.44,Default,,0,0,0,,Pleasant Goat Brother I'll play skateboarding for you
+Dialogue: 0,00:02:46.76,00:02:49.44,Default,,0,0,0,,Weslie Brother I'll play skateboarding for you
 Dialogue: 0,00:02:51.08,00:02:52.08,Default,,0,0,0,,Can't!
 Dialogue: 0,00:02:53.36,00:02:54.48,Default,,0,0,0,,danger! Come down soon!
 Dialogue: 0,00:02:59.84,00:03:01.84,Default,,0,0,0,,This is not what you can play with this toy!
@@ -46,7 +46,7 @@ Dialogue: 0,00:03:41.64,00:03:43.36,Default,,0,0,0,,Find the cause of the failur
 Dialogue: 0,00:03:44.32,00:03:48.92,Default,,0,0,0,,Want to have empty bottle spirit, please tell me the result!
 Dialogue: 0,00:03:53.60,00:03:54.76,Default,,0,0,0,,What does this mean?
 Dialogue: 0,00:03:55.20,00:03:57.64,Default,,0,0,0,,Could it be...Great Wolf?
-Dialogue: 0,00:04:04.28,00:04:06.00,Default,,0,0,0,,The new invention of Big Big Wolf
+Dialogue: 0,00:04:04.28,00:04:06.00,Default,,0,0,0,,The new invention of Wolffy
 Dialogue: 0,00:04:06.00,00:04:08.08,Default,,0,0,0,,Can I help me with a failure in repelling?
 Dialogue: 0,00:04:08.56,00:04:10.16,Default,,0,0,0,,Ha ha ha ha…
 Dialogue: 0,00:04:10.52,00:04:11.44,Default,,0,0,0,,With this...
@@ -60,9 +60,9 @@ Dialogue: 0,00:04:29.96,00:04:30.60,Default,,0,0,0,,whee
 Dialogue: 0,00:04:39.08,00:04:39.64,Default,,0,0,0,,Oops...
 Dialogue: 0,00:04:40.08,00:04:42.24,Default,,0,0,0,,Or improve it
 Dialogue: 0,00:04:43.52,00:04:43.96,Default,,0,0,0,,well…
-Dialogue: 0,00:04:44.56,00:04:48.08,Default,,0,0,0,,It turns out that Big Big Wolf is the reason for my failure
+Dialogue: 0,00:04:44.56,00:04:48.08,Default,,0,0,0,,It turns out that Wolffy is the reason for my failure
 Dialogue: 0,00:04:48.16,00:04:50.76,Default,,0,0,0,,I have to find a stronger body!
-Dialogue: 0,00:04:56.56,00:04:59.68,Default,,0,0,0,,Pleasant Goat Brother, let's push the stool together
+Dialogue: 0,00:04:56.56,00:04:59.68,Default,,0,0,0,,Weslie Brother, let's push the stool together
 Dialogue: 0,00:04:59.92,00:05:01.20,Default,,0,0,0,,You can play it yourself
 Dialogue: 0,00:05:03.00,00:05:04.80,Default,,0,0,0,,Let's take a picture together
 Dialogue: 0,00:05:05.04,00:05:06.32,Default,,0,0,0,,You can paint it yourself
@@ -96,17 +96,17 @@ Dialogue: 0,00:08:00.68,00:08:01.56,Default,,0,0,0,,Have to look for it again
 Dialogue: 0,00:08:04.72,00:08:07.00,Default,,0,0,0,,What a sharp spike
 Dialogue: 0,00:08:07.16,00:08:09.24,Default,,0,0,0,,I'm here!
 Dialogue: 0,00:08:11.88,00:08:13.76,Default,,0,0,0,,It hurts so much
-Dialogue: 0,00:08:13.96,00:08:16.68,Default,,0,0,0,,It turns out that Big Big Wolf is already very good...
+Dialogue: 0,00:08:13.96,00:08:16.68,Default,,0,0,0,,It turns out that Wolffy is already very good...
 Dialogue: 0,00:08:16.68,00:08:18.88,Default,,0,0,0,,Look at my improved version of Wanneng Plug!
 Dialogue: 0,00:08:19.20,00:08:19.88,Default,,0,0,0,,All can glue!
 Dialogue: 0,00:08:20.08,00:08:22.40,Default,,0,0,0,,Deformed...turned into a candle!
 Dialogue: 0,00:08:23.96,00:08:25.24,Default,,0,0,0,,Turned into a wall!
 Dialogue: 0,00:08:25.44,00:08:26.60,Default,,0,0,0,,Perfect!
-Dialogue: 0,00:08:27.16,00:08:29.64,Default,,0,0,0,,It seems that Big Big Wolf is OK!
+Dialogue: 0,00:08:27.16,00:08:29.64,Default,,0,0,0,,It seems that Wolffy is OK!
 Dialogue: 0,00:08:38.64,00:08:41.44,Default,,0,0,0,,Dad, mom, sorry
 Dialogue: 0,00:08:41.48,00:08:44.48,Default,,0,0,0,,I've left you for my horns to get damaged...
-Dialogue: 0,00:08:46.72,00:08:49.80,Default,,0,0,0,,Pleasant Goat Brother...I
-Dialogue: 0,00:08:54.48,00:08:56.20,Default,,0,0,0,,Pleasant Goat Brother
+Dialogue: 0,00:08:46.72,00:08:49.80,Default,,0,0,0,,Weslie Brother...I
+Dialogue: 0,00:08:54.48,00:08:56.20,Default,,0,0,0,,Weslie Brother
 Dialogue: 0,00:08:56.48,00:08:58.00,Default,,0,0,0,,sorry
 Dialogue: 0,00:09:01.48,00:09:04.64,Default,,0,0,0,,I don't need your apology
 Dialogue: 0,00:09:05.28,00:09:08.36,Default,,0,0,0,,Whether it is a toy or a jingle, you have been ruined by you
@@ -116,11 +116,11 @@ Dialogue: 0,00:09:16.20,00:09:18.12,Default,,0,0,0,,Want to play with you...
 Dialogue: 0,00:09:20.84,00:09:22.32,Default,,0,0,0,,Want to play with me...
 Dialogue: 0,00:09:22.52,00:09:25.40,Default,,0,0,0,,I've done this just too much
 Dialogue: 0,00:09:26.36,00:09:27.92,Default,,0,0,0,,Ahhhhh!
-Dialogue: 0,00:09:28.12,00:09:28.96,Default,,0,0,0,,Bingbing sheep...
+Dialogue: 0,00:09:28.12,00:09:28.96,Default,,0,0,0,,Bingbing Yang...
 Dialogue: 0,00:09:32.55,00:09:35.12,Default,,0,0,0,,Finally, you can unseal
 Dialogue: 0,00:09:44.00,00:09:46.20,Default,,0,0,0,,I'll be able to regain my abilities soon
 Dialogue: 0,00:09:46.24,00:09:48.12,Default,,0,0,0,,Hahaha...
-Dialogue: 0,00:09:52.24,00:09:55.16,Default,,0,0,0,,Let her go! Don’t control Big Big Wolf anymore!
+Dialogue: 0,00:09:52.24,00:09:55.16,Default,,0,0,0,,Let her go! Don’t control Wolffy anymore!
 Dialogue: 0,00:09:55.60,00:09:57.40,Default,,0,0,0,,Think beautifully!
 Dialogue: 0,00:10:15.44,00:10:17.64,Default,,0,0,0,,It seems that you have to remove the remote control first!
 Dialogue: 0,00:10:39.67,00:10:43.40,Default,,0,0,0,,Give up! It's impossible for you to get close to me!
@@ -128,17 +128,17 @@ Dialogue: 0,00:10:43.67,00:10:46.52,Default,,0,0,0,,Just wait for my ability to 
 Dialogue: 0,00:10:47.32,00:10:48.96,Default,,0,0,0,,I won't let you succeed!
 Dialogue: 0,00:10:58.16,00:11:00.60,Default,,0,0,0,,No one has slammed me now!
 Dialogue: 0,00:11:00.60,00:11:02.16,Default,,0,0,0,,Hahaha! !
-Dialogue: 0,00:11:07.32,00:11:08.84,Default,,0,0,0,,Pleasant Goat Brother!
-Dialogue: 0,00:11:09.36,00:11:12.55,Default,,0,0,0,,You are such a bad egg, please let go of Brother Pleasant Goat!
-Dialogue: 0,00:11:12.60,00:11:13.48,Default,,0,0,0,,Bingbing sheep...
+Dialogue: 0,00:11:07.32,00:11:08.84,Default,,0,0,0,,Weslie Brother!
+Dialogue: 0,00:11:09.36,00:11:12.55,Default,,0,0,0,,You are such a bad egg, please let go of Brother Weslie!
+Dialogue: 0,00:11:12.60,00:11:13.48,Default,,0,0,0,,Bingbing Yang...
 Dialogue: 0,00:11:13.48,00:11:14.36,Default,,0,0,0,,Let him go!
 Dialogue: 0,00:11:14.40,00:11:18.44,Default,,0,0,0,,Stop it! Otherwise, let's see how I deal with you
 Dialogue: 0,00:11:32.12,00:11:33.60,Default,,0,0,0,,No!
-Dialogue: 0,00:11:34.24,00:11:36.48,Default,,0,0,0,,I won't let you hurt Bingbing Sheep
+Dialogue: 0,00:11:34.24,00:11:36.48,Default,,0,0,0,,I won't let you hurt Bingbing Yang
 Dialogue: 0,00:11:46.96,00:11:48.55,Default,,0,0,0,,My remote control!
 Dialogue: 0,00:11:51.04,00:11:52.84,Default,,0,0,0,,You don't have a remote control
 Dialogue: 0,00:11:56.84,00:11:58.80,Default,,0,0,0,,I will definitely come back!
-Dialogue: 0,00:12:00.32,00:12:01.84,Default,,0,0,0,,Pleasant Goat Brother
+Dialogue: 0,00:12:00.32,00:12:01.84,Default,,0,0,0,,Weslie Brother
 Dialogue: 0,00:12:02.60,00:12:03.72,Default,,0,0,0,,Your kettle!
 Dialogue: 0,00:12:04.12,00:12:05.48,Default,,0,0,0,,sorry
 Dialogue: 0,00:12:05.48,00:12:08.20,Default,,0,0,0,,I shouldn't ruin your tins and toys
@@ -154,20 +154,20 @@ Dialogue: 0,00:12:51.88,00:12:53.52,Default,,0,0,0,,It seems like a new one
 Dialogue: 0,00:12:53.76,00:12:55.04,Default,,0,0,0,,thank you
 Dialogue: 0,00:12:59.48,00:13:01.72,Default,,0,0,0,,strangeness? How could I be here?
 Dialogue: 0,00:13:03.36,00:13:05.52,Default,,0,0,0,,Hahaha......
-Dialogue: 0,00:13:09.08,00:13:11.12,Default,,0,0,0,,Boiling Sheep Boiling Sheep
-Dialogue: 0,00:13:11.80,00:13:12.80,Default,,0,0,0,,Pleasant goat?
+Dialogue: 0,00:13:09.08,00:13:11.12,Default,,0,0,0,,Sparky  Sparky 
+Dialogue: 0,00:13:11.80,00:13:12.80,Default,,0,0,0,,Weslie?
 Dialogue: 0,00:13:12.96,00:13:14.84,Default,,0,0,0,,How did you come?
 Dialogue: 0,00:13:15.52,00:13:17.52,Default,,0,0,0,,I'll get my toys back
 Dialogue: 0,00:13:17.64,00:13:19.04,Default,,0,0,0,,Well…
 Dialogue: 0,00:13:20.80,00:13:22.92,Default,,0,0,0,,This is your most important treasure
 Dialogue: 0,00:13:22.96,00:13:24.52,Default,,0,0,0,,Are you not afraid of being damaged by her?
-Dialogue: 0,00:13:24.55,00:13:27.84,Default,,0,0,0,,I promised that Brother Pleasant Goat will not get hurt anymore
+Dialogue: 0,00:13:24.55,00:13:27.84,Default,,0,0,0,,I promised that Brother Weslie will not get hurt anymore
 Dialogue: 0,00:13:29.40,00:13:31.16,Default,,0,0,0,,The most important thing is to play together
 Dialogue: 0,00:13:32.28,00:13:33.60,Default,,0,0,0,,You wait
 Dialogue: 0,00:13:37.92,00:13:38.72,Default,,0,0,0,,And for you
 Dialogue: 0,00:13:39.80,00:13:41.36,Default,,0,0,0,,My baby
-Dialogue: 0,00:13:44.00,00:13:45.40,Default,,0,0,0,,Boiling sheep!
+Dialogue: 0,00:13:44.00,00:13:45.40,Default,,0,0,0,,Sparky!
 Dialogue: 0,00:13:45.92,00:13:48.48,Default,,0,0,0,,You promised to help me keep them well!
 Dialogue: 0,00:13:48.52,00:13:51.88,Default,,0,0,0,,sorry! I didn't mean to get rid of it!
 Dialogue: 0,00:13:52.08,00:13:52.84,Default,,0,0,0,,Hahaha!
-Dialogue: 0,00:13:53.08,00:13:55.52,Default,,0,0,0,,Brother Pleasant Goat Come on!
+Dialogue: 0,00:13:53.08,00:13:55.52,Default,,0,0,0,,Brother Weslie Come on!

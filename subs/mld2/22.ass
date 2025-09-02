@@ -17,17 +17,17 @@ Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,00:00:23.84,00:00:24.84,Default,,0,0,0,,Fun
 Dialogue: 0,00:00:25.76,00:00:27.20,Default,,0,0,0,,Fun
 Dialogue: 0,00:00:30.48,00:00:32.24,Default,,0,0,0,,This is too dangerous!
-Dialogue: 0,00:00:32.48,00:00:34.92,Default,,0,0,0,,What if I accidentally hit Bingbing Sheep?
+Dialogue: 0,00:00:32.48,00:00:34.92,Default,,0,0,0,,What if I accidentally hit Bingbing Yang?
 Dialogue: 0,00:00:35.04,00:00:36.80,Default,,0,0,0,,No more fun!
 Dialogue: 0,00:00:37.28,00:00:39.28,Default,,0,0,0,,I know, the village chief…
-Dialogue: 0,00:00:44.92,00:00:47.32,Default,,0,0,0,,Bingbing Sheep, keep up!
-Dialogue: 0,00:00:48.56,00:00:51.24,Default,,0,0,0,,Brother Feiyangyang, wait for me!
+Dialogue: 0,00:00:44.92,00:00:47.32,Default,,0,0,0,,Bingbing Yang, keep up!
+Dialogue: 0,00:00:48.56,00:00:51.24,Default,,0,0,0,,Brother Sparky, wait for me!
 Dialogue: 0,00:00:54.56,00:00:56.96,Default,,0,0,0,,Such a skateboard is too dangerous!
 Dialogue: 0,00:00:57.00,00:01:00.00,Default,,0,0,0,,Be sure to wear protective equipment to avoid injury
 Dialogue: 0,00:01:05.43,00:01:07.56,Default,,0,0,0,,OK, please continue to slip
 Dialogue: 0,00:01:15.52,00:01:17.20,Default,,0,0,0,,I happened to bring milk!
 Dialogue: 0,00:01:17.24,00:01:19.24,Default,,0,0,0,,Just heat it up and you can drink it!
-Dialogue: 0,00:01:19.56,00:01:21.56,Default,,0,0,0,,Bingbing Sheep, please wait for a moment
+Dialogue: 0,00:01:19.56,00:01:21.56,Default,,0,0,0,,Bingbing Yang, please wait for a moment
 Dialogue: 0,00:01:23.92,00:01:25.71,Default,,0,0,0,,This familiar footsteps... It's hard to tell...
 Dialogue: 0,00:01:26.00,00:01:27.71,Default,,0,0,0,,This is too dangerous!
 Dialogue: 0,00:01:27.76,00:01:29.60,Default,,0,0,0,,Milk cannot be heated at high temperature
@@ -51,7 +51,7 @@ Dialogue: 0,00:02:37.84,00:02:40.92,Default,,0,0,0,,So you read the book here
 Rehabilitate it
 Dialogue: 0,00:02:47.16,00:02:50.56,Default,,0,0,0,,Report First Leader The tent that was exposed to the camp has been set up!
 Dialogue: 0,00:02:50.80,00:02:52.12,Default,,0,0,0,,You have a good rest!
-Dialogue: 0,00:02:55.24,00:02:56.36,Default,,0,0,0,,Fricked well
+Dialogue: 0,00:02:55.24,00:02:56.36,Default,,0,0,0,,Done well
 Dialogue: 0,00:02:57.04,00:02:58.40,Default,,0,0,0,,Keep working hard
 Dialogue: 0,00:03:09.07,00:03:10.44,Default,,0,0,0,,From now on
 Dialogue: 0,00:03:10.63,00:03:13.24,Default,,0,0,0,,The Bacteria Army has only one leader
@@ -71,7 +71,7 @@ Dialogue: 0,00:03:46.24,00:03:47.44,Default,,0,0,0,,But...but...
 Dialogue: 0,00:03:47.68,00:03:50.40,Default,,0,0,0,,This kind of exposure is not exciting at all!
 Dialogue: 0,00:03:50.52,00:03:51.24,Default,,0,0,0,,Stimulate?
 Dialogue: 0,00:03:51.40,00:03:52.16,Default,,0,0,0,,have!
-Dialogue: 0,00:03:54.96,00:03:57.76,Default,,0,0,0,,Big Big Wolf!
+Dialogue: 0,00:03:54.96,00:03:57.76,Default,,0,0,0,,Wolffy!
 Dialogue: 0,00:03:58.16,00:03:58.84,Default,,0,0,0,,who?
 Dialogue: 0,00:04:00.28,00:04:01.07,Default,,0,0,0,,Who?
 Dialogue: 0,00:04:01.52,00:04:02.32,Default,,0,0,0,,What's going on
@@ -112,13 +112,13 @@ Dialogue: 0,00:06:28.76,00:06:30.08,Default,,0,0,0,,Click on the book to record
 Dialogue: 0,00:06:30.56,00:06:33.12,Default,,0,0,0,,The Valley of Era should be nearby...
 Dialogue: 0,00:06:36.68,00:06:37.24,Default,,0,0,0,,Who is it?
 Dialogue: 0,00:06:37.84,00:06:39.60,Default,,0,0,0,,I'm a small tree
-Dialogue: 0,00:06:40.96,00:06:43.36,Default,,0,0,0,,Bingbing Sheep What are you doing here
+Dialogue: 0,00:06:40.96,00:06:43.36,Default,,0,0,0,,Bingbing Yang What are you doing here
 Dialogue: 0,00:06:45.92,00:06:47.40,Default,,0,0,0,,I'm going to explore, too
 Dialogue: 0,00:06:53.32,00:06:55.56,Default,,0,0,0,,We are man-eating flowers
 Dialogue: 0,00:06:55.88,00:06:57.44,Default,,0,0,0,,Bacteria king!
 Dialogue: 0,00:06:58.12,00:06:58.96,Default,,0,0,0,,Don't run!
-Dialogue: 0,00:07:00.96,00:07:02.56,Default,,0,0,0,,Bingbing Sheep, let's go
-Dialogue: 0,00:07:02.56,00:07:04.28,Default,,0,0,0,,- Hand over the Bingbing Sheep!
+Dialogue: 0,00:07:00.96,00:07:02.56,Default,,0,0,0,,Bingbing Yang, let's go
+Dialogue: 0,00:07:02.56,00:07:04.28,Default,,0,0,0,,- Hand over Bingbing Yang!
 -Don't run and stop!
 Dialogue: 0,00:07:05.28,00:07:07.64,Default,,0,0,0,,Brother Banana, who will change things, is here!
 Dialogue: 0,00:07:07.64,00:07:09.12,Default,,0,0,0,,I'm not a banana!
@@ -133,7 +133,7 @@ Dialogue: 0,00:08:08.00,00:08:09.96,Default,,0,0,0,,This... is this swampy land?
 Dialogue: 0,00:08:10.20,00:08:13.12,Default,,0,0,0,,So dirty! Help!
 Dialogue: 0,00:08:13.12,00:08:14.88,Default,,0,0,0,,Oh no, we're sinking
 Dialogue: 0,00:08:15.28,00:08:17.28,Default,,0,0,0,,Help
-Dialogue: 0,00:08:19.56,00:08:20.96,Default,,0,0,0,,Boiling Sheep catches it!
+Dialogue: 0,00:08:19.56,00:08:20.96,Default,,0,0,0,,Sparky  catches it!
 Dialogue: 0,00:08:21.28,00:08:22.24,Default,,0,0,0,,Village Chief!
 Dialogue: 0,00:08:26.00,00:08:28.32,Default,,0,0,0,,You actually ran to the Valley of Evil
 Dialogue: 0,00:08:28.35,00:08:30.72,Default,,0,0,0,,Fortunately, I saw that book followed
@@ -155,7 +155,7 @@ Dialogue: 0,00:09:04.88,00:09:06.52,Default,,0,0,0,,Save us!
 Dialogue: 0,00:09:06.56,00:09:08.28,Default,,0,0,0,,Xiao Huang, change your ability quickly...
 Dialogue: 0,00:09:14.44,00:09:16.04,Default,,0,0,0,,I've escaped from the cave!
 Dialogue: 0,00:09:16.56,00:09:18.00,Default,,0,0,0,,There is a pool in front...
-Dialogue: 0,00:09:18.52,00:09:20.60,Default,,0,0,0,,Boiling Sheep, stop quickly!
+Dialogue: 0,00:09:18.52,00:09:20.60,Default,,0,0,0,,Sparky , stop quickly!
 Dialogue: 0,00:09:24.35,00:09:27.12,Default,,0,0,0,,So many fish! Let me fly them!
 Dialogue: 0,00:09:27.12,00:09:27.80,Default,,0,0,0,,no
 Dialogue: 0,00:09:27.88,00:09:29.35,Default,,0,0,0,,Nothing can be hindered
@@ -171,7 +171,7 @@ Dialogue: 0,00:10:11.52,00:10:13.64,Default,,0,0,0,,Help
 Dialogue: 0,00:10:14.64,00:10:15.96,Default,,0,0,0,,The exit is right in front!
 Dialogue: 0,00:10:16.60,00:10:18.12,Default,,0,0,0,,Be careful
 Dialogue: 0,00:10:28.28,00:10:30.32,Default,,0,0,0,,What a big snail!
-Dialogue: 0,00:10:30.52,00:10:31.28,Default,,0,0,0,,Boiling sheep? ?
+Dialogue: 0,00:10:30.52,00:10:31.28,Default,,0,0,0,,Sparky? ?
 Dialogue: 0,00:10:31.32,00:10:32.47,Default,,0,0,0,,Don't worry, I'm fine!
 Dialogue: 0,00:10:33.24,00:10:36.20,Default,,0,0,0,,However, this family has great body shape and strength
 Dialogue: 0,00:10:43.47,00:10:45.00,Default,,0,0,0,,Look at the tricks...!
@@ -181,7 +181,7 @@ Dialogue: 0,00:10:53.60,00:10:54.72,Default,,0,0,0,,Careless!
 Dialogue: 0,00:10:58.80,00:11:01.44,Default,,0,0,0,,Body moves quickly! Move!
 Dialogue: 0,00:11:01.47,00:11:03.04,Default,,0,0,0,,Move!
 Dialogue: 0,00:11:14.88,00:11:17.04,Default,,0,0,0,,- Village Chief?
-- Boiling sheep is so harmful!
+- Sparky is so harmful!
 Dialogue: 0,00:11:18.44,00:11:19.56,Default,,0,0,0,,It's nothing more...
 Dialogue: 0,00:11:23.44,00:11:25.44,Default,,0,0,0,,It's mine!
 Dialogue: 0,00:11:28.24,00:11:29.56,Default,,0,0,0,,Feel less trouble!
@@ -189,7 +189,7 @@ Dialogue: 0,00:11:35.20,00:11:36.47,Default,,0,0,0,,Let's have another shot
 Dialogue: 0,00:11:45.28,00:11:47.84,Default,,0,0,0,,I will definitely catch you!
 Dialogue: 0,00:11:48.12,00:11:49.60,Default,,0,0,0,,Yes, the king
 Dialogue: 0,00:11:56.60,00:11:58.80,Default,,0,0,0,,We finally came out!
-Dialogue: 0,00:11:58.96,00:12:00.84,Default,,0,0,0,,Village Chief! Bingbing sheep!
+Dialogue: 0,00:11:58.96,00:12:00.84,Default,,0,0,0,,Village Chief! Bingbing Yang!
 Dialogue: 0,00:12:01.52,00:12:04.20,Default,,0,0,0,,Unexpectedly, I also passed the Valley of Era...
 Dialogue: 0,00:12:04.60,00:12:07.60,Default,,0,0,0,,And me, and me, and me!
 Dialogue: 0,00:12:07.64,00:12:09.47,Default,,0,0,0,,The village chief…I have visited you more this time

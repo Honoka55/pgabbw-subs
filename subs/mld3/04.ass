@@ -15,8 +15,8 @@ Style: Default,Arial,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,00:00:20.32,00:00:22.16,Default,,0,0,0,,Everyone is controlled
-Dialogue: 0,00:00:22.48,00:00:24.52,Default,,0,0,0,,Nowadays, the same is true for the sheep
-Dialogue: 0,00:00:26.64,00:00:27.09,Default,,0,0,0,,Big Big Wolf
+Dialogue: 0,00:00:22.48,00:00:24.52,Default,,0,0,0,,Nowadays, the same is true for the goat
+Dialogue: 0,00:00:26.64,00:00:27.09,Default,,0,0,0,,Wolffy
 Dialogue: 0,00:00:27.12,00:00:28.84,Default,,0,0,0,,If you catch up with us, you will win
 Dialogue: 0,00:00:29.20,00:00:30.12,Default,,0,0,0,,Ha ha ha ha
 Dialogue: 0,00:00:31.16,00:00:32.00,Default,,0,0,0,,This simple
@@ -29,12 +29,12 @@ Dialogue: 0,00:00:50.88,00:00:53.76,Default,,0,0,0,,Because we will always be by
 Dialogue: 0,00:00:54.20,00:00:55.08,Default,,0,0,0,,Um…
 Dialogue: 0,00:00:57.88,00:00:59.15,Default,,0,0,0,,What to do now
 Dialogue: 0,00:01:01.28,00:01:01.96,Default,,0,0,0,,actually…
-Dialogue: 0,00:01:03.04,00:01:05.36,Default,,0,0,0,,There is a way to save the sheep
+Dialogue: 0,00:01:03.04,00:01:05.36,Default,,0,0,0,,There is a way to save the goat
 Dialogue: 0,00:01:06.24,00:01:07.20,Default,,0,0,0,,What method
 Dialogue: 0,00:01:08.04,00:01:09.76,Default,,0,0,0,,On the nearby Thunder Valley
 Dialogue: 0,00:01:09.96,00:01:12.12,Default,,0,0,0,,There is a kind of saccharine that can cure all diseases
 Dialogue: 0,00:01:12.72,00:01:14.52,Default,,0,0,0,,A thousand years can produce a piece
-Dialogue: 0,00:01:15.31,00:01:17.52,Default,,0,0,0,,Maybe it can be used to save sheep
+Dialogue: 0,00:01:15.31,00:01:17.52,Default,,0,0,0,,Maybe it can be used to save goat
 Dialogue: 0,00:01:17.92,00:01:20.36,Default,,0,0,0,,Very good I'll go up right away
 Dialogue: 0,00:01:22.04,00:01:22.80,Default,,0,0,0,,- etc
 - etc
@@ -51,7 +51,7 @@ Dialogue: 0,00:01:52.00,00:01:53.16,Default,,0,0,0,,It doesn’t matter
 Dialogue: 0,00:01:53.28,00:01:55.00,Default,,0,0,0,,I have strong body
 Dialogue: 0,00:02:03.84,00:02:05.84,Default,,0,0,0,,I also have agile skills
 Dialogue: 0,00:02:07.24,00:02:08.72,Default,,0,0,0,,Or I'll go
-Dialogue: 0,00:02:09.44,00:02:11.92,Default,,0,0,0,,No, someone must take care of the sheep
+Dialogue: 0,00:02:09.44,00:02:11.92,Default,,0,0,0,,No, someone must take care of the goat
 Dialogue: 0,00:02:12.00,00:02:14.48,Default,,0,0,0,,Let me do this dangerous thing
 Dialogue: 0,00:02:15.12,00:02:15.80,Default,,0,0,0,,All right
 Dialogue: 0,00:02:16.24,00:02:17.84,Default,,0,0,0,,But you must be careful
@@ -69,7 +69,7 @@ Dialogue: 0,00:02:56.63,00:02:57.80,Default,,0,0,0,,ah…
 Dialogue: 0,00:03:02.28,00:03:04.00,Default,,0,0,0,,Does anyone else have any questions?
 Dialogue: 0,00:03:04.48,00:03:05.60,Default,,0,0,0,,no!
 Dialogue: 0,00:03:12.24,00:03:13.24,Default,,0,0,0,,You don't have to go
-Dialogue: 0,00:03:14.20,00:03:16.44,Default,,0,0,0,,Any more instructions? Queen of Tomorrow
+Dialogue: 0,00:03:14.20,00:03:16.44,Default,,0,0,0,,Any more instructions? Queen Levana
 Dialogue: 0,00:03:17.56,00:03:19.48,Default,,0,0,0,,I have other tasks to arrange for you
 Dialogue: 0,00:03:19.88,00:03:21.32,Default,,0,0,0,,Other tasks?
 Dialogue: 0,00:03:23.52,00:03:26.00,Default,,0,0,0,,I want you to help me guard every city
@@ -105,7 +105,7 @@ Dialogue: 0,00:04:55.44,00:04:57.72,Default,,0,0,0,,Why am I so unlucky
 Dialogue: 0,00:05:14.56,00:05:16.52,Default,,0,0,0,,I won't give up!
 Dialogue: 0,00:05:20.64,00:05:22.32,Default,,0,0,0,,Is this the Thunder Valley?
 Dialogue: 0,00:05:33.00,00:05:33.76,Default,,0,0,0,,Can't run!
-Dialogue: 0,00:05:34.16,00:05:35.88,Default,,0,0,0,,The slept with the sheep is waiting for me!
+Dialogue: 0,00:05:34.16,00:05:35.88,Default,,0,0,0,,The slept with the goat is waiting for me!
 Dialogue: 0,00:05:41.44,00:05:42.20,Default,,0,0,0,,stop
 Dialogue: 0,00:05:53.92,00:05:56.72,Default,,0,0,0,,It seems that the Thunder Valley is not that scary either
 Dialogue: 0,00:05:58.04,00:06:00.44,Default,,0,0,0,,Why does it smell like barbecue?
@@ -135,20 +135,20 @@ Dialogue: 0,00:07:47.92,00:07:49.40,Default,,0,0,0,,Does he want to die?
 Dialogue: 0,00:07:51.64,00:07:54.88,Default,,0,0,0,,I will definitely not let you have any trouble
 Dialogue: 0,00:08:02.72,00:08:04.20,Default,,0,0,0,,Get it!
 Dialogue: 0,00:08:04.76,00:08:09.04,Default,,0,0,0,,ah…
-Dialogue: 0,00:08:14.00,00:08:15.84,Default,,0,0,0,,Big Big Wolf Help me...
-Dialogue: 0,00:08:17.76,00:08:19.84,Default,,0,0,0,,By the way, Big Big Wolf hasn't come back yet
+Dialogue: 0,00:08:14.00,00:08:15.84,Default,,0,0,0,,Wolffy Help me...
+Dialogue: 0,00:08:17.76,00:08:19.84,Default,,0,0,0,,By the way, Wolffy hasn't come back yet
 Dialogue: 0,00:08:22.92,00:08:23.44,Default,,0,0,0,,mother
 Dialogue: 0,00:08:23.64,00:08:25.60,Default,,0,0,0,,When will dad and the others come back
 Dialogue: 0,00:08:26.36,00:08:27.36,Default,,0,0,0,,I don't know either
 Dialogue: 0,00:08:27.84,00:08:29.88,Default,,0,0,0,,But Dad and the others will definitely come back
 Dialogue: 0,00:08:30.40,00:08:30.92,Default,,0,0,0,,Um
-Dialogue: 0,00:08:34.12,00:08:36.48,Default,,0,0,0,,I'll ask what happened to Big Big Wolf
+Dialogue: 0,00:08:34.12,00:08:36.48,Default,,0,0,0,,I'll ask what happened to Wolffy
 Dialogue: 0,00:08:38.72,00:08:41.16,Default,,0,0,0,,The number you are calling is not in the service area
 Dialogue: 0,00:08:45.20,00:08:46.67,Default,,0,0,0,,But don't worry
 Dialogue: 0,00:08:50.76,00:08:52.20,Default,,0,0,0,,The flash seems to have stopped
 Dialogue: 0,00:08:54.16,00:08:55.16,Default,,0,0,0,,Go and catch him
 Dialogue: 0,00:08:58.76,00:09:01.44,Default,,0,0,0,,Isn't this the most common herb that can cure all diseases?
-Dialogue: 0,00:09:01.72,00:09:03.96,Default,,0,0,0,,We can give it to the Queen of Tomorrow
+Dialogue: 0,00:09:01.72,00:09:03.96,Default,,0,0,0,,We can give it to Queen Levana
 Dialogue: 0,00:09:08.16,00:09:09.48,Default,,0,0,0,,It's obviously all down
 Dialogue: 0,00:09:09.60,00:09:11.24,Default,,0,0,0,,How could it be so powerful
 Dialogue: 0,00:09:17.48,00:09:18.16,Default,,0,0,0,,Don't think about it!
@@ -162,12 +162,12 @@ Dialogue: 0,00:10:00.76,00:10:03.16,Default,,0,0,0,,I just chased me like a wolf
 Dialogue: 0,00:10:06.24,00:10:07.76,Default,,0,0,0,,Can you please give me my qi
 Dialogue: 0,00:10:08.36,00:10:10.20,Default,,0,0,0,,Power of electricity!
 Dialogue: 0,00:10:14.24,00:10:16.92,Default,,0,0,0,,Could it be that I'm wrong with my name?
-Dialogue: 0,00:10:17.24,00:10:18.72,Default,,0,0,0,,Thunderbolt flash!
-Dialogue: 0,00:10:22.92,00:10:24.28,Default,,0,0,0,,Thunderbolt flash!
-Dialogue: 0,00:10:31.04,00:10:33.28,Default,,0,0,0,,Thunderbolt Flash Thunderbolt Flash Thunderbolt Flash…
+Dialogue: 0,00:10:17.24,00:10:18.72,Default,,0,0,0,,Lightning Strike!
+Dialogue: 0,00:10:22.92,00:10:24.28,Default,,0,0,0,,Lightning Strike!
+Dialogue: 0,00:10:31.04,00:10:33.28,Default,,0,0,0,,Lightning Strike Lightning Strike Lightning Strike…
 Dialogue: 0,00:10:34.92,00:10:37.20,Default,,0,0,0,,It turns out that you can't control your own power
 Dialogue: 0,00:10:37.96,00:10:38.72,Default,,0,0,0,,what
-Dialogue: 0,00:10:41.76,00:10:45.36,Default,,0,0,0,,That's the herb used to save sheep and goats.
+Dialogue: 0,00:10:41.76,00:10:45.36,Default,,0,0,0,,That's the herb used to save Paddis.
 Dialogue: 0,00:10:46.16,00:10:47.24,Default,,0,0,0,,don't want
 Dialogue: 0,00:10:47.40,00:10:49.20,Default,,0,0,0,,Hahahahahahaha...
 Dialogue: 0,00:10:49.60,00:10:52.72,Default,,0,0,0,,Think about it quickly, that's the only surviving grass
@@ -175,7 +175,7 @@ Dialogue: 0,00:10:54.04,00:10:56.08,Default,,0,0,0,,This is a violation
 Dialogue: 0,00:10:58.72,00:11:01.40,Default,,0,0,0,,If a thunder is not hit, then...
 Dialogue: 0,00:11:01.60,00:11:04.16,Default,,0,0,0,,What are you muttering about?
 Dialogue: 0,00:11:04.84,00:11:06.60,Default,,0,0,0,,Just hit until the hit
-Dialogue: 0,00:11:06.64,00:11:08.92,Default,,0,0,0,,Thunderbolt Flash Thunderbolt Flash Thunderbolt Flash…
+Dialogue: 0,00:11:06.64,00:11:08.92,Default,,0,0,0,,Lightning Strike Lightning Strike Lightning Strike…
 Dialogue: 0,00:11:09.12,00:11:09.96,Default,,0,0,0,,Have you been crazy?
 Dialogue: 0,00:11:10.12,00:11:11.72,Default,,0,0,0,,You'll be struck
 Dialogue: 0,00:11:12.36,00:11:15.00,Default,,0,0,0,,Some things are more important than life
@@ -189,7 +189,7 @@ Dialogue: 0,00:11:55.84,00:11:57.67,Default,,0,0,0,,Thunder is coming. Is it rai
 Dialogue: 0,00:11:58.52,00:12:00.04,Default,,0,0,0,,Have you found it here?
 Dialogue: 0,00:12:01.04,00:12:03.48,Default,,0,0,0,,No, let's finish work and go home to collect clothes
 Dialogue: 0,00:12:04.12,00:12:04.88,Default,,0,0,0,,good
-Dialogue: 0,00:12:11.76,00:12:12.96,Default,,0,0,0,,Big Big Wolf is back
+Dialogue: 0,00:12:11.76,00:12:12.96,Default,,0,0,0,,Wolffy is back
 Dialogue: 0,00:12:14.76,00:12:15.72,Default,,0,0,0,,Have you been injured?
 Dialogue: 0,00:12:16.60,00:12:19.32,Default,,0,0,0,,I'm fine. Please save Xiaoyangyang.
 Dialogue: 0,00:12:20.92,00:12:22.32,Default,,0,0,0,,Living grass?

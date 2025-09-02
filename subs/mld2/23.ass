@@ -17,7 +17,7 @@ Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,00:00:18.32,00:00:19.88,Default,,0,0,0,,Exposed
 Dialogue: 0,00:00:24.92,00:00:27.88,Default,,0,0,0,,Children, do you seem to need help?
 Dialogue: 0,00:00:28.56,00:00:31.64,Default,,0,0,0,,I'll help cut vegetables! Fast and fast
-Dialogue: 0,00:00:40.72,00:00:43.00,Default,,0,0,0,,The sword sheep is great!
+Dialogue: 0,00:00:40.72,00:00:43.00,Default,,0,0,0,,The sword goat is great!
 Dialogue: 0,00:00:44.72,00:00:46.52,Default,,0,0,0,,The dishes are cut
 Dialogue: 0,00:00:47.40,00:00:51.00,Default,,0,0,0,,Why did they cut faster than me? It was even more!
 Dialogue: 0,00:00:51.48,00:00:53.48,Default,,0,0,0,,Old man, help me hold it
@@ -48,7 +48,7 @@ Dialogue: 0,00:02:10.12,00:02:12.24,Default,,0,0,0,,You can't accept old age
 Dialogue: 0,00:02:13.68,00:02:15.40,Default,,0,0,0,,I'll hand it over to you here
 Dialogue: 0,00:02:15.60,00:02:17.48,Default,,0,0,0,,We went for a walk three of us
 Dialogue: 0,00:02:23.72,00:02:24.16,Default,,0,0,0,,The King
-Dialogue: 0,00:02:24.40,00:02:26.88,Default,,0,0,0,,I thought of a way to catch ice sheep!
+Dialogue: 0,00:02:24.40,00:02:26.88,Default,,0,0,0,,I thought of a way to catch Bingbing Yang!
 Dialogue: 0,00:02:34.60,00:02:38.12,Default,,0,0,0,,The food is cooked and the village chiefs go where are they...
 Dialogue: 0,00:02:39.32,00:02:40.60,Default,,0,0,0,,Keep searching
 Dialogue: 0,00:02:46.80,00:02:48.80,Default,,0,0,0,,Isn't that the Master's Water Body?
@@ -59,10 +59,10 @@ Dialogue: 0,00:03:10.00,00:03:11.80,Default,,0,0,0,,You have to go to the next l
 Dialogue: 0,00:03:12.63,00:03:13.40,Default,,0,0,0,,Walk the small road
 Dialogue: 0,00:03:24.60,00:03:25.28,Default,,0,0,0,,…
 Dialogue: 0,00:03:25.36,00:03:26.32,Default,,0,0,0,,Keep up with everyone
-Dialogue: 0,00:03:33.92,00:03:36.32,Default,,0,0,0,,This is the knife in front of the sword sheep...
+Dialogue: 0,00:03:33.92,00:03:36.32,Default,,0,0,0,,This is the knife in front of the sword goat...
 Dialogue: 0,00:03:41.28,00:03:42.56,Default,,0,0,0,,It hurts so much
 Dialogue: 0,00:03:42.63,00:03:44.36,Default,,0,0,0,,It's going to stop. Stop!
-Dialogue: 0,00:03:46.40,00:03:47.84,Default,,0,0,0,,Bingbing Sheep, stop playing
+Dialogue: 0,00:03:46.40,00:03:47.84,Default,,0,0,0,,Bingbing Yang, stop playing
 Dialogue: 0,00:03:47.92,00:03:49.12,Default,,0,0,0,,Let's take a look at it in front
 Dialogue: 0,00:03:53.92,00:03:55.12,Default,,0,0,0,,It hurts so much!
 Dialogue: 0,00:03:55.24,00:03:57.68,Default,,0,0,0,,I have to go to the next place
@@ -84,12 +84,12 @@ Dialogue: 0,00:05:26.80,00:05:28.16,Default,,0,0,0,,What's going on! ! !
 Dialogue: 0,00:05:31.68,00:05:32.84,Default,,0,0,0,,Bacteria King
 Dialogue: 0,00:05:32.92,00:05:34.96,Default,,0,0,0,,What happened to the village chiefs?
 Dialogue: 0,00:05:35.52,00:05:38.56,Default,,0,0,0,,Don't mislead your village chief
-Dialogue: 0,00:05:38.68,00:05:41.04,Default,,0,0,0,,My goal is Bingbing Sheep
-Dialogue: 0,00:05:44.07,00:05:45.24,Default,,0,0,0,,Where is the Bingbing Sheep?
+Dialogue: 0,00:05:38.68,00:05:41.04,Default,,0,0,0,,My goal is Bingbing Yang
+Dialogue: 0,00:05:44.07,00:05:45.24,Default,,0,0,0,,Where is Bingbing Yang?
 Dialogue: 0,00:05:47.40,00:05:48.64,Default,,0,0,0,,Here!
 Dialogue: 0,00:05:50.36,00:05:51.88,Default,,0,0,0,,It seems we've figured it out
 Dialogue: 0,00:05:52.32,00:05:54.96,Default,,0,0,0,,I just realized it's too late
-Dialogue: 0,00:06:05.60,00:06:07.12,Default,,0,0,0,,Bingbing Sheep
+Dialogue: 0,00:06:05.60,00:06:07.12,Default,,0,0,0,,Bingbing Yang
 Dialogue: 0,00:06:07.44,00:06:09.36,Default,,0,0,0,,Let me melt this broken pot
 Dialogue: 0,00:06:24.68,00:06:29.16,Default,,0,0,0,,Useless, this is my specialty
 Ordered high temperature resistant flakes
@@ -99,13 +99,13 @@ Dialogue: 0,00:06:46.92,00:06:49.76,Default,,0,0,0,,The gap in this syllable is 
 Dialogue: 0,00:07:18.00,00:07:19.12,Default,,0,0,0,,Little Butterfly
 Dialogue: 0,00:07:19.24,00:07:21.52,Default,,0,0,0,,Is it okay to go find the village chief to save us?
 Dialogue: 0,00:07:21.60,00:07:22.52,Default,,0,0,0,,no problem!
-Dialogue: 0,00:07:32.32,00:07:35.04,Default,,0,0,0,,These butterflies seem to be from the Beautiful Sheep Sect
+Dialogue: 0,00:07:32.32,00:07:35.04,Default,,0,0,0,,These butterflies seem to be from Tibbie Sect
 Dialogue: 0,00:07:37.84,00:07:41.47,Default,,0,0,0,,Butterflies, do you want to dance with me?
 Dialogue: 0,00:07:45.56,00:07:48.40,Default,,0,0,0,,They seem to be telling us something
 Dialogue: 0,00:07:48.44,00:07:50.16,Default,,0,0,0,,Are you thinking too much?
 Dialogue: 0,00:07:50.68,00:07:51.44,Default,,0,0,0,,No
 Dialogue: 0,00:07:54.52,00:07:57.32,Default,,0,0,0,,Does he mean to let us go?
-Dialogue: 0,00:07:57.60,00:08:00.64,Default,,0,0,0,,Could it be that Pleasant Goat and others have something to do with them, right?
+Dialogue: 0,00:07:57.60,00:08:00.64,Default,,0,0,0,,Could it be that Weslie and others have something to do with them, right?
 Dialogue: 0,00:08:05.44,00:08:07.04,Default,,0,0,0,,Take us over quickly
 Dialogue: 0,00:08:10.92,00:08:12.60,Default,,0,0,0,,They're leading us
 Dialogue: 0,00:08:19.60,00:08:21.32,Default,,0,0,0,,The road was blocked
@@ -133,7 +133,7 @@ Dialogue: 0,00:09:52.00,00:09:55.47,Default,,0,0,0,,I'll go and save the mutton 
 Dialogue: 0,00:09:55.68,00:09:56.20,Default,,0,0,0,,good
 Dialogue: 0,00:09:59.72,00:10:00.72,Default,,0,0,0,,Xiao Huang
 Dialogue: 0,00:10:00.76,00:10:01.28,Default,,0,0,0,,good
-Dialogue: 0,00:10:09.76,00:10:10.68,Default,,0,0,0,,Knife sheep!
+Dialogue: 0,00:10:09.76,00:10:10.68,Default,,0,0,0,,Knife goat!
 Dialogue: 0,00:10:11.04,00:10:13.76,Default,,0,0,0,,You two still have time to care about others
 Dialogue: 0,00:10:19.80,00:10:21.84,Default,,0,0,0,,You are too weak!
 Dialogue: 0,00:10:34.52,00:10:37.24,Default,,0,0,0,,No one can stop me now!
@@ -141,7 +141,7 @@ Dialogue: 0,00:10:42.44,00:10:44.68,Default,,0,0,0,,Master, Village Chief!
 Dialogue: 0,00:10:44.68,00:10:46.08,Default,,0,0,0,,Haven't been moving for a long time
 Dialogue: 0,00:10:46.44,00:10:48.28,Default,,0,0,0,,The reaction has slowed down
 Dialogue: 0,00:10:51.47,00:10:54.12,Default,,0,0,0,,Yes, it's time to move
-Dialogue: 0,00:10:57.52,00:10:59.24,Default,,0,0,0,,Lift your head and Pleasant Goat!
+Dialogue: 0,00:10:57.52,00:10:59.24,Default,,0,0,0,,Lift your head and Weslie!
 Dialogue: 0,00:10:59.44,00:11:01.08,Default,,0,0,0,,We are just getting hot!
 Dialogue: 0,00:11:01.16,00:11:03.12,Default,,0,0,0,,Master, Village Chief!
 Dialogue: 0,00:11:03.96,00:11:06.24,Default,,0,0,0,,Very resistant to punching

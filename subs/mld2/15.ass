@@ -15,7 +15,7 @@ Style: Default,Arial,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,00:00:22.40,00:00:26.00,Default,,0,0,0,,Ten Miles of Flourishing Sweet and Flourishing
-Dialogue: 0,00:00:27.84,00:00:32.80,Default,,0,0,0,,It's worthy of being the drink that Big Big Wolf likes
+Dialogue: 0,00:00:27.84,00:00:32.80,Default,,0,0,0,,It's worthy of being the drink that Wolffy likes
 Let me taste it carefully
 Dialogue: 0,00:00:41.88,00:00:42.96,Default,,0,0,0,,What's going on?
 Dialogue: 0,00:00:43.76,00:00:45.92,Default,,0,0,0,,You must have caused a bunch of mosquitoes
@@ -59,8 +59,8 @@ Dialogue: 0,00:03:51.48,00:03:53.36,Default,,0,0,0,,Why is it so dirty?
 Dialogue: 0,00:03:58.56,00:04:00.76,Default,,0,0,0,,Thank you for helping me climb up the tree
 Dialogue: 0,00:04:01.48,00:04:03.40,Default,,0,0,0,,Please accept my thank you
 Dialogue: 0,00:04:04.48,00:04:06.04,Default,,0,0,0,,Wow! I'm not polite anymore
-Dialogue: 0,00:04:08.04,00:04:08.80,Default,,0,0,0,,Sheep and sheep
-Dialogue: 0,00:04:10.56,00:04:11.36,Default,,0,0,0,,Sheep and sheep
+Dialogue: 0,00:04:08.04,00:04:08.80,Default,,0,0,0,,Paddi
+Dialogue: 0,00:04:10.56,00:04:11.36,Default,,0,0,0,,Paddi
 Dialogue: 0,00:04:12.80,00:04:14.04,Default,,0,0,0,,Have you done the swipe?
 Dialogue: 0,00:04:14.96,00:04:16.00,Default,,0,0,0,,Almost done
 Dialogue: 0,00:04:16.07,00:04:16.60,Default,,0,0,0,,good
@@ -71,7 +71,7 @@ Dialogue: 0,00:04:24.44,00:04:25.00,Default,,0,0,0,,what
 Dialogue: 0,00:04:26.60,00:04:27.92,Default,,0,0,0,,Village Chief, etc.
 Dialogue: 0,00:04:31.76,00:04:35.07,Default,,0,0,0,,Village Chief, why not check the others first
 Dialogue: 0,00:04:35.36,00:04:38.40,Default,,0,0,0,,Everyone else has checked it, you're the one who's missing
-Dialogue: 0,00:04:43.44,00:04:44.48,Default,,0,0,0,,Sheep and goat...
+Dialogue: 0,00:04:43.44,00:04:44.48,Default,,0,0,0,,Paddi...
 Dialogue: 0,00:04:47.92,00:04:50.32,Default,,0,0,0,,Have a taste, no more class meals
 Dialogue: 0,00:04:50.36,00:04:51.16,Default,,0,0,0,,So clean
 Dialogue: 0,00:04:53.28,00:04:55.56,Default,,0,0,0,,very good! Health has reached the standard
@@ -81,7 +81,7 @@ Dialogue: 0,00:04:59.28,00:05:01.07,Default,,0,0,0,,Keep working hard next time!
 Dialogue: 0,00:05:01.56,00:05:04.48,Default,,0,0,0,,Who helped me to swipe?
 Dialogue: 0,00:05:07.24,00:05:08.00,Default,,0,0,0,,No matter what!
 Dialogue: 0,00:05:08.04,00:05:09.84,Default,,0,0,0,,Think about it again if you fill your stomach!
-Dialogue: 0,00:05:18.68,00:05:23.48,Default,,0,0,0,,Even if you even take out the trash, you have to run so far! Sheep Village is really inconvenient
+Dialogue: 0,00:05:18.68,00:05:23.48,Default,,0,0,0,,Even if you even take out the trash, you have to run so far! Goat Village is really inconvenient
 Dialogue: 0,00:05:23.68,00:05:26.00,Default,,0,0,0,,Finally I can take a break
 Dialogue: 0,00:05:27.20,00:05:27.88,Default,,0,0,0,,oops!
 Dialogue: 0,00:05:29.63,00:05:31.63,Default,,0,0,0,,Cleared clean
@@ -96,7 +96,7 @@ Dialogue: 0,00:06:00.56,00:06:01.64,Default,,0,0,0,,Sister Bee Niu?
 Dialogue: 0,00:06:03.40,00:06:06.24,Default,,0,0,0,,I must have helped you. You came to report it.
 Dialogue: 0,00:06:07.52,00:06:10.00,Default,,0,0,0,,I want everyone to come and take a look!
 Dialogue: 0,00:06:10.56,00:06:13.04,Default,,0,0,0,,Everyone is here to see Sister Beniu
-Dialogue: 0,00:06:13.08,00:06:17.08,Default,,0,0,0,,If Bingbing Sheep comes, can I catch her at the opportunity?
+Dialogue: 0,00:06:13.08,00:06:17.08,Default,,0,0,0,,If Bingbing Yang comes, can I catch her at the opportunity?
 Dialogue: 0,00:06:17.24,00:06:17.96,Default,,0,0,0,,no
 Dialogue: 0,00:06:18.04,00:06:18.84,Default,,0,0,0,,Wait a little longer
 Dialogue: 0,00:06:25.92,00:06:28.76,Default,,0,0,0,,Didn’t he ask everyone to come and see Sister Zhiniu?
@@ -128,10 +128,10 @@ Dialogue: 0,00:08:25.72,00:08:28.32,Default,,0,0,0,,Has Sister Zhiniu arrived? W
 Dialogue: 0,00:08:29.68,00:08:32.35,Default,,0,0,0,,Don't talk she'll come soon
 Dialogue: 0,00:08:45.04,00:08:46.20,Default,,0,0,0,,elder brother!
 Dialogue: 0,00:08:47.52,00:08:50.84,Default,,0,0,0,,Don't talk, I'll scare Sister Niu
-Dialogue: 0,00:08:58.24,00:08:59.47,Default,,0,0,0,,Where is the Bingbing Sheep?
-Dialogue: 0,00:09:07.00,00:09:08.64,Default,,0,0,0,,Bingbing sheep!
+Dialogue: 0,00:08:58.24,00:08:59.47,Default,,0,0,0,,Where is Bingbing Yang?
+Dialogue: 0,00:09:07.00,00:09:08.64,Default,,0,0,0,,Bingbing Yang!
 Dialogue: 0,00:09:11.00,00:09:11.64,Default,,0,0,0,,What's up?
-Dialogue: 0,00:09:12.24,00:09:14.04,Default,,0,0,0,,Bingbing Sheep I don't see it anymore!
+Dialogue: 0,00:09:12.24,00:09:14.04,Default,,0,0,0,,Bingbing Yang I don't see it anymore!
 Dialogue: 0,00:09:14.12,00:09:15.52,Default,,0,0,0,,what? !
 Dialogue: 0,00:09:15.80,00:09:19.60,Default,,0,0,0,,But I was just at the door
 I haven't seen anyone come out
@@ -144,18 +144,18 @@ Dialogue: 0,00:09:43.32,00:09:44.32,Default,,0,0,0,,hello
 Dialogue: 0,00:09:47.68,00:09:49.92,Default,,0,0,0,,Just you want to live with me? !
 Dialogue: 0,00:09:50.04,00:09:50.84,Default,,0,0,0,,Don't think about it!
 Dialogue: 0,00:09:54.16,00:09:56.60,Default,,0,0,0,,Don't let him run away!
-Dialogue: 0,00:09:57.44,00:09:59.00,Default,,0,0,0,,Fricked beautifully!
+Dialogue: 0,00:09:57.44,00:09:59.00,Default,,0,0,0,,Done beautifully!
 Dialogue: 0,00:10:00.96,00:10:03.04,Default,,0,0,0,,The good thing just started!
 Dialogue: 0,00:10:03.20,00:10:04.08,Default,,0,0,0,,accelerate!
 Dialogue: 0,00:10:09.47,00:10:10.64,Default,,0,0,0,,What happened?
 Dialogue: 0,00:10:17.32,00:10:19.04,Default,,0,0,0,,See you again, lamb
 Dialogue: 0,00:10:21.20,00:10:22.72,Default,,0,0,0,,The bacteria are about to escape!
-Dialogue: 0,00:10:22.84,00:10:24.68,Default,,0,0,0,,Think about it quickly, Pleasant Goat!
+Dialogue: 0,00:10:22.84,00:10:24.68,Default,,0,0,0,,Think about it quickly, Weslie!
 Dialogue: 0,00:10:27.60,00:10:28.24,Default,,0,0,0,,Have it!
 Dialogue: 0,00:10:28.60,00:10:29.72,Default,,0,0,0,,What's the way!
-Dialogue: 0,00:10:36.00,00:10:37.92,Default,,0,0,0,,Boiling Sheep is handed over to you!
+Dialogue: 0,00:10:36.00,00:10:37.92,Default,,0,0,0,,Sparky  is handed over to you!
 Dialogue: 0,00:10:49.88,00:10:52.52,Default,,0,0,0,,Humph, do you want to force me out? !
-Dialogue: 0,00:11:01.56,00:11:03.40,Default,,0,0,0,,Give me the Bingbing Sheep!
+Dialogue: 0,00:11:01.56,00:11:03.40,Default,,0,0,0,,Give me Bingbing Yang!
 Dialogue: 0,00:11:07.04,00:11:09.56,Default,,0,0,0,,He actually deceived me. It's not unreasonable!
 Dialogue: 0,00:11:14.80,00:11:16.96,Default,,0,0,0,,I failed again...
 Dialogue: 0,00:11:21.52,00:11:24.72,Default,,0,0,0,,Sorry, almost let the bacteria catch you
@@ -170,5 +170,5 @@ Dialogue: 0,00:12:05.92,00:12:08.72,Default,,0,0,0,,Didn’t you say you won’t
 Dialogue: 0,00:12:09.32,00:12:11.40,Default,,0,0,0,,Or is it suitable for me here
 Dialogue: 0,00:12:16.28,00:12:19.44,Default,,0,0,0,,I really hope that the real sister of the ox comes out to help me
 Dialogue: 0,00:12:21.88,00:12:23.32,Default,,0,0,0,,Is Sister Zhiniu coming?
-Dialogue: 0,00:12:27.47,00:12:28.35,Default,,0,0,0,,Bingbing sheep!
+Dialogue: 0,00:12:27.47,00:12:28.35,Default,,0,0,0,,Bingbing Yang!
 Dialogue: 0,00:12:29.64,00:12:31.00,Default,,0,0,0,,My cake

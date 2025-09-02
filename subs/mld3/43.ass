@@ -16,7 +16,7 @@ Style: Default,Arial,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,00:00:19.65,00:00:20.65,Default,,0,0,0,,Who are you…
 Dialogue: 0,00:00:21.97,00:00:23.65,Default,,0,0,0,,Queen, come and see
-Dialogue: 0,00:00:23.81,00:00:26.85,Default,,0,0,0,,A wolf and three sheep fell from it
+Dialogue: 0,00:00:23.81,00:00:26.85,Default,,0,0,0,,A wolf and three goat fell from it
 Dialogue: 0,00:00:27.77,00:00:29.29,Default,,0,0,0,,Really
 Dialogue: 0,00:00:30.37,00:00:32.37,Default,,0,0,0,,I can't tell you are...
 Dialogue: 0,00:00:32.89,00:00:35.21,Default,,0,0,0,,The king and queen of the strange cat country?
@@ -35,7 +35,7 @@ Dialogue: 0,00:01:10.97,00:01:15.05,Default,,0,0,0,,Alas... In fact, tomorrow wi
 Dialogue: 0,00:01:15.37,00:01:16.69,Default,,0,0,0,,You are the king
 Dialogue: 0,00:01:16.77,00:01:18.61,Default,,0,0,0,,Can't you stop it?
 Dialogue: 0,00:01:32.69,00:01:35.85,Default,,0,0,0,,At that time, I sealed the dark energy
-Dialogue: 0,00:01:36.17,00:01:38.61,Default,,0,0,0,,Almost all the magic power
+Dialogue: 0,00:01:36.17,00:01:38.61,Default,,0,0,0,,Almost all the Magic power 
 Dialogue: 0,00:01:38.81,00:01:40.73,Default,,0,0,0,,Our strength is weak now
 Dialogue: 0,00:01:41.05,00:01:42.77,Default,,0,0,0,,Even I can't escape here
 Dialogue: 0,00:01:43.85,00:01:45.25,Default,,0,0,0,,What's more, it's...
@@ -56,7 +56,7 @@ Dialogue: 0,00:02:26.13,00:02:28.37,Default,,0,0,0,,This secret passage leads to
 Dialogue: 0,00:02:29.57,00:02:31.33,Default,,0,0,0,,We used to be unable to sleep in the middle of the night
 Dialogue: 0,00:02:31.37,00:02:34.25,Default,,0,0,0,,Just sneaked over this secret passage to find the other party
 Dialogue: 0,00:02:36.17,00:02:36.97,Default,,0,0,0,,Let's go
-Dialogue: 0,00:02:39.73,00:02:41.17,Default,,0,0,0,,Fast Sheep
+Dialogue: 0,00:02:39.73,00:02:41.17,Default,,0,0,0,,Fast Goat
 Dialogue: 0,00:02:42.85,00:02:43.41,Default,,0,0,0,,Um
 Dialogue: 0,00:02:48.09,00:02:50.29,Default,,0,0,0,,They chase me there!
 Dialogue: 0,00:02:50.77,00:02:51.57,Default,,0,0,0,,yes
@@ -64,12 +64,12 @@ Dialogue: 0,00:02:52.17,00:02:53.61,Default,,0,0,0,,Be careful
 Dialogue: 0,00:02:57.05,00:02:59.29,Default,,0,0,0,,Ah Help...
 Dialogue: 0,00:03:01.65,00:03:02.49,Default,,0,0,0,,stop
 Dialogue: 0,00:03:05.69,00:03:07.57,Default,,0,0,0,,oops…
-Dialogue: 0,00:03:10.05,00:03:12.33,Default,,0,0,0,,My thunderbolt flash cannot be broken
+Dialogue: 0,00:03:10.05,00:03:12.33,Default,,0,0,0,,My Lightning Strike cannot be broken
 Dialogue: 0,00:03:12.77,00:03:16.25,Default,,0,0,0,,Look at my...Flame Fist
 Dialogue: 0,00:03:17.17,00:03:18.33,Default,,0,0,0,,Success
 Dialogue: 0,00:03:20.45,00:03:21.85,Default,,0,0,0,,I can't break it, either
 Dialogue: 0,00:03:24.65,00:03:27.45,Default,,0,0,0,,I didn't expect that they were powerful
-Dialogue: 0,00:03:27.97,00:03:30.89,Default,,0,0,0,,It seems that Haoyue handed over the Qili Stone to them
+Dialogue: 0,00:03:27.97,00:03:30.89,Default,,0,0,0,,It seems that Haoyue handed over the magic stone to them
 Dialogue: 0,00:03:31.21,00:03:35.29,Default,,0,0,0,,Alas, I still can't break the boundary with Qili
 Dialogue: 0,00:03:35.37,00:03:37.21,Default,,0,0,0,,Is it really impossible to do it?
 Dialogue: 0,00:03:38.45,00:03:42.61,Default,,0,0,0,,You...It's too early to give up now
@@ -90,7 +90,7 @@ Dialogue: 0,00:04:24.77,00:04:26.77,Default,,0,0,0,,Every time you attack
 Dialogue: 0,00:04:26.81,00:04:29.73,Default,,0,0,0,,There is a little glowing in the center of the top of the boundary
 Dialogue: 0,00:04:29.93,00:04:33.37,Default,,0,0,0,,It's hard to tell...that's the key point of breaking through the boundaries?
 Dialogue: 0,00:04:34.05,00:04:35.09,Default,,0,0,0,,I'll try it
-Dialogue: 0,00:04:38.97,00:04:40.69,Default,,0,0,0,,There is really a boiling sheep...
+Dialogue: 0,00:04:38.97,00:04:40.69,Default,,0,0,0,,There is really a Sparky...
 Dialogue: 0,00:04:40.89,00:04:41.49,Default,,0,0,0,,good
 Dialogue: 0,00:04:42.37,00:04:44.45,Default,,0,0,0,,-Flame Fist - Thunderbolt Pin
 Dialogue: 0,00:04:52.21,00:04:53.49,Default,,0,0,0,,Success
@@ -125,12 +125,12 @@ Dialogue: 0,00:06:17.05,00:06:18.05,Default,,0,0,0,,Too slow
 Dialogue: 0,00:06:19.13,00:06:21.89,Default,,0,0,0,,ah…
 Dialogue: 0,00:06:22.09,00:06:22.81,Default,,0,0,0,,elder sister…
 Dialogue: 0,00:06:23.29,00:06:24.69,Default,,0,0,0,,Take the blame...
-Dialogue: 0,00:06:26.77,00:06:28.77,Default,,0,0,0,,Qi... Qiyun...
+Dialogue: 0,00:06:26.77,00:06:28.77,Default,,0,0,0,,Qi... Magic Cloud...
 Dialogue: 0,00:06:31.65,00:06:33.21,Default,,0,0,0,,It can still move?
 Dialogue: 0,00:06:34.85,00:06:36.81,Default,,0,0,0,,Only by defeating her will she have the chance to escape
 Dialogue: 0,00:06:36.89,00:06:37.97,Default,,0,0,0,,Come together
 Dialogue: 0,00:06:38.69,00:06:39.25,Default,,0,0,0,,good
-Dialogue: 0,00:06:42.45,00:06:43.21,Default,,0,0,0,,Blade of wind
+Dialogue: 0,00:06:42.45,00:06:43.21,Default,,0,0,0,,Hurricane Blade
 Dialogue: 0,00:06:53.37,00:06:54.65,Default,,0,0,0,,Small tricks of carving
 Dialogue: 0,00:06:57.85,00:06:59.33,Default,,0,0,0,,It's over
 Dialogue: 0,00:07:00.33,00:07:01.25,Default,,0,0,0,,Look at my big move
@@ -141,7 +141,7 @@ Dialogue: 0,00:07:09.77,00:07:10.69,Default,,0,0,0,,Ahhh!
 Dialogue: 0,00:07:12.65,00:07:13.25,Default,,0,0,0,,Where is the person?
 Dialogue: 0,00:07:14.85,00:07:16.65,Default,,0,0,0,,Don't try to escape from my palm
 Dialogue: 0,00:07:22.89,00:07:25.89,Default,,0,0,0,,Finally breathing free air
-Dialogue: 0,00:07:27.01,00:07:28.45,Default,,0,0,0,,Tomorrow and Haoyue
+Dialogue: 0,00:07:27.01,00:07:28.45,Default,,0,0,0,,Levana and Haoyue
 Dialogue: 0,00:07:29.09,00:07:29.93,Default,,0,0,0,,Alas
 Dialogue: 0,00:07:31.69,00:07:32.45,Default,,0,0,0,,Blessing
 Dialogue: 0,00:07:35.25,00:07:37.65,Default,,0,0,0,,King, Queen, Why are you here
@@ -156,13 +156,13 @@ Dialogue: 0,00:08:10.97,00:08:12.93,Default,,0,0,0,,Then you will disappear toge
 Dialogue: 0,00:08:13.89,00:08:15.05,Default,,0,0,0,,Be careful
 Dialogue: 0,00:08:15.93,00:08:17.05,Default,,0,0,0,,This is...
 Dialogue: 0,00:08:17.53,00:08:19.67,Default,,0,0,0,,ah…
-Dialogue: 0,00:08:19.69,00:08:20.57,Default,,0,0,0,,Beautiful sheep
-Dialogue: 0,00:08:22.97,00:08:24.45,Default,,0,0,0,,Thank you for taking sheep
+Dialogue: 0,00:08:19.69,00:08:20.57,Default,,0,0,0,,Tibbie
+Dialogue: 0,00:08:22.97,00:08:24.45,Default,,0,0,0,,Thank you for taking goat
 Dialogue: 0,00:08:26.25,00:08:28.45,Default,,0,0,0,,Then try this trick again
 Dialogue: 0,00:08:31.89,00:08:33.05,Default,,0,0,0,,Let's go together
 Dialogue: 0,00:08:33.65,00:08:34.81,Default,,0,0,0,,Flame Fist
 Dialogue: 0,00:08:35.05,00:08:36.21,Default,,0,0,0,,Thunderbolt
-Dialogue: 0,00:08:36.57,00:08:37.65,Default,,0,0,0,,Blade of wind
+Dialogue: 0,00:08:36.57,00:08:37.65,Default,,0,0,0,,Hurricane Blade
 Dialogue: 0,00:08:44.33,00:08:45.49,Default,,0,0,0,,Very heavy...
 Dialogue: 0,00:08:48.21,00:08:49.69,Default,,0,0,0,,I can't hold back anymore...
 Dialogue: 0,00:08:50.65,00:08:52.33,Default,,0,0,0,,Sister, stop!
@@ -171,7 +171,7 @@ Dialogue: 0,00:09:08.97,00:09:10.01,Default,,0,0,0,,King, you...
 Dialogue: 0,00:09:15.21,00:09:17.29,Default,,0,0,0,,Wake up tomorrow
 Dialogue: 0,00:09:17.49,00:09:18.89,Default,,0,0,0,,We are a family
 Dialogue: 0,00:09:19.21,00:09:20.85,Default,,0,0,0,,Don't you remember dad?
-Dialogue: 0,00:09:22.81,00:09:24.85,Default,,0,0,0,,Tomorrow I'm a mother
+Dialogue: 0,00:09:22.81,00:09:24.85,Default,,0,0,0,,Levana I'm a mother
 Dialogue: 0,00:09:27.29,00:09:31.01,Default,,0,0,0,,Say, say, say, say...
 Dialogue: 0,00:09:32.61,00:09:35.49,Default,,0,0,0,,Stop talking...
 Dialogue: 0,00:09:35.73,00:09:38.65,Default,,0,0,0,,ah…
@@ -184,8 +184,8 @@ Dialogue: 0,00:10:11.69,00:10:12.69,Default,,0,0,0,,elder sister…
 Dialogue: 0,00:10:19.09,00:10:20.81,Default,,0,0,0,,Wake up soon
 Dialogue: 0,00:10:22.37,00:10:24.01,Default,,0,0,0,,Hao... Haoyue...
 Dialogue: 0,00:10:38.09,00:10:38.65,Default,,0,0,0,,ah?
-Dialogue: 0,00:10:39.65,00:10:41.61,Default,,0,0,0,,Haoyue Tomorrow
-Dialogue: 0,00:10:46.65,00:10:48.77,Default,,0,0,0,,Tomorrow you will finally wake up
+Dialogue: 0,00:10:39.65,00:10:41.61,Default,,0,0,0,,Haoyue Levana
+Dialogue: 0,00:10:46.65,00:10:48.77,Default,,0,0,0,,Levana you will finally wake up
 Dialogue: 0,00:10:49.65,00:10:53.01,Default,,0,0,0,,Dad Mom... Here is...
 Dialogue: 0,00:10:53.85,00:10:55.61,Default,,0,0,0,,It's great that you're fine
 Dialogue: 0,00:11:01.49,00:11:02.29,Default,,0,0,0,,Where is the bright moon

@@ -15,7 +15,7 @@ Style: Default,Arial,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,00:00:18.73,00:00:19.95,Default,,0,0,0,,You're not fighting
-Dialogue: 0,00:00:19.97,00:00:22.65,Default,,0,0,0,,Xiao Huihui, let dad come and help
+Dialogue: 0,00:00:19.97,00:00:22.65,Default,,0,0,0,,Wilie, let dad come and help
 Dialogue: 0,00:00:23.25,00:00:24.49,Default,,0,0,0,,All said no
 Dialogue: 0,00:00:24.85,00:00:26.07,Default,,0,0,0,,I'll come
 Dialogue: 0,00:00:26.09,00:00:26.67,Default,,0,0,0,,Need not
@@ -27,11 +27,11 @@ Dialogue: 0,00:00:36.85,00:00:37.61,Default,,0,0,0,,rest assured
 Dialogue: 0,00:00:38.13,00:00:40.21,Default,,0,0,0,,There is nothing I can't fix
 Dialogue: 0,00:00:41.73,00:00:43.93,Default,,0,0,0,,You can hand it to me with confidence
 Dialogue: 0,00:00:44.57,00:00:45.41,Default,,0,0,0,,etc.
-Dialogue: 0,00:00:53.33,00:00:55.55,Default,,0,0,0,,Here is the concert of Sister Nuanyangyangyang
+Dialogue: 0,00:00:53.33,00:00:55.55,Default,,0,0,0,,Here is the concert of Sister Jonie
 Dialogue: 0,00:00:55.57,00:00:57.03,Default,,0,0,0,,All made you mess up
 Dialogue: 0,00:00:57.05,00:00:59.59,Default,,0,0,0,,Again…sorry…
 Dialogue: 0,00:00:59.61,00:01:01.63,Default,,0,0,0,,I'll definitely fix it here
-Dialogue: 0,00:01:01.65,00:01:04.13,Default,,0,0,0,,Nuanyangyang, go and practice rehearsal
+Dialogue: 0,00:01:01.65,00:01:04.13,Default,,0,0,0,,Jonie, go and practice rehearsal
 Dialogue: 0,00:01:04.57,00:01:06.85,Default,,0,0,0,,You are the brightest boy here tonight
 Dialogue: 0,00:01:12.25,00:01:15.77,Default,,0,0,0,,- I searched for nothing in the morning
 - Good friend Feng Yu is not separated
@@ -51,43 +51,43 @@ Dialogue: 0,00:01:52.09,00:01:55.21,Default,,0,0,0,,Thank you for coming back to
 Dialogue: 0,00:01:56.77,00:01:57.37,Default,,0,0,0,,Um
 Dialogue: 0,00:01:58.17,00:01:59.79,Default,,0,0,0,,Concerts in each future
 Dialogue: 0,00:01:59.81,00:02:01.25,Default,,0,0,0,,Neither of us will be absent
-Dialogue: 0,00:02:03.29,00:02:06.77,Default,,0,0,0,,Nuanyang Sheep Concert Don’t miss it if you have walked past
+Dialogue: 0,00:02:03.29,00:02:06.77,Default,,0,0,0,,Nuanyang Goat Concert Don’t miss it if you have walked past
 Dialogue: 0,00:02:07.29,00:02:09.25,Default,,0,0,0,,Come and have a look
 Dialogue: 0,00:02:09.49,00:02:10.77,Default,,0,0,0,,Welcome
-Dialogue: 0,00:02:12.61,00:02:15.37,Default,,0,0,0,,Is the warm sheep talking about each other?
+Dialogue: 0,00:02:12.61,00:02:15.37,Default,,0,0,0,,Is the Jonie talking about each other?
 Dialogue: 0,00:02:15.77,00:02:18.33,Default,,0,0,0,,No, he is a little famous star
 Dialogue: 0,00:02:18.89,00:02:19.71,Default,,0,0,0,,No
-Dialogue: 0,00:02:19.73,00:02:22.81,Default,,0,0,0,,Nuan Yangyang is a very hardworking and talented singer
+Dialogue: 0,00:02:19.73,00:02:22.81,Default,,0,0,0,,Jonie is a very hardworking and talented singer
 Dialogue: 0,00:02:24.17,00:02:26.07,Default,,0,0,0,,Guaranteed not to disappoint you
 Dialogue: 0,00:02:26.09,00:02:27.53,Default,,0,0,0,,Remember to support the scene
-Dialogue: 0,00:02:27.77,00:02:30.85,Default,,0,0,0,,Pleasant Goat, let's help us too
+Dialogue: 0,00:02:27.77,00:02:30.85,Default,,0,0,0,,Weslie, let's help us too
 Dialogue: 0,00:02:31.97,00:02:32.67,Default,,0,0,0,,Everyone…
 Dialogue: 0,00:02:32.69,00:02:34.13,Default,,0,0,0,,Bamboo wolf
 Dialogue: 0,00:02:34.85,00:02:36.97,Default,,0,0,0,,Second uncle, it's really you
 Dialogue: 0,00:02:37.41,00:02:40.57,Default,,0,0,0,,I heard you are still alive but I didn't expect it to be true
-Dialogue: 0,00:02:41.01,00:02:44.25,Default,,0,0,0,,Huh? Pleasant Goat, are you alive?
+Dialogue: 0,00:02:41.01,00:02:44.25,Default,,0,0,0,,Huh? Weslie, are you alive?
 Dialogue: 0,00:02:44.81,00:02:46.81,Default,,0,0,0,,It's so good
 Dialogue: 0,00:02:47.77,00:02:50.29,Default,,0,0,0,,Jiao Tailang Why haven't you changed at all
 Dialogue: 0,00:02:50.77,00:02:53.33,Default,,0,0,0,,You haven't changed for fifteen years
-Dialogue: 0,00:02:54.21,00:02:56.89,Default,,0,0,0,,Are you here to participate in the Nuan Yangyang concert?
+Dialogue: 0,00:02:54.21,00:02:56.89,Default,,0,0,0,,Are you here to participate in the Jonie concert?
 Dialogue: 0,00:02:57.33,00:02:58.45,Default,,0,0,0,,Of course
 Dialogue: 0,00:03:00.41,00:03:03.67,Default,,0,0,0,,And I also picked some fat and big bananas
-Dialogue: 0,00:03:03.69,00:03:05.45,Default,,0,0,0,,Replenish the energy of the warm sheep
+Dialogue: 0,00:03:03.69,00:03:05.45,Default,,0,0,0,,Replenish the energy of the Jonie
 Dialogue: 0,00:03:05.69,00:03:07.75,Default,,0,0,0,,I bring so many bananas every time
 Dialogue: 0,00:03:07.77,00:03:09.23,Default,,0,0,0,,How can I be so sorry
 Dialogue: 0,00:03:09.25,00:03:10.81,Default,,0,0,0,,Have to eat this
-Dialogue: 0,00:03:10.89,00:03:12.77,Default,,0,0,0,,That's left for the warm sheep
+Dialogue: 0,00:03:10.89,00:03:12.77,Default,,0,0,0,,That's left for the Jonie
 Dialogue: 0,00:03:13.49,00:03:14.87,Default,,0,0,0,,Don't eat the goat
 Dialogue: 0,00:03:14.89,00:03:16.37,Default,,0,0,0,,Let's go and send a bill
 Dialogue: 0,00:03:17.81,00:03:18.57,Default,,0,0,0,,I know
 Dialogue: 0,00:03:27.09,00:03:29.53,Default,,0,0,0,,Hope the concert can be completed smoothly
 Dialogue: 0,00:03:34.73,00:03:35.97,Default,,0,0,0,,It's about to start
-Dialogue: 0,00:03:45.57,00:03:47.11,Default,,0,0,0,,She's the Hot Sheep
+Dialogue: 0,00:03:45.57,00:03:47.11,Default,,0,0,0,,She's the Hot Goat
 Dialogue: 0,00:03:47.13,00:03:49.13,Default,,0,0,0,,- Nothing special
 - Yeah yeah
 Dialogue: 0,00:03:49.41,00:03:51.45,Default,,0,0,0,,I don't know how I sing
-Dialogue: 0,00:03:52.25,00:03:54.79,Default,,0,0,0,,- Nuanyangyangyang Come on
-- Nuanyang Sheep Come on
+Dialogue: 0,00:03:52.25,00:03:54.79,Default,,0,0,0,,- Jonie Come on
+- Nuanyang Goat Come on
 Dialogue: 0,00:03:54.81,00:03:57.37,Default,,0,0,0,,- Come on, come on…
 - come on…
 Dialogue: 0,00:04:06.37,00:04:08.47,Default,,0,0,0,,My son has become so outstanding
@@ -119,31 +119,31 @@ Dialogue: 0,00:05:12.29,00:05:14.23,Default,,0,0,0,,- Why did the light suddenly
 Dialogue: 0,00:05:14.25,00:05:17.73,Default,,0,0,0,,It's not a show that is prepared for singing
 Dialogue: 0,00:05:18.65,00:05:19.97,Default,,0,0,0,,Why are the lights completely damaged
 Dialogue: 0,00:05:20.93,00:05:22.25,Default,,0,0,0,,What happened
-Dialogue: 0,00:05:32.41,00:05:34.01,Default,,0,0,0,,It's okay, warm sheep
-Dialogue: 0,00:05:34.37,00:05:35.77,Default,,0,0,0,,Warm sheep...
+Dialogue: 0,00:05:32.41,00:05:34.01,Default,,0,0,0,,It's okay, Jonie
+Dialogue: 0,00:05:34.37,00:05:35.77,Default,,0,0,0,,Jonie...
 Dialogue: 0,00:05:36.77,00:05:37.77,Default,,0,0,0,,This is...
 Dialogue: 0,00:05:38.65,00:05:40.05,Default,,0,0,0,,The detector has a reaction
-Dialogue: 0,00:05:40.29,00:05:43.25,Default,,0,0,0,,I'm fine. Xiao Huihui is still on the stage.
+Dialogue: 0,00:05:40.29,00:05:43.25,Default,,0,0,0,,I'm fine. Wilie is still on the stage.
 Dialogue: 0,00:05:46.09,00:05:47.13,Default,,0,0,0,,Small gray
 Dialogue: 0,00:05:57.29,00:05:58.81,Default,,0,0,0,,Son, Alas...
 Dialogue: 0,00:06:05.73,00:06:06.97,Default,,0,0,0,,You're injured
 Dialogue: 0,00:06:07.69,00:06:10.33,Default,,0,0,0,,It's nothing, it's just a minor injury
 Dialogue: 0,00:06:10.57,00:06:11.69,Default,,0,0,0,,Alas...
 Dialogue: 0,00:06:11.97,00:06:12.89,Default,,0,0,0,,Don't force yourself
-Dialogue: 0,00:06:15.69,00:06:17.93,Default,,0,0,0,,Little Huihui, take Big Big Wolf down
+Dialogue: 0,00:06:15.69,00:06:17.93,Default,,0,0,0,,Little Huihui, take Wolffy down
 Dialogue: 0,00:06:17.97,00:06:18.37,Default,,0,0,0,,Um
 Dialogue: 0,00:06:27.25,00:06:29.05,Default,,0,0,0,,It's weird... strange...
 Dialogue: 0,00:06:31.37,00:06:35.31,Default,,0,0,0,,Strange... monster
 Run quickly...
 Dialogue: 0,00:06:35.33,00:06:36.49,Default,,0,0,0,,Go and protect everyone
 Dialogue: 0,00:06:38.57,00:06:39.69,Default,,0,0,0,,I want to go, too
-Dialogue: 0,00:06:40.53,00:06:41.69,Default,,0,0,0,,Warm sheep
+Dialogue: 0,00:06:40.53,00:06:41.69,Default,,0,0,0,,Jonie
 Dialogue: 0,00:06:55.65,00:06:57.37,Default,,0,0,0,,No one is allowed to run
 Dialogue: 0,00:07:00.69,00:07:01.69,Default,,0,0,0,,You're fine
 Dialogue: 0,00:07:01.97,00:07:03.41,Default,,0,0,0,,Find a place to hide
-Dialogue: 0,00:07:05.09,00:07:06.81,Default,,0,0,0,,Nuanyang Sheep You go and protect the citizens
+Dialogue: 0,00:07:05.09,00:07:06.81,Default,,0,0,0,,Nuanyang Goat You go and protect the citizens
 Dialogue: 0,00:07:07.65,00:07:08.89,Default,,0,0,0,,I'll cover it
-Dialogue: 0,00:07:09.61,00:07:10.67,Default,,0,0,0,,Boiling Sheep Beauty Sheep
+Dialogue: 0,00:07:09.61,00:07:10.67,Default,,0,0,0,,Sparky  Tibbie
 Dialogue: 0,00:07:10.69,00:07:12.61,Default,,0,0,0,,You must keep it up and create air
 Dialogue: 0,00:07:13.33,00:07:13.93,Default,,0,0,0,,- Um
 - Um
@@ -161,21 +161,21 @@ Dialogue: 0,00:08:36.93,00:08:37.69,Default,,0,0,0,,What's going on
 Dialogue: 0,00:08:47.89,00:08:50.93,Default,,0,0,0,,It sucks all the electricity in the city
 Dialogue: 0,00:08:51.65,00:08:52.93,Default,,0,0,0,,Let's stop it
 Dialogue: 0,00:09:02.85,00:09:03.81,Default,,0,0,0,,Everyone…
-Dialogue: 0,00:09:04.29,00:09:05.29,Default,,0,0,0,,Pleasant goat
+Dialogue: 0,00:09:04.29,00:09:05.29,Default,,0,0,0,,Weslie
 Dialogue: 0,00:09:05.53,00:09:08.49,Default,,0,0,0,,If you are injured, don't go there if you are injured.
 Dialogue: 0,00:09:19.17,00:09:21.81,Default,,0,0,0,,My body is paralyzed...I can't move...
 Dialogue: 0,00:09:23.73,00:09:24.65,Default,,0,0,0,,Abnormal...
-Dialogue: 0,00:09:33.57,00:09:35.45,Default,,0,0,0,,Warm sheep...
+Dialogue: 0,00:09:33.57,00:09:35.45,Default,,0,0,0,,Jonie...
 Dialogue: 0,00:09:36.49,00:09:39.47,Default,,0,0,0,,It's okay... I'm here...
-Dialogue: 0,00:09:39.49,00:09:40.53,Default,,0,0,0,,Warm sheep...
+Dialogue: 0,00:09:39.49,00:09:40.53,Default,,0,0,0,,Jonie...
 Dialogue: 0,00:09:49.09,00:09:51.81,Default,,0,0,0,,No, its attack is too strong
 Dialogue: 0,00:09:52.33,00:09:54.47,Default,,0,0,0,,I have to help them. Alas...
 Dialogue: 0,00:09:54.49,00:09:55.41,Default,,0,0,0,,Second uncle
 Dialogue: 0,00:09:55.61,00:09:58.05,Default,,0,0,0,,It's hard for you to get close to that monster now
 Dialogue: 0,00:09:58.65,00:10:00.77,Default,,0,0,0,,In the past, it only dragged them down
-Dialogue: 0,00:10:05.49,00:10:06.53,Default,,0,0,0,,Warm sheep...
-Dialogue: 0,00:10:07.25,00:10:08.53,Default,,0,0,0,,Warm sheep...
-Dialogue: 0,00:10:09.61,00:10:11.21,Default,,0,0,0,,Warm sheep...
+Dialogue: 0,00:10:05.49,00:10:06.53,Default,,0,0,0,,Jonie...
+Dialogue: 0,00:10:07.25,00:10:08.53,Default,,0,0,0,,Jonie...
+Dialogue: 0,00:10:09.61,00:10:11.21,Default,,0,0,0,,Jonie...
 Dialogue: 0,00:10:11.33,00:10:14.99,Default,,0,0,0,,With me here... I will definitely protect you...
 Dialogue: 0,00:10:15.01,00:10:16.19,Default,,0,0,0,,As long as you don't give up
 Dialogue: 0,00:10:16.21,00:10:18.45,Default,,0,0,0,,Hope is in our hands
@@ -185,7 +185,7 @@ Dialogue: 0,00:10:28.85,00:10:30.49,Default,,0,0,0,,It cannot be crossed
 Dialogue: 0,00:10:34.49,00:10:35.81,Default,,0,0,0,,Go
 Dialogue: 0,00:10:52.49,00:10:54.13,Default,,0,0,0,,Finally, I've defeated the monster
 Dialogue: 0,00:10:54.69,00:10:56.49,Default,,0,0,0,,No one is okay
-Dialogue: 0,00:10:57.29,00:10:59.69,Default,,0,0,0,,This time it's all up to you. Warm sheep
+Dialogue: 0,00:10:57.29,00:10:59.69,Default,,0,0,0,,This time it's all up to you. Jonie
 Dialogue: 0,00:11:00.17,00:11:01.33,Default,,0,0,0,,but…
 Dialogue: 0,00:11:01.61,00:11:03.55,Default,,0,0,0,,A concert that everyone has worked hard to hold
 Dialogue: 0,00:11:03.57,00:11:04.81,Default,,0,0,0,,It's also destroyed

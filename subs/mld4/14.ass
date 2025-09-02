@@ -14,8 +14,8 @@ Style: Default,Arial,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,00:00:22.85,00:00:25.69,Default,,0,0,0,,Xiao Huihui Dad made a cake for you
-Dialogue: 0,00:00:31.93,00:00:34.13,Default,,0,0,0,,Xiao Huihui Open the door
+Dialogue: 0,00:00:22.85,00:00:25.69,Default,,0,0,0,,Wilie Dad made a cake for you
+Dialogue: 0,00:00:31.93,00:00:34.13,Default,,0,0,0,,Wilie Open the door
 Dialogue: 0,00:00:34.41,00:00:37.09,Default,,0,0,0,,Don't keep yourself in the room every day
 Dialogue: 0,00:00:40.97,00:00:42.21,Default,,0,0,0,,oops…
 Dialogue: 0,00:00:42.41,00:00:43.37,Default,,0,0,0,,Can you stop quarreling?
@@ -50,7 +50,7 @@ Dialogue: 0,00:02:43.29,00:02:44.49,Default,,0,0,0,,Help me sweep the Wolf Castl
 Dialogue: 0,00:02:53.25,00:02:54.19,Default,,0,0,0,,Small gray
 Dialogue: 0,00:02:54.21,00:02:55.73,Default,,0,0,0,,Have eaten
 Dialogue: 0,00:02:58.01,00:02:59.17,Default,,0,0,0,,Small gray
-Dialogue: 0,00:03:20.49,00:03:23.61,Default,,0,0,0,,This is the invention of Xiao Huihui Competition
+Dialogue: 0,00:03:20.49,00:03:23.61,Default,,0,0,0,,This is the invention of Wilie Competition
 Dialogue: 0,00:03:25.89,00:03:28.17,Default,,0,0,0,,It's not going to be rubbish
 Dialogue: 0,00:03:33.01,00:03:36.41,Default,,0,0,0,,It's smaller than garbage
 Dialogue: 0,00:03:36.81,00:03:38.25,Default,,0,0,0,,What's the use
@@ -74,7 +74,7 @@ Dialogue: 0,00:05:20.89,00:05:23.05,Default,,0,0,0,,Run to a place that cannot b
 Dialogue: 0,00:05:31.77,00:05:33.41,Default,,0,0,0,,oops
 Dialogue: 0,00:05:34.21,00:05:35.17,Default,,0,0,0,,How did this happen
 Dialogue: 0,00:05:37.73,00:05:40.85,Default,,0,0,0,,Hehe The celebration banquet is ready
-Dialogue: 0,00:05:41.37,00:05:44.69,Default,,0,0,0,,When Xiao Huihui comes back, you can start to celebrate
+Dialogue: 0,00:05:41.37,00:05:44.69,Default,,0,0,0,,When Wilie comes back, you can start to celebrate
 Dialogue: 0,00:05:49.09,00:05:51.09,Default,,0,0,0,,Dad, you're so terrible
 Dialogue: 0,00:05:51.93,00:05:54.65,Default,,0,0,0,,I can only win the prize by your invention
 Dialogue: 0,00:06:01.33,00:06:02.85,Default,,0,0,0,,Congratulations to son
@@ -91,11 +91,11 @@ Dialogue: 0,00:06:35.01,00:06:38.61,Default,,0,0,0,,How about it...Little Huihui
 Dialogue: 0,00:06:39.05,00:06:41.49,Default,,0,0,0,,He said I always thought it was right
 Dialogue: 0,00:06:42.41,00:06:45.45,Default,,0,0,0,,I'm just doing it for him
 Dialogue: 0,00:06:45.77,00:06:47.41,Default,,0,0,0,,I know I know
-Dialogue: 0,00:06:51.77,00:06:54.99,Default,,0,0,0,,Xiao Huihui probably just wanted to do it through his own efforts
+Dialogue: 0,00:06:51.77,00:06:54.99,Default,,0,0,0,,Wilie probably just wanted to do it through his own efforts
 Dialogue: 0,00:06:55.01,00:06:56.21,Default,,0,0,0,,Get the prize
 Dialogue: 0,00:06:57.37,00:06:58.41,Default,,0,0,0,,Change it is you
 Dialogue: 0,00:06:58.57,00:07:01.53,Default,,0,0,0,,You don't want to win the championship by relying on others' strength, right?
-Dialogue: 0,00:07:02.37,00:07:04.93,Default,,0,0,0,,Xiao Huihui is no longer the child he used to be
+Dialogue: 0,00:07:02.37,00:07:04.93,Default,,0,0,0,,Wilie is no longer the child he used to be
 Dialogue: 0,00:07:06.49,00:07:07.33,Default,,0,0,0,,Yes
 Dialogue: 0,00:07:07.65,00:07:10.01,Default,,0,0,0,,I'm too self-righteous
 Dialogue: 0,00:07:10.93,00:07:12.01,Default,,0,0,0,,I want to apologize
@@ -131,7 +131,7 @@ Dialogue: 0,00:10:30.05,00:10:30.73,Default,,0,0,0,,dad…
 Dialogue: 0,00:10:39.61,00:10:42.13,Default,,0,0,0,,Big block, I'll deal with you
 Dialogue: 0,00:10:56.29,00:10:56.97,Default,,0,0,0,,Oops...
 Dialogue: 0,00:11:04.45,00:11:05.19,Default,,0,0,0,,Small gray
-Dialogue: 0,00:11:05.21,00:11:06.71,Default,,0,0,0,,What are you fricking here
+Dialogue: 0,00:11:05.21,00:11:06.71,Default,,0,0,0,,What are you doing here
 Dialogue: 0,00:11:06.73,00:11:08.05,Default,,0,0,0,,Escape quickly
 Dialogue: 0,00:11:08.65,00:11:10.77,Default,,0,0,0,,I'm here to help you attack its inside
 Dialogue: 0,00:11:11.29,00:11:13.53,Default,,0,0,0,,Super Swallowing Experts

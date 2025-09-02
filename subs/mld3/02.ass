@@ -14,19 +14,19 @@ Style: Default,Arial,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,00:00:19.72,00:00:20.37,Default,,0,0,0,,Sheep and sheep
+Dialogue: 0,00:00:19.72,00:00:20.37,Default,,0,0,0,,Paddi
 Dialogue: 0,00:00:20.40,00:00:22.48,Default,,0,0,0,,See if you can use amazing power
 Dialogue: 0,00:00:22.72,00:00:23.32,Default,,0,0,0,,good
 Dialogue: 0,00:00:28.12,00:00:29.23,Default,,0,0,0,,Nothing to feel
 Dialogue: 0,00:00:32.07,00:00:32.85,Default,,0,0,0,,Help
-Dialogue: 0,00:00:32.88,00:00:33.84,Default,,0,0,0,,Sheep and sheep
+Dialogue: 0,00:00:32.88,00:00:33.84,Default,,0,0,0,,Paddi
 Dialogue: 0,00:00:38.84,00:00:39.80,Default,,0,0,0,,Stopped
 Dialogue: 0,00:00:40.32,00:00:41.60,Default,,0,0,0,,Give me a
 Dialogue: 0,00:00:44.40,00:00:45.56,Default,,0,0,0,,We're here to help, too
 Dialogue: 0,00:01:05.76,00:01:08.52,Default,,0,0,0,,We can't hold on
 Dialogue: 0,00:01:08.68,00:01:11.52,Default,,0,0,0,,Quickly concentrate and use amazing force
-Dialogue: 0,00:01:15.36,00:01:16.64,Default,,0,0,0,,- Pleasant Goat
-- Big Big Wolf
+Dialogue: 0,00:01:15.36,00:01:16.64,Default,,0,0,0,,- Weslie
+- Wolffy
 Dialogue: 0,00:01:17.95,00:01:19.24,Default,,0,0,0,,It's about to be shut down
 Dialogue: 0,00:01:19.28,00:01:20.84,Default,,0,0,0,,Everyone, hold on
 Dialogue: 0,00:01:20.88,00:01:22.24,Default,,0,0,0,,Focus quickly
@@ -34,8 +34,8 @@ Dialogue: 0,00:01:22.28,00:01:22.97,Default,,0,0,0,,Concentration Concentration
 Dialogue: 0,00:01:23.00,00:01:25.04,Default,,0,0,0,,Oh, why can't I get it out?
 Dialogue: 0,00:01:26.60,00:01:29.04,Default,,0,0,0,,ah…
 Dialogue: 0,00:01:32.80,00:01:33.95,Default,,0,0,0,,Everyone…
-Dialogue: 0,00:01:42.95,00:01:45.44,Default,,0,0,0,,- Run quickly with the sheep
-- Run quickly with the sheep
+Dialogue: 0,00:01:42.95,00:01:45.44,Default,,0,0,0,,- Run quickly with the goat
+- Run quickly with the goat
 Dialogue: 0,00:01:47.95,00:01:49.28,Default,,0,0,0,,Don't remember
 Dialogue: 0,00:01:52.72,00:01:54.31,Default,,0,0,0,,Let's go and help
 Dialogue: 0,00:02:05.92,00:02:06.84,Default,,0,0,0,,ah
@@ -43,16 +43,16 @@ Dialogue: 0,00:02:08.48,00:02:09.48,Default,,0,0,0,,Haoyue
 Dialogue: 0,00:02:19.28,00:02:20.68,Default,,0,0,0,,The ground is about to collapse
 Dialogue: 0,00:02:21.32,00:02:22.60,Default,,0,0,0,,Stop your mouth quickly
 Dialogue: 0,00:02:24.08,00:02:25.28,Default,,0,0,0,,Come here
-Dialogue: 0,00:02:36.88,00:02:39.32,Default,,0,0,0,,The Sheep and Sheep, wake up the strange clouds
+Dialogue: 0,00:02:36.88,00:02:39.32,Default,,0,0,0,,The Paddi, wake up the strange clouds
 Dialogue: 0,00:02:39.44,00:02:41.60,Default,,0,0,0,,I can't make it
-Dialogue: 0,00:02:46.36,00:02:47.36,Default,,0,0,0,,Do you want to frick
+Dialogue: 0,00:02:46.36,00:02:47.36,Default,,0,0,0,,Do you want to do
 Dialogue: 0,00:02:54.52,00:02:56.72,Default,,0,0,0,,I don't want to... let everyone suffer
 Dialogue: 0,00:03:04.63,00:03:05.72,Default,,0,0,0,,Give me a gift!
 Dialogue: 0,00:03:08.00,00:03:10.28,Default,,0,0,0,,You may harm my friend
-Dialogue: 0,00:03:10.32,00:03:11.72,Default,,0,0,0,,Sheep and sheep
+Dialogue: 0,00:03:10.32,00:03:11.72,Default,,0,0,0,,Paddi
 Dialogue: 0,00:03:12.12,00:03:13.28,Default,,0,0,0,,Leave it to me
 Dialogue: 0,00:03:23.16,00:03:24.91,Default,,0,0,0,,It's time to me
-Dialogue: 0,00:03:36.24,00:03:37.52,Default,,0,0,0,,Sheep and goat...
+Dialogue: 0,00:03:36.24,00:03:37.52,Default,,0,0,0,,Paddi...
 Dialogue: 0,00:03:37.76,00:03:39.84,Default,,0,0,0,,Come on
 Dialogue: 0,00:03:46.96,00:03:47.68,Default,,0,0,0,,Um
 Dialogue: 0,00:03:48.44,00:03:49.92,Default,,0,0,0,,Win
@@ -111,7 +111,7 @@ Dialogue: 0,00:07:06.00,00:07:07.45,Default,,0,0,0,,Only use the big move
 Dialogue: 0,00:07:07.48,00:07:09.20,Default,,0,0,0,,You shouldn't be...
 Dialogue: 0,00:07:13.92,00:07:16.08,Default,,0,0,0,,Run quickly
 Dialogue: 0,00:07:17.96,00:07:19.44,Default,,0,0,0,,Everyone, let's go
-Dialogue: 0,00:07:23.88,00:07:24.76,Default,,0,0,0,,What about the slow sheep
+Dialogue: 0,00:07:23.88,00:07:24.76,Default,,0,0,0,,What about the Slowy
 Dialogue: 0,00:07:25.60,00:07:26.32,Default,,0,0,0,,Oops
 Dialogue: 0,00:07:30.56,00:07:32.48,Default,,0,0,0,,Stop and don't run
 Dialogue: 0,00:07:33.36,00:07:34.20,Default,,0,0,0,,Here
@@ -121,10 +121,10 @@ Dialogue: 0,00:07:45.56,00:07:46.72,Default,,0,0,0,,OK
 Dialogue: 0,00:07:49.08,00:07:55.52,Default,,0,0,0,,Ahhhhh…
 Dialogue: 0,00:07:55.64,00:07:57.12,Default,,0,0,0,,Be careful
 Dialogue: 0,00:07:59.64,00:08:00.89,Default,,0,0,0,,How could this be...
-Dialogue: 0,00:08:00.92,00:08:02.16,Default,,0,0,0,,Big Big Wolf
+Dialogue: 0,00:08:00.92,00:08:02.16,Default,,0,0,0,,Wolffy
 Dialogue: 0,00:08:02.92,00:08:04.64,Default,,0,0,0,,The wolf fell off the cliff
 Dialogue: 0,00:08:05.32,00:08:05.92,Default,,0,0,0,,Don't worry
-Dialogue: 0,00:08:06.52,00:08:09.24,Default,,0,0,0,,Big Big Wolf...
+Dialogue: 0,00:08:06.52,00:08:09.24,Default,,0,0,0,,Wolffy...
 Dialogue: 0,00:08:12.60,00:08:14.32,Default,,0,0,0,,Don't run and stop
 Dialogue: 0,00:08:14.92,00:08:15.64,Default,,0,0,0,,stop
 Dialogue: 0,00:08:17.04,00:08:18.80,Default,,0,0,0,,Stop and don't run
@@ -136,7 +136,7 @@ Dialogue: 0,00:08:23.96,00:08:24.96,Default,,0,0,0,,- Don't run
 Dialogue: 0,00:08:29.92,00:08:31.56,Default,,0,0,0,,Why did you stop suddenly
 Dialogue: 0,00:08:34.72,00:08:36.61,Default,,0,0,0,,Let's run
 Dialogue: 0,00:08:36.64,00:08:39.20,Default,,0,0,0,,Will be discovered here
-Dialogue: 0,00:08:39.84,00:08:41.72,Default,,0,0,0,,Hey, what are you going to frick
+Dialogue: 0,00:08:39.84,00:08:41.72,Default,,0,0,0,,Hey, what are you going to do
 Dialogue: 0,00:08:41.96,00:08:43.04,Default,,0,0,0,,-Catched
 Dialogue: 0,00:08:46.80,00:08:47.40,Default,,0,0,0,,Where is the person?
 Dialogue: 0,00:08:47.64,00:08:48.36,Default,,0,0,0,,Where have you gone?
@@ -154,7 +154,7 @@ Dialogue: 0,00:09:40.55,00:09:42.60,Default,,0,0,0,,We also met Fulai here
 Dialogue: 0,00:09:42.72,00:09:44.48,Default,,0,0,0,,Playing together often
 Dialogue: 0,00:09:46.24,00:09:49.88,Default,,0,0,0,,Xiao Mingri will be the eternal good sister with Xiao Haoyue
 Dialogue: 0,00:09:50.20,00:09:50.84,Default,,0,0,0,,good
-Dialogue: 0,00:09:51.48,00:09:52.80,Default,,0,0,0,,Tomorrow Haoyue
+Dialogue: 0,00:09:51.48,00:09:52.80,Default,,0,0,0,,Levana Haoyue
 Dialogue: 0,00:09:53.40,00:09:54.72,Default,,0,0,0,,I'm a little tired
 Dialogue: 0,00:09:55.00,00:09:57.04,Default,,0,0,0,,Let's go out to pick the fruit and eat it
 Dialogue: 0,00:09:57.92,00:09:59.84,Default,,0,0,0,,You know how to eat
@@ -163,25 +163,25 @@ Dialogue: 0,00:10:02.40,00:10:04.20,Default,,0,0,0,,Xiao Haoyue said she was tir
 Dialogue: 0,00:10:04.76,00:10:06.04,Default,,0,0,0,,Oh well
 Dialogue: 0,00:10:10.96,00:10:13.84,Default,,0,0,0,,But my sister is now like this
 Dialogue: 0,00:10:15.76,00:10:17.60,Default,,0,0,0,,Haoyue who doesn't have to worry about
-Dialogue: 0,00:10:17.76,00:10:21.00,Default,,0,0,0,,Pleasant Goat must have a way to turn her back to what she used to be
+Dialogue: 0,00:10:17.76,00:10:21.00,Default,,0,0,0,,Weslie must have a way to turn her back to what she used to be
 Dialogue: 0,00:10:22.52,00:10:24.00,Default,,0,0,0,,Just trust us
 Dialogue: 0,00:10:24.48,00:10:24.92,Default,,0,0,0,,Um
 Dialogue: 0,00:10:25.88,00:10:27.28,Default,,0,0,0,,Are you looking for it there?
 Dialogue: 0,00:10:28.36,00:10:29.00,Default,,0,0,0,,No
 Dialogue: 0,00:10:29.76,00:10:31.55,Default,,0,0,0,,But I received a notice from the team leader
-Dialogue: 0,00:10:31.60,00:10:33.12,Default,,0,0,0,,Say sheep were caught there
+Dialogue: 0,00:10:31.60,00:10:33.12,Default,,0,0,0,,Say goat were caught there
 Dialogue: 0,00:10:33.55,00:10:35.40,Default,,0,0,0,,Then let's go quickly
-Dialogue: 0,00:10:39.16,00:10:41.44,Default,,0,0,0,,Catch the sheep
-Dialogue: 0,00:10:44.67,00:10:45.52,Default,,0,0,0,,Pleasant goat
-Dialogue: 0,00:10:46.40,00:10:47.28,Default,,0,0,0,,Big Big Wolf
+Dialogue: 0,00:10:39.16,00:10:41.44,Default,,0,0,0,,Catch the goat
+Dialogue: 0,00:10:44.67,00:10:45.52,Default,,0,0,0,,Weslie
+Dialogue: 0,00:10:46.40,00:10:47.28,Default,,0,0,0,,Wolffy
 Dialogue: 0,00:10:47.44,00:10:48.72,Default,,0,0,0,,Where are you?
 Dialogue: 0,00:10:48.76,00:10:50.17,Default,,0,0,0,,Let's go look for it separately
 Dialogue: 0,00:10:50.20,00:10:50.60,Default,,0,0,0,,good
-Dialogue: 0,00:10:51.00,00:10:53.20,Default,,0,0,0,,Pleasant Goat Hot Hot Hot
-Dialogue: 0,00:10:54.80,00:10:56.96,Default,,0,0,0,,Slow Sheep Beautiful Sheep
+Dialogue: 0,00:10:51.00,00:10:53.20,Default,,0,0,0,,Weslie Hot Hot Hot
+Dialogue: 0,00:10:54.80,00:10:56.96,Default,,0,0,0,,Slowy Tibbie
 Dialogue: 0,00:10:58.12,00:11:00.48,Default,,0,0,0,,Village Chief Big Wolf
 Dialogue: 0,00:11:01.00,00:11:03.60,Default,,0,0,0,,Help...
-Dialogue: 0,00:11:04.00,00:11:06.04,Default,,0,0,0,,I just heard Big Big Wolf's voice
+Dialogue: 0,00:11:04.00,00:11:06.04,Default,,0,0,0,,I just heard Wolffy's voice
 Dialogue: 0,00:11:06.12,00:11:07.55,Default,,0,0,0,,Let's go ahead and take a look
 Dialogue: 0,00:11:08.67,00:11:13.37,Default,,0,0,0,,Help... Help
 Dialogue: 0,00:11:13.40,00:11:15.00,Default,,0,0,0,,I'm here
@@ -195,7 +195,7 @@ Dialogue: 0,00:11:36.28,00:11:37.41,Default,,0,0,0,,I'm fine
 Dialogue: 0,00:11:37.44,00:11:38.53,Default,,0,0,0,,Right, what about the village chief?
 Dialogue: 0,00:11:38.55,00:11:40.16,Default,,0,0,0,,Isn't he with you?
 Dialogue: 0,00:11:41.92,00:11:43.20,Default,,0,0,0,,Why don't you say anything?
-Dialogue: 0,00:11:44.92,00:11:48.13,Default,,0,0,0,,Slow sheep he... was captured
+Dialogue: 0,00:11:44.92,00:11:48.13,Default,,0,0,0,,Slowy he... was captured
 Dialogue: 0,00:11:48.16,00:11:49.40,Default,,0,0,0,,what!
 Dialogue: 0,00:12:02.80,00:12:03.76,Default,,0,0,0,,No way out!
 Dialogue: 0,00:12:08.67,00:12:10.52,Default,,0,0,0,,I can't run anymore...

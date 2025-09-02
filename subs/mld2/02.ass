@@ -14,14 +14,14 @@ Style: Default,Arial,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,00:01:46.48,00:01:50.12,Default,,0,0,0,,Don't know the Pleasant Goat
+Dialogue: 0,00:01:46.48,00:01:50.12,Default,,0,0,0,,Don't know Weslie
 Do you want to accept this sister or not
 Dialogue: 0,00:01:50.12,00:01:51.56,Default,,0,0,0,,Hope he can accept it
 Dialogue: 0,00:01:52.40,00:01:54.20,Default,,0,0,0,,But
 Dialogue: 0,00:01:54.72,00:01:58.28,Default,,0,0,0,,Don't worry
 The Bacteria King has been controlled by us
 Dialogue: 0,00:01:58.52,00:02:00.88,Default,,0,0,0,,Wait for him to another galaxy
-Dialogue: 0,00:02:00.88,00:02:03.52,Default,,0,0,0,,We'll go back to see the Pleasant Goat when we have time
+Dialogue: 0,00:02:00.88,00:02:03.52,Default,,0,0,0,,We'll go back to see Weslie when we have time
 Dialogue: 0,00:02:05.72,00:02:08.04,Default,,0,0,0,,The refrigeration progress should be almost the same
 Dialogue: 0,00:02:09.56,00:02:11.32,Default,,0,0,0,,What is Dad looking at
 Dialogue: 0,00:02:12.12,00:02:15.80,Default,,0,0,0,,Dad, mom, let's play hide-and-seek
@@ -43,7 +43,7 @@ Dialogue: 0,00:03:49.00,00:03:51.84,Default,,0,0,0,,Is this cold and want to mak
 Dialogue: 0,00:03:52.84,00:03:54.36,Default,,0,0,0,,Too naive!
 Dialogue: 0,00:03:54.56,00:03:57.16,Default,,0,0,0,,I've been waiting for you to come in!
 Dialogue: 0,00:04:03.12,00:04:04.16,Default,,0,0,0,,what
-Dialogue: 0,00:04:13.08,00:04:14.04,Default,,0,0,0,,Bingbing sheep?
+Dialogue: 0,00:04:13.08,00:04:14.04,Default,,0,0,0,,Bingbing Yang?
 Dialogue: 0,00:04:17.64,00:04:18.20,Default,,0,0,0,,This
 Dialogue: 0,00:04:20.64,00:04:21.12,Default,,0,0,0,,This
 Dialogue: 0,00:04:23.52,00:04:24.96,Default,,0,0,0,,This...this...
@@ -51,7 +51,7 @@ Dialogue: 0,00:04:26.27,00:04:30.36,Default,,0,0,0,,Unlock to me
 Dialogue: 0,00:04:34.76,00:04:36.60,Default,,0,0,0,,Dad, what is that?
 Dialogue: 0,00:04:36.68,00:04:37.36,Default,,0,0,0,,So cute
 Dialogue: 0,00:04:37.36,00:04:37.83,Default,,0,0,0,,No!
-Dialogue: 0,00:04:38.56,00:04:41.36,Default,,0,0,0,,The sealed fingers of the Bingbing Sheep were recorded
+Dialogue: 0,00:04:38.56,00:04:41.36,Default,,0,0,0,,The sealed fingers of Bingbing Yang were recorded
 Dialogue: 0,00:04:41.68,00:04:42.72,Default,,0,0,0,,what
 Dialogue: 0,00:04:43.08,00:04:44.20,Default,,0,0,0,,You come out first!
 Dialogue: 0,00:04:44.32,00:04:44.76,Default,,0,0,0,,good
@@ -65,19 +65,19 @@ Dialogue: 0,00:05:05.12,00:05:07.52,Default,,0,0,0,,She must have sealed my powe
 Dialogue: 0,00:05:07.56,00:05:08.80,Default,,0,0,0,,Yes or no!
 Dialogue: 0,00:05:09.08,00:05:11.76,Default,,0,0,0,,Hand over the little things and help me unseal them
 Dialogue: 0,00:05:11.88,00:05:15.40,Default,,0,0,0,,I'll let you go! Hahaha
-Dialogue: 0,00:05:15.88,00:05:17.72,Default,,0,0,0,,You take Bingbing Sheep to escape first
+Dialogue: 0,00:05:15.88,00:05:17.72,Default,,0,0,0,,You take Bingbing Yang to escape first
 Dialogue: 0,00:05:17.80,00:05:19.60,Default,,0,0,0,,I'm going to get the super magic cube now
 Dialogue: 0,00:05:20.04,00:05:21.04,Default,,0,0,0,,You're the only one
 Dialogue: 0,00:05:21.32,00:05:22.60,Default,,0,0,0,,No time
 Dialogue: 0,00:05:22.83,00:05:23.83,Default,,0,0,0,,Believe me
-Dialogue: 0,00:05:30.44,00:05:31.52,Default,,0,0,0,,What do you want to frick!
+Dialogue: 0,00:05:30.44,00:05:31.52,Default,,0,0,0,,What do you want to do!
 Dialogue: 0,00:05:36.08,00:05:37.52,Default,,0,0,0,,I'll tell you the old thing
 Dialogue: 0,00:05:38.44,00:05:41.80,Default,,0,0,0,,Even if you have a super cube in this body, you won't be able to use it...
 Dialogue: 0,00:05:42.32,00:05:43.92,Default,,0,0,0,,Even so, we have to hold him back!
 Dialogue: 0,00:05:44.20,00:05:45.40,Default,,0,0,0,,Undoubted resistance!
 Dialogue: 0,00:05:52.52,00:05:54.83,Default,,0,0,0,,Mom Where is Dad?
-Dialogue: 0,00:05:56.36,00:05:59.40,Default,,0,0,0,,Bingbingyang, mother is going to find dad now
-Dialogue: 0,00:05:59.40,00:06:02.08,Default,,0,0,0,,Then play games with Bingbingyang
+Dialogue: 0,00:05:56.36,00:05:59.40,Default,,0,0,0,,Bingbing Yang, mother is going to find dad now
+Dialogue: 0,00:05:59.40,00:06:02.08,Default,,0,0,0,,Then play games with Bingbing Yang
 Dialogue: 0,00:06:02.12,00:06:03.92,Default,,0,0,0,,You have to stay here, it's not a bad idea
 Dialogue: 0,00:06:04.00,00:06:04.76,Default,,0,0,0,,Do you know?
 Dialogue: 0,00:06:04.83,00:06:05.12,Default,,0,0,0,,Um
@@ -88,16 +88,16 @@ Dialogue: 0,00:06:13.80,00:06:15.92,Default,,0,0,0,,Have to go back tight
 Dialogue: 0,00:06:17.24,00:06:18.27,Default,,0,0,0,,Go quickly
 Dialogue: 0,00:06:18.64,00:06:20.24,Default,,0,0,0,,Can't get rid of it!
 Dialogue: 0,00:06:20.68,00:06:21.20,Default,,0,0,0,,careful!
-Dialogue: 0,00:06:21.68,00:06:22.68,Default,,0,0,0,,Li sheep! !
+Dialogue: 0,00:06:21.68,00:06:22.68,Default,,0,0,0,,Li goat! !
 Dialogue: 0,00:06:23.00,00:06:24.12,Default,,0,0,0,,I'm fine
 Dialogue: 0,00:06:25.68,00:06:28.92,Default,,0,0,0,,We were all trapped, it seems we can't escape.
-Dialogue: 0,00:06:31.20,00:06:34.00,Default,,0,0,0,,Bingbing Sheep and Magic Cube
+Dialogue: 0,00:06:31.20,00:06:34.00,Default,,0,0,0,,Bingbing Yang and Magic Cube
 It's our only hope
 Dialogue: 0,00:06:36.83,00:06:38.36,Default,,0,0,0,,We're back
 Dialogue: 0,00:06:38.60,00:06:42.20,Default,,0,0,0,,Dad, mom!
 Why don’t you come in?
 Dialogue: 0,00:06:42.48,00:06:45.83,Default,,0,0,0,,I heard it, let's play a new game now
-Dialogue: 0,00:06:46.27,00:06:47.20,Default,,0,0,0,,Bingbing Sheep
+Dialogue: 0,00:06:46.27,00:06:47.20,Default,,0,0,0,,Bingbing Yang
 Dialogue: 0,00:06:47.83,00:06:50.92,Default,,0,0,0,,You have to keep this cube
 Dialogue: 0,00:06:51.40,00:06:55.24,Default,,0,0,0,,Go to Qingqing Grassland to hand it over to your brother
 Do you understand?
@@ -105,13 +105,13 @@ Dialogue: 0,00:06:55.52,00:06:56.52,Default,,0,0,0,,knew
 Dialogue: 0,00:06:57.04,00:06:58.32,Default,,0,0,0,,Don't hide it!
 Dialogue: 0,00:06:58.88,00:07:02.08,Default,,0,0,0,,The green grassland is the old town of my father and mother
 Dialogue: 0,00:07:02.48,00:07:04.48,Default,,0,0,0,,Go home and find your brother
-Dialogue: 0,00:07:04.64,00:07:06.08,Default,,0,0,0,,Your brother is called Pleasant Goat!
-Dialogue: 0,00:07:06.44,00:07:07.76,Default,,0,0,0,,What sheep?
+Dialogue: 0,00:07:04.64,00:07:06.08,Default,,0,0,0,,Your brother is called Weslie!
+Dialogue: 0,00:07:06.44,00:07:07.76,Default,,0,0,0,,What goat?
 Dialogue: 0,00:07:12.40,00:07:14.96,Default,,0,0,0,,We believe in you
-Dialogue: 0,00:07:15.60,00:07:17.60,Default,,0,0,0,,Bingbing Sheep will ask you
+Dialogue: 0,00:07:15.60,00:07:17.60,Default,,0,0,0,,Bingbing Yang will ask you
 Dialogue: 0,00:07:19.64,00:07:21.32,Default,,0,0,0,,He actually ran away!
 Dialogue: 0,00:07:31.48,00:07:35.32,Default,,0,0,0,,Dad, mom, when will you come back...
-Dialogue: 0,00:07:36.80,00:07:38.60,Default,,0,0,0,,Pleasant Goat Brother
+Dialogue: 0,00:07:36.80,00:07:38.60,Default,,0,0,0,,Weslie Brother
 Dialogue: 0,00:07:38.60,00:07:41.72,Default,,0,0,0,,When did you take me to find my brother?
 Dialogue: 0,00:07:42.44,00:07:43.96,Default,,0,0,0,,I'm now
 Dialogue: 0,00:07:44.28,00:07:44.88,Default,,0,0,0,,oops
@@ -127,7 +127,7 @@ Dialogue: 0,00:08:10.08,00:08:12.36,Default,,0,0,0,,You come and move it to me
 Dialogue: 0,00:08:13.04,00:08:14.36,Default,,0,0,0,,You wait a moment
 Dialogue: 0,00:08:14.36,00:08:16.56,Default,,0,0,0,,I'll look for you later.
 Dialogue: 0,00:08:24.64,00:08:25.56,Default,,0,0,0,,Moving is finished!
-Dialogue: 0,00:08:29.76,00:08:31.04,Default,,0,0,0,,Where is the Bingbing Sheep?
+Dialogue: 0,00:08:29.76,00:08:31.04,Default,,0,0,0,,Where is Bingbing Yang?
 Dialogue: 0,00:08:37.16,00:08:40.04,Default,,0,0,0,,I know my super smelly machine is hurt!
 Dialogue: 0,00:08:41.96,00:08:42.32,Default,,0,0,0,,who!
 Dialogue: 0,00:08:46.04,00:08:46.88,Default,,0,0,0,,careful!
@@ -148,7 +148,7 @@ Dialogue: 0,00:09:23.24,00:09:24.48,Default,,0,0,0,,I can't find him
 Dialogue: 0,00:09:25.80,00:09:28.88,Default,,0,0,0,,What is your brother’s name?
 What kind of thing is it?
 Dialogue: 0,00:09:28.88,00:09:30.44,Default,,0,0,0,,As long as you say it
-Dialogue: 0,00:09:30.44,00:09:33.20,Default,,0,0,0,,I've been catching sheep for many years
+Dialogue: 0,00:09:30.44,00:09:33.20,Default,,0,0,0,,I've been catching goat for many years
 Dialogue: 0,00:09:33.20,00:09:35.08,Default,,0,0,0,,It will definitely help you find it!
 Dialogue: 0,00:09:36.44,00:09:37.55,Default,,0,0,0,,Very good!
 Dialogue: 0,00:09:38.04,00:09:39.48,Default,,0,0,0,,I don't know what my brother is
@@ -156,7 +156,7 @@ Dialogue: 0,00:09:39.88,00:09:41.72,Default,,0,0,0,,But I think he has two eyes
 Dialogue: 0,00:09:42.16,00:09:46.24,Default,,0,0,0,,Have a mouth and two ears
 Dialogue: 0,00:09:46.67,00:09:49.28,Default,,0,0,0,,Who is not like this
 Dialogue: 0,00:09:49.36,00:09:50.55,Default,,0,0,0,,Is he my brother?
-Dialogue: 0,00:09:53.48,00:09:54.52,Default,,0,0,0,,You're a sheep
+Dialogue: 0,00:09:53.48,00:09:54.52,Default,,0,0,0,,You're a goat
 Dialogue: 0,00:09:54.60,00:09:57.52,Default,,0,0,0,,Is your brother definitely a monkey
 Dialogue: 0,00:09:57.55,00:09:58.24,Default,,0,0,0,,Do you understand
 Dialogue: 0,00:09:59.00,00:10:01.32,Default,,0,0,0,,Or I will take him back to Yang Village!
@@ -177,26 +177,26 @@ A body with weak resistance to illness
 Dialogue: 0,00:10:47.92,00:10:51.36,Default,,0,0,0,,Go in! Take control of them!
 Dialogue: 0,00:10:51.64,00:10:53.04,Default,,0,0,0,,Control successfully!
 Dialogue: 0,00:10:55.32,00:10:57.12,Default,,0,0,0,,Finally caught you
-Dialogue: 0,00:10:58.28,00:11:01.12,Default,,0,0,0,,This guy named Big Big Wolf is too dirty!
+Dialogue: 0,00:10:58.28,00:11:01.12,Default,,0,0,0,,This guy named Wolffy is too dirty!
 Dialogue: 0,00:11:01.32,00:11:03.08,Default,,0,0,0,,How long has it been since I took a shower?
 Dialogue: 0,00:11:03.55,00:11:06.72,Default,,0,0,0,,This king loves clean bacteria!
 Dialogue: 0,00:11:07.32,00:11:10.36,Default,,0,0,0,,If it weren't for the fact that I could only invade my body
 Dialogue: 0,00:11:10.36,00:11:12.88,Default,,0,0,0,,I don't want to control this dirty body!
-Dialogue: 0,00:11:12.92,00:11:13.64,Default,,0,0,0,,Big Big Wolf?
+Dialogue: 0,00:11:12.92,00:11:13.64,Default,,0,0,0,,Wolffy?
 Dialogue: 0,00:11:14.76,00:11:15.88,Default,,0,0,0,,There!
 Dialogue: 0,00:11:16.20,00:11:17.52,Default,,0,0,0,,It's them again
 Dialogue: 0,00:11:17.55,00:11:19.12,Default,,0,0,0,,Can't let them come
 Dialogue: 0,00:11:20.32,00:11:22.20,Default,,0,0,0,,Controlled by this king
 Dialogue: 0,00:11:22.48,00:11:25.80,Default,,0,0,0,,His ability to be strong can be enhanced by his original ability
 Dialogue: 0,00:11:26.04,00:11:28.08,Default,,0,0,0,,Look at my super invention!
-Dialogue: 0,00:11:31.92,00:11:33.55,Default,,0,0,0,,Big Big Wolf is in trouble again!
+Dialogue: 0,00:11:31.92,00:11:33.55,Default,,0,0,0,,Wolffy is in trouble again!
 Dialogue: 0,00:11:35.88,00:11:38.16,Default,,0,0,0,,So smelly! Be careful, everyone!
 Dialogue: 0,00:11:39.88,00:11:42.64,Default,,0,0,0,,snort! There was no one falling down
-Dialogue: 0,00:11:42.96,00:11:44.72,Default,,0,0,0,,Big Big Wolf, please be awake!
+Dialogue: 0,00:11:42.96,00:11:44.72,Default,,0,0,0,,Wolffy, please be awake!
 Dialogue: 0,00:11:45.96,00:11:48.08,Default,,0,0,0,,Now let you accompany them
 Dialogue: 0,00:11:50.20,00:11:52.12,Default,,0,0,0,,See how long you can last
 Dialogue: 0,00:12:03.44,00:12:08.04,Default,,0,0,0,,I can't hold on anymore
-Dialogue: 0,00:12:11.60,00:12:14.96,Default,,0,0,0,,Haha, no sheep will stop me
+Dialogue: 0,00:12:11.60,00:12:14.96,Default,,0,0,0,,Haha, no goat will stop me
 Dialogue: 0,00:12:19.88,00:12:24.40,Default,,0,0,0,,I want to defeat the bad guys and protect my father and mother
 Dialogue: 0,00:12:24.88,00:12:26.76,Default,,0,0,0,,If you have younger brothers and younger sisters in the future
 Dialogue: 0,00:12:26.80,00:12:30.72,Default,,0,0,0,,Will you protect your dad and mom like
@@ -207,10 +207,10 @@ Dialogue: 0,00:13:23.67,00:13:24.84,Default,,0,0,0,,You'll wait for me
 Dialogue: 0,00:13:25.12,00:13:27.84,Default,,0,0,0,,One day, this king will catch a small matter
 Dialogue: 0,00:13:28.00,00:13:29.32,Default,,0,0,0,,Help me unblock!
 Dialogue: 0,00:13:29.52,00:13:31.64,Default,,0,0,0,,By then it will be your end!
-Dialogue: 0,00:13:32.24,00:13:34.92,Default,,0,0,0,,It turns out that he caught Bingbing Sheep to understand the sealing ability
+Dialogue: 0,00:13:32.24,00:13:34.92,Default,,0,0,0,,It turns out that he caught Bingbing Yang to understand the sealing ability
 Dialogue: 0,00:13:35.32,00:13:36.67,Default,,0,0,0,,What ability?
 Dialogue: 0,00:13:37.12,00:13:39.72,Default,,0,0,0,,I don't know that I can't let him succeed in the end
-Dialogue: 0,00:13:39.72,00:13:41.16,Default,,0,0,0,,Pleasant Goat Brother!
+Dialogue: 0,00:13:39.72,00:13:41.16,Default,,0,0,0,,Weslie Brother!
 Dialogue: 0,00:13:41.48,00:13:43.52,Default,,0,0,0,,You're fine, are you injured?
 Dialogue: 0,00:13:43.76,00:13:46.88,Default,,0,0,0,,It's okay, I'm not going to run away
 Dialogue: 0,00:13:46.88,00:13:48.67,Default,,0,0,0,,You promised me not to go wrong
