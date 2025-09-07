@@ -14,16 +14,16 @@ Style: Default,Arial,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,00:00:27.80,00:00:30.60,Default,,0,0,0,,Still no trace of Brother Bingbing Yang
-Dialogue: 0,00:00:31.12,00:00:33.92,Default,,0,0,0,,Bingbing Yang is going to be disappointed again this time
+Dialogue: 0,00:00:27.80,00:00:30.60,Default,,0,0,0,,Still no trace of Brother BB Goat
+Dialogue: 0,00:00:31.12,00:00:33.92,Default,,0,0,0,,BB Goat is going to be disappointed again this time
 Dialogue: 0,00:00:35.72,00:00:36.76,Default,,0,0,0,,I have a way!
-Dialogue: 0,00:00:37.52,00:00:40.08,Default,,0,0,0,,As long as we satisfy some of the hearts of Bingbing Yang
+Dialogue: 0,00:00:37.52,00:00:40.08,Default,,0,0,0,,As long as we satisfy some of the hearts of BB Goat
 Dialogue: 0,00:00:40.32,00:00:42.40,Default,,0,0,0,,Then she will definitely be very happy
 Dialogue: 0,00:00:44.44,00:00:47.76,Default,,0,0,0,,That's right, I have any candy she likes
 Dialogue: 0,00:00:48.80,00:00:51.60,Default,,0,0,0,,I can accompany her to read various stories
 Dialogue: 0,00:00:52.36,00:00:55.43,Default,,0,0,0,,I can help her make many beautiful clothes
-Dialogue: 0,00:00:56.96,00:00:59.52,Default,,0,0,0,,I can go up and down the sea for Bingbing Yang
-Dialogue: 0,00:01:00.04,00:01:05.16,Default,,0,0,0,,Bingbing Yang is just a little girl
+Dialogue: 0,00:00:56.96,00:00:59.52,Default,,0,0,0,,I can go up and down the sea for BB Goat
+Dialogue: 0,00:01:00.04,00:01:05.16,Default,,0,0,0,,BB Goat is just a little girl
 Her wishes must be easy to realize
 Dialogue: 0,00:01:09.52,00:01:11.84,Default,,0,0,0,,I want to find the sun!
 Dialogue: 0,00:01:12.40,00:01:13.24,Default,,0,0,0,,ah?
@@ -42,7 +42,7 @@ Dialogue: 0,00:01:49.20,00:01:51.12,Default,,0,0,0,,Are you looking for the sun?
 Dialogue: 0,00:01:57.32,00:01:58.24,Default,,0,0,0,,Are you looking for the sun? hey-hey
 Dialogue: 0,00:01:59.71,00:02:03.28,Default,,0,0,0,,Wouldn't you knock on the door first? What are you rushing to do!
 Dialogue: 0,00:02:04.00,00:02:04.92,Default,,0,0,0,,King!
-Dialogue: 0,00:02:04.96,00:02:06.40,Default,,0,0,0,,Bingbing Yang is looking for the sun
+Dialogue: 0,00:02:04.96,00:02:06.40,Default,,0,0,0,,BB Goat is looking for the sun
 Dialogue: 0,00:02:06.43,00:02:09.80,Default,,0,0,0,,I can become the sun to attract her attention
 Dialogue: 0,00:02:12.24,00:02:14.56,Default,,0,0,0,,Then I will take the opportunity to catch the goat!
 Dialogue: 0,00:02:14.60,00:02:16.60,Default,,0,0,0,,This is a good idea, change quickly!
@@ -61,7 +61,7 @@ Dialogue: 0,00:03:14.28,00:03:16.07,Default,,0,0,0,,You can shine!
 Dialogue: 0,00:03:16.76,00:03:20.07,Default,,0,0,0,,You just need to become a shape
 Just like the sunlight!
 Dialogue: 0,00:03:20.24,00:03:22.52,Default,,0,0,0,,Let's catch the goat
-Dialogue: 0,00:03:32.12,00:03:34.28,Default,,0,0,0,,Anyway, I can't see Bingbing Yang
+Dialogue: 0,00:03:32.12,00:03:34.28,Default,,0,0,0,,Anyway, I can't see BB Goat
 Dialogue: 0,00:03:34.32,00:03:36.12,Default,,0,0,0,,We'll create a sun down the mountain
 Dialogue: 0,00:03:36.16,00:03:38.96,Default,,0,0,0,,Just have a story
 Dialogue: 0,00:03:40.04,00:03:41.60,Default,,0,0,0,,Good job!
@@ -86,7 +86,7 @@ Dialogue: 0,00:04:57.92,00:04:59.88,Default,,0,0,0,,We've been so tired that we'
 Dialogue: 0,00:05:00.36,00:05:01.63,Default,,0,0,0,,What should I do?
 Dialogue: 0,00:05:02.72,00:05:04.80,Default,,0,0,0,,I have a way!
 Dialogue: 0,00:05:05.28,00:05:06.36,Default,,0,0,0,,You wait for me!
-Dialogue: 0,00:05:12.96,00:05:16.04,Default,,0,0,0,,Bingbing Yang Let's go to the underground to find the sun
+Dialogue: 0,00:05:12.96,00:05:16.04,Default,,0,0,0,,BB Goat Let's go to the underground to find the sun
 Dialogue: 0,00:05:18.88,00:05:21.44,Default,,0,0,0,,Is the Sun really here?
 Dialogue: 0,00:05:22.44,00:05:25.36,Default,,0,0,0,,The sun has been tired for a day and no electricity
 Dialogue: 0,00:05:25.52,00:05:28.16,Default,,0,0,0,,After going down the mountain, you must hide in the cave to charge your electricity
@@ -95,7 +95,7 @@ Dialogue: 0,00:05:37.56,00:05:39.92,Default,,0,0,0,,I buried a toy sun inside
 Dialogue: 0,00:05:39.96,00:05:42.88,Default,,0,0,0,,Just dig according to the map I've painted and you'll find it
 Dialogue: 0,00:05:51.36,00:05:53.36,Default,,0,0,0,,I dug up the sun!
 Dialogue: 0,00:06:00.60,00:06:03.68,Default,,0,0,0,,Toy sun is here?
-Dialogue: 0,00:06:04.04,00:06:06.48,Default,,0,0,0,,What Bingbing Yang dug up was...
+Dialogue: 0,00:06:04.04,00:06:06.48,Default,,0,0,0,,What BB Goat dug up was...
 Dialogue: 0,00:06:30.92,00:06:34.08,Default,,0,0,0,,I may not be able to find my sunshine today...
 Dialogue: 0,00:06:38.72,00:06:40.52,Default,,0,0,0,,It won't
 Dialogue: 0,00:06:41.04,00:06:43.84,Default,,0,0,0,,Today I will definitely help you find the Sun
@@ -107,14 +107,14 @@ Dialogue: 0,00:06:58.44,00:06:59.48,Default,,0,0,0,,Weslie
 Dialogue: 0,00:06:59.60,00:07:01.36,Default,,0,0,0,,Have you thought of a way out?
 Dialogue: 0,00:07:02.56,00:07:03.04,Default,,0,0,0,,right
 Dialogue: 0,00:07:16.40,00:07:19.60,Default,,0,0,0,,What is the method of Weslie?
-Dialogue: 0,00:07:20.47,00:07:22.00,Default,,0,0,0,,We hold Bingbing Yang
+Dialogue: 0,00:07:20.47,00:07:22.00,Default,,0,0,0,,We hold BB Goat
 Dialogue: 0,00:07:22.24,00:07:24.60,Default,,0,0,0,,Then find someone to dress up as the sun
 Dialogue: 0,00:07:25.56,00:07:26.80,Default,,0,0,0,,Sparky
 Dialogue: 0,00:07:27.47,00:07:28.68,Default,,0,0,0,,You can find out
 Dialogue: 0,00:07:28.92,00:07:32.47,Default,,0,0,0,,Decorate with a flashlight. It's best to dress up as a sun
 Dialogue: 0,00:07:35.56,00:07:36.80,Default,,0,0,0,,Good job!
 Dialogue: 0,00:07:36.84,00:07:37.92,Default,,0,0,0,,I'll go right away
-Dialogue: 0,00:07:41.28,00:07:43.00,Default,,0,0,0,,Bingbing Yang is there!
+Dialogue: 0,00:07:41.28,00:07:43.00,Default,,0,0,0,,BB Goat is there!
 Dialogue: 0,00:07:43.32,00:07:46.08,Default,,0,0,0,,Then you will become the sun and go out to attract her!
 Dialogue: 0,00:07:46.28,00:07:47.04,Default,,0,0,0,,OK!
 Dialogue: 0,00:07:48.35,00:07:50.68,Default,,0,0,0,,Where has Brother Sparky go?
@@ -123,21 +123,21 @@ Dialogue: 0,00:07:51.60,00:07:53.40,Default,,0,0,0,,- Upper floor!
 Dialogue: 0,00:07:55.16,00:07:56.80,Default,,0,0,0,,- Forgot to remember and spend it!
 - Upper floor!
 Dialogue: 0,00:07:59.84,00:08:00.88,Default,,0,0,0,,I'm tired...
-Dialogue: 0,00:08:01.16,00:08:01.96,Default,,0,0,0,,Bingbing Yang
+Dialogue: 0,00:08:01.16,00:08:01.96,Default,,0,0,0,,BB Goat
 Dialogue: 0,00:08:02.04,00:08:04.12,Default,,0,0,0,,I'll take you to find Apple to eat
 Dialogue: 0,00:08:06.16,00:08:06.64,Default,,0,0,0,,good!
 Dialogue: 0,00:08:08.08,00:08:09.35,Default,,0,0,0,,I'll accompany you!
 Dialogue: 0,00:08:12.16,00:08:12.96,Default,,0,0,0,,Next
 Dialogue: 0,00:08:13.20,00:08:16.52,Default,,0,0,0,,Just wait for the Sparky
 Just pretend to be the sun and come back
-Dialogue: 0,00:08:21.44,00:08:24.76,Default,,0,0,0,,Bingbing Yang, the sun is here
+Dialogue: 0,00:08:21.44,00:08:24.76,Default,,0,0,0,,BB Goat, the sun is here
 Dialogue: 0,00:08:26.76,00:08:28.04,Default,,0,0,0,,Sparky is so fast
 Dialogue: 0,00:08:28.20,00:08:29.88,Default,,0,0,0,,Very realistic sunshine
 Dialogue: 0,00:08:30.64,00:08:32.44,Default,,0,0,0,,No doubt about Xiao Huang
 Dialogue: 0,00:08:32.52,00:08:34.04,Default,,0,0,0,,What are the Sparky?
 Dialogue: 0,00:08:34.32,00:08:34.96,Default,,0,0,0,,etc!
-Dialogue: 0,00:08:36.64,00:08:38.40,Default,,0,0,0,,Where is Bingbing Yang! ?
-Dialogue: 0,00:08:38.56,00:08:41.12,Default,,0,0,0,,Bingbing Yang and the others went to find something to eat
+Dialogue: 0,00:08:36.64,00:08:38.40,Default,,0,0,0,,Where is BB Goat! ?
+Dialogue: 0,00:08:38.56,00:08:41.12,Default,,0,0,0,,BB Goat and the others went to find something to eat
 Dialogue: 0,00:08:41.35,00:08:42.64,Default,,0,0,0,,Come back later
 Dialogue: 0,00:08:43.72,00:08:46.08,Default,,0,0,0,,How did he know what I was thinking
 Dialogue: 0,00:08:48.20,00:08:49.60,Default,,0,0,0,,The sun is here!
@@ -148,7 +148,7 @@ Dialogue: 0,00:09:00.24,00:09:02.60,Default,,0,0,0,,It seems that the mistakes a
 Dialogue: 0,00:09:03.60,00:09:04.47,Default,,0,0,0,,That's right
 Dialogue: 0,00:09:05.35,00:09:06.96,Default,,0,0,0,,It was what I sent!
 Dialogue: 0,00:09:07.80,00:09:09.28,Default,,0,0,0,,What do you want?
-Dialogue: 0,00:09:09.44,00:09:12.47,Default,,0,0,0,,Just want to find Bingbing Yang to unseal
+Dialogue: 0,00:09:09.44,00:09:12.47,Default,,0,0,0,,Just want to find BB Goat to unseal
 Dialogue: 0,00:09:12.80,00:09:14.12,Default,,0,0,0,,Since she is not here...
 Dialogue: 0,00:09:14.60,00:09:16.64,Default,,0,0,0,,Then I'll deal with you first!
 Dialogue: 0,00:09:19.72,00:09:20.56,Default,,0,0,0,,Think beautifully
@@ -158,7 +158,7 @@ Dialogue: 0,00:09:32.88,00:09:35.40,Default,,0,0,0,,It's so dazzling. I can't se
 Dialogue: 0,00:09:35.88,00:09:38.20,Default,,0,0,0,,Haven't you prepared the sun lens?
 Dialogue: 0,00:09:38.44,00:09:40.76,Default,,0,0,0,,Forgot to close the third eye
 Dialogue: 0,00:09:46.88,00:09:50.72,Default,,0,0,0,,I'll give you some
-Hand over Bingbing Yang to avoid suffering
+Hand over BB Goat to avoid suffering
 Dialogue: 0,00:09:52.32,00:09:53.72,Default,,0,0,0,,I won't hand it over to you!
 Dialogue: 0,00:09:53.92,00:09:55.56,Default,,0,0,0,,Let's split it up!
 Dialogue: 0,00:10:29.96,00:10:30.64,Default,,0,0,0,,What to do?

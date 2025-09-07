@@ -15,8 +15,8 @@ Style: Default,Arial,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,00:00:20.11,00:00:21.92,Default,,0,0,0,,What is the situation with Xiao Lü?
-Dialogue: 0,00:00:42.48,00:00:45.48,Default,,0,0,0,,I found out that the little lambs went to find Brother Bingbing Yang's search
-Dialogue: 0,00:00:45.48,00:00:47.64,Default,,0,0,0,,A remaining old goat protects Bingbing Yang
+Dialogue: 0,00:00:42.48,00:00:45.48,Default,,0,0,0,,I found out that the little lambs went to find Brother BB Goat's search
+Dialogue: 0,00:00:45.48,00:00:47.64,Default,,0,0,0,,A remaining old goat protects BB Goat
 Dialogue: 0,00:00:47.80,00:00:50.88,Default,,0,0,0,,The success rate of the operation is now as high as 98%.
 Dialogue: 0,00:00:53.04,00:00:53.84,Default,,0,0,0,,good
 Dialogue: 0,00:00:53.84,00:00:54.84,Default,,0,0,0,,We're on!
@@ -96,7 +96,7 @@ Dialogue: 0,00:05:47.28,00:05:50.24,Default,,0,0,0,,It's time to test your culti
 Dialogue: 0,00:05:50.28,00:05:52.68,Default,,0,0,0,,There is a regular fried egg hidden in that package
 Dialogue: 0,00:05:52.72,00:05:54.40,Default,,0,0,0,,Throw it in the trash can
 Dialogue: 0,00:05:54.56,00:05:55.76,Default,,0,0,0,,OK, teacher!
-Dialogue: 0,00:06:05.40,00:06:06.24,Default,,0,0,0,,Bingbing Yang
+Dialogue: 0,00:06:05.40,00:06:06.24,Default,,0,0,0,,BB Goat
 Dialogue: 0,00:06:08.88,00:06:11.20,Default,,0,0,0,,Thank you for throwing the trash
 Dialogue: 0,00:06:17.68,00:06:19.68,Default,,0,0,0,,It seems that this picture is very important...
 Dialogue: 0,00:06:23.64,00:06:26.28,Default,,0,0,0,,Brother Tai is painting
@@ -113,14 +113,14 @@ Dialogue: 0,00:07:05.68,00:07:06.96,Default,,0,0,0,,thank you
 Dialogue: 0,00:07:07.08,00:07:08.64,Default,,0,0,0,,Dig out all his dishes!
 Dialogue: 0,00:07:11.16,00:07:12.60,Default,,0,0,0,,thank you
 Dialogue: 0,00:07:13.04,00:07:15.08,Default,,0,0,0,,Thank you Thank you
-Dialogue: 0,00:07:15.16,00:07:18.04,Default,,0,0,0,,Bingbing Yang, you disappoint me so much!
+Dialogue: 0,00:07:15.16,00:07:18.04,Default,,0,0,0,,BB Goat, you disappoint me so much!
 Dialogue: 0,00:07:20.64,00:07:22.47,Default,,0,0,0,,Teacher! Wait for me!
 Dialogue: 0,00:07:23.16,00:07:24.20,Default,,0,0,0,,Don't follow me!
 Dialogue: 0,00:07:28.24,00:07:30.64,Default,,0,0,0,,The king’s waist belt has finally been repaired!
 Dialogue: 0,00:07:31.80,00:07:33.92,Default,,0,0,0,,I'm a little tired after repairing it for so long
 Dialogue: 0,00:07:34.04,00:07:35.72,Default,,0,0,0,,I'm going to rest
 Dialogue: 0,00:07:36.00,00:07:37.80,Default,,0,0,0,,Is the virus going to rest?
-Dialogue: 0,00:07:40.04,00:07:41.04,Default,,0,0,0,,Bingbing Yang
+Dialogue: 0,00:07:40.04,00:07:41.04,Default,,0,0,0,,BB Goat
 Dialogue: 0,00:07:41.80,00:07:43.47,Default,,0,0,0,,I still need you
 Dialogue: 0,00:07:43.52,00:07:47.32,Default,,0,0,0,,It's all my fault for being useless...
 Master, go find another apprentice
@@ -129,7 +129,7 @@ Dialogue: 0,00:07:48.52,00:07:50.28,Default,,0,0,0,,Your performance is excellen
 Dialogue: 0,00:07:50.92,00:07:54.00,Default,,0,0,0,,Really? Teacher! What do you want me to do?
 Dialogue: 0,00:07:54.04,00:07:56.56,Default,,0,0,0,,Let's massage my waist first
 Dialogue: 0,00:07:56.80,00:07:57.52,Default,,0,0,0,,OK!
-Dialogue: 0,00:07:59.88,00:08:01.32,Default,,0,0,0,,Let go of Bingbing Yang!
+Dialogue: 0,00:07:59.88,00:08:01.32,Default,,0,0,0,,Let go of BB Goat!
 Dialogue: 0,00:08:06.60,00:08:07.92,Default,,0,0,0,,How come you're here
 Dialogue: 0,00:08:08.92,00:08:11.24,Default,,0,0,0,,The carelessness made the old goat slip!
 Dialogue: 0,00:08:11.24,00:08:12.40,Default,,0,0,0,,what!
@@ -169,7 +169,7 @@ Dialogue: 0,00:10:27.72,00:10:29.88,Default,,0,0,0,,Hello! Weslie Come soon...
 Dialogue: 0,00:10:32.72,00:10:35.52,Default,,0,0,0,,You think it's the king
 Will you give you the opportunity to call for reinforcements?
 Dialogue: 0,00:10:36.68,00:10:38.76,Default,,0,0,0,,You don’t want to hurt the Slowy!
-Dialogue: 0,00:10:38.76,00:10:40.12,Default,,0,0,0,,Bingbing Yang, go quickly!
+Dialogue: 0,00:10:38.76,00:10:40.12,Default,,0,0,0,,BB Goat, go quickly!
 Dialogue: 0,00:10:41.92,00:10:44.00,Default,,0,0,0,,It depends on whether you are worthy of your cooperation!
 Dialogue: 0,00:10:46.08,00:10:48.72,Default,,0,0,0,,Eggplant saves me!
 Dialogue: 0,00:10:48.76,00:10:51.20,Default,,0,0,0,,If you scream, no one will come to save you!
@@ -180,12 +180,12 @@ Not much is available
 Dialogue: 0,00:11:02.68,00:11:06.08,Default,,0,0,0,,She has found a new creative spirit for me
 Dialogue: 0,00:11:06.12,00:11:07.80,Default,,0,0,0,,You don't want to bully her!
 Dialogue: 0,00:11:09.00,00:11:11.04,Default,,0,0,0,,What do you want to do?
-Dialogue: 0,00:11:11.08,00:11:13.32,Default,,0,0,0,,What do you want to do Bingbing Yang?
+Dialogue: 0,00:11:11.08,00:11:13.32,Default,,0,0,0,,What do you want to do BB Goat?
 Dialogue: 0,00:11:13.44,00:11:15.16,Default,,0,0,0,,No... What am I not doing
 Dialogue: 0,00:11:15.20,00:11:16.56,Default,,0,0,0,,I'm just joking
 Dialogue: 0,00:11:16.88,00:11:18.20,Default,,0,0,0,,look! Flying disc!
 Dialogue: 0,00:11:19.80,00:11:20.92,Default,,0,0,0,,No
-Dialogue: 0,00:11:26.92,00:11:28.60,Default,,0,0,0,,Is it okay? Bingbing Yang?
+Dialogue: 0,00:11:26.92,00:11:28.60,Default,,0,0,0,,Is it okay? BB Goat?
 Dialogue: 0,00:11:29.56,00:11:32.68,Default,,0,0,0,,Duoyuan Eggplant Teacher
 Teached me so much
 Dialogue: 0,00:11:33.76,00:11:36.20,Default,,0,0,0,,Who is eggplant?
@@ -193,9 +193,9 @@ Dialogue: 0,00:11:40.44,00:11:41.92,Default,,0,0,0,,What is the situation with X
 Dialogue: 0,00:11:42.68,00:11:44.68,Default,,0,0,0,,There is still only one old goat left
 Dialogue: 0,00:11:44.76,00:11:47.35,Default,,0,0,0,,And the king's demeanor has not been understood
 Dialogue: 0,00:11:47.64,00:11:50.64,Default,,0,0,0,,You can use the hero again
-Approaching Bingbing Yang
+Approaching BB Goat
 Dialogue: 0,00:11:51.32,00:11:52.56,Default,,0,0,0,,Very nice little
-Dialogue: 0,00:11:53.12,00:11:55.68,Default,,0,0,0,,Prepare the clothes of the hero that Bingbing Yang likes
+Dialogue: 0,00:11:53.12,00:11:55.68,Default,,0,0,0,,Prepare the clothes of the hero that BB Goat likes
 Dialogue: 0,00:11:59.52,00:12:00.96,Default,,0,0,0,,Why a skirt?
 Dialogue: 0,00:12:01.20,00:12:02.96,Default,,0,0,0,,Princess Tomato!
 Dialogue: 0,00:12:03.88,00:12:05.44,Default,,0,0,0,,Don't look at eggplant anymore?

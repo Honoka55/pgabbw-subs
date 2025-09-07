@@ -17,17 +17,17 @@ Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,00:00:23.84,00:00:24.84,Default,,0,0,0,,Fun
 Dialogue: 0,00:00:25.76,00:00:27.20,Default,,0,0,0,,Fun
 Dialogue: 0,00:00:30.48,00:00:32.24,Default,,0,0,0,,This is too dangerous!
-Dialogue: 0,00:00:32.48,00:00:34.92,Default,,0,0,0,,What if I accidentally hit Bingbing Yang?
+Dialogue: 0,00:00:32.48,00:00:34.92,Default,,0,0,0,,What if I accidentally hit BB Goat?
 Dialogue: 0,00:00:35.04,00:00:36.80,Default,,0,0,0,,No more fun!
 Dialogue: 0,00:00:37.28,00:00:39.28,Default,,0,0,0,,I know, the village chief…
-Dialogue: 0,00:00:44.92,00:00:47.32,Default,,0,0,0,,Bingbing Yang, keep up!
+Dialogue: 0,00:00:44.92,00:00:47.32,Default,,0,0,0,,BB Goat, keep up!
 Dialogue: 0,00:00:48.56,00:00:51.24,Default,,0,0,0,,Brother Sparky, wait for me!
 Dialogue: 0,00:00:54.56,00:00:56.96,Default,,0,0,0,,Such a skateboard is too dangerous!
 Dialogue: 0,00:00:57.00,00:01:00.00,Default,,0,0,0,,Be sure to wear protective equipment to avoid injury
 Dialogue: 0,00:01:05.43,00:01:07.56,Default,,0,0,0,,OK, please continue to slip
 Dialogue: 0,00:01:15.52,00:01:17.20,Default,,0,0,0,,I happened to bring milk!
 Dialogue: 0,00:01:17.24,00:01:19.24,Default,,0,0,0,,Just heat it up and you can drink it!
-Dialogue: 0,00:01:19.56,00:01:21.56,Default,,0,0,0,,Bingbing Yang, please wait for a moment
+Dialogue: 0,00:01:19.56,00:01:21.56,Default,,0,0,0,,BB Goat, please wait for a moment
 Dialogue: 0,00:01:23.92,00:01:25.71,Default,,0,0,0,,This familiar footsteps... It's hard to tell...
 Dialogue: 0,00:01:26.00,00:01:27.71,Default,,0,0,0,,This is too dangerous!
 Dialogue: 0,00:01:27.76,00:01:29.60,Default,,0,0,0,,Milk cannot be heated at high temperature
@@ -112,13 +112,13 @@ Dialogue: 0,00:06:28.76,00:06:30.08,Default,,0,0,0,,Click on the book to record
 Dialogue: 0,00:06:30.56,00:06:33.12,Default,,0,0,0,,The Valley of Era should be nearby...
 Dialogue: 0,00:06:36.68,00:06:37.24,Default,,0,0,0,,Who is it?
 Dialogue: 0,00:06:37.84,00:06:39.60,Default,,0,0,0,,I'm a small tree
-Dialogue: 0,00:06:40.96,00:06:43.36,Default,,0,0,0,,Bingbing Yang What are you doing here
+Dialogue: 0,00:06:40.96,00:06:43.36,Default,,0,0,0,,BB Goat What are you doing here
 Dialogue: 0,00:06:45.92,00:06:47.40,Default,,0,0,0,,I'm going to explore, too
 Dialogue: 0,00:06:53.32,00:06:55.56,Default,,0,0,0,,We are man-eating flowers
 Dialogue: 0,00:06:55.88,00:06:57.44,Default,,0,0,0,,Bacteria king!
 Dialogue: 0,00:06:58.12,00:06:58.96,Default,,0,0,0,,Don't run!
-Dialogue: 0,00:07:00.96,00:07:02.56,Default,,0,0,0,,Bingbing Yang, let's go
-Dialogue: 0,00:07:02.56,00:07:04.28,Default,,0,0,0,,- Hand over Bingbing Yang!
+Dialogue: 0,00:07:00.96,00:07:02.56,Default,,0,0,0,,BB Goat, let's go
+Dialogue: 0,00:07:02.56,00:07:04.28,Default,,0,0,0,,- Hand over BB Goat!
 -Don't run and stop!
 Dialogue: 0,00:07:05.28,00:07:07.64,Default,,0,0,0,,Brother Banana, who will change things, is here!
 Dialogue: 0,00:07:07.64,00:07:09.12,Default,,0,0,0,,I'm not a banana!
@@ -189,7 +189,7 @@ Dialogue: 0,00:11:35.20,00:11:36.47,Default,,0,0,0,,Let's have another shot
 Dialogue: 0,00:11:45.28,00:11:47.84,Default,,0,0,0,,I will definitely catch you!
 Dialogue: 0,00:11:48.12,00:11:49.60,Default,,0,0,0,,Yes, the king
 Dialogue: 0,00:11:56.60,00:11:58.80,Default,,0,0,0,,We finally came out!
-Dialogue: 0,00:11:58.96,00:12:00.84,Default,,0,0,0,,Village Chief! Bingbing Yang!
+Dialogue: 0,00:11:58.96,00:12:00.84,Default,,0,0,0,,Village Chief! BB Goat!
 Dialogue: 0,00:12:01.52,00:12:04.20,Default,,0,0,0,,Unexpectedly, I also passed the Valley of Era...
 Dialogue: 0,00:12:04.60,00:12:07.60,Default,,0,0,0,,And me, and me, and me!
 Dialogue: 0,00:12:07.64,00:12:09.47,Default,,0,0,0,,The village chief…I have visited you more this time

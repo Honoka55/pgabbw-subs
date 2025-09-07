@@ -15,7 +15,7 @@ Style: Default,Arial,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,00:00:22.24,00:00:23.68,Default,,0,0,0,,It's really a bad news for the teacher
-Dialogue: 0,00:00:23.80,00:00:24.48,Default,,0,0,0,,Want to find Bingbing Yang
+Dialogue: 0,00:00:23.80,00:00:24.48,Default,,0,0,0,,Want to find BB Goat
 Dialogue: 0,00:00:24.48,00:00:26.12,Default,,0,0,0,,Found a rhino
 Dialogue: 0,00:00:26.52,00:00:27.96,Default,,0,0,0,,Big brother, don't run away
 Dialogue: 0,00:00:28.00,00:00:29.28,Default,,0,0,0,,Come and have fun!
@@ -66,16 +66,16 @@ Dialogue: 0,00:02:30.12,00:02:31.24,Default,,0,0,0,,Wait for you to practice
 Dialogue: 0,00:02:31.24,00:02:32.56,Default,,0,0,0,,You must go through two tricks with me!
 Dialogue: 0,00:02:37.08,00:02:38.72,Default,,0,0,0,,I'm here to guard
 Dialogue: 0,00:02:39.04,00:02:41.08,Default,,0,0,0,,Don't even want to fight the king
-Dialogue: 0,00:02:49.36,00:02:50.24,Default,,0,0,0,,Bingbing Yang
+Dialogue: 0,00:02:49.36,00:02:50.24,Default,,0,0,0,,BB Goat
 Dialogue: 0,00:02:50.28,00:02:51.44,Default,,0,0,0,,Let's play with us
 Dialogue: 0,00:02:54.60,00:02:55.96,Default,,0,0,0,,A little bit of a voice
-Dialogue: 0,00:02:56.63,00:02:57.84,Default,,0,0,0,,Bingbing Yang fell asleep
+Dialogue: 0,00:02:56.63,00:02:57.84,Default,,0,0,0,,BB Goat fell asleep
 Dialogue: 0,00:02:59.44,00:03:00.16,Default,,0,0,0,,It doesn’t matter
 Dialogue: 0,00:03:00.24,00:03:01.56,Default,,0,0,0,,We play games calmly
-Dialogue: 0,00:03:01.56,00:03:02.68,Default,,0,0,0,,Wait until Bingbing Yang wakes up
+Dialogue: 0,00:03:01.56,00:03:02.68,Default,,0,0,0,,Wait until BB Goat wakes up
 Dialogue: 0,00:03:03.68,00:03:04.48,Default,,0,0,0,,Oh well
 Dialogue: 0,00:03:17.07,00:03:18.56,Default,,0,0,0,,You can't play like this
-Dialogue: 0,00:03:18.63,00:03:20.12,Default,,0,0,0,,But it will also wake up Bingbing Yang!
+Dialogue: 0,00:03:18.63,00:03:20.12,Default,,0,0,0,,But it will also wake up BB Goat!
 Dialogue: 0,00:03:21.40,00:03:22.48,Default,,0,0,0,,That's better than we play
 Dialogue: 0,00:03:22.52,00:03:23.96,Default,,0,0,0,,Let’s have a food competition!
 Dialogue: 0,00:03:25.04,00:03:26.60,Default,,0,0,0,,Is eating a game?

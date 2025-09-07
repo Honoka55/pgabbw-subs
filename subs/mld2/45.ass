@@ -17,12 +17,12 @@ Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,00:00:20.65,00:00:22.05,Default,,0,0,0,,The weather is so good today
 Dialogue: 0,00:00:22.69,00:00:25.09,Default,,0,0,0,,This weather is indeed suitable for mountaineering
 Dialogue: 0,00:00:25.77,00:00:27.29,Default,,0,0,0,,Mountaineering!
-Dialogue: 0,00:00:28.29,00:00:30.17,Default,,0,0,0,,Bingbing Yang seems very happy
-Dialogue: 0,00:00:30.97,00:00:33.61,Default,,0,0,0,,Bingbing Yang likes to go out with her brothers and sisters
+Dialogue: 0,00:00:28.29,00:00:30.17,Default,,0,0,0,,BB Goat seems very happy
+Dialogue: 0,00:00:30.97,00:00:33.61,Default,,0,0,0,,BB Goat likes to go out with her brothers and sisters
 Dialogue: 0,00:00:36.05,00:00:37.61,Default,,0,0,0,,The king, they're here
 Dialogue: 0,00:00:38.25,00:00:39.13,Default,,0,0,0,,See it!
 Dialogue: 0,00:00:39.69,00:00:41.33,Default,,0,0,0,,It's true that it's like Xiao Lü's story
-Dialogue: 0,00:00:41.45,00:00:43.65,Default,,0,0,0,,They took Bingbing Yang to climb the mountain today
+Dialogue: 0,00:00:41.45,00:00:43.65,Default,,0,0,0,,They took BB Goat to climb the mountain today
 Dialogue: 0,00:00:45.21,00:00:46.09,Default,,0,0,0,,You see
 Dialogue: 0,00:00:46.77,00:00:49.21,Default,,0,0,0,,The scenery here is still so good
 Dialogue: 0,00:00:51.81,00:00:52.73,Default,,0,0,0,,Take advantage of the situation now!
@@ -31,14 +31,14 @@ Dialogue: 0,00:01:01.17,00:01:01.77,Default,,0,0,0,,Xiao Huang
 Dialogue: 0,00:01:01.81,00:01:02.49,Default,,0,0,0,,Cable!
 Dialogue: 0,00:01:02.53,00:01:03.25,Default,,0,0,0,,yes
 Dialogue: 0,00:01:04.97,00:01:06.45,Default,,0,0,0,,Bacteria King
-Dialogue: 0,00:01:08.33,00:01:09.77,Default,,0,0,0,,Bingbing Yang
+Dialogue: 0,00:01:08.33,00:01:09.77,Default,,0,0,0,,BB Goat
 Dialogue: 0,00:01:11.65,00:01:12.85,Default,,0,0,0,,Get on the hook
 Dialogue: 0,00:01:13.61,00:01:14.97,Default,,0,0,0,,Don't want to succeed!
 Dialogue: 0,00:01:17.89,00:01:19.33,Default,,0,0,0,,Help me quickly
 Dialogue: 0,00:01:22.77,00:01:24.21,Default,,0,0,0,,Let's go and help
 Dialogue: 0,00:01:29.53,00:01:31.09,Default,,0,0,0,,Relax your hands
 Dialogue: 0,00:01:31.17,00:01:31.81,Default,,0,0,0,,Not bad
-Dialogue: 0,00:01:32.05,00:01:33.93,Default,,0,0,0,,You put Bingbing Yang first
+Dialogue: 0,00:01:32.05,00:01:33.93,Default,,0,0,0,,You put BB Goat first
 Dialogue: 0,00:01:33.93,00:01:35.01,Default,,0,0,0,,impossible
 Dialogue: 0,00:01:35.33,00:01:37.93,Default,,0,0,0,,This will not be good for everyone
 Dialogue: 0,00:01:38.09,00:01:40.01,Default,,0,0,0,,I won't be able to say anything
@@ -52,7 +52,7 @@ Dialogue: 0,00:01:46.65,00:01:47.45,Default,,0,0,0,,Stop talking
 Dialogue: 0,00:01:47.45,00:01:49.29,Default,,0,0,0,,I'm almost out of energy
 Dialogue: 0,00:01:57.89,00:02:00.37,Default,,0,0,0,,You dare to plot against us
 Dialogue: 0,00:02:00.45,00:02:01.53,Default,,0,0,0,,Stop talking!
-Dialogue: 0,00:02:01.53,00:02:03.33,Default,,0,0,0,,Hand over Bingbing Yang
+Dialogue: 0,00:02:01.53,00:02:03.33,Default,,0,0,0,,Hand over BB Goat
 Dialogue: 0,00:02:07.17,00:02:08.09,Default,,0,0,0,,Xiao Huang
 Dialogue: 0,00:02:08.25,00:02:10.17,Default,,0,0,0,,Let them taste our tragedy!
 Dialogue: 0,00:02:10.37,00:02:11.93,Default,,0,0,0,,Wait... Wait a moment
@@ -90,10 +90,10 @@ Dialogue: 0,00:03:37.13,00:03:39.49,Default,,0,0,0,,I'll save you right away
 Dialogue: 0,00:03:39.53,00:03:40.09,Default,,0,0,0,,good
 Dialogue: 0,00:03:40.09,00:03:41.37,Default,,0,0,0,,We're waiting for you!
 Dialogue: 0,00:03:41.77,00:03:42.57,Default,,0,0,0,,Xiao Huang
-Dialogue: 0,00:03:43.45,00:03:45.57,Default,,0,0,0,,Bingbing Yang is here too
-Dialogue: 0,00:03:46.37,00:03:47.41,Default,,0,0,0,,Bingbing Yang!
+Dialogue: 0,00:03:43.45,00:03:45.57,Default,,0,0,0,,BB Goat is here too
+Dialogue: 0,00:03:46.37,00:03:47.41,Default,,0,0,0,,BB Goat!
 Dialogue: 0,00:03:48.33,00:03:50.13,Default,,0,0,0,,If the Jonie saves the goat
-Dialogue: 0,00:03:50.33,00:03:51.65,Default,,0,0,0,,Bingbing Yang has to run away again
+Dialogue: 0,00:03:50.33,00:03:51.65,Default,,0,0,0,,BB Goat has to run away again
 Dialogue: 0,00:03:51.81,00:03:53.13,Default,,0,0,0,,no! I have to be faster than her
 Dialogue: 0,00:03:56.97,00:03:58.65,Default,,0,0,0,,King, I'm here! !
 Dialogue: 0,00:03:59.97,00:04:01.09,Default,,0,0,0,,etc!
@@ -158,14 +158,14 @@ Dialogue: 0,00:07:25.81,00:07:27.01,Default,,0,0,0,,I didn't expect it to be pla
 Dialogue: 0,00:07:27.01,00:07:28.41,Default,,0,0,0,,Anything is OK? !
 Dialogue: 0,00:07:29.09,00:07:30.53,Default,,0,0,0,,It's worthy of being a little girl
 Dialogue: 0,00:07:30.65,00:07:31.69,Default,,0,0,0,,After we go out
-Dialogue: 0,00:07:31.73,00:07:33.09,Default,,0,0,0,,Just grab Bingbing Yang
+Dialogue: 0,00:07:31.73,00:07:33.09,Default,,0,0,0,,Just grab BB Goat
 Dialogue: 0,00:07:33.45,00:07:34.21,Default,,0,0,0,,what
 Dialogue: 0,00:07:38.25,00:07:40.73,Default,,0,0,0,,Come on, Xiaohong!
 Dialogue: 0,00:07:43.81,00:07:44.97,Default,,0,0,0,,Come back to you!
 Dialogue: 0,00:07:46.89,00:07:48.61,Default,,0,0,0,,Is there anything wrong?
 Dialogue: 0,00:07:48.65,00:07:50.49,Default,,0,0,0,,How can you do this
 Dialogue: 0,00:07:51.57,00:07:52.45,Default,,0,0,0,,You think I'm stupid!
-Dialogue: 0,00:07:52.65,00:07:54.97,Default,,0,0,0,,If you go out, Bingbing Yang will suffer!
+Dialogue: 0,00:07:52.65,00:07:54.97,Default,,0,0,0,,If you go out, BB Goat will suffer!
 Dialogue: 0,00:07:57.93,00:07:58.77,Default,,0,0,0,,Paddi!
 Dialogue: 0,00:08:00.09,00:08:01.61,Default,,0,0,0,,Suck the vines there quickly!
 Dialogue: 0,00:08:02.85,00:08:03.65,Default,,0,0,0,,Yes

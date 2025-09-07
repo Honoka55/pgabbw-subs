@@ -17,15 +17,15 @@ Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,00:01:36.64,00:01:38.20,Default,,0,0,0,,New family
 Dialogue: 0,00:01:43.84,00:01:46.80,Default,,0,0,0,,This invention is really amazing and you must be careful
 Dialogue: 0,00:01:46.84,00:01:50.24,Default,,0,0,0,,Slow! Hahahahaha
-Dialogue: 0,00:01:50.28,00:01:51.12,Default,,0,0,0,,Bingbing Yang!
+Dialogue: 0,00:01:50.28,00:01:51.12,Default,,0,0,0,,BB Goat!
 Dialogue: 0,00:01:51.48,00:01:52.92,Default,,0,0,0,,Come and chase me!
-Dialogue: 0,00:01:56.20,00:01:57.72,Default,,0,0,0,,Bingbing Yang! ! !
+Dialogue: 0,00:01:56.20,00:01:57.72,Default,,0,0,0,,BB Goat! ! !
 Dialogue: 0,00:02:00.08,00:02:01.76,Default,,0,0,0,,Slowy!
-Dialogue: 0,00:02:03.20,00:02:04.72,Default,,0,0,0,,Bingbing Yang Be good!
+Dialogue: 0,00:02:03.20,00:02:04.72,Default,,0,0,0,,BB Goat Be good!
 Dialogue: 0,00:02:05.36,00:02:06.28,Default,,0,0,0,,I don't want it
 Dialogue: 0,00:02:07.12,00:02:10.08,Default,,0,0,0,,Slow hug hug
 Dialogue: 0,00:02:10.12,00:02:11.04,Default,,0,0,0,,What's up?
-Dialogue: 0,00:02:11.84,00:02:14.20,Default,,0,0,0,,Bingbing Yang has only been playing for the past few days
+Dialogue: 0,00:02:11.84,00:02:14.20,Default,,0,0,0,,BB Goat has only been playing for the past few days
 Dialogue: 0,00:02:14.28,00:02:16.16,Default,,0,0,0,,I didn't sleep much
 Dialogue: 0,00:02:17.60,00:02:21.20,Default,,0,0,0,,Children need to coax them when they sleep
 Dialogue: 0,00:02:21.60,00:02:24.16,Default,,0,0,0,,Baby, beloved, go to bed quickly
@@ -38,7 +38,7 @@ Dialogue: 0,00:02:43.72,00:02:48.12,Default,,0,0,0,,The village chief hasn't had
 Dialogue: 0,00:02:48.68,00:02:49.40,Default,,0,0,0,,well…
 Dialogue: 0,00:02:50.36,00:02:50.96,Default,,0,0,0,,Hey!
 Dialogue: 0,00:02:51.91,00:02:53.88,Default,,0,0,0,,Why did you fall asleep too?
-Dialogue: 0,00:02:54.40,00:02:57.04,Default,,0,0,0,,Then we want to do our best to coax Bingbing Yang to sleep
+Dialogue: 0,00:02:54.40,00:02:57.04,Default,,0,0,0,,Then we want to do our best to coax BB Goat to sleep
 Dialogue: 0,00:02:57.80,00:02:59.60,Default,,0,0,0,,Don't beat the village chief and have a rest
 Dialogue: 0,00:02:59.88,00:03:00.40,Default,,0,0,0,,Um
 Dialogue: 0,00:03:01.48,00:03:01.84,Default,,0,0,0,,yes!
@@ -71,24 +71,24 @@ Dialogue: 0,00:05:05.88,00:05:08.00,Default,,0,0,0,,What to watch? Watch! Quickl
 Dialogue: 0,00:05:08.68,00:05:09.60,Default,,0,0,0,,Yes Yes Yes Yes...
 Dialogue: 0,00:05:12.96,00:05:16.00,Default,,0,0,0,,As long as she is tired of playing
 Dialogue: 0,00:05:16.00,00:05:17.88,Default,,0,0,0,,She will naturally fall asleep
-Dialogue: 0,00:05:18.92,00:05:22.36,Default,,0,0,0,,Bingbing Yang, are we good to play games?
+Dialogue: 0,00:05:18.92,00:05:22.36,Default,,0,0,0,,BB Goat, are we good to play games?
 Dialogue: 0,00:05:22.60,00:05:23.40,Default,,0,0,0,,good!
 Dialogue: 0,00:05:24.24,00:05:26.52,Default,,0,0,0,,Then you catch me
 Dialogue: 0,00:05:27.83,00:05:29.20,Default,,0,0,0,,Brother, don't run away!
 Dialogue: 0,00:05:36.12,00:05:38.24,Default,,0,0,0,,continue! Continue!
 Dialogue: 0,00:05:39.80,00:05:40.96,Default,,0,0,0,,Click on my experience
-Dialogue: 0,00:05:41.00,00:05:44.48,Default,,0,0,0,,As long as Bingbing Yang is allowed to eat, you will naturally want to sleep
-Dialogue: 0,00:05:45.76,00:05:47.12,Default,,0,0,0,,Where is Bingbing Yang?
+Dialogue: 0,00:05:41.00,00:05:44.48,Default,,0,0,0,,As long as BB Goat is allowed to eat, you will naturally want to sleep
+Dialogue: 0,00:05:45.76,00:05:47.12,Default,,0,0,0,,Where is BB Goat?
 Dialogue: 0,00:05:47.32,00:05:48.83,Default,,0,0,0,,Brother Yangyang
 Dialogue: 0,00:05:49.44,00:05:50.60,Default,,0,0,0,,Is there any more?
 Dialogue: 0,00:05:52.12,00:05:53.92,Default,,0,0,0,,Is the rest good for me?
 Dialogue: 0,00:05:56.00,00:05:58.32,Default,,0,0,0,,This method also failed
 Dialogue: 0,00:05:59.27,00:06:01.44,Default,,0,0,0,,Still that spirit
 Dialogue: 0,00:06:01.48,00:06:03.00,Default,,0,0,0,,Let me come and hug
-Dialogue: 0,00:06:06.64,00:06:08.80,Default,,0,0,0,,Does Bingbing Yang like to hear stories?
+Dialogue: 0,00:06:06.64,00:06:08.80,Default,,0,0,0,,Does BB Goat like to hear stories?
 Dialogue: 0,00:06:09.04,00:06:10.08,Default,,0,0,0,,like!
 Dialogue: 0,00:06:11.64,00:06:17.08,Default,,0,0,0,,From then on there was a big tree with sky...
-Dialogue: 0,00:06:17.24,00:06:20.00,Default,,0,0,0,,Bingbing Yang has begun to commit crimes
+Dialogue: 0,00:06:17.24,00:06:20.00,Default,,0,0,0,,BB Goat has begun to commit crimes
 Dialogue: 0,00:06:20.76,00:06:22.64,Default,,0,0,0,,Later they...
 Dialogue: 0,00:06:22.88,00:06:24.48,Default,,0,0,0,,This story is so boring!
 Dialogue: 0,00:06:24.64,00:06:26.88,Default,,0,0,0,,I want to hear the Black Snow Prince
@@ -112,11 +112,11 @@ Dialogue: 0,00:07:21.24,00:07:24.52,Default,,0,0,0,,At this speed now, I can't g
 Dialogue: 0,00:07:27.92,00:07:32.40,Default,,0,0,0,,There is a way! ah……!
 Dialogue: 0,00:07:32.84,00:07:33.96,Default,,0,0,0,,nailed it
 Dialogue: 0,00:07:37.36,00:07:39.16,Default,,0,0,0,,Let's start swiping
-Dialogue: 0,00:07:45.28,00:07:47.68,Default,,0,0,0,,I'm going to catch Bingbing Yang!
+Dialogue: 0,00:07:45.28,00:07:47.68,Default,,0,0,0,,I'm going to catch BB Goat!
 Dialogue: 0,00:07:48.08,00:07:49.68,Default,,0,0,0,,What happened to the swipe?
 Dialogue: 0,00:07:57.28,00:07:59.28,Default,,0,0,0,,Wolffy!
 Dialogue: 0,00:08:02.40,00:08:04.28,Default,,0,0,0,,I've handed over to you...
-Dialogue: 0,00:08:07.32,00:08:09.64,Default,,0,0,0,,Bingbing Yang, go to bed quickly
+Dialogue: 0,00:08:07.32,00:08:09.64,Default,,0,0,0,,BB Goat, go to bed quickly
 Dialogue: 0,00:08:10.16,00:08:13.80,Default,,0,0,0,,I don't want to sleep, I want to play, I don't want to
 Dialogue: 0,00:08:14.08,00:08:16.28,Default,,0,0,0,,I want to play I want to play...!
 Dialogue: 0,00:08:25.40,00:08:28.24,Default,,0,0,0,,Weslie We should sleep
@@ -136,12 +136,12 @@ Dialogue: 0,00:09:17.67,00:09:18.92,Default,,0,0,0,,Be calm!
 Dialogue: 0,00:09:19.48,00:09:21.28,Default,,0,0,0,,Hahahahahahahahaha~
 Dialogue: 0,00:09:22.44,00:09:22.92,Default,,0,0,0,,Um?
 Dialogue: 0,00:09:31.84,00:09:34.55,Default,,0,0,0,,Go quickly Go quickly... Wolffy is controlled again!
-Dialogue: 0,00:09:41.00,00:09:44.16,Default,,0,0,0,,Found it. Hand over Bingbing Yang!
-Dialogue: 0,00:09:52.28,00:09:55.08,Default,,0,0,0,,Hand over Bingbing Yang!
-Dialogue: 0,00:09:58.40,00:10:01.52,Default,,0,0,0,,Take care of Bingbing Yang for me, I will wake up Wolffy!
+Dialogue: 0,00:09:41.00,00:09:44.16,Default,,0,0,0,,Found it. Hand over BB Goat!
+Dialogue: 0,00:09:52.28,00:09:55.08,Default,,0,0,0,,Hand over BB Goat!
+Dialogue: 0,00:09:58.40,00:10:01.52,Default,,0,0,0,,Take care of BB Goat for me, I will wake up Wolffy!
 Dialogue: 0,00:10:01.92,00:10:02.20,Default,,0,0,0,,Um!
-Dialogue: 0,00:10:06.84,00:10:07.92,Default,,0,0,0,,Bingbing Yang
-Dialogue: 0,00:10:08.67,00:10:10.32,Default,,0,0,0,,You're going to run with Bingbing Yang
+Dialogue: 0,00:10:06.84,00:10:07.92,Default,,0,0,0,,BB Goat
+Dialogue: 0,00:10:08.67,00:10:10.32,Default,,0,0,0,,You're going to run with BB Goat
 Dialogue: 0,00:10:10.64,00:10:12.20,Default,,0,0,0,,We stop him!
 Dialogue: 0,00:10:13.52,00:10:16.84,Default,,0,0,0,,whee! I want to hold this king
 Dialogue: 0,00:10:22.48,00:10:24.52,Default,,0,0,0,,I won't play with you anymore
@@ -149,7 +149,7 @@ Dialogue: 0,00:10:27.72,00:10:29.08,Default,,0,0,0,,Wow!
 Dialogue: 0,00:10:30.84,00:10:33.52,Default,,0,0,0,,Wake up quickly! Wolffy...
 Dialogue: 0,00:10:33.84,00:10:37.60,Default,,0,0,0,,Hahaha, I am very sober!
 Dialogue: 0,00:10:39.72,00:10:41.76,Default,,0,0,0,,Ah ~
-Dialogue: 0,00:10:46.24,00:10:47.88,Default,,0,0,0,,Bingbing Yang!
+Dialogue: 0,00:10:46.24,00:10:47.88,Default,,0,0,0,,BB Goat!
 Dialogue: 0,00:11:12.32,00:11:13.84,Default,,0,0,0,,I will definitely protect you!
 Dialogue: 0,00:11:14.28,00:11:15.76,Default,,0,0,0,,It's also a hindrance to me!
 Dialogue: 0,00:11:21.32,00:11:24.00,Default,,0,0,0,,Soon... can't hold back

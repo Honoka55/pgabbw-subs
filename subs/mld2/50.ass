@@ -15,7 +15,7 @@ Style: Default,Arial,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,00:00:24.69,00:00:26.61,Default,,0,0,0,,- Good morning Brother Weslie
-- Good morning Bingbing Yang
+- Good morning BB Goat
 Dialogue: 0,00:00:46.25,00:00:47.05,Default,,0,0,0,,Who is it
 Dialogue: 0,00:00:48.17,00:00:49.13,Default,,0,0,0,,Who would you like?
 Dialogue: 0,00:00:49.33,00:00:50.17,Default,,0,0,0,,Weslie
@@ -25,17 +25,17 @@ Dialogue: 0,00:00:53.37,00:00:55.33,Default,,0,0,0,,A help call from the mountai
 Dialogue: 0,00:00:55.37,00:00:56.29,Default,,0,0,0,,Help number?
 Dialogue: 0,00:00:56.41,00:00:58.45,Default,,0,0,0,,Then I called Sparky and the others together...
 Dialogue: 0,00:00:59.17,00:01:00.45,Default,,0,0,0,,They go to other grasslands
-Dialogue: 0,00:01:00.49,00:01:02.29,Default,,0,0,0,,I've found the search for Brother Bingbing Yang
+Dialogue: 0,00:01:00.49,00:01:02.29,Default,,0,0,0,,I've found the search for Brother BB Goat
 Dialogue: 0,00:01:02.81,00:01:04.85,Default,,0,0,0,,I'll go with you this time
 Dialogue: 0,00:01:05.93,00:01:07.05,Default,,0,0,0,,The village chief is no longer
-Dialogue: 0,00:01:07.17,00:01:09.21,Default,,0,0,0,,Just go with Bingbing Yang
+Dialogue: 0,00:01:07.17,00:01:09.21,Default,,0,0,0,,Just go with BB Goat
 Dialogue: 0,00:01:10.21,00:01:11.73,Default,,0,0,0,,-But…
 -I run fast
 Dialogue: 0,00:01:11.77,00:01:13.05,Default,,0,0,0,,Even if you encounter danger, you can
-Dialogue: 0,00:01:13.09,00:01:14.89,Default,,0,0,0,,Escape easily with Bingbing Yang
+Dialogue: 0,00:01:13.09,00:01:14.89,Default,,0,0,0,,Escape easily with BB Goat
 Dialogue: 0,00:01:14.89,00:01:15.65,Default,,0,0,0,,Oh well
 Dialogue: 0,00:01:16.25,00:01:17.89,Default,,0,0,0,,You must be careful
-Dialogue: 0,00:01:20.05,00:01:20.77,Default,,0,0,0,,Bingbing Yang
+Dialogue: 0,00:01:20.05,00:01:20.77,Default,,0,0,0,,BB Goat
 Dialogue: 0,00:01:20.85,00:01:21.97,Default,,0,0,0,,We're going up the mountain
 Dialogue: 0,00:01:22.29,00:01:23.13,Default,,0,0,0,,Going up the mountain?
 Dialogue: 0,00:01:28.93,00:01:31.45,Default,,0,0,0,,I'm going to bring my toys and snacks
@@ -45,7 +45,7 @@ Dialogue: 0,00:01:35.41,00:01:36.77,Default,,0,0,0,,Maps and guides
 Dialogue: 0,00:01:37.29,00:01:38.05,Default,,0,0,0,,And water
 Dialogue: 0,00:01:38.21,00:01:39.65,Default,,0,0,0,,All of them are what I want...
 Dialogue: 0,00:01:40.41,00:01:41.25,Default,,0,0,0,,Decorated
-Dialogue: 0,00:01:41.65,00:01:42.53,Default,,0,0,0,,Bingbing Yang
+Dialogue: 0,00:01:41.65,00:01:42.53,Default,,0,0,0,,BB Goat
 Dialogue: 0,00:01:43.89,00:01:44.37,Default,,0,0,0,,alright
 Dialogue: 0,00:01:44.41,00:01:45.73,Default,,0,0,0,,Then let's go
 Dialogue: 0,00:01:46.09,00:01:46.77,Default,,0,0,0,,good!
@@ -76,7 +76,7 @@ Dialogue: 0,00:03:14.33,00:03:15.53,Default,,0,0,0,,Wolffy
 Dialogue: 0,00:03:21.41,00:03:22.97,Default,,0,0,0,,I'll definitely come back
 Dialogue: 0,00:03:25.41,00:03:26.33,Default,,0,0,0,,The King
 Dialogue: 0,00:03:26.33,00:03:27.65,Default,,0,0,0,,Follow your plan
-Dialogue: 0,00:03:28.01,00:03:29.53,Default,,0,0,0,,Weslie and Bingbing Yang
+Dialogue: 0,00:03:28.01,00:03:29.53,Default,,0,0,0,,Weslie and BB Goat
 Dialogue: 0,00:03:29.53,00:03:30.45,Default,,0,0,0,,Already already
 Dialogue: 0,00:03:30.65,00:03:32.21,Default,,0,0,0,,Now, as long as we go
 Dialogue: 0,00:03:32.21,00:03:34.57,Default,,0,0,0,,They can be slammed on the planned mountain
@@ -93,9 +93,9 @@ Dialogue: 0,00:04:05.37,00:04:06.61,Default,,0,0,0,,Very tall
 Dialogue: 0,00:04:07.53,00:04:09.37,Default,,0,0,0,,The scenery is so good!
 Dialogue: 0,00:04:10.57,00:04:11.53,Default,,0,0,0,,alright
 Dialogue: 0,00:04:11.53,00:04:12.81,Default,,0,0,0,,We're looking for someone else
-Dialogue: 0,00:04:17.29,00:04:18.09,Default,,0,0,0,,Bingbing Yang!
+Dialogue: 0,00:04:17.29,00:04:18.09,Default,,0,0,0,,BB Goat!
 Dialogue: 0,00:04:31.53,00:04:32.37,Default,,0,0,0,,Shocked me...
-Dialogue: 0,00:04:34.49,00:04:35.25,Default,,0,0,0,,Bingbing Yang
+Dialogue: 0,00:04:34.49,00:04:35.25,Default,,0,0,0,,BB Goat
 Dialogue: 0,00:04:35.37,00:04:36.89,Default,,0,0,0,,Stay well with me
 Dialogue: 0,00:04:37.65,00:04:38.37,Default,,0,0,0,,Encountering danger
 Dialogue: 0,00:04:38.45,00:04:39.61,Default,,0,0,0,,Be sure to catch me!
@@ -125,10 +125,10 @@ Dialogue: 0,00:05:34.21,00:05:35.25,Default,,0,0,0,,It's obviously me
 Dialogue: 0,00:05:35.29,00:05:36.49,Default,,0,0,0,,Is it good to load yours?
 Dialogue: 0,00:05:36.93,00:05:38.49,Default,,0,0,0,,Thank you for your hard work!
 Dialogue: 0,00:05:38.77,00:05:41.09,Default,,0,0,0,,Now God can't save you!
-Dialogue: 0,00:05:41.45,00:05:42.97,Default,,0,0,0,,Hand over Bingbing Yang!
+Dialogue: 0,00:05:41.45,00:05:42.97,Default,,0,0,0,,Hand over BB Goat!
 Dialogue: 0,00:05:43.73,00:05:45.25,Default,,0,0,0,,I have to find a way to leave here!
 Dialogue: 0,00:05:47.17,00:05:47.89,Default,,0,0,0,,please…
-Dialogue: 0,00:05:47.93,00:05:49.33,Default,,0,0,0,,Leave Bingbing Yang...
+Dialogue: 0,00:05:47.93,00:05:49.33,Default,,0,0,0,,Leave BB Goat...
 Dialogue: 0,00:05:59.05,00:06:00.53,Default,,0,0,0,,Stop him!
 Dialogue: 0,00:06:03.41,00:06:04.61,Default,,0,0,0,,There is a cave there!
 Dialogue: 0,00:06:12.29,00:06:13.73,Default,,0,0,0,,Can't let him run into the cave!
@@ -138,7 +138,7 @@ Dialogue: 0,00:06:26.77,00:06:28.13,Default,,0,0,0,,Don't run away!
 Dialogue: 0,00:06:39.33,00:06:41.69,Default,,0,0,0,,They actually hid in
 Dialogue: 0,00:06:41.97,00:06:43.77,Default,,0,0,0,,So what should I do next?
 Dialogue: 0,00:06:45.57,00:06:47.37,Default,,0,0,0,,Or maybe that's better!
-Dialogue: 0,00:06:54.97,00:06:55.69,Default,,0,0,0,,Bingbing Yang
+Dialogue: 0,00:06:54.97,00:06:55.69,Default,,0,0,0,,BB Goat
 Dialogue: 0,00:06:55.73,00:06:56.69,Default,,0,0,0,,You're fine, right?
 Dialogue: 0,00:06:57.45,00:06:58.33,Default,,0,0,0,,I'm fine!
 Dialogue: 0,00:07:04.41,00:07:05.89,Default,,0,0,0,,What should I do next
@@ -153,8 +153,8 @@ Dialogue: 0,00:07:44.81,00:07:46.33,Default,,0,0,0,,No matter where you escape
 Dialogue: 0,00:07:46.41,00:07:48.17,Default,,0,0,0,,It will always follow you
 Dialogue: 0,00:08:06.81,00:08:08.89,Default,,0,0,0,,Even such a small hair can be followed
 Dialogue: 0,00:08:09.33,00:08:10.61,Default,,0,0,0,,Weslie Brother...
-Dialogue: 0,00:08:12.73,00:08:14.37,Default,,0,0,0,,You can't let Bingbing Yang have any trouble
-Dialogue: 0,00:08:17.13,00:08:17.85,Default,,0,0,0,,Bingbing Yang
+Dialogue: 0,00:08:12.73,00:08:14.37,Default,,0,0,0,,You can't let BB Goat have any trouble
+Dialogue: 0,00:08:17.13,00:08:17.85,Default,,0,0,0,,BB Goat
 Dialogue: 0,00:08:17.85,00:08:19.05,Default,,0,0,0,,Stay here obediently!
 Dialogue: 0,00:08:20.21,00:08:21.25,Default,,0,0,0,,Wait for me to pull them out
 Dialogue: 0,00:08:21.29,00:08:22.09,Default,,0,0,0,,I'll come back to pick you up
@@ -165,26 +165,26 @@ Dialogue: 0,00:08:27.37,00:08:28.09,Default,,0,0,0,,Be good
 Dialogue: 0,00:08:32.41,00:08:34.01,Default,,0,0,0,,Weslie Brother...
 Dialogue: 0,00:08:34.25,00:08:35.33,Default,,0,0,0,,Where did you go?
 Dialogue: 0,00:08:36.77,00:08:37.57,Default,,0,0,0,,I'm here!
-Dialogue: 0,00:08:39.29,00:08:40.17,Default,,0,0,0,,Where is Bingbing Yang?
+Dialogue: 0,00:08:39.29,00:08:40.17,Default,,0,0,0,,Where is BB Goat?
 Dialogue: 0,00:08:41.29,00:08:42.25,Default,,0,0,0,,Don't stumble
-Dialogue: 0,00:08:42.57,00:08:44.41,Default,,0,0,0,,Hand over Bingbing Yang!
+Dialogue: 0,00:08:42.57,00:08:44.41,Default,,0,0,0,,Hand over BB Goat!
 Dialogue: 0,00:08:45.37,00:08:46.65,Default,,0,0,0,,I can catch it before saying it!
 Dialogue: 0,00:08:47.93,00:08:49.09,Default,,0,0,0,,Hurry up and catch him!
 Dialogue: 0,00:08:49.13,00:08:50.05,Default,,0,0,0,,yes!
 Dialogue: 0,00:09:02.09,00:09:03.77,Default,,0,0,0,,Even the entrance of the cave was kept...
 Dialogue: 0,00:09:04.73,00:09:05.45,Default,,0,0,0,,How to do it
 Dialogue: 0,00:09:05.49,00:09:06.77,Default,,0,0,0,,What about leading them out of here
-Dialogue: 0,00:09:08.01,00:09:09.09,Default,,0,0,0,,You go find Bingbing Yang
+Dialogue: 0,00:09:08.01,00:09:09.09,Default,,0,0,0,,You go find BB Goat
 Dialogue: 0,00:09:09.49,00:09:10.77,Default,,0,0,0,,I'll deal with Weslie
 Dialogue: 0,00:09:22.17,00:09:23.65,Default,,0,0,0,,So you are here
 Dialogue: 0,00:09:30.49,00:09:31.09,Default,,0,0,0,,The King
-Dialogue: 0,00:09:31.09,00:09:32.73,Default,,0,0,0,,Xiaohong found Bingbing Yang
+Dialogue: 0,00:09:31.09,00:09:32.73,Default,,0,0,0,,Xiaohong found BB Goat
 Dialogue: 0,00:09:33.17,00:09:34.01,Default,,0,0,0,,Good do!
 Dialogue: 0,00:09:37.29,00:09:38.89,Default,,0,0,0,,Can't run anymore!
-Dialogue: 0,00:09:39.29,00:09:40.97,Default,,0,0,0,,Bingbing Yang was also caught
+Dialogue: 0,00:09:39.29,00:09:40.97,Default,,0,0,0,,BB Goat was also caught
 Dialogue: 0,00:09:41.05,00:09:42.73,Default,,0,0,0,,It's really a kill of two birds with one stone!
 Dialogue: 0,00:09:44.33,00:09:45.05,Default,,0,0,0,,King!
-Dialogue: 0,00:09:45.37,00:09:46.25,Default,,0,0,0,,Bingbing Yang!
+Dialogue: 0,00:09:45.37,00:09:46.25,Default,,0,0,0,,BB Goat!
 Dialogue: 0,00:09:46.61,00:09:49.13,Default,,0,0,0,,Get it and unseal it for me
 Dialogue: 0,00:09:49.65,00:09:50.45,Default,,0,0,0,,Let me go!
 Dialogue: 0,00:09:50.69,00:09:51.81,Default,,0,0,0,,Let me go!
@@ -222,12 +222,12 @@ Dialogue: 0,00:11:30.13,00:11:32.05,Default,,0,0,0,,Help me quickly check who is
 Dialogue: 0,00:11:32.09,00:11:32.41,Default,,0,0,0,,good!
 Dialogue: 0,00:11:42.41,00:11:44.13,Default,,0,0,0,,They are indeed father and son!
 Dialogue: 0,00:11:44.97,00:11:46.57,Default,,0,0,0,,Since they are father and son...
-Dialogue: 0,00:11:46.61,00:11:47.73,Default,,0,0,0,,Weslie and Bingbing Yang
+Dialogue: 0,00:11:46.61,00:11:47.73,Default,,0,0,0,,Weslie and BB Goat
 Dialogue: 0,00:11:47.77,00:11:49.09,Default,,0,0,0,,Just brother and sister
 Dialogue: 0,00:11:49.45,00:11:50.77,Default,,0,0,0,,Brother and sister
 Dialogue: 0,00:11:51.61,00:11:53.45,Default,,0,0,0,,While Weslie has not yet discovered the truth
 Dialogue: 0,00:11:53.57,00:11:54.69,Default,,0,0,0,,I'll pack it first
-Dialogue: 0,00:11:54.73,00:11:55.85,Default,,0,0,0,,Bingbing Yang's brother
+Dialogue: 0,00:11:54.73,00:11:55.85,Default,,0,0,0,,BB Goat's brother
 Dialogue: 0,00:11:56.17,00:11:58.09,Default,,0,0,0,,Then you can be open and upright
 Dialogue: 0,00:11:58.13,00:11:59.45,Default,,0,0,0,,Take her away
 Dialogue: 0,00:12:01.17,00:12:02.37,Default,,0,0,0,,But how do you put it into
