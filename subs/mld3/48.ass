@@ -14,7 +14,7 @@ Style: Default,Arial,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,00:00:21.92,00:00:24.52,Default,,0,0,0,,Haoyue, please put down the box
+Dialogue: 0,00:00:21.92,00:00:24.52,Default,,0,0,0,,Luna, please put down the box
 Dialogue: 0,00:00:26.80,00:00:29.72,Default,,0,0,0,,Then we have to see if you have this ability
 Dialogue: 0,00:00:32.84,00:00:33.80,Default,,0,0,0,,Hurricane Blade
 Dialogue: 0,00:00:43.64,00:00:45.52,Default,,0,0,0,,The Goat is well done
@@ -71,7 +71,7 @@ Dialogue: 0,00:04:51.72,00:04:54.44,Default,,0,0,0,,The king has sent all the so
 Dialogue: 0,00:04:54.72,00:04:56.08,Default,,0,0,0,,You can't escape
 Dialogue: 0,00:04:59.12,00:05:00.12,Default,,0,0,0,,Not overestimating one's ability
 Dialogue: 0,00:05:15.96,00:05:16.88,Default,,0,0,0,,report
-Dialogue: 0,00:05:18.44,00:05:20.80,Default,,0,0,0,,Haoyue and the others kept running towards the boundary
+Dialogue: 0,00:05:18.44,00:05:20.80,Default,,0,0,0,,Luna and the others kept running towards the boundary
 Dialogue: 0,00:05:22.52,00:05:24.08,Default,,0,0,0,,The soldiers were also injured a lot
 Dialogue: 0,00:05:25.16,00:05:27.44,Default,,0,0,0,,Take it back to our world...
 Dialogue: 0,00:05:29.24,00:05:32.27,Default,,0,0,0,,The lonely wolf wants to escape from the strange cat country with dark energy
@@ -140,7 +140,7 @@ Dialogue: 0,00:08:59.12,00:09:00.67,Default,,0,0,0,,Let me lead you
 Dialogue: 0,00:09:01.12,00:09:01.55,Default,,0,0,0,,Um
 Dialogue: 0,00:09:04.88,00:09:05.60,Default,,0,0,0,,tomorrow
 Dialogue: 0,00:09:07.76,00:09:10.24,Default,,0,0,0,,You just stay to protect others
-Dialogue: 0,00:09:10.84,00:09:12.96,Default,,0,0,0,,Now Haoyue and the others can't get out of the strange cat country
+Dialogue: 0,00:09:10.84,00:09:12.96,Default,,0,0,0,,Now Luna and the others can't get out of the strange cat country
 Dialogue: 0,00:09:13.48,00:09:15.76,Default,,0,0,0,,Maybe I'll go back to the palace for trouble
 Dialogue: 0,00:09:16.40,00:09:16.60,Default,,0,0,0,,Um
 Dialogue: 0,00:09:20.72,00:09:24.76,Default,,0,0,0,,No, the boundaries are all covered

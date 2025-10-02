@@ -17,11 +17,11 @@ Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,00:00:35.65,00:00:37.29,Default,,0,0,0,,Who are you
 Dialogue: 0,00:00:37.93,00:00:38.57,Default,,0,0,0,,presumptuous
 Dialogue: 0,00:00:38.77,00:00:40.81,Default,,0,0,0,,How can I talk to Queen Levana like this
-Dialogue: 0,00:00:41.57,00:00:43.61,Default,,0,0,0,,Are you the sister of Princess Haoyue?
+Dialogue: 0,00:00:41.57,00:00:43.61,Default,,0,0,0,,Are you the sister of Princess Luna?
 Dialogue: 0,00:00:44.49,00:00:47.37,Default,,0,0,0,,You are the help my sister has come to
 Dialogue: 0,00:00:48.57,00:00:51.33,Default,,0,0,0,,I wonder if there is anything wrong with you
 Dialogue: 0,00:00:51.57,00:00:52.85,Default,,0,0,0,,misunderstanding?
-Dialogue: 0,00:00:53.33,00:00:55.41,Default,,0,0,0,,Princess Haoyue is actually very concerned...
+Dialogue: 0,00:00:53.33,00:00:55.41,Default,,0,0,0,,Princess Luna is actually very concerned...
 Dialogue: 0,00:00:56.65,00:00:58.05,Default,,0,0,0,,Jonie
 Dialogue: 0,00:00:58.57,00:00:59.81,Default,,0,0,0,,Not enough
 Dialogue: 0,00:01:00.49,00:01:02.01,Default,,0,0,0,,What happened?
@@ -71,7 +71,7 @@ Dialogue: 0,00:03:33.21,00:03:34.09,Default,,0,0,0,,It's you
 Dialogue: 0,00:03:34.17,00:03:35.05,Default,,0,0,0,,What did you just say
 Dialogue: 0,00:03:35.57,00:03:38.45,Default,,0,0,0,,I saw the soldier escorting Lao Yu to the side
 Dialogue: 0,00:03:38.69,00:03:39.81,Default,,0,0,0,,thank you
-Dialogue: 0,00:03:48.29,00:03:50.85,Default,,0,0,0,,Is Haoyue's helper still somewhat capable?
+Dialogue: 0,00:03:48.29,00:03:50.85,Default,,0,0,0,,Is Luna's helper still somewhat capable?
 Dialogue: 0,00:03:51.49,00:03:53.65,Default,,0,0,0,,Lord Queen, how many have not been caught
 Dialogue: 0,00:03:57.73,00:03:59.29,Default,,0,0,0,,Maybe they can catch it
 Dialogue: 0,00:03:59.37,00:04:01.81,Default,,0,0,0,,But, I need to strengthen it
@@ -131,7 +131,7 @@ Dialogue: 0,00:08:02.01,00:08:03.73,Default,,0,0,0,,I really have the power
 Dialogue: 0,00:08:03.77,00:08:05.67,Default,,0,0,0,,Cough cough... grab him...
 Dialogue: 0,00:08:05.69,00:08:06.57,Default,,0,0,0,,Ahem...
 Dialogue: 0,00:08:09.89,00:08:10.83,Default,,0,0,0,,Wolffy
-Dialogue: 0,00:08:10.85,00:08:12.65,Default,,0,0,0,,It turns out that it is Haoyue's ability
+Dialogue: 0,00:08:10.85,00:08:12.65,Default,,0,0,0,,It turns out that it is Luna's ability
 Dialogue: 0,00:08:15.25,00:08:16.61,Default,,0,0,0,,Where is the car
 Dialogue: 0,00:08:17.05,00:08:18.97,Default,,0,0,0,,Can't explain it now, get on the train
 Dialogue: 0,00:08:23.69,00:08:24.65,Default,,0,0,0,,Don't run
@@ -174,7 +174,7 @@ Dialogue: 0,00:10:02.37,00:10:05.49,Default,,0,0,0,,I only know that we are the 
 Dialogue: 0,00:10:09.09,00:10:10.29,Default,,0,0,0,,You wake up quickly
 Dialogue: 0,00:10:10.33,00:10:11.21,Default,,0,0,0,,Magic Cloud!
 Dialogue: 0,00:10:15.57,00:10:16.89,Default,,0,0,0,,He actually has amazing powers.
-Dialogue: 0,00:10:17.01,00:10:19.29,Default,,0,0,0,,Could it be that it was the magic stone that Haoyue gave him?
+Dialogue: 0,00:10:17.01,00:10:19.29,Default,,0,0,0,,Could it be that it was the magic stone that Luna gave him?
 Dialogue: 0,00:10:19.81,00:10:21.77,Default,,0,0,0,,Why do you become like this
 Dialogue: 0,00:10:22.33,00:10:25.27,Default,,0,0,0,,They must be controlled
 Dialogue: 0,00:10:25.29,00:10:26.49,Default,,0,0,0,,You run away quickly
@@ -196,12 +196,12 @@ Dialogue: 0,00:11:39.09,00:11:40.17,Default,,0,0,0,,Small tricks of carving
 Dialogue: 0,00:11:41.97,00:11:42.59,Default,,0,0,0,,what
 Dialogue: 0,00:11:42.61,00:11:44.17,Default,,0,0,0,,Is this... flour?
 Dialogue: 0,00:11:46.73,00:11:48.37,Default,,0,0,0,,Let's run away with rush
-Dialogue: 0,00:11:51.45,00:11:53.29,Default,,0,0,0,,Haoyue You can't fight mine
+Dialogue: 0,00:11:51.45,00:11:53.29,Default,,0,0,0,,Luna You can't fight mine
 Dialogue: 0,00:12:02.05,00:12:04.45,Default,,0,0,0,,Wake up quickly
 Dialogue: 0,00:12:13.05,00:12:14.45,Default,,0,0,0,,Where are you going?
 Dialogue: 0,00:12:15.09,00:12:16.57,Default,,0,0,0,,Don't leave...
 Dialogue: 0,00:12:17.93,00:12:20.21,Default,,0,0,0,,No...don't let me go
-Dialogue: 0,00:12:21.17,00:12:23.97,Default,,0,0,0,,Haoyue What's going on with the slept goat
+Dialogue: 0,00:12:21.17,00:12:23.97,Default,,0,0,0,,Luna What's going on with the slept goat
 Dialogue: 0,00:12:24.05,00:12:26.45,Default,,0,0,0,,I didn't expect my sister to do so hard
 Dialogue: 0,00:12:26.85,00:12:30.13,Default,,0,0,0,,I don't have the ability to cure the goat now
 Dialogue: 0,00:12:30.49,00:12:31.83,Default,,0,0,0,,Then...Next...

@@ -17,15 +17,15 @@ Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,00:00:21.16,00:00:22.12,Default,,0,0,0,,That's...
 Dialogue: 0,00:00:24.88,00:00:27.40,Default,,0,0,0,,Huh? Why am I here?
 Dialogue: 0,00:00:28.20,00:00:31.36,Default,,0,0,0,,It's a blessing, catch him...
-Dialogue: 0,00:00:34.12,00:00:36.92,Default,,0,0,0,,Let me tell you where did you bring Princess Haoyue
+Dialogue: 0,00:00:34.12,00:00:36.92,Default,,0,0,0,,Let me tell you where did you bring Princess Luna
 Dialogue: 0,00:00:37.64,00:00:39.24,Default,,0,0,0,,Who are you
 Dialogue: 0,00:00:40.08,00:00:41.15,Default,,0,0,0,,Stop installing
 Dialogue: 0,00:00:41.56,00:00:43.08,Default,,0,0,0,,I didn't have it
-Dialogue: 0,00:00:43.60,00:00:46.08,Default,,0,0,0,,You took Princess Haoyue away
+Dialogue: 0,00:00:43.60,00:00:46.08,Default,,0,0,0,,You took Princess Luna away
 Dialogue: 0,00:00:46.52,00:00:50.32,Default,,0,0,0,,How about it...what are you talking about
 Dialogue: 0,00:00:51.96,00:00:55.12,Default,,0,0,0,,King of the Kingdom will save me quickly. There is an assassin
 Dialogue: 0,00:00:58.40,00:01:01.16,Default,,0,0,0,,Tell me where did you take my daughter
-Dialogue: 0,00:01:02.36,00:01:05.33,Default,,0,0,0,,I really don't know where Princess Haoyue is
+Dialogue: 0,00:01:02.36,00:01:05.33,Default,,0,0,0,,I really don't know where Princess Luna is
 Dialogue: 0,00:01:05.36,00:01:07.64,Default,,0,0,0,,What happened
 Dialogue: 0,00:01:07.88,00:01:09.84,Default,,0,0,0,,Don't be stupid for me...
 Dialogue: 0,00:01:11.28,00:01:12.68,Default,,0,0,0,,What happened
@@ -50,8 +50,8 @@ Dialogue: 0,00:02:08.52,00:02:11.56,Default,,0,0,0,,Did the wolf who wanted to s
 Dialogue: 0,00:02:12.24,00:02:14.52,Default,,0,0,0,,But why was it opened
 Dialogue: 0,00:02:14.80,00:02:15.36,Default,,0,0,0,,yes
 Dialogue: 0,00:02:15.52,00:02:18.63,Default,,0,0,0,,Without the power of our royal family, it cannot be opened.
-Dialogue: 0,00:02:23.80,00:02:26.20,Default,,0,0,0,,Will it have anything to do with Princess Haoyue?
-Dialogue: 0,00:02:26.48,00:02:28.60,Default,,0,0,0,,Then let's go and find Princess Haoyue
+Dialogue: 0,00:02:23.80,00:02:26.20,Default,,0,0,0,,Will it have anything to do with Princess Luna?
+Dialogue: 0,00:02:26.48,00:02:28.60,Default,,0,0,0,,Then let's go and find Princess Luna
 Dialogue: 0,00:02:29.16,00:02:29.68,Default,,0,0,0,,ah?
 Dialogue: 0,00:02:31.63,00:02:32.56,Default,,0,0,0,,Who is there?
 Dialogue: 0,00:02:33.28,00:02:34.63,Default,,0,0,0,,-Follow up and take a look -Follow up and take a look
@@ -65,13 +65,13 @@ Dialogue: 0,00:02:58.88,00:03:01.09,Default,,0,0,0,,He was the one who ejaculate
 Dialogue: 0,00:03:01.12,00:03:02.63,Default,,0,0,0,,The wolf is kept in here
 Dialogue: 0,00:03:04.16,00:03:04.88,Default,,0,0,0,,what?
 Dialogue: 0,00:03:05.60,00:03:07.12,Default,,0,0,0,,Hum overestimate one's ability!
-Dialogue: 0,00:03:10.96,00:03:12.00,Default,,0,0,0,,-Princess Haoyue? -Princess Haoyue?
+Dialogue: 0,00:03:10.96,00:03:12.00,Default,,0,0,0,,-Princess Luna? -Princess Luna?
 Dialogue: 0,00:03:13.20,00:03:14.88,Default,,0,0,0,,Princess, why are you here?
 Dialogue: 0,00:03:20.44,00:03:22.63,Default,,0,0,0,,No one is allowed to approach here
 Dialogue: 0,00:03:23.52,00:03:24.24,Default,,0,0,0,,Let it open
 Dialogue: 0,00:03:25.24,00:03:26.88,Default,,0,0,0,,If the dark energy is revealed
 Dialogue: 0,00:03:27.00,00:03:28.91,Default,,0,0,0,,It will cause disaster in the cat country
-Dialogue: 0,00:03:29.32,00:03:31.13,Default,,0,0,0,,Please understand Princess Haoyue
+Dialogue: 0,00:03:29.32,00:03:31.13,Default,,0,0,0,,Please understand Princess Luna
 Dialogue: 0,00:03:31.16,00:03:32.36,Default,,0,0,0,,Don't make it difficult for us
 Dialogue: 0,00:03:33.36,00:03:34.12,Default,,0,0,0,,Leave aside!
 Dialogue: 0,00:03:35.16,00:03:35.88,Default,,0,0,0,,ah…
@@ -108,7 +108,7 @@ Dialogue: 0,00:05:15.04,00:05:16.24,Default,,0,0,0,,I have no way to do it, eith
 Dialogue: 0,00:05:16.44,00:05:20.08,Default,,0,0,0,,That's right, our family is so bad
 Dialogue: 0,00:05:20.48,00:05:22.56,Default,,0,0,0,,At that time, I still wanted to defect to tomorrow
 Dialogue: 0,00:05:23.96,00:05:26.44,Default,,0,0,0,,This makes it more likely to get dark energy
-Dialogue: 0,00:05:26.72,00:05:29.17,Default,,0,0,0,,But I didn't expect that she thought I was Haoyue's companion
+Dialogue: 0,00:05:26.72,00:05:29.17,Default,,0,0,0,,But I didn't expect that she thought I was Luna's companion
 Dialogue: 0,00:05:29.20,00:05:30.56,Default,,0,0,0,,I won't let it go
 Dialogue: 0,00:05:31.76,00:05:33.96,Default,,0,0,0,,Want to go back to the palace to get dark energy
 Dialogue: 0,00:05:35.00,00:05:37.68,Default,,0,0,0,,I am just a long time and I
@@ -140,7 +140,7 @@ Dialogue: 0,00:07:37.60,00:07:38.44,Default,,0,0,0,,Very bad!
 Dialogue: 0,00:07:45.20,00:07:47.12,Default,,0,0,0,,Let me go...
 Dialogue: 0,00:07:48.44,00:07:51.04,Default,,0,0,0,,I can't let you release dark energy
 Dialogue: 0,00:07:55.64,00:07:56.36,Default,,0,0,0,,not good...
-Dialogue: 0,00:08:03.92,00:08:05.40,Default,,0,0,0,,Haoyue, you're fine
+Dialogue: 0,00:08:03.92,00:08:05.40,Default,,0,0,0,,Luna, you're fine
 Dialogue: 0,00:08:05.76,00:08:07.68,Default,,0,0,0,,ah…
 Dialogue: 0,00:08:08.68,00:08:11.68,Default,,0,0,0,,You're still worried about yourself
 Dialogue: 0,00:08:12.04,00:08:13.92,Default,,0,0,0,,don't want…
@@ -200,13 +200,13 @@ Dialogue: 0,00:11:21.12,00:11:23.04,Default,,0,0,0,,What…our world?
 Dialogue: 0,00:11:23.88,00:11:25.32,Default,,0,0,0,,Green...grassland?
 Dialogue: 0,00:11:28.60,00:11:30.67,Default,,0,0,0,,Why do you tell us so much?
 Dialogue: 0,00:11:39.60,00:11:41.67,Default,,0,0,0,,You were caught by us on purpose
-Dialogue: 0,00:11:42.32,00:11:44.48,Default,,0,0,0,,Just to delay time for Haoyue…
+Dialogue: 0,00:11:42.32,00:11:44.48,Default,,0,0,0,,Just to delay time for Luna…
 Dialogue: 0,00:11:45.32,00:11:47.40,Default,,0,0,0,,Hahaha…
 Dialogue: 0,00:11:48.76,00:11:50.55,Default,,0,0,0,,You actually discovered it
-Dialogue: 0,00:11:50.72,00:11:52.84,Default,,0,0,0,,Haoyue should be in the secret room
+Dialogue: 0,00:11:50.72,00:11:52.84,Default,,0,0,0,,Luna should be in the secret room
 Dialogue: 0,00:11:53.52,00:11:54.89,Default,,0,0,0,,Hahaha...come
-Dialogue: 0,00:11:54.92,00:11:57.60,Default,,0,0,0,,Let me tell you about my plan with Haoyue again
-Dialogue: 0,00:11:58.36,00:12:00.60,Default,,0,0,0,,Let's go to the secret room to find Haoyue
+Dialogue: 0,00:11:54.92,00:11:57.60,Default,,0,0,0,,Let me tell you about my plan with Luna again
+Dialogue: 0,00:11:58.36,00:12:00.60,Default,,0,0,0,,Let's go to the secret room to find Luna
 Dialogue: 0,00:12:05.36,00:12:06.04,Default,,0,0,0,,Alas
 Dialogue: 0,00:12:16.32,00:12:17.36,Default,,0,0,0,,Levana's Princess
 Dialogue: 0,00:12:19.76,00:12:21.84,Default,,0,0,0,,Princess Levana, you're fine

@@ -14,11 +14,11 @@ Style: Default,Arial,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,00:00:20.09,00:00:21.01,Default,,0,0,0,,Princess Haoyue
+Dialogue: 0,00:00:20.09,00:00:21.01,Default,,0,0,0,,Princess Luna
 Dialogue: 0,00:00:21.37,00:00:24.17,Default,,0,0,0,,You have never said before that there are snowmen residents in the country of Weird Cat
 Dialogue: 0,00:00:24.53,00:00:26.09,Default,,0,0,0,,It's so amazing
 Dialogue: 0,00:00:26.25,00:00:27.69,Default,,0,0,0,,I don't know much, either
-Dialogue: 0,00:00:28.17,00:00:31.37,Default,,0,0,0,,Princess Haoyue Are you Princess Haoyue?
+Dialogue: 0,00:00:28.17,00:00:31.37,Default,,0,0,0,,Princess Luna Are you Princess Luna?
 Dialogue: 0,00:00:31.69,00:00:32.17,Default,,0,0,0,,Yes
 Dialogue: 0,00:00:35.65,00:00:37.05,Default,,0,0,0,,I'm really sorry
 Dialogue: 0,00:00:37.21,00:00:39.93,Default,,0,0,0,,We saw that they looked like Weslie
@@ -27,8 +27,8 @@ Dialogue: 0,00:00:41.97,00:00:44.33,Default,,0,0,0,,I'll do something as unforge
 Dialogue: 0,00:00:45.65,00:00:47.73,Default,,0,0,0,,It seems you don't like Weslie
 Dialogue: 0,00:00:48.45,00:00:50.89,Default,,0,0,0,,We are all caused by Weslie and Goat
 Dialogue: 0,00:00:56.21,00:00:57.65,Default,,0,0,0,,A month ago...
-Dialogue: 0,00:01:05.69,00:01:09.17,Default,,0,0,0,,Hearing that Princess Levana is sending soldiers to capture Princess Haoyue
-Dialogue: 0,00:01:09.65,00:01:12.89,Default,,0,0,0,,It's so too much, we want to protect Princess Haoyue
+Dialogue: 0,00:01:05.69,00:01:09.17,Default,,0,0,0,,Hearing that Princess Levana is sending soldiers to capture Princess Luna
+Dialogue: 0,00:01:09.65,00:01:12.89,Default,,0,0,0,,It's so too much, we want to protect Princess Luna
 Dialogue: 0,00:01:13.57,00:01:14.49,Default,,0,0,0,,right!
 Dialogue: 0,00:01:18.77,00:01:20.21,Default,,0,0,0,,What happened?
 Dialogue: 0,00:01:20.37,00:01:21.85,Default,,0,0,0,,Let's go back to the city to take a look
