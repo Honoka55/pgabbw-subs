@@ -11,6 +11,7 @@ PlayResY: 1080
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+Style: lyrics,Cherry Bomb One,56,&H0030F0FE,&H000000FF,&H0000003D,&H00FFFFFF,0,0,0,0,100,100,0,0,1,6,3,2,13,11,6,1
 
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
@@ -122,7 +123,7 @@ Dialogue: 0,00:07:25.76,00:07:28.56,Default,,0,0,0,,After eating, Dad will come 
 Dialogue: 0,00:07:30.28,00:07:30.57,Default,,0,0,0,,dad
 Dialogue: 0,00:07:30.60,00:07:32.17,Default,,0,0,0,,Let's go, Big Gray Wolf
 Dialogue: 0,00:07:32.20,00:07:33.84,Default,,0,0,0,,Wait for dad
-Dialogue: 0,00:07:42.32,00:07:45.84,Default,,0,0,0,,Don't look at me just a goat (wolf)
+Dialogue: 0,00:07:42.32,00:07:45.84,lyrics,,0,0,0,,Don't look at me just a goat (wolf)
 Dialogue: 0,00:07:49.92,00:07:51.45,Default,,0,0,0,,How did the door open
 Dialogue: 0,00:07:51.47,00:07:53.24,Default,,0,0,0,,Let's go and have a look
 Dialogue: 0,00:08:05.04,00:08:06.04,Default,,0,0,0,,Who is it
